@@ -1,0 +1,188 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Yakamoz S-245",
+  "year": "2022",
+  "ua": "U/A 16+",
+  "match": "47% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "K\u0131van\u00e7 Tatl\u0131tu\u011f, \u00d6zge \u00d6zpirin\u00e7ci, Ertan Saban, Ece \u00c7e\u015fmio\u011flu, Jerry Hoffmann, Ecem Uzun, Meri\u00e7 Aral, Ersin Ar\u0131c\u0131, Onur \u00dcnsal, G\u00fcven Murat Akp\u0131nar, Hakan Sal\u0131nm\u0131\u015f",
+  "cast": "K\u0131van\u00e7 Tatl\u0131tu\u011f, \u00d6zge \u00d6zpirin\u00e7ci, Ertan Saban, Ece \u00c7e\u015fmio\u011flu, Jerry Hoffmann, Ecem Uzun, Meri\u00e7 Aral, Ersin Ar\u0131c\u0131, Onur \u00dcnsal, G\u00fcven Murat Akp\u0131nar, Hakan Sal\u0131nm\u0131\u015f",
+  "genre": "TV Dramas, Turkish, Sci-Fi TV, TV Shows Based on Books, TV Thrillers",
+  "thismovieis": "Suspenseful",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, suicide, mature themes, language, gore",
+  "desc": "After disaster strikes Earth, a marine biologist on a submarine research mission must fight to survive with the crew as a conspiracy comes to light.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81281009",
+      "ep": "7",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81349405",
+      "t": "Episode 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81349406",
+      "t": "Episode 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81349407",
+      "t": "Episode 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81349408",
+      "t": "Episode 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81349409",
+      "t": "Episode 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81349410",
+      "t": "Episode 6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81349411",
+      "t": "Episode 7",
+      "s": "S1",
+      "ep": "E7",
+      "time": "49m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81281009",
+  "lang": [
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81349405",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81098012"
+    },
+    {
+      "id": "81318108"
+    },
+    {
+      "id": "81127080"
+    },
+    {
+      "id": "80177458"
+    },
+    {
+      "id": "80154610"
+    },
+    {
+      "id": "80236236"
+    },
+    {
+      "id": "80171099"
+    },
+    {
+      "id": "81354934"
+    },
+    {
+      "id": "80214497"
+    },
+    {
+      "id": "80993062"
+    }
+  ],
+  "error": null
+}
