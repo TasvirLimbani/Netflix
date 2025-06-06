@@ -1,0 +1,175 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Secrets of Summer",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "79% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Jorge Edelstein",
+  "director": "",
+  "writer": "",
+  "short_cast": "Pilar Pascual, Abril Di Yorio, V\u00edctor Varona, Guido Messina, Giulia Guerrini, Pasquale Di Nuzzo, Luan Brum, Fernando Monzo, Juan Monzo, Mirta M\u00e1rquez, Mariel Percossi, Carlos Contreras, Francisco Bass, Thais Rippel, Agust\u00edn Pardella, Byron Barbieri, Mart\u00edn Tecchi, D\u00e9bora Nishimoto",
+  "cast": "Pilar Pascual, Abril Di Yorio, V\u00edctor Varona, Guido Messina, Giulia Guerrini, Pasquale Di Nuzzo, Luan Brum, Fernando Monzo, Juan Monzo, Mirta M\u00e1rquez, Mariel Percossi, Carlos Contreras, Francisco Bass, Thais Rippel, Agust\u00edn Pardella, Byron Barbieri, Mart\u00edn Tecchi, D\u00e9bora Nishimoto",
+  "genre": "Kids' TV, TV Dramas, Argentinian",
+  "thismovieis": "",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild language",
+  "desc": "A remote Argentine resort revives its wakeboarding competition, drawing in Mexican athlete Steffi, who is determined to uncover a family secret.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81009640",
+      "ep": "11",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81260587",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81592216",
+      "t": "New Management",
+      "s": "S2",
+      "ep": "E1",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81592217",
+      "t": "The Challenge",
+      "s": "S2",
+      "ep": "E2",
+      "time": "35m"
+    },
+    {
+      "complate": "0",
+      "id": "81592218",
+      "t": "Role Reversal",
+      "s": "S2",
+      "ep": "E3",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81592219",
+      "t": "Open Sky",
+      "s": "S2",
+      "ep": "E4",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "81592220",
+      "t": "Leaving!",
+      "s": "S2",
+      "ep": "E5",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "81592221",
+      "t": "All or Nothing",
+      "s": "S2",
+      "ep": "E6",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81592222",
+      "t": "Girls Jam!",
+      "s": "S2",
+      "ep": "E7",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "81592223",
+      "t": "Now or Never",
+      "s": "S2",
+      "ep": "E8",
+      "time": "40m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81260587",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81592216",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81162089"
+    },
+    {
+      "id": "81289456"
+    },
+    {
+      "id": "80095435"
+    },
+    {
+      "id": "81209537"
+    },
+    {
+      "id": "80230534"
+    },
+    {
+      "id": "80245601"
+    },
+    {
+      "id": "81005407"
+    },
+    {
+      "id": "80134695"
+    },
+    {
+      "id": "80994277"
+    }
+  ],
+  "error": null
+}
