@@ -1,0 +1,172 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Parasyte: The Maxim",
+  "year": "2014",
+  "ua": "U/A 18+ [A]",
+  "match": "32% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Nobunaga Shimazaki, Aya Hirano, Kana Hanazawa, Kiyono Yasuno, Rena Maeda, Miyuki Sawashiro, Hiroyuki Yoshino, Atsuko Tanaka",
+  "cast": "Nobunaga Shimazaki, Aya Hirano, Kana Hanazawa, Kiyono Yasuno, Rena Maeda, Miyuki Sawashiro, Hiroyuki Yoshino, Atsuko Tanaka",
+  "genre": "Sci-Fi & Fantasy Anime, Japanese, Anime Series, Horror Anime, Seinen Anime, Horror TV Serials, TV Shows Based on Manga",
+  "thismovieis": "Scary",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, gore",
+  "desc": "A teenager battles an onslaught of parasites from space with help from Migi, a docile parasitic creature that's taken over his right hand.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "80191009",
+      "ep": "24",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80190958",
+      "t": "The Metamorphosis",
+      "s": "S1",
+      "ep": "E1",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80190959",
+      "t": "The Devil in the Flesh",
+      "s": "S1",
+      "ep": "E2",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80190960",
+      "t": "Symposium",
+      "s": "S1",
+      "ep": "E3",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80190961",
+      "t": "Tangled Hair",
+      "s": "S1",
+      "ep": "E4",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80190962",
+      "t": "The Stranger",
+      "s": "S1",
+      "ep": "E5",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80190963",
+      "t": "The Sun Also Rises",
+      "s": "S1",
+      "ep": "E6",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80190964",
+      "t": "A Dark Night's Passing",
+      "s": "S1",
+      "ep": "E7",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80190965",
+      "t": "Freezing Point",
+      "s": "S1",
+      "ep": "E8",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80190966",
+      "t": "Beyond Good and Evil",
+      "s": "S1",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80190967",
+      "t": "What Mad Universe",
+      "s": "S1",
+      "ep": "E10",
+      "time": "22m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80191009",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "80190958",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81194158"
+    },
+    {
+      "id": "70204970"
+    },
+    {
+      "id": "81177634"
+    },
+    {
+      "id": "81215627"
+    },
+    {
+      "id": "80117291"
+    },
+    {
+      "id": "81061734"
+    },
+    {
+      "id": "80174974"
+    },
+    {
+      "id": "81261227"
+    },
+    {
+      "id": "81091393"
+    },
+    {
+      "id": "81256675"
+    }
+  ],
+  "error": null
+}
