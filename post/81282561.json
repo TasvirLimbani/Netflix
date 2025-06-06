@@ -1,0 +1,162 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Savage Beauty",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "70% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Lebogang Mogashoa",
+  "director": "",
+  "writer": "",
+  "short_cast": "Rosemary Zimu, Jesse Suntele, Dumisani Mbebe, Nthati Moshesh, Nambitha Ben-Mazwi, Angela Sithole, Tony Kgoroge, Lebogang Fisher, Oros Mampofu",
+  "cast": "Rosemary Zimu, Jesse Suntele, Dumisani Mbebe, Nthati Moshesh, Nambitha Ben-Mazwi, Angela Sithole, Tony Kgoroge, Lebogang Fisher, Oros Mampofu",
+  "genre": "TV Dramas, South African, Social Issue TV Dramas",
+  "thismovieis": "Emotional",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "tobacco use, substances, sex, nudity, language",
+  "desc": "Seeking revenge for her tragic past, a mysterious woman embeds herself in a powerful family who possess a global beauty empire \u2014 and dark secrets.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81282562",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81318115",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81623172",
+      "t": "Episode 1",
+      "s": "S2",
+      "ep": "E1",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81623173",
+      "t": "Episode 2",
+      "s": "S2",
+      "ep": "E2",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81623174",
+      "t": "Episode 3",
+      "s": "S2",
+      "ep": "E3",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81623175",
+      "t": "Episode 4",
+      "s": "S2",
+      "ep": "E4",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81623176",
+      "t": "Episode 5",
+      "s": "S2",
+      "ep": "E5",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81623177",
+      "t": "Episode 6",
+      "s": "S2",
+      "ep": "E6",
+      "time": "51m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81318115",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81623172",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81478629"
+    },
+    {
+      "id": "81612858"
+    },
+    {
+      "id": "81300126"
+    },
+    {
+      "id": "81556148"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "81730920"
+    },
+    {
+      "id": "81316476"
+    },
+    {
+      "id": "81462490"
+    },
+    {
+      "id": "81577005"
+    }
+  ],
+  "error": null
+}
