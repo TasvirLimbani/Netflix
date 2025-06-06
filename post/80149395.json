@@ -1,0 +1,183 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Alienist",
+  "year": "2018",
+  "ua": "U/A 18+ [A]",
+  "match": "53% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Daniel Br\u00fchl, Luke Evans, Dakota Fanning, Brian Geraghty, Robert Wisdom, Douglas Smith, Matthew Shear, Q'orianka Kilcher, Matt Lintz",
+  "cast": "Daniel Br\u00fchl, Luke Evans, Dakota Fanning, Brian Geraghty, Robert Wisdom, Douglas Smith, Matthew Shear, Q'orianka Kilcher, Matt Lintz",
+  "genre": "TV Dramas, TV Shows Based on Books, TV Mysteries, Period Pieces, Crime TV Shows, US TV Shows, TV Thrillers",
+  "thismovieis": "Dark, Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide, self-harm, nudity",
+  "desc": "In 1896 New York City, psychologist Laszlo Kreizler is enlisted by Police Commissioner Theodore Roosevelt to catch a killer preying on homeless boys.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80149493",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80227427",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80227256",
+      "t": "Ex Ore Infantium",
+      "s": "S2",
+      "ep": "E1",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81247797",
+      "t": "Something Wicked",
+      "s": "S2",
+      "ep": "E2",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81247798",
+      "t": "Labyrinth",
+      "s": "S2",
+      "ep": "E3",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81247799",
+      "t": "Gilded Cage",
+      "s": "S2",
+      "ep": "E4",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81247800",
+      "t": "Belly of the Beast",
+      "s": "S2",
+      "ep": "E5",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81247801",
+      "t": "Memento Mori",
+      "s": "S2",
+      "ep": "E6",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81247802",
+      "t": "Last Exit to Brooklyn",
+      "s": "S2",
+      "ep": "E7",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81247803",
+      "t": "Better Angels",
+      "s": "S2",
+      "ep": "E8",
+      "time": "55m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80227427",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80227256",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80119411"
+    },
+    {
+      "id": "80241581"
+    },
+    {
+      "id": "80209184"
+    },
+    {
+      "id": "81414644"
+    },
+    {
+      "id": "81444818"
+    },
+    {
+      "id": "80114855"
+    },
+    {
+      "id": "81332052"
+    },
+    {
+      "id": "80214497"
+    },
+    {
+      "id": "80175802"
+    }
+  ],
+  "error": null
+}
