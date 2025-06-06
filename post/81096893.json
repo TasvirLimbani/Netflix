@@ -1,0 +1,139 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Brown and Friends",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "77% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Kids' TV, Korean, TV Comedies, TV Cartoons",
+  "thismovieis": "Quirky, Feel-Good",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence",
+  "desc": "In a cozy little neighborhood coffee shop, a group of fun-loving friends get together \u2014 and get up to all kinds of adventures.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81239713",
+      "ep": "18",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81297117",
+      "t": "I Like You a Latte / Passion of Edward / Spicy Noodles",
+      "s": "S1",
+      "ep": "E1",
+      "time": "12m"
+    },
+    {
+      "complate": "0",
+      "id": "81297118",
+      "t": "James the Party Animal / Silent But Deadly / Spaghetti from the Other Side",
+      "s": "S1",
+      "ep": "E2",
+      "time": "12m"
+    },
+    {
+      "complate": "0",
+      "id": "81297119",
+      "t": "Brown I Shrunk the Friends / Elevator / Dodgeball",
+      "s": "S1",
+      "ep": "E3",
+      "time": "12m"
+    },
+    {
+      "complate": "0",
+      "id": "81297120",
+      "t": "Close Encounters of the First Kind / Cony the Babysitter / Manic Moon Day",
+      "s": "S1",
+      "ep": "E4",
+      "time": "12m"
+    },
+    {
+      "complate": "0",
+      "id": "81297121",
+      "t": "Little Bouquet of Horrors / Brown and Swole / Freeze Frame",
+      "s": "S1",
+      "ep": "E5",
+      "time": "12m"
+    },
+    {
+      "complate": "0",
+      "id": "81297122",
+      "t": "Full Moon",
+      "s": "S1",
+      "ep": "E6",
+      "time": "13m"
+    },
+    {
+      "complate": "0",
+      "id": "81297123",
+      "t": "Three's a Crowd / Witch Switch / Game Night",
+      "s": "S1",
+      "ep": "E7",
+      "time": "12m"
+    },
+    {
+      "complate": "0",
+      "id": "81297124",
+      "t": "Why the Frown, Brown? / Keep Calm and Yoga On / The Superstar and the Barista",
+      "s": "S1",
+      "ep": "E8",
+      "time": "12m"
+    },
+    {
+      "complate": "0",
+      "id": "81297125",
+      "t": "Kung-Fu Karaoke / When Leonard Met Sally / Drip Drip Drop",
+      "s": "S1",
+      "ep": "E9",
+      "time": "13m"
+    },
+    {
+      "complate": "0",
+      "id": "81297126",
+      "t": "Luchador Next Door / Copy, Paste, Repeat / Mr. Ice Guy",
+      "s": "S1",
+      "ep": "E10",
+      "time": "12m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81239713",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81297117",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80158156"
+    },
+    {
+      "id": "81699964"
+    },
+    {
+      "id": "81004016"
+    }
+  ],
+  "error": null
+}
