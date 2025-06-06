@@ -1,0 +1,134 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "House of Secrets: The Burari Deaths",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "94% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Leena Yadav",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Historical Documentaries, Crime TV Shows, Docuseries, Hindi-Language TV Shows, True Crime Documentaries",
+  "thismovieis": "Investigative, Dark",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide, disturbing images",
+  "desc": "Suicide, murder... or something else? This docuseries examines chilling truths and theories around the deaths of 11 members of a Delhi family.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81232221",
+      "ep": "3",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81240752",
+      "t": "11 Bodies",
+      "s": "S1",
+      "ep": "E1",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81240753",
+      "t": "11 Diaries",
+      "s": "S1",
+      "ep": "E2",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81240754",
+      "t": "Beyond 11",
+      "s": "S1",
+      "ep": "E3",
+      "time": "47m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81232221",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    }
+  ],
+  "last_ep": "81240752",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81564452"
+    },
+    {
+      "id": "81252894"
+    },
+    {
+      "id": "81610577"
+    },
+    {
+      "id": "81384842"
+    },
+    {
+      "id": "81000068"
+    },
+    {
+      "id": "81150989"
+    },
+    {
+      "id": "81111279"
+    },
+    {
+      "id": "80990073"
+    },
+    {
+      "id": "81307163"
+    },
+    {
+      "id": "81586385"
+    },
+    {
+      "id": "81130130"
+    },
+    {
+      "id": "81512107"
+    }
+  ],
+  "error": null
+}
