@@ -1,0 +1,279 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Geek Girl",
+  "year": "2024",
+  "ua": "U/A 7+",
+  "match": "56% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Holly Smale, Jessica Ruston",
+  "director": "",
+  "writer": "",
+  "short_cast": "Emily Carey, Emmanuel Imani, Liam Woodrum, Tim Downie, Jemima Rooper, James Murray, Sarah Parish, Rochelle Harrington, Zac Looker, Daisy Jelley, Mia Jenkins, Hebe Beardsall, Alana Boden",
+  "cast": "Emily Carey, Emmanuel Imani, Liam Woodrum, Tim Downie, Jemima Rooper, James Murray, Sarah Parish, Rochelle Harrington, Zac Looker, Daisy Jelley, Mia Jenkins, Hebe Beardsall, Alana Boden",
+  "genre": "Family Time TV, TV Dramas, British, Teen TV Shows, TV Comedies",
+  "thismovieis": "Quirky, Feel-Good, Heartfelt",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild themes",
+  "desc": "Awkward teen Harriet has always wanted to fit in. Until she gets scouted by a top London model agent and learns that some people are meant to stand out.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81637843",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81692745",
+      "t": "Chapter 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81692746",
+      "t": "Chapter 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "35m"
+    },
+    {
+      "complate": "0",
+      "id": "81692747",
+      "t": "Chapter 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81692748",
+      "t": "Chapter 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "81692749",
+      "t": "Chapter 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "34m"
+    },
+    {
+      "complate": "0",
+      "id": "81692750",
+      "t": "Chapter 6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "81692751",
+      "t": "Chapter 7",
+      "s": "S1",
+      "ep": "E7",
+      "time": "32m"
+    },
+    {
+      "complate": "0",
+      "id": "81692752",
+      "t": "Chapter 8",
+      "s": "S1",
+      "ep": "E8",
+      "time": "37m"
+    },
+    {
+      "complate": "0",
+      "id": "81692753",
+      "t": "Chapter 9",
+      "s": "S1",
+      "ep": "E9",
+      "time": "35m"
+    },
+    {
+      "complate": "0",
+      "id": "81692754",
+      "t": "Chapter 10",
+      "s": "S1",
+      "ep": "E10",
+      "time": "37m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81637843",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "",
+      "s": ""
+    }
+  ],
+  "last_ep": "81692745",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81002412"
+    },
+    {
+      "id": "81557682"
+    },
+    {
+      "id": "81209537"
+    },
+    {
+      "id": "80095435"
+    },
+    {
+      "id": "81194110"
+    },
+    {
+      "id": "81568357"
+    },
+    {
+      "id": "80239019"
+    },
+    {
+      "id": "80245601"
+    },
+    {
+      "id": "81032078"
+    },
+    {
+      "id": "81056195"
+    },
+    {
+      "id": "81426967"
+    }
+  ],
+  "error": null
+}
