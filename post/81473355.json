@@ -1,0 +1,154 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Nurse",
+  "year": "2023",
+  "ua": "U/A 16+",
+  "match": "82% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Fanny Bernth, Josephine Park, Peter Zandersen",
+  "cast": "Fanny Bernth, Josephine Park, Peter Zandersen",
+  "genre": "Medical TV Shows, TV Dramas, Danish, TV Shows Based on Books, Crime TV Shows, Scandinavian TV Shows, TV Thrillers, TV Shows Based on Real Life",
+  "thismovieis": "Intimate, Suspenseful",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "suicide, substances, mature themes",
+  "desc": "A new nurse at a hospital begins to suspect her colleague's desire for attention may be tied to a series of patient deaths. Based on a true story.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81473356",
+      "ep": "4",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81486105",
+      "t": "I Will Survive",
+      "s": "S1",
+      "ep": "E1",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81486106",
+      "t": "Dream Team",
+      "s": "S1",
+      "ep": "E2",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81486107",
+      "t": "So Take My Heart",
+      "s": "S1",
+      "ep": "E3",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81486108",
+      "t": "The Night Shift",
+      "s": "S1",
+      "ep": "E4",
+      "time": "43m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81473356",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81486105",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81260083"
+    },
+    {
+      "id": "80153467"
+    },
+    {
+      "id": "81416676"
+    },
+    {
+      "id": "81394937"
+    },
+    {
+      "id": "81513233"
+    },
+    {
+      "id": "80213445"
+    },
+    {
+      "id": "81306170"
+    },
+    {
+      "id": "81380441"
+    }
+  ],
+  "error": null
+}
