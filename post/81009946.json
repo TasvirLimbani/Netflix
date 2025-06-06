@@ -1,0 +1,288 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Gabby's Dollhouse",
+  "year": "2021",
+  "ua": "U",
+  "match": "63% match",
+  "runtime": "10 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Traci Paige Johnson, Jennifer Twomey",
+  "director": "",
+  "writer": "",
+  "short_cast": "Laila Lockhart Kraner, Tucker Chandler, Juliet Donenfeld, Donovan Patton, Maggie Lowe, Sainty Nelsen, Eduardo Franco, Tara Strong, Secunda Wood, Carla Tassara",
+  "cast": "Laila Lockhart Kraner, Tucker Chandler, Juliet Donenfeld, Donovan Patton, Maggie Lowe, Sainty Nelsen, Eduardo Franco, Tara Strong, Secunda Wood, Carla Tassara",
+  "genre": "Kids' TV, Kids Music, Education for Kids, TV Cartoons",
+  "thismovieis": "Imaginative, Feel-Good",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "Cute cats, quirky crafts and colorful magic! Join kitty enthusiast Gabby and her sidekick Pandy Paws as they team up for a series of animated adventures.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81022687",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81052771",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81063500",
+      "ep": "7",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "81063501",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "81331429",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "6",
+      "id": "81552461",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "7",
+      "id": "81586952",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "8",
+      "id": "81586953",
+      "ep": "7",
+      "sele": " selected"
+    },
+    {
+      "s": "9",
+      "id": "81677434",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "10",
+      "id": "81686558",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "11",
+      "id": "81686559",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81688075",
+      "t": "Kitty Care Ear",
+      "s": "S11",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81688081",
+      "t": "Benny's First Tooth",
+      "s": "S11",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81599062",
+      "t": "Happy Kitty-tine's Day!",
+      "s": "S11",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81688079",
+      "t": "Baby Alien Kitty",
+      "s": "S11",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81688082",
+      "t": "Pillow Cat Can't Sleep",
+      "s": "S11",
+      "ep": "E5",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81688072",
+      "t": "Family Day",
+      "s": "S11",
+      "ep": "E6",
+      "time": "24m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81686559",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81688075",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81260654"
+    },
+    {
+      "id": "80222411"
+    },
+    {
+      "id": "81236197"
+    },
+    {
+      "id": "80025494"
+    },
+    {
+      "id": "81699964"
+    },
+    {
+      "id": "70294800"
+    }
+  ],
+  "error": null
+}
