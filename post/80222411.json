@@ -1,0 +1,257 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Princess Power",
+  "year": "2023",
+  "ua": "U",
+  "match": "63% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Trinity Jo-Li Bliss, Dana Heath, Luna Bella Zamora, Madison Calderon, Andrew Rannells, Tan France, Rita Moreno, Alanna Ubach",
+  "cast": "Trinity Jo-Li Bliss, Dana Heath, Luna Bella Zamora, Madison Calderon, Andrew Rannells, Tan France, Rita Moreno, Alanna Ubach",
+  "genre": "Kids' TV, TV Shows Based on Books, TV Comedies, TV Cartoons",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "Princess friends from four different Fruitdoms \u2014 Blueberry, Kiwi, Pineapple and Raspberry \u2014 spring into action to make their worlds a better place.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81088870",
+      "ep": "14",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81260091",
+      "ep": "20",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81380554",
+      "ep": "11",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81387835",
+      "t": "Four-Fruitdom Princess Coronation",
+      "s": "S3",
+      "ep": "E1",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "81387833",
+      "t": "Princess Camp Out Stake Out",
+      "s": "S3",
+      "ep": "E2",
+      "time": "14m"
+    },
+    {
+      "complate": "0",
+      "id": "81387838",
+      "t": "Princess Pie Surprise",
+      "s": "S3",
+      "ep": "E3",
+      "time": "14m"
+    },
+    {
+      "complate": "0",
+      "id": "81387837",
+      "t": "Princess Babysitters Club",
+      "s": "S3",
+      "ep": "E4",
+      "time": "14m"
+    },
+    {
+      "complate": "0",
+      "id": "81483789",
+      "t": "Princess Royal Wedding",
+      "s": "S3",
+      "ep": "E5",
+      "time": "34m"
+    },
+    {
+      "complate": "0",
+      "id": "81483790",
+      "t": "Princess Eco-Chase",
+      "s": "S3",
+      "ep": "E6",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81483791",
+      "t": "Princess Nest Pest",
+      "s": "S3",
+      "ep": "E7",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81483792",
+      "t": "Princess Bridge Over Troubled Water",
+      "s": "S3",
+      "ep": "E8",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81483793",
+      "t": "The Princesses and the Beanstalk",
+      "s": "S3",
+      "ep": "E9",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81483794",
+      "t": "Princess Friends Un-Forever",
+      "s": "S3",
+      "ep": "E10",
+      "time": "25m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81380554",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "",
+      "s": ""
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "Filipino (Tagalog)",
+      "s": "fil"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "",
+      "s": ""
+    }
+  ],
+  "last_ep": "81387835",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81136524"
+    },
+    {
+      "id": "81607651"
+    },
+    {
+      "id": "81009946"
+    },
+    {
+      "id": "70294800"
+    },
+    {
+      "id": "81296783"
+    }
+  ],
+  "error": null
+}
