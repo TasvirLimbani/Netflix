@@ -1,0 +1,171 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "How to Become a Tyrant",
+  "year": "2021",
+  "ua": "U/A 16+",
+  "match": "43% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Peter Dinklage",
+  "cast": "Peter Dinklage",
+  "genre": "Political TV Shows, Political Documentaries, Military Documentaries, Docuseries, US TV Shows",
+  "thismovieis": "Dark",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, tobacco use, disturbing images",
+  "desc": "Ruling with an iron fist requires an aspiring dictator to know the playbook for absolute power, as history's despots prove in this sardonic docuseries.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81017517",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81083002",
+      "t": "Seize Power",
+      "s": "S1",
+      "ep": "E1",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81083003",
+      "t": "Crush Your Rivals",
+      "s": "S1",
+      "ep": "E2",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81083004",
+      "t": "Reign Through Terror",
+      "s": "S1",
+      "ep": "E3",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81083005",
+      "t": "Control the Truth",
+      "s": "S1",
+      "ep": "E4",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81083006",
+      "t": "Create a New Society",
+      "s": "S1",
+      "ep": "E5",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81083007",
+      "t": "Rule Forever",
+      "s": "S1",
+      "ep": "E6",
+      "time": "29m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81017517",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81083002",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81596971"
+    },
+    {
+      "id": "80106791"
+    },
+    {
+      "id": "81596972"
+    },
+    {
+      "id": "81561941"
+    },
+    {
+      "id": "81303911"
+    },
+    {
+      "id": "80138915"
+    },
+    {
+      "id": "80989924"
+    },
+    {
+      "id": "81474469"
+    },
+    {
+      "id": "81474104"
+    },
+    {
+      "id": "81614129"
+    },
+    {
+      "id": "81488464"
+    }
+  ],
+  "error": null
+}
