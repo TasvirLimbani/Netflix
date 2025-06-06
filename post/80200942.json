@@ -1,0 +1,218 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Elite",
+  "year": "2018",
+  "ua": "U/A 18+ [A]",
+  "match": "32% match",
+  "runtime": "8 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Carlos Montero, Dar\u00edo Madrona",
+  "director": "",
+  "writer": "",
+  "short_cast": "Itzan Escamilla, Omar Ayuso, Miguel Bernardeau, Danna Paola, Ar\u00f3n Piper, Claudia Salas, Georgina Amor\u00f3s, \u00c1lvaro Rico, Ester Exp\u00f3sito, Manu R\u00edos, Carla D\u00edaz, Martina Cariddi, Mina El Hammani, Jorge L\u00f3pez, Mar\u00eda Pedraza, Miguel Herr\u00e1n, Valentina Zenere, Andr\u00e9 Lamoglia, Jaime Lorente, Le\u00efti S\u00e8ne, Sergio Momo, Pol Granch, Diego Mart\u00edn, Carloto Cotta, Andr\u00e9s Velencoso, Ander Puig, Carmen Arrufat, \u00c1lex Pastrana, \u00c1lvaro de Juana, Adam Nourou, Nadia Al Saidi, Ana Bokesa, Guillermo Campra, Ignacio Carrascal, Marc Bonnin, Fernando Lindez, Mirela Bali\u0107, Gleb Abrosimov, Iv\u00e1n Mendes, Maribel Verd\u00fa, Nuno Gallego, Ane Rot, Alejandro Albarrac\u00edn, Godeliv Van den Brandt",
+  "cast": "Itzan Escamilla, Omar Ayuso, Miguel Bernardeau, Danna Paola, Ar\u00f3n Piper, Claudia Salas, Georgina Amor\u00f3s, \u00c1lvaro Rico, Ester Exp\u00f3sito, Manu R\u00edos, Carla D\u00edaz, Martina Cariddi, Mina El Hammani, Jorge L\u00f3pez, Mar\u00eda Pedraza, Miguel Herr\u00e1n, Valentina Zenere, Andr\u00e9 Lamoglia, Jaime Lorente, Le\u00efti S\u00e8ne, Sergio Momo, Pol Granch, Diego Mart\u00edn, Carloto Cotta, Andr\u00e9s Velencoso, Ander Puig, Carmen Arrufat, \u00c1lex Pastrana, \u00c1lvaro de Juana, Adam Nourou, Nadia Al Saidi, Ana Bokesa, Guillermo Campra, Ignacio Carrascal, Marc Bonnin, Fernando Lindez, Mirela Bali\u0107, Gleb Abrosimov, Iv\u00e1n Mendes, Maribel Verd\u00fa, Nuno Gallego, Ane Rot, Alejandro Albarrac\u00edn, Godeliv Van den Brandt",
+  "genre": "TV Dramas, Spanish, Teen TV Shows, TV Mysteries, TV Thrillers",
+  "thismovieis": "Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, suicide, substances, sexual violence, sex, self-harm, nudity, language",
+  "desc": "When three working-class teens enroll in an exclusive private school in Spain, the clash between them and the wealthy students leads to murder.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80201129",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80994932",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80994933",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "81093770",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "81155799",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "6",
+      "id": "81478034",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "7",
+      "id": "81588713",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "8",
+      "id": "81675496",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81692309",
+      "t": "Alumni",
+      "s": "S8",
+      "ep": "E1",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81692310",
+      "t": "To the Edge",
+      "s": "S8",
+      "ep": "E2",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81692311",
+      "t": "Combustion",
+      "s": "S8",
+      "ep": "E3",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81692312",
+      "t": "I Belong to No One",
+      "s": "S8",
+      "ep": "E4",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81692313",
+      "t": "The Last Night",
+      "s": "S8",
+      "ep": "E5",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81692314",
+      "t": "Guilty",
+      "s": "S8",
+      "ep": "E6",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81692315",
+      "t": "Like Siblings",
+      "s": "S8",
+      "ep": "E7",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81692316",
+      "t": "End of Term",
+      "s": "S8",
+      "ep": "E8",
+      "time": "56m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81675496",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81692309",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81210762"
+    },
+    {
+      "id": "81229406"
+    },
+    {
+      "id": "80197526"
+    },
+    {
+      "id": "80133311"
+    },
+    {
+      "id": "80211991"
+    },
+    {
+      "id": "81690671"
+    }
+  ],
+  "error": null
+}
