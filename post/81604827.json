@@ -1,0 +1,140 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Mermaze Mermaidz",
+  "year": "2022",
+  "ua": "U",
+  "match": "91% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Danna Darma",
+  "director": "",
+  "writer": "",
+  "short_cast": "Brenna Larsen, Alexis Peggle, Stephanie Sheh, Sasha Sloan, Jeannie Tirado",
+  "cast": "Brenna Larsen, Alexis Peggle, Stephanie Sheh, Sasha Sloan, Jeannie Tirado",
+  "genre": "Kids' TV, TV Cartoons",
+  "thismovieis": "",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "When Mystic City loses its magical shimmer, five mermaid besties must use their fabulous talents and color-changing powers to save their beloved home.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81670792",
+      "ep": "5",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81670793",
+      "t": "Part 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "18m"
+    },
+    {
+      "complate": "0",
+      "id": "81670794",
+      "t": "Part 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81670795",
+      "t": "Part 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81670796",
+      "t": "Part 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81671899",
+      "t": "Part 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "14m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81670792",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81670793",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81607651"
+    },
+    {
+      "id": "81445141"
+    },
+    {
+      "id": "81607695"
+    },
+    {
+      "id": "81604831"
+    },
+    {
+      "id": "81279322"
+    },
+    {
+      "id": "80192815"
+    }
+  ],
+  "error": null
+}
