@@ -1,0 +1,183 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Greenhouse Academy",
+  "year": "2017",
+  "ua": "U/A 7+",
+  "match": "38% match",
+  "runtime": "4 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Giora Chamizer",
+  "director": "",
+  "writer": "",
+  "short_cast": "Ariel Mortman, Finn Roberts, Chris O'Neal, Dallas Hart, Cinthya Carmona, Grace Van Dien, Benjamin Papac, Jessica Amlee, BJ Mitchell, Aviv Buchler, Nadine Ellis, Yiftach Mizrahi, Parker Stevenson, Ishai Golan, Selina Giles, Reina Hardesty, Danika Yarosh, Dana Melanie, Amit Yagur",
+  "cast": "Ariel Mortman, Finn Roberts, Chris O'Neal, Dallas Hart, Cinthya Carmona, Grace Van Dien, Benjamin Papac, Jessica Amlee, BJ Mitchell, Aviv Buchler, Nadine Ellis, Yiftach Mizrahi, Parker Stevenson, Ishai Golan, Selina Giles, Reina Hardesty, Danika Yarosh, Dana Melanie, Amit Yagur",
+  "genre": "Kids' TV, TV Dramas, Teen TV Shows",
+  "thismovieis": "",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild themes, mild language, mild fear",
+  "desc": "When teen siblings Hayley and Alex enter an elite boarding school, they find rivalry, romance and a mystery related to the recent loss of their mom.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80095242",
+      "ep": "12",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80127763",
+      "ep": "12",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81037971",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "81038171",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81037980",
+      "t": "Rock by Rock",
+      "s": "S4",
+      "ep": "E1",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81037981",
+      "t": "The Quick One",
+      "s": "S4",
+      "ep": "E2",
+      "time": "20m"
+    },
+    {
+      "complate": "0",
+      "id": "81037982",
+      "t": "A Not Totally Bad Person",
+      "s": "S4",
+      "ep": "E3",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81037983",
+      "t": "Gummy Bears",
+      "s": "S4",
+      "ep": "E4",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81038173",
+      "t": "Cortinarius Orellanus",
+      "s": "S4",
+      "ep": "E5",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81038174",
+      "t": "Hundred Percent",
+      "s": "S4",
+      "ep": "E6",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81038175",
+      "t": "Room 205",
+      "s": "S4",
+      "ep": "E7",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81038176",
+      "t": "The Client",
+      "s": "S4",
+      "ep": "E8",
+      "time": "23m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81038171",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81037980",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80222326"
+    },
+    {
+      "id": "81289456"
+    },
+    {
+      "id": "80220644"
+    },
+    {
+      "id": "80230534"
+    },
+    {
+      "id": "80244332"
+    },
+    {
+      "id": "81037539"
+    },
+    {
+      "id": "81005407"
+    },
+    {
+      "id": "80231658"
+    },
+    {
+      "id": "81335124"
+    }
+  ],
+  "error": null
+}
