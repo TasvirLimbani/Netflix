@@ -1,0 +1,75 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Mad Max: Fury Road",
+  "year": "2015",
+  "ua": "U/A 16+",
+  "match": "72% match",
+  "runtime": "2h 0m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "George Miller",
+  "writer": "George Miller, Brendan McCarthy, Nick Lathouris",
+  "short_cast": "Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne, Josh Helman, Nathan Jones, Zo\u00eb Kravitz, Rosie Huntington-Whiteley, Riley Keough, Abbey Lee",
+  "cast": "Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne, Josh Helman, Nathan Jones, Zo\u00eb Kravitz, Rosie Huntington-Whiteley, Riley Keough, Abbey Lee",
+  "genre": "Australian, Sci-Fi Movies, Action & Adventure",
+  "thismovieis": "Adrenaline Rush",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, gore",
+  "desc": "In a post-apocalyptic wasteland, Max helps a rebellious woman and a band of female prisoners flee from tyranny, fend off threats and seek their homeland.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70060015"
+    },
+    {
+      "id": "81199139"
+    },
+    {
+      "id": "70075481"
+    },
+    {
+      "id": "70056440"
+    },
+    {
+      "id": "70097578"
+    },
+    {
+      "id": "70269488"
+    },
+    {
+      "id": "81183713"
+    },
+    {
+      "id": "80987626"
+    },
+    {
+      "id": "81267307"
+    },
+    {
+      "id": "70298735"
+    },
+    {
+      "id": "80093133"
+    },
+    {
+      "id": "80133543"
+    }
+  ],
+  "error": null
+}
