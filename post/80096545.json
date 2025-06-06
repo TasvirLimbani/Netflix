@@ -1,0 +1,159 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Roman Empire",
+  "year": "2016",
+  "ua": "U/A 18+ [A]",
+  "match": "49% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Sean Bean, Aaron Jakubenko, Edwin Wright, Mike Edward, Genevieve Aitken, John Bach, Steve West, Ditch Davey, Tim Carlsen, Natalie Medlock, Ben Black, Stephen Lovatt, Ido Drent, Craig Walsh-Wrightson, Kelson Henderson, Colin Moy, Teressa Liane",
+  "cast": "Sean Bean, Aaron Jakubenko, Edwin Wright, Mike Edward, Genevieve Aitken, John Bach, Steve West, Ditch Davey, Tim Carlsen, Natalie Medlock, Ben Black, Stephen Lovatt, Ido Drent, Craig Walsh-Wrightson, Kelson Henderson, Colin Moy, Teressa Liane",
+  "genre": "TV Dramas, Historical Documentaries, Docuseries, Social & Cultural Docs, US TV Shows, Docudramas",
+  "thismovieis": "Provocative, Gritty, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, sex, nudity",
+  "desc": "This stylish mix of documentary and lavish historical epic chronicles the turbulent, violent reigns of Commodus, Julius Caesar and Caligula.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80095961",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80191194",
+      "ep": "5",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80990876",
+      "ep": "4",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80191300",
+      "t": "The Rightful Heir",
+      "s": "S3",
+      "ep": "E1",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80191301",
+      "t": "A New Hope",
+      "s": "S3",
+      "ep": "E2",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "80191302",
+      "t": "In Search of an Heir",
+      "s": "S3",
+      "ep": "E3",
+      "time": "38m"
+    },
+    {
+      "complate": "0",
+      "id": "80191303",
+      "t": "Descent into Madness",
+      "s": "S3",
+      "ep": "E4",
+      "time": "40m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80990876",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80191300",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "80990771"
+    },
+    {
+      "id": "81325194"
+    },
+    {
+      "id": "81230204"
+    },
+    {
+      "id": "80175352"
+    },
+    {
+      "id": "81024039"
+    },
+    {
+      "id": "80182016"
+    },
+    {
+      "id": "80211648"
+    },
+    {
+      "id": "70305883"
+    },
+    {
+      "id": "81341795"
+    },
+    {
+      "id": "80190859"
+    }
+  ],
+  "error": null
+}
