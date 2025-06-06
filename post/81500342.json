@@ -1,0 +1,292 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Boss Baby: Back in the Crib",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "48% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "JP Karliak, Mary Faber, Nicole Byer, Zeke Alton, Ariana Greenblatt",
+  "cast": "JP Karliak, Mary Faber, Nicole Byer, Zeke Alton, Ariana Greenblatt",
+  "genre": "Kids' TV, Family Watch Together TV, TV Shows Based on Books, TV Comedies, TV Cartoons",
+  "thismovieis": "",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language",
+  "desc": "Framed for a corporate crime, an adult Ted Templeton turns back into the Boss Baby to live undercover with his brother, Tim, posing as one of his kids.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81500343",
+      "ep": "12",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81520151",
+      "ep": "16",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81521033",
+      "t": "Untitled Templeton Project",
+      "s": "S2",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81521034",
+      "t": "Puppy Love",
+      "s": "S2",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81521035",
+      "t": "Biscuits Rising",
+      "s": "S2",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81521036",
+      "t": "Moon Shot",
+      "s": "S2",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81521037",
+      "t": "Inner Children",
+      "s": "S2",
+      "ep": "E5",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81521038",
+      "t": "Poompf!",
+      "s": "S2",
+      "ep": "E6",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81521039",
+      "t": "The Heat Is On",
+      "s": "S2",
+      "ep": "E7",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81521040",
+      "t": "One Tricked Pony",
+      "s": "S2",
+      "ep": "E8",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81521041",
+      "t": "Federal Slumber Party",
+      "s": "S2",
+      "ep": "E9",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81521042",
+      "t": "Floaties",
+      "s": "S2",
+      "ep": "E10",
+      "time": "24m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81520151",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "yue",
+      "s": "yue"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81521033",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80178943"
+    },
+    {
+      "id": "80146758"
+    },
+    {
+      "id": "81500345"
+    },
+    {
+      "id": "80121840"
+    },
+    {
+      "id": "70113007"
+    },
+    {
+      "id": "80095314"
+    },
+    {
+      "id": "81218917"
+    },
+    {
+      "id": "80091938"
+    },
+    {
+      "id": "70155547"
+    },
+    {
+      "id": "81073593"
+    },
+    {
+      "id": "81555726"
+    },
+    {
+      "id": "80996790"
+    }
+  ],
+  "error": null
+}
