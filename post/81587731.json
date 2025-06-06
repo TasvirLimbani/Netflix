@@ -1,0 +1,178 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "LEGO Friends: Heartlake Stories",
+  "year": "2022",
+  "ua": "U",
+  "match": "48% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Kids' TV, Canadian, TV Cartoons",
+  "thismovieis": "Feel-Good",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "A group of big-hearted best friends go on adventures, solve problems and make the most of their beautiful home, Heartlake City.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81587733",
+      "ep": "4",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81587734",
+      "t": "Fitting In",
+      "s": "S1",
+      "ep": "E1",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81587735",
+      "t": "Plight of the Bumblebee",
+      "s": "S1",
+      "ep": "E2",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81587736",
+      "t": "Wet Wallop",
+      "s": "S1",
+      "ep": "E3",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81587737",
+      "t": "The Final Countdown",
+      "s": "S1",
+      "ep": "E4",
+      "time": "22m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81587733",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81587734",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81700960"
+    },
+    {
+      "id": "70294800"
+    },
+    {
+      "id": "81136524"
+    },
+    {
+      "id": "81279322"
+    }
+  ],
+  "error": null
+}
