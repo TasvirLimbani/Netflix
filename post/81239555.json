@@ -1,0 +1,179 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "SHAMAN KING",
+  "year": "2021",
+  "ua": "U/A 16+",
+  "match": "47% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Yoko Hikasa, Katsuyuki Konishi, Megumi Hayashibara, Inuko Inuyama, Romi Park, Kosuke Takaguchi, Masahiko Tanaka, Wataru Takagi, Yuji Ueda, Megumi Nakajima, Takehito Koyasu, Yoko Soumi, Motoko Kumai, Yui Horie, Yuichi Nakamura, Nana Mizuki, Takumu Miyazono, Noriaki Kanze, Michiko Neya, Toru Sakurai, Rina Hidaka, Masakazu Morita, Minami Takayama",
+  "cast": "Yoko Hikasa, Katsuyuki Konishi, Megumi Hayashibara, Inuko Inuyama, Romi Park, Kosuke Takaguchi, Masahiko Tanaka, Wataru Takagi, Yuji Ueda, Megumi Nakajima, Takehito Koyasu, Yoko Soumi, Motoko Kumai, Yui Horie, Yuichi Nakamura, Nana Mizuki, Takumu Miyazono, Noriaki Kanze, Michiko Neya, Toru Sakurai, Rina Hidaka, Masakazu Morita, Minami Takayama",
+  "genre": "Shounen Anime, Sci-Fi & Fantasy Anime, Japanese, Anime Series, TV Shows Based on Manga",
+  "thismovieis": "Imaginative, Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "tobacco use, nudity",
+  "desc": "Medium Yoh Asakura enters a battle tournament held every 500 years, competing with other shamans in a bid to become the all-powerful Shaman King.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81239556",
+      "ep": "52",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81255908",
+      "t": "The Boy Who Dances with Ghosts",
+      "s": "S1",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81255909",
+      "t": "Another Shaman",
+      "s": "S1",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81255910",
+      "t": "Anna and Tao Jun",
+      "s": "S1",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81256316",
+      "t": "Happy Place",
+      "s": "S1",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81256317",
+      "t": "Over Soul",
+      "s": "S1",
+      "ep": "E5",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81256318",
+      "t": "Yoh vs. Horohoro!",
+      "s": "S1",
+      "ep": "E6",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81256319",
+      "t": "A Form of Courage",
+      "s": "S1",
+      "ep": "E7",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81256320",
+      "t": "Progress",
+      "s": "S1",
+      "ep": "E8",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81256321",
+      "t": "Yoh vs. Ren: Again!",
+      "s": "S1",
+      "ep": "E9",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81256322",
+      "t": "Night in the Flame",
+      "s": "S1",
+      "ep": "E10",
+      "time": "25m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81239556",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    }
+  ],
+  "last_ep": "81255908",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81749969"
+    },
+    {
+      "id": "81281582"
+    },
+    {
+      "id": "80238012"
+    },
+    {
+      "id": "81448990"
+    },
+    {
+      "id": "80179798"
+    },
+    {
+      "id": "81091393"
+    },
+    {
+      "id": "81648184"
+    }
+  ],
+  "error": null
+}
