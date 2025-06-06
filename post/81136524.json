@@ -1,0 +1,155 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Barbie Princess Adventure",
+  "year": "2020",
+  "ua": "U",
+  "match": "55% match",
+  "runtime": "1h 12m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Conrad Helten",
+  "writer": "Ann Austen",
+  "short_cast": "America Young, Erica Lindbeck, Ritesh Rajan, Dave Fennoy, Stephanie Sheh, Cristina Milizia, Desirae Whitfield, Emma Galvin, Angelo Restaino, Eamon Brennan, Ogie Banks",
+  "cast": "America Young, Erica Lindbeck, Ritesh Rajan, Dave Fennoy, Stephanie Sheh, Cristina Milizia, Desirae Whitfield, Emma Galvin, Angelo Restaino, Eamon Brennan, Ogie Banks",
+  "genre": "Musicals, Kids Music, US Movies, Children & Family Movies",
+  "thismovieis": "Feel-Good",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "With new friends in a new kingdom, Barbie learns what it means to be herself when she trades places with a royal lookalike in this musical adventure.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81607651"
+    },
+    {
+      "id": "80192815"
+    },
+    {
+      "id": "81607692"
+    },
+    {
+      "id": "60034386"
+    },
+    {
+      "id": "81279322"
+    },
+    {
+      "id": "81383247"
+    },
+    {
+      "id": "81424207"
+    },
+    {
+      "id": "80146758"
+    }
+  ],
+  "error": null
+}
