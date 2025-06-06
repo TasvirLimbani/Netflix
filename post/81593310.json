@@ -1,0 +1,251 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Teletubbies",
+  "year": "2022",
+  "ua": "U",
+  "match": "69% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Tituss Burgess",
+  "cast": "Tituss Burgess",
+  "genre": "Kids' TV, Kids Music, Education for Kids",
+  "thismovieis": "",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "Join friends Tinky Winky, Dipsy, Laa-Laa and Po on wonder-filled adventures as they learn and grow in this colorful refresh of the classic series.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81593311",
+      "ep": "26",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81607814",
+      "t": "Bubbles",
+      "s": "S1",
+      "ep": "E1",
+      "time": "15m"
+    },
+    {
+      "complate": "0",
+      "id": "81607808",
+      "t": "Wait for It",
+      "s": "S1",
+      "ep": "E2",
+      "time": "15m"
+    },
+    {
+      "complate": "0",
+      "id": "81607799",
+      "t": "Music",
+      "s": "S1",
+      "ep": "E3",
+      "time": "15m"
+    },
+    {
+      "complate": "0",
+      "id": "81607819",
+      "t": "Making Friends",
+      "s": "S1",
+      "ep": "E4",
+      "time": "15m"
+    },
+    {
+      "complate": "0",
+      "id": "81607811",
+      "t": "Bouncy Ball",
+      "s": "S1",
+      "ep": "E5",
+      "time": "15m"
+    },
+    {
+      "complate": "0",
+      "id": "81607794",
+      "t": "Up and Down",
+      "s": "S1",
+      "ep": "E6",
+      "time": "15m"
+    },
+    {
+      "complate": "0",
+      "id": "81607801",
+      "t": "Running Race",
+      "s": "S1",
+      "ep": "E7",
+      "time": "15m"
+    },
+    {
+      "complate": "0",
+      "id": "81607805",
+      "t": "Follow the Leader",
+      "s": "S1",
+      "ep": "E8",
+      "time": "15m"
+    },
+    {
+      "complate": "0",
+      "id": "81607815",
+      "t": "Waving",
+      "s": "S1",
+      "ep": "E9",
+      "time": "15m"
+    },
+    {
+      "complate": "0",
+      "id": "81607816",
+      "t": "Messy Fun",
+      "s": "S1",
+      "ep": "E10",
+      "time": "15m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81593311",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81607814",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "70155567"
+    },
+    {
+      "id": "80025494"
+    },
+    {
+      "id": "70286901"
+    }
+  ],
+  "error": null
+}
