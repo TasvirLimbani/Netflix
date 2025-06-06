@@ -1,0 +1,108 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Steve Jobs",
+  "year": "2015",
+  "ua": "U/A 16+",
+  "match": "65% match",
+  "runtime": "2h 2m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Danny Boyle",
+  "writer": "Aaron Sorkin, Walter Isaacson",
+  "short_cast": "Michael Fassbender, Kate Winslet, Seth Rogen, Jeff Daniels, Michael Stuhlbarg, Katherine Waterston, Perla Haney-Jardine, Sarah Snook, John Ortiz, Adam Shapiro",
+  "cast": "Michael Fassbender, Kate Winslet, Seth Rogen, Jeff Daniels, Michael Stuhlbarg, Katherine Waterston, Perla Haney-Jardine, Sarah Snook, John Ortiz, Adam Shapiro",
+  "genre": "Drama Movies, Movies Based on Books, Movies Based on Real Life, US Movies",
+  "thismovieis": "Cerebral, Inspiring",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "language",
+  "desc": "Three pivotal moments in the extraordinary life of complicated and charismatic Apple co-founder Steve Jobs play out in this acclaimed drama.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70132721"
+    },
+    {
+      "id": "81186296"
+    },
+    {
+      "id": "70201437"
+    },
+    {
+      "id": "70084788"
+    },
+    {
+      "id": "60011152"
+    },
+    {
+      "id": "81773534"
+    },
+    {
+      "id": "70005379"
+    },
+    {
+      "id": "60024922"
+    },
+    {
+      "id": "70032595"
+    },
+    {
+      "id": "80064514"
+    },
+    {
+      "id": "81488972"
+    }
+  ],
+  "error": null
+}
