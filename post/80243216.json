@@ -1,0 +1,244 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The InBESTigators",
+  "year": "2019",
+  "ua": "U",
+  "match": "44% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Robyn Butler, Wayne Hope",
+  "director": "",
+  "writer": "",
+  "short_cast": "Abby Bergman, Anna Cooke, Aston Droomer, Jamil Smyth-Secka, James Saunders, Maria Angelico, Eliza Ong, Hannah Johnston, Hana Struckett",
+  "cast": "Abby Bergman, Anna Cooke, Aston Droomer, Jamil Smyth-Secka, James Saunders, Maria Angelico, Eliza Ong, Hannah Johnston, Hana Struckett",
+  "genre": "Kids' TV, Australian, TV Comedies",
+  "thismovieis": "",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "Four clever school kids start their own detective agency and vlog about their adventures, becoming fast friends in the process.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80243316",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81081311",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80242883",
+      "t": "The Case of the Concert Catastrophe / The Case of the Soccer Saga",
+      "s": "S2",
+      "ep": "E1",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "80242884",
+      "t": "The Case of the Puzzling Pet Day / The Case of the Copy Cat",
+      "s": "S2",
+      "ep": "E2",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "80242885",
+      "t": "The Case of the Rosemary Riddle / The Case of the Robot Robbery",
+      "s": "S2",
+      "ep": "E3",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "80242886",
+      "t": "The Case of the Vanishing Koalas / The Case of the Extremely Empty Freezer",
+      "s": "S2",
+      "ep": "E4",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "80242887",
+      "t": "The Case of the Miraculous Mini Golfer / The Case of the Problematic Party",
+      "s": "S2",
+      "ep": "E5",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "80242888",
+      "t": "The Case of the Lousy Lunch Orders/ The Case of the Interrupting Intern",
+      "s": "S2",
+      "ep": "E6",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "80242889",
+      "t": "The Case of the Freaky Frequency / The Case of the Tricky Trimathlon",
+      "s": "S2",
+      "ep": "E7",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "80242890",
+      "t": "The Case of the Burgled Bags / The Case of the Distracted Detective",
+      "s": "S2",
+      "ep": "E8",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "80242891",
+      "t": "The Case of the Fishy Fundraiser / The Case of the Incredible Fortune Teller",
+      "s": "S2",
+      "ep": "E9",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "80242892",
+      "t": "The Case of the Unhappy Camper / The Case of the Triple Inbestigation",
+      "s": "S2",
+      "ep": "E10",
+      "time": "31m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81081311",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "80242883",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81005407"
+    },
+    {
+      "id": "80020540"
+    },
+    {
+      "id": "80105067"
+    },
+    {
+      "id": "80222326"
+    },
+    {
+      "id": "81634726"
+    },
+    {
+      "id": "81338302"
+    },
+    {
+      "id": "81011712"
+    },
+    {
+      "id": "81000063"
+    }
+  ],
+  "error": null
+}
