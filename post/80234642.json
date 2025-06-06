@@ -1,0 +1,269 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Daniel Spellbound",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "61% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Matthew Fernandes",
+  "director": "",
+  "writer": "",
+  "short_cast": "Alex Barima, Deven Mack, Chantel Riley, Dwayne Hill",
+  "cast": "Alex Barima, Deven Mack, Chantel Riley, Dwayne Hill",
+  "genre": "Kids' TV, TV Comedies, TV Cartoons",
+  "thismovieis": "",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "In New York City, a teenage tracker makes his living selling hard-to-find mystical items to sorcerers \u2014 but dealing in magic can be risky business.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80997403",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81251015",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81251016",
+      "t": "Swing Batter Batter",
+      "s": "S2",
+      "ep": "E1",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81251017",
+      "t": "A Secret for a Secret",
+      "s": "S2",
+      "ep": "E2",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81251018",
+      "t": "The Hidden Island",
+      "s": "S2",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81251020",
+      "t": "The Tickle Pit",
+      "s": "S2",
+      "ep": "E4",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81251021",
+      "t": "Witches Only",
+      "s": "S2",
+      "ep": "E5",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81251022",
+      "t": "Break On Through",
+      "s": "S2",
+      "ep": "E6",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81251023",
+      "t": "Gizmos and Death Traps",
+      "s": "S2",
+      "ep": "E7",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81251024",
+      "t": "The Final Trial",
+      "s": "S2",
+      "ep": "E8",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81251025",
+      "t": "The Scepter and the Sacrifice",
+      "s": "S2",
+      "ep": "E9",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81251027",
+      "t": "You've Looked Better",
+      "s": "S2",
+      "ep": "E10",
+      "time": "26m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81251015",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81251016",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81035568"
+    },
+    {
+      "id": "81092958"
+    },
+    {
+      "id": "81076952"
+    },
+    {
+      "id": "80075820"
+    },
+    {
+      "id": "80228012"
+    },
+    {
+      "id": "80244283"
+    },
+    {
+      "id": "81038163"
+    },
+    {
+      "id": "80057506"
+    },
+    {
+      "id": "81010139"
+    },
+    {
+      "id": "80212245"
+    },
+    {
+      "id": "80225085"
+    }
+  ],
+  "error": null
+}
