@@ -1,0 +1,146 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "RESIDENT EVIL: Infinite Darkness",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "67% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Nick Apostolides, Stephanie Panisello, Ray Chase, Jona Xiao, Billy Kametz, Joe J. Thomas, Doug Stone, Brad Venable, Toshiyuki Morikawa, Yuhko Kaida, Fumihiko Tachiki, Megumi Han, Kenji Nojima, Kazuhiko Inoue, Aruno Tahara, Mitsuru Ogata",
+  "cast": "Nick Apostolides, Stephanie Panisello, Ray Chase, Jona Xiao, Billy Kametz, Joe J. Thomas, Doug Stone, Brad Venable, Toshiyuki Morikawa, Yuhko Kaida, Fumihiko Tachiki, Megumi Han, Kenji Nojima, Kazuhiko Inoue, Aruno Tahara, Mitsuru Ogata",
+  "genre": "Action Anime, Anime based on a Video Game, Anime Series, Horror Anime, US TV Shows, Horror TV Serials",
+  "thismovieis": "Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "gore",
+  "desc": "Years after the horrors of Raccoon City, Leon and Claire find themselves consumed by a dark conspiracy when a viral attack ravages the White House.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80998724",
+      "ep": "4",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81056619",
+      "t": "Episode 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81056620",
+      "t": "Episode 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81056621",
+      "t": "Episode 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81056622",
+      "t": "Episode 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "28m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80998724",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    }
+  ],
+  "last_ep": "81056619",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80190911"
+    },
+    {
+      "id": "80996532"
+    },
+    {
+      "id": "81425105"
+    },
+    {
+      "id": "70307393"
+    },
+    {
+      "id": "80174608"
+    },
+    {
+      "id": "80118543"
+    },
+    {
+      "id": "70262639"
+    },
+    {
+      "id": "80208806"
+    },
+    {
+      "id": "70204970"
+    },
+    {
+      "id": "81001991"
+    },
+    {
+      "id": "81046394"
+    },
+    {
+      "id": "81721676"
+    }
+  ],
+  "error": null
+}
