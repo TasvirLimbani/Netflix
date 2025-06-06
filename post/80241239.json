@@ -1,0 +1,214 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Locke & Key",
+  "year": "2020",
+  "ua": "U/A 18+ [A]",
+  "match": "48% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Darby Stanchfield, Connor Jessup, Emilia Jones, Jackson Robert Scott, Petrice Jones, Laysla De Oliveira, Griffin Gluck, Aaron Ashmore, Brendan Hines, Hallea Jones, Sherri Saum, Kevin Durand, Bill Heck, Genevieve Kang, Coby Bird, Kevin Alves, Thomas Mitchell Barnet, Eric Graise, Felix Mallard, Martin Roach, Asha Bromfield, Steven Williams, Jesse Camacho, Joy Tanner, Liyou Abere",
+  "cast": "Darby Stanchfield, Connor Jessup, Emilia Jones, Jackson Robert Scott, Petrice Jones, Laysla De Oliveira, Griffin Gluck, Aaron Ashmore, Brendan Hines, Hallea Jones, Sherri Saum, Kevin Durand, Bill Heck, Genevieve Kang, Coby Bird, Kevin Alves, Thomas Mitchell Barnet, Eric Graise, Felix Mallard, Martin Roach, Asha Bromfield, Steven Williams, Jesse Camacho, Joy Tanner, Liyou Abere",
+  "genre": "TV Dramas, Teen TV Shows, TV Action & Adventure, US TV Shows, Fantasy TV Shows",
+  "thismovieis": "Mind-Bending, Witty",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "sex",
+  "desc": "After their dad's murder, three siblings move with their mom to his ancestral estate, where they discover magical keys that unlock powers \u2014 and secrets.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80236127",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81050133",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80236402",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81286798",
+      "t": "The Snow Globe",
+      "s": "S3",
+      "ep": "E1",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81286799",
+      "t": "Wedding Crashers",
+      "s": "S3",
+      "ep": "E2",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81286848",
+      "t": "Five Minutes Past",
+      "s": "S3",
+      "ep": "E3",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81286857",
+      "t": "Deep Cover",
+      "s": "S3",
+      "ep": "E4",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81286858",
+      "t": "Siege",
+      "s": "S3",
+      "ep": "E5",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81286862",
+      "t": "Free Bird",
+      "s": "S3",
+      "ep": "E6",
+      "time": "34m"
+    },
+    {
+      "complate": "0",
+      "id": "81286863",
+      "t": "Curtain",
+      "s": "S3",
+      "ep": "E7",
+      "time": "35m"
+    },
+    {
+      "complate": "0",
+      "id": "81286864",
+      "t": "Farewell",
+      "s": "S3",
+      "ep": "E8",
+      "time": "40m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80236402",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81286798",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81116060"
+    },
+    {
+      "id": "80220679"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "80241581"
+    },
+    {
+      "id": "80236319"
+    },
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "80238357"
+    },
+    {
+      "id": "81150303"
+    },
+    {
+      "id": "80223989"
+    },
+    {
+      "id": "81679967"
+    },
+    {
+      "id": "80199393"
+    },
+    {
+      "id": "80218885"
+    }
+  ],
+  "error": null
+}
