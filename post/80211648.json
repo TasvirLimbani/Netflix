@@ -1,0 +1,162 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Last Czars",
+  "year": "2019",
+  "ua": "U/A 18+ [A]",
+  "match": "57% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Robert Jack, Susanna Herbert, Ben Cartwright, Oliver Dimsdale, Gavin Mitchell, Elsie Bennett, Bernice Stegers",
+  "cast": "Robert Jack, Susanna Herbert, Ben Cartwright, Oliver Dimsdale, Gavin Mitchell, Elsie Bennett, Bernice Stegers",
+  "genre": "Political TV Shows, TV Dramas, Historical Documentaries, Political Documentaries, Period Pieces, Biographical Documentaries, Docuseries, US TV Shows, Docudramas",
+  "thismovieis": "Provocative, Intimate",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, sex, nudity, language",
+  "desc": "When social upheaval sweeps Russia in the early 20th century, Czar Nicholas II resists change, sparking a revolution and ending a dynasty.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80211729",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80211730",
+      "t": "The Chosen One",
+      "s": "S1",
+      "ep": "E1",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "80211731",
+      "t": "The Boy",
+      "s": "S1",
+      "ep": "E2",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80211732",
+      "t": "Anarchy",
+      "s": "S1",
+      "ep": "E3",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "80211733",
+      "t": "War",
+      "s": "S1",
+      "ep": "E4",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "80211734",
+      "t": "Revolution",
+      "s": "S1",
+      "ep": "E5",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "80211735",
+      "t": "The House of Special Purpose",
+      "s": "S1",
+      "ep": "E6",
+      "time": "50m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80211729",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80211730",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81222923"
+    },
+    {
+      "id": "80182116"
+    },
+    {
+      "id": "80096545"
+    },
+    {
+      "id": "81230204"
+    },
+    {
+      "id": "80990771"
+    },
+    {
+      "id": "81498384"
+    },
+    {
+      "id": "80182016"
+    },
+    {
+      "id": "80998988"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "81325194"
+    },
+    {
+      "id": "81418071"
+    },
+    {
+      "id": "80175352"
+    }
+  ],
+  "error": null
+}
