@@ -1,0 +1,218 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Vikings: Valhalla",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "61% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Sam Corlett, Leo Suter, Frida Gustavsson, J\u00f3hannes Haukur J\u00f3hannesson, Asbj\u00f8rn Krogh Nissen, Laura Berlin, Caroline Henderson, David Oakes, Lujza Richter, S\u00f8ren Pilmark, Pollyanna McIntosh, Hayat Kamille, Sofya Lebedeva",
+  "cast": "Sam Corlett, Leo Suter, Frida Gustavsson, J\u00f3hannes Haukur J\u00f3hannesson, Asbj\u00f8rn Krogh Nissen, Laura Berlin, Caroline Henderson, David Oakes, Lujza Richter, S\u00f8ren Pilmark, Pollyanna McIntosh, Hayat Kamille, Sofya Lebedeva",
+  "genre": "TV Dramas, TV Action & Adventure, Period Pieces, US TV Shows",
+  "thismovieis": "Violent, Dark, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, substances, sex, nudity",
+  "desc": "In this sequel to \"Vikings,\" a hundred years have passed and a new generation of legendary heroes arises to forge its own destiny \u2014\u00a0and make history.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81216646",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81220003",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81220004",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81220014",
+      "t": "Seven Years Later",
+      "s": "S3",
+      "ep": "E1",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81220015",
+      "t": "Honour and Dishonour",
+      "s": "S3",
+      "ep": "E2",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81220016",
+      "t": "Lost",
+      "s": "S3",
+      "ep": "E3",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81220017",
+      "t": "The End of Jomsborg",
+      "s": "S3",
+      "ep": "E4",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81220018",
+      "t": "Greenland",
+      "s": "S3",
+      "ep": "E5",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81220019",
+      "t": "Return to Kattegat",
+      "s": "S3",
+      "ep": "E6",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81220020",
+      "t": "Hardrada",
+      "s": "S3",
+      "ep": "E7",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81220021",
+      "t": "Destinies",
+      "s": "S3",
+      "ep": "E8",
+      "time": "57m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81220004",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81220014",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "70301870"
+    },
+    {
+      "id": "81024039"
+    },
+    {
+      "id": "80074249"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81460361"
+    },
+    {
+      "id": "80175352"
+    },
+    {
+      "id": "80099656"
+    },
+    {
+      "id": "80990771"
+    },
+    {
+      "id": "80182016"
+    },
+    {
+      "id": "70305883"
+    },
+    {
+      "id": "81730920"
+    },
+    {
+      "id": "80190859"
+    }
+  ],
+  "error": null
+}
