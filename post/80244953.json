@@ -1,0 +1,206 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Jupiter's Legacy",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "48% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Josh Duhamel, Ben Daniels, Leslie Bibb, Andrew Horton, Elena Kampouris, Matt Lanter, Mike Wade, Tenika Davis, Ian Quinlan, David Julian Hirsh, Tyler Mane",
+  "cast": "Josh Duhamel, Ben Daniels, Leslie Bibb, Andrew Horton, Elena Kampouris, Matt Lanter, Mike Wade, Tenika Davis, Ian Quinlan, David Julian Hirsh, Tyler Mane",
+  "genre": "Sci-Fi TV, TV Action & Adventure, US TV Shows, TV Shows Based on Comics",
+  "thismovieis": "Dark, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, suicide, substances, sex, gore",
+  "desc": "They're the first generation of superheroes. But as they pass the torch to their children, tensions are rising \u2014 and the old rules no longer apply.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80245131",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80245300",
+      "t": "By Dawn's Early Light",
+      "s": "S1",
+      "ep": "E1",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81013670",
+      "t": "Paper and Stone",
+      "s": "S1",
+      "ep": "E2",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81013671",
+      "t": "Painting the Clouds With Sunshine",
+      "s": "S1",
+      "ep": "E3",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81013672",
+      "t": "All the Devils Are Here",
+      "s": "S1",
+      "ep": "E4",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81013673",
+      "t": "What's the Use?",
+      "s": "S1",
+      "ep": "E5",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81013674",
+      "t": "Cover Her Face",
+      "s": "S1",
+      "ep": "E6",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81013675",
+      "t": "Omnes Pro Uno",
+      "s": "S1",
+      "ep": "E7",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "81013676",
+      "t": "How It All Ends",
+      "s": "S1",
+      "ep": "E8",
+      "time": "36m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80245131",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "80245300",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81453003"
+    },
+    {
+      "id": "80218200"
+    },
+    {
+      "id": "81252707"
+    },
+    {
+      "id": "81438809"
+    },
+    {
+      "id": "80141172"
+    },
+    {
+      "id": "81058434"
+    },
+    {
+      "id": "80204465"
+    },
+    {
+      "id": "80117803"
+    },
+    {
+      "id": "80099016"
+    },
+    {
+      "id": "80186863"
+    },
+    {
+      "id": "81316476"
+    },
+    {
+      "id": "80144309"
+    }
+  ],
+  "error": null
+}
