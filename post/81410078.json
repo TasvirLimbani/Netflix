@@ -1,0 +1,153 @@
+{
+  "status": "y",
+  "d_lang": "jpn",
+  "title": "Death Note",
+  "year": "2015",
+  "ua": "U/A 13+",
+  "match": "81% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Masataka Kubota, Kento Yamazaki, Mio Yuki, Hinako Sano, Reiko Fujiwara, Megumi Seki, Gouki Maeda, Tomohisa Yuge, Shugo Oshinari, Kazuaki Hankai, Jiro Sato, Yutaka Matsushige",
+  "cast": "Masataka Kubota, Kento Yamazaki, Mio Yuki, Hinako Sano, Reiko Fujiwara, Megumi Seki, Gouki Maeda, Tomohisa Yuge, Shugo Oshinari, Kazuaki Hankai, Jiro Sato, Yutaka Matsushige",
+  "genre": "Japanese, Crime TV Shows, TV Thrillers, Horror TV Serials, TV Shows Based on Manga",
+  "thismovieis": "Chilling, Cerebral",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, mature themes, language, gore, crude humor",
+  "desc": "Armed with a notebook that allows him to end lives, Light uses his newfound power to levy vigilante justice while evading world-renowned detective L.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81410079",
+      "ep": "11",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81410080",
+      "t": "Episode1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "71m"
+    },
+    {
+      "complate": "0",
+      "id": "81410081",
+      "t": "Episode 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81410082",
+      "t": "Episode 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81410083",
+      "t": "Episode 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81410084",
+      "t": "Episode 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81410085",
+      "t": "Episode 6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81410086",
+      "t": "Episode 7",
+      "s": "S1",
+      "ep": "E7",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81410087",
+      "t": "Episode 8",
+      "s": "S1",
+      "ep": "E8",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81410088",
+      "t": "Episode 9",
+      "s": "S1",
+      "ep": "E9",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81410089",
+      "t": "Episode 10",
+      "s": "S1",
+      "ep": "E10",
+      "time": "45m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81410079",
+  "lang": [
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    }
+  ],
+  "last_ep": "81410080",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "70204970"
+    },
+    {
+      "id": "80122759"
+    },
+    {
+      "id": "81586984"
+    },
+    {
+      "id": "80200575"
+    },
+    {
+      "id": "81179841"
+    },
+    {
+      "id": "80241947"
+    },
+    {
+      "id": "80175351"
+    },
+    {
+      "id": "81619948"
+    },
+    {
+      "id": "80191008"
+    }
+  ],
+  "error": null
+}
