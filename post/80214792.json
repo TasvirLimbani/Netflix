@@ -1,0 +1,224 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Creeped Out",
+  "year": "2017",
+  "ua": "U/A 7+",
+  "match": "99% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Bede Blake, Robert Butler",
+  "director": "",
+  "writer": "",
+  "short_cast": "Victoria Diamond, William Romain, Sydney Wade, Jennifer James, Daniel Ryan, Robert Styles, Rhys Gannon, Maeve Larkin, Margaret Jackman, Katie Proctor, Jonathan Blake, Maximus Evans, Anya Lawrence, Tiffany Elefano, Diya Kittur, Berkley Silverman, Malen Clarkson, Jason Done, Rosina Carbone, Boris Burnell Anderson",
+  "cast": "Victoria Diamond, William Romain, Sydney Wade, Jennifer James, Daniel Ryan, Robert Styles, Rhys Gannon, Maeve Larkin, Margaret Jackman, Katie Proctor, Jonathan Blake, Maximus Evans, Anya Lawrence, Tiffany Elefano, Diya Kittur, Berkley Silverman, Malen Clarkson, Jason Done, Rosina Carbone, Boris Burnell Anderson",
+  "genre": "Kids' TV, British",
+  "thismovieis": "Ominous",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language, mild fear",
+  "desc": "A masked figure known as \"The Curious\" collects tales of dark magic, otherworldly encounters and twisted technology in this kids anthology series.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80991073",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81153598",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81153603",
+      "t": "One More Minute",
+      "s": "S2",
+      "ep": "E1",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81153601",
+      "t": "The Takedown",
+      "s": "S2",
+      "ep": "E2",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81153602",
+      "t": "Help",
+      "s": "S2",
+      "ep": "E3",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81153608",
+      "t": "The Many Place",
+      "s": "S2",
+      "ep": "E4",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81153600",
+      "t": "Only Child",
+      "s": "S2",
+      "ep": "E5",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81153606",
+      "t": "No Filter",
+      "s": "S2",
+      "ep": "E6",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81153604",
+      "t": "Splinta Claws",
+      "s": "S2",
+      "ep": "E7",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81153605",
+      "t": "Itchy",
+      "s": "S2",
+      "ep": "E8",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81153607",
+      "t": "Tilly Bone",
+      "s": "S2",
+      "ep": "E9",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81153599",
+      "t": "The Unfortunate Five",
+      "s": "S2",
+      "ep": "E10",
+      "time": "25m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81153598",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    }
+  ],
+  "last_ep": "81153603",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80222326"
+    },
+    {
+      "id": "81012821"
+    },
+    {
+      "id": "80991404"
+    },
+    {
+      "id": "81349232"
+    },
+    {
+      "id": "80050008"
+    },
+    {
+      "id": "81076952"
+    },
+    {
+      "id": "81037539"
+    },
+    {
+      "id": "70044595"
+    },
+    {
+      "id": "80117803"
+    },
+    {
+      "id": "81589046"
+    },
+    {
+      "id": "81329721"
+    },
+    {
+      "id": "81023618"
+    }
+  ],
+  "error": null
+}
