@@ -1,0 +1,175 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Triptych",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "45% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Leticia L\u00f3pez Margalli",
+  "director": "",
+  "writer": "",
+  "short_cast": "Maite Perroni, David Chocarro, Flavio Medina, Nuria Bages, Ofelia Medina, Ana Layevska, Claudia Lobo, Aldo Gallardo, Daniella Valdez",
+  "cast": "Maite Perroni, David Chocarro, Flavio Medina, Nuria Bages, Ofelia Medina, Ana Layevska, Claudia Lobo, Aldo Gallardo, Daniella Valdez",
+  "genre": "TV Dramas, Mexican, TV Mysteries, TV Thrillers",
+  "thismovieis": "Suspenseful, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, substances, sex, nudity, language",
+  "desc": "After learning she was separated at birth from her two identical sisters, Rebecca embarks on a perilous journey to uncover the truth about her origins.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81494918",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81557889",
+      "t": "33 x 3",
+      "s": "S1",
+      "ep": "E1",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81557890",
+      "t": "Molotov Cocktail",
+      "s": "S1",
+      "ep": "E2",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81557891",
+      "t": "Olympia Mens' Club",
+      "s": "S1",
+      "ep": "E3",
+      "time": "38m"
+    },
+    {
+      "complate": "0",
+      "id": "81557892",
+      "t": "Am I Going Crazy?",
+      "s": "S1",
+      "ep": "E4",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81557893",
+      "t": "Oil and Water",
+      "s": "S1",
+      "ep": "E5",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81557894",
+      "t": "The Experiment",
+      "s": "S1",
+      "ep": "E6",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81557895",
+      "t": "The Hand That Rocks the Cradle",
+      "s": "S1",
+      "ep": "E7",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81557896",
+      "t": "Going Back to the Start",
+      "s": "S1",
+      "ep": "E8",
+      "time": "42m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81494918",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81557889",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81090319"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81317562"
+    },
+    {
+      "id": "81166747"
+    },
+    {
+      "id": "81437215"
+    },
+    {
+      "id": "81012637"
+    },
+    {
+      "id": "81306170"
+    }
+  ],
+  "error": null
+}
