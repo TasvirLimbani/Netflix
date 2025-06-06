@@ -1,0 +1,259 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Kitti Katz",
+  "year": "2023",
+  "ua": "U/A 7+",
+  "match": "50% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Ed Bignell",
+  "director": "",
+  "writer": "",
+  "short_cast": "Brianna Price, Shvorne Marks, Ami Okumura Jones, Larissa Murray, Kosha Engler, Tom Clarke-Hill, Carlyss Peer, Conor Moloney, Duncan Wisbey, Amrita Acharia, Taylor Clarke-Hill, Eric Sirakian",
+  "cast": "Brianna Price, Shvorne Marks, Ami Okumura Jones, Larissa Murray, Kosha Engler, Tom Clarke-Hill, Carlyss Peer, Conor Moloney, Duncan Wisbey, Amrita Acharia, Taylor Clarke-Hill, Eric Sirakian",
+  "genre": "Kids' TV, TV Cartoons",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "Three teenage girls transform into fierce feline superheroes to save the world from an evil Egyptian goddess \u2014 and still have time for soccer practice.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81096258",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81304491",
+      "t": "The New Girl",
+      "s": "S1",
+      "ep": "E1",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81304492",
+      "t": "Spirit Cats",
+      "s": "S1",
+      "ep": "E2",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81304493",
+      "t": "O'Keeffe on the Run",
+      "s": "S1",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81304494",
+      "t": "The Secret of Anubia",
+      "s": "S1",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81304495",
+      "t": "The Power of Charity",
+      "s": "S1",
+      "ep": "E5",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81304496",
+      "t": "The Search for the Scepter",
+      "s": "S1",
+      "ep": "E6",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81304497",
+      "t": "Search for the Gemstone",
+      "s": "S1",
+      "ep": "E7",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81304498",
+      "t": "Spirit Cat Chaos",
+      "s": "S1",
+      "ep": "E8",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81304499",
+      "t": "The Catnip Conundrum",
+      "s": "S1",
+      "ep": "E9",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81304500",
+      "t": "Monorail Madness",
+      "s": "S1",
+      "ep": "E10",
+      "time": "26m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81096258",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Catalan",
+      "s": "cat"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Basque",
+      "s": "eus"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Galician",
+      "s": "glg"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81304491",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81145135"
+    },
+    {
+      "id": "80205037"
+    },
+    {
+      "id": "81279322"
+    }
+  ],
+  "error": null
+}
