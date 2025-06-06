@@ -1,0 +1,158 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Karate Sheep",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "33% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Hugo Gittard",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Kids' TV, TV Comedies, TV Cartoons",
+  "thismovieis": "Goofy",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "rude humor, mild violence, mild fear",
+  "desc": "Two clever sheep use karate and high-tech gadgets to protect their flock from a hungry wolf who's determined to make them all his dinner.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81297383",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81568813",
+      "ep": "13",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81311891",
+      "t": "Trico's Treats/Vacuum Cleaner Frenzy/Mighty Mite",
+      "s": "S2",
+      "ep": "E1",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81311892",
+      "t": "Spring Forks/Karate Chop Flop/A Slippery Slope",
+      "s": "S2",
+      "ep": "E2",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81311893",
+      "t": "A Screw Loose/Best Dad/The Photoshoot",
+      "s": "S2",
+      "ep": "E3",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81311894",
+      "t": "The Heatwave/Inspector Trico/Surf the Wave",
+      "s": "S2",
+      "ep": "E4",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81311895",
+      "t": "New Friend/Thanks for the Melodies/Brave New World",
+      "s": "S2",
+      "ep": "E5",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81311896",
+      "t": "Trampoline Competition/Mr. Sock/Wolf's Exam",
+      "s": "S2",
+      "ep": "E6",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81311897",
+      "t": "Charge!/Wolf Junior/Wolf Tracks",
+      "s": "S2",
+      "ep": "E7",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81311898",
+      "t": "A Sticky Situation/The Look of Love/Getting Old!",
+      "s": "S2",
+      "ep": "E8",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81311899",
+      "t": "Scratchy Wool/Wolf in Unicorn\u2019s Clothing/Keep Off the Grass",
+      "s": "S2",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81311900",
+      "t": "Knock, Knock\u2026 /Trico Where Are You?/A Puzzling Game",
+      "s": "S2",
+      "ep": "E10",
+      "time": "22m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81568813",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81311891",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81422836"
+    },
+    {
+      "id": "81154166"
+    },
+    {
+      "id": "81699964"
+    },
+    {
+      "id": "70155567"
+    },
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "81004016"
+    }
+  ],
+  "error": null
+}
