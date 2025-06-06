@@ -1,0 +1,204 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Raising Dion",
+  "year": "2019",
+  "ua": "U/A 7+",
+  "match": "74% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Carol Barbee",
+  "director": "",
+  "writer": "",
+  "short_cast": "Alisha Wainwright, Ja'Siah Young, Jazmyn Simon, Jason Ritter, Rome Flynn, Sammi Haney, Griffin Robert Faulkner, Ali Ahn, Michael B. Jordan",
+  "cast": "Alisha Wainwright, Ja'Siah Young, Jazmyn Simon, Jason Ritter, Rome Flynn, Sammi Haney, Griffin Robert Faulkner, Ali Ahn, Michael B. Jordan",
+  "genre": "Kids' TV, TV Dramas, Family Watch Together TV, TV Shows Based on Comics",
+  "thismovieis": "Heartfelt, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language, mild fear",
+  "desc": "A widowed mom sets out to solve the mystery surrounding her young son's emerging superpowers while keeping his extraordinary gifts under wraps.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80117804",
+      "ep": "9",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81220592",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81240502",
+      "t": "ISSUE #201: A Hero Returns",
+      "s": "S2",
+      "ep": "E1",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81240503",
+      "t": "ISSUE #202: Sankofa",
+      "s": "S2",
+      "ep": "E2",
+      "time": "37m"
+    },
+    {
+      "complate": "0",
+      "id": "81240504",
+      "t": "ISSUE #203: Monster Problem",
+      "s": "S2",
+      "ep": "E3",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81240505",
+      "t": "ISSUE #204: With Friends Like These",
+      "s": "S2",
+      "ep": "E4",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81240506",
+      "t": "ISSUE #205: You vs. Me",
+      "s": "S2",
+      "ep": "E5",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81240507",
+      "t": "ISSUE #206: 36 Good Hours",
+      "s": "S2",
+      "ep": "E6",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81240508",
+      "t": "ISSUE #207: World Without Mom",
+      "s": "S2",
+      "ep": "E7",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81240509",
+      "t": "ISSUE #208: Who You Are",
+      "s": "S2",
+      "ep": "E8",
+      "time": "39m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81220592",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81240502",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80222326"
+    },
+    {
+      "id": "81037539"
+    },
+    {
+      "id": "81427442"
+    },
+    {
+      "id": "81024153"
+    },
+    {
+      "id": "81023618"
+    },
+    {
+      "id": "81588091"
+    },
+    {
+      "id": "80994666"
+    },
+    {
+      "id": "81335124"
+    },
+    {
+      "id": "80992263"
+    },
+    {
+      "id": "81220825"
+    },
+    {
+      "id": "80241136"
+    },
+    {
+      "id": "80214792"
+    }
+  ],
+  "error": null
+}
