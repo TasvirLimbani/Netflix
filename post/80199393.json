@@ -1,0 +1,215 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Cursed",
+  "year": "2020",
+  "ua": "U/A 18+ [A]",
+  "match": "50% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Frank Miller, Tom Wheeler",
+  "director": "",
+  "writer": "",
+  "short_cast": "Katherine Langford, Devon Terrell, Gustaf Skarsg\u00e5rd, Daniel Sharman, Sebastian Armesto, Lily Newmark, Shalom Brune-Franklin, Matt Stokoe, Bella Dayne, Peter Mullan, Emily Coates",
+  "cast": "Katherine Langford, Devon Terrell, Gustaf Skarsg\u00e5rd, Daniel Sharman, Sebastian Armesto, Lily Newmark, Shalom Brune-Franklin, Matt Stokoe, Bella Dayne, Peter Mullan, Emily Coates",
+  "genre": "TV Dramas, British, TV Shows Based on Books, Teen TV Shows, TV Action & Adventure, Fantasy TV Shows",
+  "thismovieis": "Violent, Gritty",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, self-harm, gore",
+  "desc": "Armed with mysterious powers and a legendary sword, young rebel Nimue\u00a0joins forces with charming mercenary Arthur on a mission to save her people.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80226245",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80226444",
+      "t": "Nimue",
+      "s": "S1",
+      "ep": "E1",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "80994110",
+      "t": "Cursed",
+      "s": "S1",
+      "ep": "E2",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "80994111",
+      "t": "Alone",
+      "s": "S1",
+      "ep": "E3",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "80994112",
+      "t": "The Red Lake",
+      "s": "S1",
+      "ep": "E4",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "80994113",
+      "t": "The Joining",
+      "s": "S1",
+      "ep": "E5",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "80994114",
+      "t": "Festa and Moreii",
+      "s": "S1",
+      "ep": "E6",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "80994115",
+      "t": "Bring Us In Good Ale",
+      "s": "S1",
+      "ep": "E7",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "80994116",
+      "t": "The Fey Queen",
+      "s": "S1",
+      "ep": "E8",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "80994117",
+      "t": "Poisons",
+      "s": "S1",
+      "ep": "E9",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "80994118",
+      "t": "The Sacrifice",
+      "s": "S1",
+      "ep": "E10",
+      "time": "59m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80226245",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80226444",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80236319"
+    },
+    {
+      "id": "80220679"
+    },
+    {
+      "id": "81279312"
+    },
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "80189685"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "80242724"
+    },
+    {
+      "id": "80222934"
+    },
+    {
+      "id": "80238357"
+    },
+    {
+      "id": "81150303"
+    },
+    {
+      "id": "80241581"
+    }
+  ],
+  "error": null
+}
