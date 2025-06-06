@@ -1,0 +1,107 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Package",
+  "year": "2018",
+  "ua": "U/A 18+ [A]",
+  "match": "44% match",
+  "runtime": "1h 34m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Jake Szymanski",
+  "writer": "Kevin Burrows, Matt Mider",
+  "short_cast": "Daniel Doheny, Geraldine Viswanathan, Luke Spencer Roberts, Eduardo Franco, Sadie Calvano",
+  "cast": "Daniel Doheny, Geraldine Viswanathan, Luke Spencer Roberts, Eduardo Franco, Sadie Calvano",
+  "genre": "US Movies, Teen Movies, Comedies",
+  "thismovieis": "Absurd, Raunchy, Goofy",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "sex, nudity, language, crude humor",
+  "desc": "After their buddy suffers an unfortunate accident during spring break, four pals risk everything -- including their dignity -- to make him whole again.",
+  "oin": "y",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81580024"
+    },
+    {
+      "id": "81205652"
+    },
+    {
+      "id": "80031715"
+    },
+    {
+      "id": "70028904"
+    },
+    {
+      "id": "80164456"
+    },
+    {
+      "id": "81508217"
+    },
+    {
+      "id": "70228042"
+    },
+    {
+      "id": "70058023"
+    },
+    {
+      "id": "81285617"
+    },
+    {
+      "id": "81248072"
+    },
+    {
+      "id": "81659034"
+    },
+    {
+      "id": "81306350"
+    }
+  ],
+  "error": null
+}
