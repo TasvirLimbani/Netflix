@@ -1,0 +1,152 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "How to Change Your Mind",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "41% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Medical TV Shows, TV Shows Based on Books, Science & Nature TV, Science & Nature Docs, Docuseries, US TV Shows",
+  "thismovieis": "Provocative",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "substances",
+  "desc": "Author Michael Pollan leads the way in this docuseries exploring the history and uses of psychedelics, including LSD, psilocybin, MDMA and mescaline.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81157780",
+      "ep": "4",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81164524",
+      "t": "Chapter 1: LSD",
+      "s": "S1",
+      "ep": "E1",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81164525",
+      "t": "Chapter 2: Psilocybin",
+      "s": "S1",
+      "ep": "E2",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81164526",
+      "t": "Chapter 3: MDMA",
+      "s": "S1",
+      "ep": "E3",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81164527",
+      "t": "Chapter 4: Mescaline",
+      "s": "S1",
+      "ep": "E4",
+      "time": "53m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81157780",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81164524",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81183477"
+    },
+    {
+      "id": "80231917"
+    },
+    {
+      "id": "81436688"
+    },
+    {
+      "id": "81273453"
+    },
+    {
+      "id": "81280926"
+    },
+    {
+      "id": "81387962"
+    },
+    {
+      "id": "81328829"
+    },
+    {
+      "id": "81312877"
+    },
+    {
+      "id": "81243961"
+    },
+    {
+      "id": "81139212"
+    }
+  ],
+  "error": null
+}
