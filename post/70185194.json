@@ -1,0 +1,169 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Young Justice",
+  "year": "2010",
+  "ua": "U/A 16+",
+  "match": "97% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Greg Weisman, Brandon Vietti",
+  "director": "",
+  "writer": "",
+  "short_cast": "Stephanie Lemelin, Jesse McCartney, Danica McKellar, Nolan North, Khary Payton, Jason Spisak, Bruce Greenwood, Masasa Moyo, Kevin Michael Richardson",
+  "cast": "Stephanie Lemelin, Jesse McCartney, Danica McKellar, Nolan North, Khary Payton, Jason Spisak, Bruce Greenwood, Masasa Moyo, Kevin Michael Richardson",
+  "genre": "TV Cartoons, TV Shows Based on Comics",
+  "thismovieis": "Witty, Imaginative, Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, gore",
+  "desc": "This animated series follows Robin, Aqualad and other teenage superhero sidekicks as they form a secret crime-fighting squad to save the world.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "70270195",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "70297855",
+      "ep": "20",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81719036",
+      "ep": "26",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81719037",
+      "t": "Episode 1",
+      "s": "S3",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81719038",
+      "t": "Episode 2",
+      "s": "S3",
+      "ep": "E2",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81719039",
+      "t": "Episode 3",
+      "s": "S3",
+      "ep": "E3",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81719040",
+      "t": "Episode 4",
+      "s": "S3",
+      "ep": "E4",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81719041",
+      "t": "Episode 5",
+      "s": "S3",
+      "ep": "E5",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81719042",
+      "t": "Episode 6",
+      "s": "S3",
+      "ep": "E6",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81719043",
+      "t": "Episode 7",
+      "s": "S3",
+      "ep": "E7",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81719044",
+      "t": "Episode 8",
+      "s": "S3",
+      "ep": "E8",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81719045",
+      "t": "Episode 9",
+      "s": "S3",
+      "ep": "E9",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81719046",
+      "t": "Episode 10",
+      "s": "S3",
+      "ep": "E10",
+      "time": "21m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81719036",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "last_ep": "81719037",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "70177043"
+    },
+    {
+      "id": "70177689"
+    },
+    {
+      "id": "70155571"
+    },
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "70171947"
+    },
+    {
+      "id": "81145135"
+    },
+    {
+      "id": "81068803"
+    },
+    {
+      "id": "70241425"
+    },
+    {
+      "id": "70199841"
+    }
+  ],
+  "error": null
+}
