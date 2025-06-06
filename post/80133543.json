@@ -1,0 +1,111 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Great Wall",
+  "year": "2016",
+  "ua": "U/A 16+",
+  "match": "78% match",
+  "runtime": "1h 43m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Yimou Zhang",
+  "writer": "Carlo Bernard, Doug Miro, Tony Gilroy",
+  "short_cast": "Matt Damon, Pedro Pascal, Jing Tian, Willem Dafoe, Zhang Hanyu, Lu Han, Eddie Peng, Lin Gengxin, Karry Wang, Zheng Kai, Huang Xuan, Andy Lau",
+  "cast": "Matt Damon, Pedro Pascal, Jing Tian, Willem Dafoe, Zhang Hanyu, Lu Han, Eddie Peng, Lin Gengxin, Karry Wang, Zheng Kai, Huang Xuan, Andy Lau",
+  "genre": "Action & Adventure Movies, US Movies",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "gore",
+  "desc": "Searching for gunpowder in Song dynasty China, European mercenaries discover an epic war being waged between the country's heroes and savage monsters.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81267307"
+    },
+    {
+      "id": "80987626"
+    },
+    {
+      "id": "80025919"
+    },
+    {
+      "id": "80093133"
+    },
+    {
+      "id": "70056440"
+    },
+    {
+      "id": "70208107"
+    },
+    {
+      "id": "70213512"
+    },
+    {
+      "id": "80139562"
+    },
+    {
+      "id": "60027724"
+    },
+    {
+      "id": "70305899"
+    },
+    {
+      "id": "70269488"
+    },
+    {
+      "id": "80179070"
+    }
+  ],
+  "error": null
+}
