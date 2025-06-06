@@ -1,0 +1,191 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Batwheels",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "33% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Michael G. Stern",
+  "director": "",
+  "writer": "",
+  "short_cast": "Ethan Hawke, Jacob Bertrand, Kimberly Brooks",
+  "cast": "Ethan Hawke, Jacob Bertrand, Kimberly Brooks",
+  "genre": "Kids' TV, TV Comedies, TV Cartoons, TV Shows Based on Comics",
+  "thismovieis": "Rousing, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence",
+  "desc": "When Batman, Robin and Batgirl's vehicles come to life, Gotham City gains a young crime-fighting team that's revved up and ready for adventure!",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81772133",
+      "ep": "19",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81772134",
+      "t": "Secret Origin of the Batwheels",
+      "s": "S1",
+      "ep": "E1",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "81772136",
+      "t": "Stop That Ducky! / Buff's BFF",
+      "s": "S1",
+      "ep": "E2",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81772137",
+      "t": "Up in the Air / Bibi's Do-Over",
+      "s": "S1",
+      "ep": "E3",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81772138",
+      "t": "Sidekicked to the Curb / Keep Calm and Roll On",
+      "s": "S1",
+      "ep": "E4",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81772139",
+      "t": "Bam's Upgrade / Redbird's Bogus Beach Day",
+      "s": "S1",
+      "ep": "E5",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81772140",
+      "t": "Cave Sweet Cave / Scaredy-Bat",
+      "s": "S1",
+      "ep": "E6",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81772141",
+      "t": "Riddle Me This / Zoomsday",
+      "s": "S1",
+      "ep": "E7",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81772142",
+      "t": "Rev and Let Rev / Batcomputer for a Day",
+      "s": "S1",
+      "ep": "E8",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81772135",
+      "t": "Holidays on Ice",
+      "s": "S1",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81772143",
+      "t": "Grass is Greener / Bam's Clawful Mistake",
+      "s": "S1",
+      "ep": "E10",
+      "time": "21m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81772133",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "slv",
+      "s": "slv"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "yue",
+      "s": "yue"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81772134",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81566729"
+    },
+    {
+      "id": "81699964"
+    },
+    {
+      "id": "81007144"
+    },
+    {
+      "id": "80993597"
+    },
+    {
+      "id": "81628818"
+    },
+    {
+      "id": "80187223"
+    },
+    {
+      "id": "80103408"
+    }
+  ],
+  "error": null
+}
