@@ -1,0 +1,111 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Escape Room",
+  "year": "2019",
+  "ua": "U/A 16+",
+  "match": "82% match",
+  "runtime": "1h 39m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Adam Robitel",
+  "writer": "Bragi F. Schut, Maria Melnik",
+  "short_cast": "Taylor Russell, Logan Miller, Jay Ellis, Deborah Ann Woll, Tyler Labine, Nik Dodani, Yorick van Wageningen, Cornelius Geaney Jr., Russell Crous, Bart Fouche",
+  "cast": "Taylor Russell, Logan Miller, Jay Ellis, Deborah Ann Woll, Tyler Labine, Nik Dodani, Yorick van Wageningen, Cornelius Geaney Jr., Russell Crous, Bart Fouche",
+  "genre": "US Movies, Horror Movies",
+  "thismovieis": "Suspenseful",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "gore",
+  "desc": "Six strangers use their wits to survive a series of deadly mystery rooms that cater to their worst fears -- or die trying.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81198941"
+    },
+    {
+      "id": "81345798"
+    },
+    {
+      "id": "81488262"
+    },
+    {
+      "id": "80100649"
+    },
+    {
+      "id": "81157374"
+    },
+    {
+      "id": "81084263"
+    },
+    {
+      "id": "70206131"
+    },
+    {
+      "id": "81616656"
+    },
+    {
+      "id": "81753224"
+    },
+    {
+      "id": "80070182"
+    },
+    {
+      "id": "81415088"
+    },
+    {
+      "id": "80998510"
+    }
+  ],
+  "error": null
+}
