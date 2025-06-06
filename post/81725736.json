@@ -1,0 +1,211 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Star Trek: Prodigy",
+  "year": "2021",
+  "ua": "U/A 7+",
+  "match": "30% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Dan Hageman, Kevin Hageman",
+  "director": "",
+  "writer": "",
+  "short_cast": "Brett Gray, Ella Purnell, Jason Mantzoukas, Angus Imrie, Kate Mulgrew, Rylee Alazraqui, Dee Bradley Baker, Jimmi Simpson",
+  "cast": "Brett Gray, Ella Purnell, Jason Mantzoukas, Angus Imrie, Kate Mulgrew, Rylee Alazraqui, Dee Bradley Baker, Jimmi Simpson",
+  "genre": "Family Time TV, Kids' TV, TV Cartoons",
+  "thismovieis": "Imaginative, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "After discovering an abandoned Starfleet ship, a ragtag crew of young adventurers unites to explore the galaxy and evade a ruthless overlord.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81725737",
+      "ep": "20",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81725758",
+      "ep": "20",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81729477",
+      "t": "Into the Breach, Part I",
+      "s": "S2",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81729478",
+      "t": "Into the Breach, Part II",
+      "s": "S2",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81729479",
+      "t": "Who Saves the Saviors",
+      "s": "S2",
+      "ep": "E3",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81729480",
+      "t": "Temporal Mechanics 101",
+      "s": "S2",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81729481",
+      "t": "Observer\u2019s Paradox",
+      "s": "S2",
+      "ep": "E5",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81729482",
+      "t": "Imposter Syndrome",
+      "s": "S2",
+      "ep": "E6",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81729483",
+      "t": "The Fast and the Curious",
+      "s": "S2",
+      "ep": "E7",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81729484",
+      "t": "Is There in Beauty No Truth?",
+      "s": "S2",
+      "ep": "E8",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81729485",
+      "t": "The Devourer of All Things, Part I",
+      "s": "S2",
+      "ep": "E9",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81729486",
+      "t": "The Devourer of All Things, Part II",
+      "s": "S2",
+      "ep": "E10",
+      "time": "24m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81725758",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81729477",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81004665"
+    },
+    {
+      "id": "80212245"
+    },
+    {
+      "id": "81007144"
+    },
+    {
+      "id": "70177043"
+    },
+    {
+      "id": "80225085"
+    },
+    {
+      "id": "80234642"
+    },
+    {
+      "id": "80075820"
+    },
+    {
+      "id": "81092958"
+    },
+    {
+      "id": "81035568"
+    }
+  ],
+  "error": null
+}
