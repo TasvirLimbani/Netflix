@@ -1,0 +1,162 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Pablo Escobar, el patr\u00f3n del mal",
+  "year": "2012",
+  "ua": "U/A 18+ [A]",
+  "match": "76% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Juana Uribe, Camilo Cano",
+  "director": "",
+  "writer": "",
+  "short_cast": "Andr\u00e9s Parra, Angie Cepeda, Cecilia Navia, Vicky Hern\u00e1ndez, Christian Tappan, Rodolfo Silva, Tommy V\u00e1squez, Toto Vega, Nicol\u00e1s Montero, Marcela Gallego",
+  "cast": "Andr\u00e9s Parra, Angie Cepeda, Cecilia Navia, Vicky Hern\u00e1ndez, Christian Tappan, Rodolfo Silva, Tommy V\u00e1squez, Toto Vega, Nicol\u00e1s Montero, Marcela Gallego",
+  "genre": "TV Dramas, Colombian, TV Shows Based on Books, Crime TV Shows, TV Shows Based on Real Life",
+  "thismovieis": "Gritty",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "substances",
+  "desc": "From his days as a petty thief to becoming head of a drug-trafficking empire, this riveting series charts the life of the infamous Pablo Escobar.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "80035484",
+      "ep": "74",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80035733",
+      "t": "Episode 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80035734",
+      "t": "Episode 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "80035735",
+      "t": "Episode 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80035736",
+      "t": "Episode 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80035737",
+      "t": "Episode 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "80035738",
+      "t": "Episode 6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "80035739",
+      "t": "Episode 7",
+      "s": "S1",
+      "ep": "E7",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "80035740",
+      "t": "Episode 8",
+      "s": "S1",
+      "ep": "E8",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80035741",
+      "t": "Episode 9",
+      "s": "S1",
+      "ep": "E9",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "80035742",
+      "t": "Episode 10",
+      "s": "S1",
+      "ep": "E10",
+      "time": "45m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80035484",
+  "lang": [
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80035733",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80025172"
+    },
+    {
+      "id": "80133042"
+    },
+    {
+      "id": "80997085"
+    },
+    {
+      "id": "81133447"
+    },
+    {
+      "id": "70205672"
+    },
+    {
+      "id": "70241340"
+    },
+    {
+      "id": "81343748"
+    },
+    {
+      "id": "80002479"
+    }
+  ],
+  "error": null
+}
