@@ -1,0 +1,218 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Baby-Sitters Club",
+  "year": "2020",
+  "ua": "U/A 7+",
+  "match": "33% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Rachel Shukert",
+  "director": "",
+  "writer": "",
+  "short_cast": "Sophie Grace, Momona Tamada, Shay Rudolph, Malia Baker, Xochitl Gomez, Alicia Silverstone, Mark Feuerstein, Marc Evan Jackson, Aya Furukawa, Jessica Elaina Eason, Sophia Reid-Gantzert",
+  "cast": "Sophie Grace, Momona Tamada, Shay Rudolph, Malia Baker, Xochitl Gomez, Alicia Silverstone, Mark Feuerstein, Marc Evan Jackson, Aya Furukawa, Jessica Elaina Eason, Sophia Reid-Gantzert",
+  "genre": "Family Time TV, Kids' TV, TV Dramas, TV Shows Based on Books",
+  "thismovieis": "Nostalgic, Heartfelt",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild themes",
+  "desc": "Ann M. Martin's beloved books get a modern update in this series that follows a group of girlfriends and their homegrown babysitting business.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81005423",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81187937",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81290904",
+      "t": "Kristy and the Snobs",
+      "s": "S2",
+      "ep": "E1",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81290905",
+      "t": "Claudia and the New Girl",
+      "s": "S2",
+      "ep": "E2",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81290906",
+      "t": "Stacey's Emergency",
+      "s": "S2",
+      "ep": "E3",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81290907",
+      "t": "Jessi and the Superbrat",
+      "s": "S2",
+      "ep": "E4",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81290908",
+      "t": "Mary Anne and the Great Romance",
+      "s": "S2",
+      "ep": "E5",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81290909",
+      "t": "Dawn and the Wicked Stepsister",
+      "s": "S2",
+      "ep": "E6",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81290910",
+      "t": "Claudia and the Sad Goodbye",
+      "s": "S2",
+      "ep": "E7",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81290911",
+      "t": "Kristy and the Baby Parade",
+      "s": "S2",
+      "ep": "E8",
+      "time": "28m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81187937",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81290904",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80994878"
+    },
+    {
+      "id": "80174285"
+    },
+    {
+      "id": "81422413"
+    },
+    {
+      "id": "81011712"
+    },
+    {
+      "id": "81209537"
+    },
+    {
+      "id": "80245601"
+    },
+    {
+      "id": "80994277"
+    },
+    {
+      "id": "80105067"
+    },
+    {
+      "id": "81589046"
+    },
+    {
+      "id": "81354629"
+    }
+  ],
+  "error": null
+}
