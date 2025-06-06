@@ -1,0 +1,139 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "DC Super Hero Girls",
+  "year": "2019",
+  "ua": "U/A 7+",
+  "match": "38% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Grey Griffin, Tara Strong, Nicole Sullivan, Kari Wahlgren, Myrna Velasco, Kimberly Brooks",
+  "cast": "Grey Griffin, Tara Strong, Nicole Sullivan, Kari Wahlgren, Myrna Velasco, Kimberly Brooks",
+  "genre": "Kids' TV, TV Cartoons, TV Shows Based on Comics",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "rude humor, mild violence, mild fear",
+  "desc": "As Metropolis High students, super teens Wonder Woman, Supergirl, Bumblebee, Batgirl, Zatanna, and Green Lantern fight crime, classwork and crushes.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81145147",
+      "ep": "49",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81145154",
+      "t": "#SweetJustice: Part 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "10m"
+    },
+    {
+      "complate": "0",
+      "id": "81145155",
+      "t": "#SweetJustice: Part 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "13m"
+    },
+    {
+      "complate": "0",
+      "id": "81145156",
+      "t": "#SweetJustice: Part 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81145157",
+      "t": "#SweetJustice: Part 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "12m"
+    },
+    {
+      "complate": "0",
+      "id": "81145169",
+      "t": "#AdventuresInBunnysitting",
+      "s": "S1",
+      "ep": "E5",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81145170",
+      "t": "#HateTriangle",
+      "s": "S1",
+      "ep": "E6",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81145159",
+      "t": "#MeetTheCheetah",
+      "s": "S1",
+      "ep": "E7",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81145163",
+      "t": "#SheMightBeGiant",
+      "s": "S1",
+      "ep": "E8",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81145161",
+      "t": "#SuperWho?",
+      "s": "S1",
+      "ep": "E9",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81145162",
+      "t": "#ShockItToMe",
+      "s": "S1",
+      "ep": "E10",
+      "time": "11m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81145147",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "last_ep": "81145154",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "70177043"
+    },
+    {
+      "id": "81383247"
+    }
+  ],
+  "error": null
+}
