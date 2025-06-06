@@ -1,0 +1,213 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Salvation",
+  "year": "2017",
+  "ua": "U/A 13+",
+  "match": "52% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Elizabeth Kruger, Craig Shapiro, Matt Wheeler",
+  "director": "",
+  "writer": "",
+  "short_cast": "Ian Anthony Dale, Santiago Cabrera, Jennifer Finnigan, Charlie Rowe, Jacqueline Byers, Rachel Drance, Erica Luttrell, Shazi Raja",
+  "cast": "Ian Anthony Dale, Santiago Cabrera, Jennifer Finnigan, Charlie Rowe, Jacqueline Byers, Rachel Drance, Erica Luttrell, Shazi Raja",
+  "genre": "TV Dramas, Sci-Fi TV, US TV Shows, TV Thrillers",
+  "thismovieis": "Suspenseful",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, mature themes, language, gore",
+  "desc": "An MIT grad student and a tech billionaire team up in a desperate bid to stop an asteroid from colliding with Earth.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "80173627",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81004917",
+      "ep": "13",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81011259",
+      "t": "Fall Out",
+      "s": "S2",
+      "ep": "E1",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81011260",
+      "t": "D\u00e9tente",
+      "s": "S2",
+      "ep": "E2",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81011261",
+      "t": "Crimes and Punishment",
+      "s": "S2",
+      "ep": "E3",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81011262",
+      "t": "Indivisible",
+      "s": "S2",
+      "ep": "E4",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81011263",
+      "t": "White House Down",
+      "s": "S2",
+      "ep": "E5",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81011264",
+      "t": "Let the Chips Fall",
+      "s": "S2",
+      "ep": "E6",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81011265",
+      "t": "The Madness of King Tanz",
+      "s": "S2",
+      "ep": "E7",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81011266",
+      "t": "Abre Sus Ojos",
+      "s": "S2",
+      "ep": "E8",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81011267",
+      "t": "The Manchurian Candidate",
+      "s": "S2",
+      "ep": "E9",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81011268",
+      "t": "Prisoners",
+      "s": "S2",
+      "ep": "E10",
+      "time": "41m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81004917",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81011259",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "80236236"
+    },
+    {
+      "id": "80214512"
+    },
+    {
+      "id": "80104198"
+    },
+    {
+      "id": "81281008"
+    },
+    {
+      "id": "80177458"
+    },
+    {
+      "id": "80105699"
+    },
+    {
+      "id": "81098012"
+    },
+    {
+      "id": "70305903"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "80117456"
+    }
+  ],
+  "error": null
+}
