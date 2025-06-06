@@ -1,0 +1,218 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Masha and the Bear",
+  "year": "2009",
+  "ua": "U",
+  "match": "38% match",
+  "runtime": "5 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Oleg Kuzovkov",
+  "director": "",
+  "writer": "",
+  "short_cast": "Alina Kukushkina, Boris Kutnevich, Giselle Nieto, Elsie Fisher",
+  "cast": "Alina Kukushkina, Boris Kutnevich, Giselle Nieto, Elsie Fisher",
+  "genre": "Kids' TV, Russian, TV Cartoons",
+  "thismovieis": "Quirky, Feel-Good, Goofy",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "Lively little Masha lives near the forest, where she has wonderful adventures with her best friend \u2014 a bear who used to be in the circus.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "80017862",
+      "ep": "9",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80058782",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80224092",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "80191086",
+      "ep": "4",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "81500447",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81500454",
+      "t": "Big Hike; Masha Knows Best; What's Inside?",
+      "s": "S5",
+      "ep": "E1",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81500455",
+      "t": "Honey Day; Mushroom Rain; Finders Keepers",
+      "s": "S5",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81500456",
+      "t": "Berry Naughty; The First Swallow; Treasure Island; Who's the Boss?",
+      "s": "S5",
+      "ep": "E3",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81500457",
+      "t": "Mind your manners; Something Yummy; Tour de Forest",
+      "s": "S5",
+      "ep": "E4",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81500458",
+      "t": "Firefighter of the Day; Wish Upon a Star; How to Train Your Plant",
+      "s": "S5",
+      "ep": "E5",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81500459",
+      "t": "Princess or Dragon?; Love is in the Bear; The Mystery Guest",
+      "s": "S5",
+      "ep": "E6",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81500460",
+      "t": "UnBearable Beach; Awesome Blossoms; Happily Feather After",
+      "s": "S5",
+      "ep": "E7",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81500461",
+      "t": "Try, Try Again; Sudden Turn; Pasta la Vista; Sleeping Beauties",
+      "s": "S5",
+      "ep": "E8",
+      "time": "30m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81500447",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81500454",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81154166"
+    },
+    {
+      "id": "80025494"
+    },
+    {
+      "id": "70155567"
+    },
+    {
+      "id": "81593310"
+    }
+  ],
+  "error": null
+}
