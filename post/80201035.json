@@ -1,0 +1,159 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Big Show Show",
+  "year": "2020",
+  "ua": "U/A 7+",
+  "match": "87% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Josh Bycel, Jason Berger",
+  "director": "",
+  "writer": "",
+  "short_cast": "Paul Wight, Allison Munn, Reylynn Caster, Lily Brooks O'Briant, Juliet Donenfeld",
+  "cast": "Paul Wight, Allison Munn, Reylynn Caster, Lily Brooks O'Briant, Juliet Donenfeld",
+  "genre": "Kids' TV, Sitcoms, Family Watch Together TV, TV Comedies",
+  "thismovieis": "Feel-Good, Goofy",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild language",
+  "desc": "Former WWE wrestler the Big Show is out of the ring and ready for an even tougher challenge: raising three daughters with his wife in Florida.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80240109",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81229214",
+      "ep": "1",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81131240",
+      "t": "The Big Christmas",
+      "s": "S2",
+      "ep": "E1",
+      "time": "24m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81229214",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81131240",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80020540"
+    },
+    {
+      "id": "80234451"
+    },
+    {
+      "id": "81634726"
+    },
+    {
+      "id": "80244332"
+    },
+    {
+      "id": "80174285"
+    },
+    {
+      "id": "80231658"
+    },
+    {
+      "id": "81005407"
+    },
+    {
+      "id": "81443738"
+    },
+    {
+      "id": "80243216"
+    }
+  ],
+  "error": null
+}
