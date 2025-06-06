@@ -1,0 +1,111 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Beverly Hills Cop III",
+  "year": "1994",
+  "ua": "U/A 16+",
+  "match": "54% match",
+  "runtime": "1h 44m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "John Landis",
+  "writer": "Danilo Bach, Daniel Petrie Jr., Steven E. de Souza",
+  "short_cast": "Eddie Murphy, Judge Reinhold, H\u00e9ctor Elizondo, Timothy Carhart, John Saxon, Theresa Randle, Alan Young, Stephen McHattie, Bronson Pinchot",
+  "cast": "Eddie Murphy, Judge Reinhold, H\u00e9ctor Elizondo, Timothy Carhart, John Saxon, Theresa Randle, Alan Young, Stephen McHattie, Bronson Pinchot",
+  "genre": "Comedy Movies, Action & Adventure Movies, US Movies",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "language",
+  "desc": "When fast-talking Detroit cop Axel Foley returns to Beverly Hills to investigate a murder, the trail leads to an unlikely setting: an amusement park.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "60010139"
+    },
+    {
+      "id": "81076856"
+    },
+    {
+      "id": "60010140"
+    },
+    {
+      "id": "17236928"
+    },
+    {
+      "id": "60022059"
+    },
+    {
+      "id": "70059988"
+    },
+    {
+      "id": "60020801"
+    },
+    {
+      "id": "80182014"
+    },
+    {
+      "id": "60001650"
+    },
+    {
+      "id": "215309"
+    },
+    {
+      "id": "70028904"
+    },
+    {
+      "id": "80216309"
+    }
+  ],
+  "error": null
+}
