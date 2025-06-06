@@ -1,0 +1,220 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Squid Game",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "62% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Hwang Dong-hyuk",
+  "director": "",
+  "writer": "",
+  "short_cast": "Lee Jung-jae, Park Hae-soo, Wi Ha-jun, Oh Young-soo, Jung Ho-yeon, Heo Sung-tae, Kim Joo-ryoung, Tripathi Anupam, You Seong-joo, Lee You-mi",
+  "cast": "Lee Jung-jae, Park Hae-soo, Wi Ha-jun, Oh Young-soo, Jung Ho-yeon, Heo Sung-tae, Kim Joo-ryoung, Tripathi Anupam, You Seong-joo, Lee You-mi",
+  "genre": "TV Dramas, Korean, TV Thrillers",
+  "thismovieis": "Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide, sex, nudity, crude humor",
+  "desc": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits \u2014 with deadly high stakes.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81105887",
+      "ep": "9",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81203480",
+      "ep": "7",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81616248",
+      "t": "Bread and Lottery",
+      "s": "S2",
+      "ep": "E1",
+      "time": "65m"
+    },
+    {
+      "complate": "0",
+      "id": "81616249",
+      "t": "Halloween Party",
+      "s": "S2",
+      "ep": "E2",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81616250",
+      "t": "001",
+      "s": "S2",
+      "ep": "E3",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81616251",
+      "t": "Six Legs",
+      "s": "S2",
+      "ep": "E4",
+      "time": "62m"
+    },
+    {
+      "complate": "0",
+      "id": "81616252",
+      "t": "One More Game",
+      "s": "S2",
+      "ep": "E5",
+      "time": "76m"
+    },
+    {
+      "complate": "0",
+      "id": "81616253",
+      "t": "O \ufeff X",
+      "s": "S2",
+      "ep": "E6",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81616254",
+      "t": "Friend or Foe",
+      "s": "S2",
+      "ep": "E7",
+      "time": "60m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81203480",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Filipino (Tagalog)",
+      "s": "fil"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    }
+  ],
+  "last_ep": "81616248",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80200575"
+    },
+    {
+      "id": "80074220"
+    },
+    {
+      "id": "81001691"
+    },
+    {
+      "id": "80070182"
+    },
+    {
+      "id": "81256675"
+    },
+    {
+      "id": "81061734"
+    },
+    {
+      "id": "81439267"
+    },
+    {
+      "id": "80991754"
+    }
+  ],
+  "error": null
+}
