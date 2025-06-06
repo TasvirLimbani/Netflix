@@ -1,0 +1,186 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Chosen",
+  "year": "2019",
+  "ua": "U/A 13+",
+  "match": "67% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Dallas Jenkins",
+  "director": "",
+  "writer": "",
+  "short_cast": "Shahar Isaac, Elizabeth Tabish, Jonathan Roumie, Paras Patel, Noah James, George Harrison Xanthis, Abe Martell, Shaan Sharma, Abe Bueno-Jallad, Joey Vahedi, Yasmine Al-Bustami, Nick Shakoour",
+  "cast": "Shahar Isaac, Elizabeth Tabish, Jonathan Roumie, Paras Patel, Noah James, George Harrison Xanthis, Abe Martell, Shaan Sharma, Abe Bueno-Jallad, Joey Vahedi, Yasmine Al-Bustami, Nick Shakoour",
+  "genre": "TV Dramas, US TV Shows",
+  "thismovieis": "Sentimental, Intimate, Heartfelt",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, threat, mature themes, gore",
+  "desc": "With his teachings and miracles, Jesus of Nazareth attracts students and followers from all walks of life. But the Roman authorities grow uneasy.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81622758",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81622759",
+      "t": "I Have Called You By Name",
+      "s": "S1",
+      "ep": "E1",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81622760",
+      "t": "Shabbat",
+      "s": "S1",
+      "ep": "E2",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81622761",
+      "t": "Jesus Loves the Little Children",
+      "s": "S1",
+      "ep": "E3",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81622762",
+      "t": "The Rock On Which It Is Built",
+      "s": "S1",
+      "ep": "E4",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81622763",
+      "t": "The Wedding Gift",
+      "s": "S1",
+      "ep": "E5",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81622764",
+      "t": "Indescribable Compassion",
+      "s": "S1",
+      "ep": "E6",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81622765",
+      "t": "Invitations",
+      "s": "S1",
+      "ep": "E7",
+      "time": "37m"
+    },
+    {
+      "complate": "0",
+      "id": "81622766",
+      "t": "I Am He",
+      "s": "S1",
+      "ep": "E8",
+      "time": "59m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81622758",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Bengali",
+      "s": "ben"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81622759",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81341795"
+    },
+    {
+      "id": "81629410"
+    },
+    {
+      "id": "80066891"
+    },
+    {
+      "id": "80117557"
+    },
+    {
+      "id": "80081151"
+    },
+    {
+      "id": "80174451"
+    },
+    {
+      "id": "81298682"
+    },
+    {
+      "id": "80217665"
+    },
+    {
+      "id": "80186829"
+    },
+    {
+      "id": "81325194"
+    },
+    {
+      "id": "81230204"
+    },
+    {
+      "id": "80200047"
+    }
+  ],
+  "error": null
+}
