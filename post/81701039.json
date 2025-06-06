@@ -1,0 +1,106 @@
+{
+  "status": "y",
+  "d_lang": "hin",
+  "title": "Chhota Bheem Rangda ka Mayajaal",
+  "year": "2023",
+  "ua": "U/A 7+",
+  "match": "96% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Kids' TV, TV Cartoons, Hindi-Language TV Shows",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "Sensing danger, the Prithvi Chakra causes the island of Bali to sink. Now Bheem, Chutki and the gang must save its people and defeat the evil Rangda.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81701040",
+      "ep": "3",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81701041",
+      "t": "Part 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81701042",
+      "t": "Part 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81701043",
+      "t": "Part 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "49m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81701040",
+  "lang": [
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "last_ep": "81701041",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81701044"
+    },
+    {
+      "id": "81701050"
+    },
+    {
+      "id": "81701032"
+    },
+    {
+      "id": "81318057"
+    },
+    {
+      "id": "80158156"
+    },
+    {
+      "id": "81570077"
+    },
+    {
+      "id": "81318081"
+    },
+    {
+      "id": "81318062"
+    },
+    {
+      "id": "81570092"
+    },
+    {
+      "id": "81318066"
+    },
+    {
+      "id": "81318080"
+    },
+    {
+      "id": "80146758"
+    }
+  ],
+  "error": null
+}
