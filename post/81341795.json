@@ -1,0 +1,158 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Testament: The Story of Moses",
+  "year": "2024",
+  "ua": "U/A 13+",
+  "match": "34% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Charles Dance, Clarke Peters, Avi Azulay, Dominique Tipper, Mehmet Kurtulu\u015f, Ishai Golan, Raymonde Amsellem, T\u00fclay G\u00fcnal",
+  "cast": "Charles Dance, Clarke Peters, Avi Azulay, Dominique Tipper, Mehmet Kurtulu\u015f, Ishai Golan, Raymonde Amsellem, T\u00fclay G\u00fcnal",
+  "genre": "TV Dramas, Historical Documentaries, Docuseries, US TV Shows, Docudramas",
+  "thismovieis": "Inspiring",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, mature themes, gore",
+  "desc": "This illuminating docudrama series chronicles Moses' remarkable life as a prince, prophet and more with insights from theologians and historians.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81341796",
+      "ep": "3",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81368146",
+      "t": "Part One The Prophet",
+      "s": "S1",
+      "ep": "E1",
+      "time": "81m"
+    },
+    {
+      "complate": "0",
+      "id": "81368148",
+      "t": "Part Two The Plagues",
+      "s": "S1",
+      "ep": "E2",
+      "time": "86m"
+    },
+    {
+      "complate": "0",
+      "id": "81368150",
+      "t": "Part Three The Promised Land",
+      "s": "S1",
+      "ep": "E3",
+      "time": "88m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81341796",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Filipino (Tagalog)",
+      "s": "fil"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81368146",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81435357"
+    },
+    {
+      "id": "81610333"
+    },
+    {
+      "id": "81622757"
+    },
+    {
+      "id": "81230204"
+    },
+    {
+      "id": "80066891"
+    },
+    {
+      "id": "80117557"
+    },
+    {
+      "id": "81473679"
+    },
+    {
+      "id": "80096545"
+    },
+    {
+      "id": "81211003"
+    },
+    {
+      "id": "81629410"
+    },
+    {
+      "id": "81064069"
+    },
+    {
+      "id": "81325194"
+    }
+  ],
+  "error": null
+}
