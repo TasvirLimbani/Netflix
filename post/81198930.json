@@ -1,0 +1,75 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Tenet",
+  "year": "2020",
+  "ua": "U/A 13+",
+  "match": "43% match",
+  "runtime": "2h 30m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Christopher Nolan",
+  "writer": "Christopher Nolan",
+  "short_cast": "John David Washington, Robert Pattinson, Elizabeth Debicki, Kenneth Branagh, Dimple Kapadia, Michael Caine",
+  "cast": "John David Washington, Robert Pattinson, Elizabeth Debicki, Kenneth Branagh, Dimple Kapadia, Michael Caine",
+  "genre": "Sci-Fi Movies, British, Action & Adventure Movies, Spy Movies",
+  "thismovieis": "Mind-Bending, Cerebral",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, threat, substances, mature themes, language, gore, crude humor",
+  "desc": "An undercover agent must retrieve a mysterious and powerful weapon in order to stop a temporal war that could destroy the world.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70131314"
+    },
+    {
+      "id": "70305903"
+    },
+    {
+      "id": "80185760"
+    },
+    {
+      "id": "81199139"
+    },
+    {
+      "id": "81500601"
+    },
+    {
+      "id": "81092221"
+    },
+    {
+      "id": "70298735"
+    },
+    {
+      "id": "70021642"
+    },
+    {
+      "id": "80117456"
+    },
+    {
+      "id": "81288179"
+    },
+    {
+      "id": "20557937"
+    },
+    {
+      "id": "81160697"
+    }
+  ],
+  "error": null
+}
