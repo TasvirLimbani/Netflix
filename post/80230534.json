@@ -1,0 +1,261 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Julie and the Phantoms",
+  "year": "2020",
+  "ua": "U/A 7+",
+  "match": "48% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Dan Cross, David Hoge",
+  "director": "",
+  "writer": "",
+  "short_cast": "Madison Reyes, Charlie Gillespie, Owen Patrick Joyner, Jeremy Shada, Jadah Marie, Sacha Carlson, Savannah Lee May, Cheyenne Jackson, Carlos Ponce, Booboo Stewart, Sonny Bustamante",
+  "cast": "Madison Reyes, Charlie Gillespie, Owen Patrick Joyner, Jeremy Shada, Jadah Marie, Sacha Carlson, Savannah Lee May, Cheyenne Jackson, Carlos Ponce, Booboo Stewart, Sonny Bustamante",
+  "genre": "Family Time TV, Kids' TV, Kids Music, TV Comedies",
+  "thismovieis": "Inspiring, Feel-Good",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild fear",
+  "desc": "Julie lost her passion for music when she lost her mom. But when three ghostly guys appear and lift her spirits, they decide to start a band together!",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80230548",
+      "ep": "9",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80230549",
+      "t": "Wake Up",
+      "s": "S1",
+      "ep": "E1",
+      "time": "38m"
+    },
+    {
+      "complate": "0",
+      "id": "81101663",
+      "t": "Bright",
+      "s": "S1",
+      "ep": "E2",
+      "time": "32m"
+    },
+    {
+      "complate": "0",
+      "id": "81101664",
+      "t": "Flying Solo",
+      "s": "S1",
+      "ep": "E3",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81101665",
+      "t": "I Got the Music",
+      "s": "S1",
+      "ep": "E4",
+      "time": "32m"
+    },
+    {
+      "complate": "0",
+      "id": "81101667",
+      "t": "The Other Side of Hollywood",
+      "s": "S1",
+      "ep": "E5",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81101668",
+      "t": "Finally Free",
+      "s": "S1",
+      "ep": "E6",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81101669",
+      "t": "Edge of Great",
+      "s": "S1",
+      "ep": "E7",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81101670",
+      "t": "Unsaid Emily",
+      "s": "S1",
+      "ep": "E8",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81101672",
+      "t": "Stand Tall",
+      "s": "S1",
+      "ep": "E9",
+      "time": "35m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80230548",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "80230549",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81589046"
+    },
+    {
+      "id": "80245601"
+    },
+    {
+      "id": "80095435"
+    },
+    {
+      "id": "80994878"
+    },
+    {
+      "id": "81209537"
+    },
+    {
+      "id": "80244332"
+    },
+    {
+      "id": "80220644"
+    },
+    {
+      "id": "80174285"
+    },
+    {
+      "id": "81634726"
+    }
+  ],
+  "error": null
+}
