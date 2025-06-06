@@ -1,0 +1,91 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Morbius",
+  "year": "2022",
+  "ua": "U/A 16+",
+  "match": "84% match",
+  "runtime": "1h 44m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Daniel Espinosa",
+  "writer": "Matt Sazama, Burk Sharpless",
+  "short_cast": "Jared Leto, Matt Smith, Adria Arjona, Jared Harris, Tyrese Gibson, Al Madrigal, Michael Keaton, Zaris-Angel Hator, Joe Ferrara, Charlie Shotwell, Joseph Esson",
+  "cast": "Jared Leto, Matt Smith, Adria Arjona, Jared Harris, Tyrese Gibson, Al Madrigal, Michael Keaton, Zaris-Angel Hator, Joe Ferrara, Charlie Shotwell, Joseph Esson",
+  "genre": "Sci-Fi Movies, US Movies, Action & Adventure",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "gore",
+  "desc": "A biochemist with a rare blood disease in search of a cure injects himself with a dangerous serum that gives him super strength and a thirst for blood.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81716649"
+    },
+    {
+      "id": "70305899"
+    },
+    {
+      "id": "81199145"
+    },
+    {
+      "id": "60027724"
+    },
+    {
+      "id": "81199140"
+    },
+    {
+      "id": "81199139"
+    },
+    {
+      "id": "81416258"
+    },
+    {
+      "id": "80991034"
+    },
+    {
+      "id": "81042819"
+    },
+    {
+      "id": "81642086"
+    },
+    {
+      "id": "80187362"
+    },
+    {
+      "id": "70264797"
+    }
+  ],
+  "error": null
+}
