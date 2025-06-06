@@ -1,0 +1,183 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Business Proposal",
+  "year": "2022",
+  "ua": "U/A 13+",
+  "match": "93% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Park Seon-ho, Han Sul-hee, Hong Bo-hui",
+  "director": "",
+  "writer": "",
+  "short_cast": "Ahn Hyo-seop, Kim Se-jeong, Kim Min-gue, Seor In-a, Lee Duck-hwa",
+  "cast": "Ahn Hyo-seop, Kim Se-jeong, Kim Min-gue, Seor In-a, Lee Duck-hwa",
+  "genre": "Korean, TV Comedies, Romantic TV Comedies",
+  "thismovieis": "Swoonworthy, Charming, Romantic",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "substances, mature themes, language, crude humor",
+  "desc": "In disguise as her friend, Ha-ri shows up to a blind date to scare him away. But plans go awry when he turns out to be her CEO \u2014 and makes a proposal.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81509441",
+      "ep": "12",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81509456",
+      "t": "Episode 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81509457",
+      "t": "Episode 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81509458",
+      "t": "Episode 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81509459",
+      "t": "Episode 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81509460",
+      "t": "Episode 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81509461",
+      "t": "Episode 6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81509462",
+      "t": "Episode 7",
+      "s": "S1",
+      "ep": "E7",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81509463",
+      "t": "Episode 8",
+      "s": "S1",
+      "ep": "E8",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81509464",
+      "t": "Episode 9",
+      "s": "S1",
+      "ep": "E9",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81509465",
+      "t": "Episode 10",
+      "s": "S1",
+      "ep": "E10",
+      "time": "61m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81509441",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    }
+  ],
+  "last_ep": "81509456",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81030241"
+    },
+    {
+      "id": "81671440"
+    },
+    {
+      "id": "81463556"
+    },
+    {
+      "id": "81716080"
+    },
+    {
+      "id": "81669779"
+    },
+    {
+      "id": "81472752"
+    },
+    {
+      "id": "81410834"
+    },
+    {
+      "id": "81707950"
+    },
+    {
+      "id": "81354739"
+    },
+    {
+      "id": "81473182"
+    },
+    {
+      "id": "81243992"
+    }
+  ],
+  "error": null
+}
