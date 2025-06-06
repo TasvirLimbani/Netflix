@@ -1,0 +1,111 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Silence",
+  "year": "2019",
+  "ua": "U/A 16+",
+  "match": "35% match",
+  "runtime": "1h 30m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "John R. Leonetti",
+  "writer": "Carey Van Dyke, Shane Van Dyke, Tim Lebbon",
+  "short_cast": "Stanley Tucci, Kiernan Shipka, Miranda Otto, Kate Trotter, John Corbett, Kyle Breitkopf, Dempsey Bryk, Billy MacLellan",
+  "cast": "Stanley Tucci, Kiernan Shipka, Miranda Otto, Kate Trotter, John Corbett, Kyle Breitkopf, Dempsey Bryk, Billy MacLellan",
+  "genre": "US Movies, Movies Based on Books, Horror Movies, Creature Features",
+  "thismovieis": "Ominous, Scary",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, mature themes, gore",
+  "desc": "With the world under attack by deadly creatures who hunt by sound, a teen and her family seek refuge outside the city and encounter a mysterious cult.",
+  "oin": "y",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "80213226"
+    },
+    {
+      "id": "80196789"
+    },
+    {
+      "id": "81240831"
+    },
+    {
+      "id": "80100649"
+    },
+    {
+      "id": "81157374"
+    },
+    {
+      "id": "80198645"
+    },
+    {
+      "id": "81345798"
+    },
+    {
+      "id": "81619948"
+    },
+    {
+      "id": "81210788"
+    },
+    {
+      "id": "70262639"
+    },
+    {
+      "id": "80161216"
+    },
+    {
+      "id": "80237905"
+    }
+  ],
+  "error": null
+}
