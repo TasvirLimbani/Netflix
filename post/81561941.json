@@ -1,0 +1,162 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Hitler and the Nazis: Evil on Trial",
+  "year": "2024",
+  "ua": "U/A 18+ [A]",
+  "match": "66% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "Joe Berlinger",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Political TV Shows, Historical Documentaries, Political Documentaries, Military Documentaries, Docuseries, US TV Shows",
+  "thismovieis": "",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, gore, disturbing images",
+  "desc": "This gripping docuseries examines Adolf Hitler and the Nazis' rise, rule and reckoning from pre-WWII to the Holocaust to the Nuremberg trials.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81561942",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81576218",
+      "t": "Origin of Evil",
+      "s": "S1",
+      "ep": "E1",
+      "time": "62m"
+    },
+    {
+      "complate": "0",
+      "id": "81674976",
+      "t": "The Third Reich Rises",
+      "s": "S1",
+      "ep": "E2",
+      "time": "63m"
+    },
+    {
+      "complate": "0",
+      "id": "81674977",
+      "t": "Hitler in Power",
+      "s": "S1",
+      "ep": "E3",
+      "time": "64m"
+    },
+    {
+      "complate": "0",
+      "id": "81674978",
+      "t": "The Road to Ruin",
+      "s": "S1",
+      "ep": "E4",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81674979",
+      "t": "Crimes Against Humanity",
+      "s": "S1",
+      "ep": "E5",
+      "time": "66m"
+    },
+    {
+      "complate": "0",
+      "id": "81674980",
+      "t": "The Reckoning",
+      "s": "S1",
+      "ep": "E6",
+      "time": "65m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81561942",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81576218",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81303911"
+    },
+    {
+      "id": "80138915"
+    },
+    {
+      "id": "80106791"
+    },
+    {
+      "id": "80989924"
+    },
+    {
+      "id": "81672035"
+    },
+    {
+      "id": "80989772"
+    },
+    {
+      "id": "81614129"
+    },
+    {
+      "id": "80201488"
+    },
+    {
+      "id": "21477429"
+    },
+    {
+      "id": "81488464"
+    },
+    {
+      "id": "81474469"
+    },
+    {
+      "id": "81513913"
+    }
+  ],
+  "error": null
+}
