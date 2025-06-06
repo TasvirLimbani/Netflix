@@ -1,0 +1,265 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Epic Tales of Captain Underpants",
+  "year": "2018",
+  "ua": "U/A 7+",
+  "match": "65% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Nat Faxon, Jay Gragnani, Ramone Hamilton, Sean Astin, Dayci Brookshire, Jorge Diaz, Evan Kishiyama",
+  "cast": "Nat Faxon, Jay Gragnani, Ramone Hamilton, Sean Astin, Dayci Brookshire, Jorge Diaz, Evan Kishiyama",
+  "genre": "Kids' TV, Family Watch Together TV, TV Shows Based on Books, TV Comedies, TV Cartoons",
+  "thismovieis": "Witty, Goofy, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "rude humor, mild violence, mild language",
+  "desc": "Fourth-grade friends George and Harold have a shared love of pranks and comic books -- and turning their principal into an undies-wearing superhero.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80179783",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80179871",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80238093",
+      "ep": "13",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81021953",
+      "t": "Captain Underpants and the Worrisome Wedge of the Water Warmongers",
+      "s": "S3",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81021955",
+      "t": "Captain Underpants and the Angry Abnormal Atrocities of the Astute Animal Aggressors",
+      "s": "S3",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81021954",
+      "t": "Captain Underpants and the Abysmal Altercation of the Abominable Altitooth",
+      "s": "S3",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81021956",
+      "t": "Captain Underpants and the Bizarre Bout of the Beastly Barfilisk",
+      "s": "S3",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81021957",
+      "t": "Captain Underpants and the Monstrous Mayhem of the Massive Melviathan",
+      "s": "S3",
+      "ep": "E5",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81021958",
+      "t": "Captain Underpants and the Savage Spite of the Slimy Salamangler",
+      "s": "S3",
+      "ep": "E6",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81021961",
+      "t": "Captain Underpants and the Cunning Combat of the Covert Camoflush",
+      "s": "S3",
+      "ep": "E7",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81021962",
+      "t": "Captain Underpants and the Bad Beat of the Blah Borelock",
+      "s": "S3",
+      "ep": "E8",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81021959",
+      "t": "Captain Underpants and the Ghastly Danger of the Ghost Dentist",
+      "s": "S3",
+      "ep": "E9",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81021960",
+      "t": "Captain Underpants and the Confounding Concoction of the Crooked Combotato",
+      "s": "S3",
+      "ep": "E10",
+      "time": "24m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80238093",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "yue",
+      "s": "yue"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81021953",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81147421"
+    },
+    {
+      "id": "81019938"
+    },
+    {
+      "id": "81021976"
+    },
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "80242531"
+    },
+    {
+      "id": "70155547"
+    },
+    {
+      "id": "70243420"
+    },
+    {
+      "id": "80146758"
+    },
+    {
+      "id": "81154166"
+    }
+  ],
+  "error": null
+}
