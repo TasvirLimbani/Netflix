@@ -1,0 +1,130 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "You\u2019re Nothing Special",
+  "year": "2022",
+  "ua": "U/A 16+",
+  "match": "88% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Est\u00edbaliz Burgaleta",
+  "director": "",
+  "writer": "",
+  "short_cast": "D\u00e8lia Brufau, Oskar de la Fuente, Jaime Wang, Ainara P\u00e9rez, Elia Galera",
+  "cast": "D\u00e8lia Brufau, Oskar de la Fuente, Jaime Wang, Ainara P\u00e9rez, Elia Galera",
+  "genre": "TV Dramas, Spanish, Teen TV Shows, TV Comedies",
+  "thismovieis": "Heartfelt",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "substances, language",
+  "desc": "Life in Amaia's new hometown starts to get a lot more interesting when a rumor spreads at school that she's inherited her grandmother's magical talents.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81295124",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81317586",
+      "t": "This Town Sucks",
+      "s": "S1",
+      "ep": "E1",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "81317587",
+      "t": "So You Think You Have Powers?",
+      "s": "S1",
+      "ep": "E2",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81317588",
+      "t": "The Inner Bitch\r\n[alt: The Inner Witch]",
+      "s": "S1",
+      "ep": "E3",
+      "time": "38m"
+    },
+    {
+      "complate": "0",
+      "id": "81317589",
+      "t": "We All Do Stupid Things",
+      "s": "S1",
+      "ep": "E4",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81317590",
+      "t": "Fraud",
+      "s": "S1",
+      "ep": "E5",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "81317591",
+      "t": "Nobody's Gonna Ruin Our Party",
+      "s": "S1",
+      "ep": "E6",
+      "time": "38m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81295124",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81317586",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81438166"
+    },
+    {
+      "id": "81557682"
+    },
+    {
+      "id": "81660270"
+    },
+    {
+      "id": "81637842"
+    },
+    {
+      "id": "81711218"
+    },
+    {
+      "id": "81730408"
+    },
+    {
+      "id": "81249731"
+    },
+    {
+      "id": "81046937"
+    }
+  ],
+  "error": null
+}
