@@ -1,0 +1,119 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Godfather",
+  "year": "1972",
+  "ua": "U/A 18+ [A]",
+  "match": "89% match",
+  "runtime": "2h 57m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Francis Ford Coppola",
+  "writer": "Mario Puzo, Francis Ford Coppola",
+  "short_cast": "Marlon Brando, Al Pacino, James Caan, Richard Castellano, Robert Duvall, Sterling Hayden, John Marley, Richard Conte, Al Lettieri, Diane Keaton, Abe Vigoda, Talia Shire, Gianni Russo, John Cazale",
+  "cast": "Marlon Brando, Al Pacino, James Caan, Richard Castellano, Robert Duvall, Sterling Hayden, John Marley, Richard Conte, Al Lettieri, Diane Keaton, Abe Vigoda, Talia Shire, Gianni Russo, John Cazale",
+  "genre": "US Movies, Movies Based on Books, Crime Movies, Dramas",
+  "thismovieis": "Violent, Dark",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, nudity",
+  "desc": "Michael Corleone, the war-hero youngest son of a powerful New York crime boss, joins the family business when his father is targeted for assassination.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70005379"
+    },
+    {
+      "id": "81092221"
+    },
+    {
+      "id": "80175798"
+    },
+    {
+      "id": "70060009"
+    },
+    {
+      "id": "80088678"
+    },
+    {
+      "id": "60024922"
+    },
+    {
+      "id": "80002479"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "60000417"
+    },
+    {
+      "id": "70132721"
+    },
+    {
+      "id": "60036359"
+    },
+    {
+      "id": "60000724"
+    }
+  ],
+  "error": null
+}
