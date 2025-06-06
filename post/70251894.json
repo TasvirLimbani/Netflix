@@ -1,0 +1,75 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Conjuring",
+  "year": "2013",
+  "ua": "U/A 16+",
+  "match": "89% match",
+  "runtime": "1h 51m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "James Wan",
+  "writer": "Chad Hayes, Carey W. Hayes",
+  "short_cast": "Vera Farmiga, Patrick Wilson, Lili Taylor, Ron Livingston, Shanley Caswell, Hayley McFarland, Joey King, Mackenzie Foy, Kyla Deaver, Shannon Kook",
+  "cast": "Vera Farmiga, Patrick Wilson, Lili Taylor, Ron Livingston, Shanley Caswell, Hayley McFarland, Joey King, Mackenzie Foy, Kyla Deaver, Shannon Kook",
+  "genre": "US Movies, Horror Movies",
+  "thismovieis": "Chilling, Scary, Suspenseful",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "mature themes",
+  "desc": "After moving into a Rhode Island farmhouse, a family experiences supernatural occurrences and seeks help from a pair of noted paranormal investigators.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81238605"
+    },
+    {
+      "id": "80091246"
+    },
+    {
+      "id": "81034937"
+    },
+    {
+      "id": "80106763"
+    },
+    {
+      "id": "80185924"
+    },
+    {
+      "id": "81616656"
+    },
+    {
+      "id": "80028439"
+    },
+    {
+      "id": "70271486"
+    },
+    {
+      "id": "70305901"
+    },
+    {
+      "id": "80219131"
+    },
+    {
+      "id": "80109295"
+    },
+    {
+      "id": "81619948"
+    }
+  ],
+  "error": null
+}
