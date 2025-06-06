@@ -1,0 +1,243 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Creature Cases",
+  "year": "2022",
+  "ua": "U",
+  "match": "96% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Nneka Okoye, Shash Hira, Teresa Gallagher, Rob Rackstraw, Marcel McCalla, Darren Foreman, Alex Woodhall, Kerry Shale, Harriet Carmichael, Jules De Jongh, Joseph Balderrama",
+  "cast": "Nneka Okoye, Shash Hira, Teresa Gallagher, Rob Rackstraw, Marcel McCalla, Darren Foreman, Alex Woodhall, Kerry Shale, Harriet Carmichael, Jules De Jongh, Joseph Balderrama",
+  "genre": "Kids' TV, Education for Kids, TV Cartoons",
+  "thismovieis": "Feel-Good, Exciting",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "Special agents Sam and Kit hop the globe with their sleuthing skills, science facts and cool gadgets to solve the animal kingdom's many mysteries.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81085841",
+      "ep": "12",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81635885",
+      "ep": "1",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81239821",
+      "ep": "7",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81349523",
+      "t": "The Forest Food Bandit / The Case of the Absent Giraffe",
+      "s": "S3",
+      "ep": "E1",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81349524",
+      "t": "The Frozen Stowaways / The Puzzle of the Empty Pond",
+      "s": "S3",
+      "ep": "E2",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81349525",
+      "t": "The Undercover Hyena / The Stranger in the Burrow",
+      "s": "S3",
+      "ep": "E3",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81349526",
+      "t": "The Bat Cave Crisis / The Mysterious Ant Circle",
+      "s": "S3",
+      "ep": "E4",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81349527",
+      "t": "The Lost Capybara Kids / The Case of the Curious Keas",
+      "s": "S3",
+      "ep": "E5",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81349528",
+      "t": "The Legend of the Night Howler / The Haystack Stakeout",
+      "s": "S3",
+      "ep": "E6",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81349529",
+      "t": "The Case of the Scorpion's Sting / The Case of the Constant Dripping",
+      "s": "S3",
+      "ep": "E7",
+      "time": "28m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81239821",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81349523",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81098500"
+    },
+    {
+      "id": "80993597"
+    },
+    {
+      "id": "81093076"
+    },
+    {
+      "id": "81012822"
+    },
+    {
+      "id": "81012130"
+    },
+    {
+      "id": "81135649"
+    },
+    {
+      "id": "81154166"
+    }
+  ],
+  "error": null
+}
