@@ -1,0 +1,213 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Monster High",
+  "year": "2025",
+  "ua": "U/A 7+",
+  "match": "98% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Kids' TV, TV Cartoons",
+  "thismovieis": "Magical, Kids, Girl Power, US, High School, TV, Creatures, Mystery, Spooky",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild themes",
+  "desc": "Ghouls, ghosts, vamps and zombies! A fun-loving group of high schoolers embraces their wild side, but can they avoid the headmistress... and detention?",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81728021",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "82028850",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "82028851",
+      "t": "Rule School Part 1/ Rule School Part 2",
+      "s": "S2",
+      "ep": "E1",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "82028852",
+      "t": "New Witch in Town/ Play it Again, Clawd",
+      "s": "S2",
+      "ep": "E2",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "82028853",
+      "t": "Mummy in the Mirror/ How to Scare a Banshee",
+      "s": "S2",
+      "ep": "E3",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "82028854",
+      "t": "So Chill/ Mix Up Meowlody",
+      "s": "S2",
+      "ep": "E4",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "82028855",
+      "t": "The Haunted Sand Castle Caper Part 1/ The Haunted Sand Castle Caper Part 2",
+      "s": "S2",
+      "ep": "E5",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "82028856",
+      "t": "Fangs for the Memories/ Two-Riffic",
+      "s": "S2",
+      "ep": "E6",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "82028857",
+      "t": "Monster High-Jinks/ Vamps Just Wanna Have Fun",
+      "s": "S2",
+      "ep": "E7",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "82028858",
+      "t": "The Babysitters\u2019 Crypt/ Humans in High School",
+      "s": "S2",
+      "ep": "E8",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "82028859",
+      "t": "Dawn of the Dread/ Frankie Patrol",
+      "s": "S2",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "82028860",
+      "t": "The Deuce Date/ Big Paw, Little Paw",
+      "s": "S2",
+      "ep": "E10",
+      "time": "22m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "82028850",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    }
+  ],
+  "last_ep": "82028851",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81719217"
+    },
+    {
+      "id": "81279322"
+    },
+    {
+      "id": "81611035"
+    },
+    {
+      "id": "81445141"
+    },
+    {
+      "id": "81604827"
+    },
+    {
+      "id": "70294800"
+    },
+    {
+      "id": "81589046"
+    }
+  ],
+  "error": null
+}
