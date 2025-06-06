@@ -1,0 +1,257 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "LEGO\u00ae Friends The Next Chapter",
+  "year": "2023",
+  "ua": "U/A 7+",
+  "match": "91% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Annie Chen, Brian Doe, Glenn Findlay, Cole Howard, Andrea Libman, Kamantha Naidoo, Odessa Rojen, Valin Shinyei",
+  "cast": "Annie Chen, Brian Doe, Glenn Findlay, Cole Howard, Andrea Libman, Kamantha Naidoo, Odessa Rojen, Valin Shinyei",
+  "genre": "Kids' TV, TV Cartoons",
+  "thismovieis": "",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence",
+  "desc": "School's back! The lovable students of Heartlake High face a year of fun adventures and exciting challenges that bring them closer together.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81700961",
+      "ep": "11",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81778452",
+      "ep": "12",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "82047877",
+      "ep": "12",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "82047879",
+      "t": "Fake News Frenzy!",
+      "s": "S3",
+      "ep": "E1",
+      "time": "12m"
+    },
+    {
+      "complate": "0",
+      "id": "82047880",
+      "t": "Rescue that Piano!",
+      "s": "S3",
+      "ep": "E2",
+      "time": "12m"
+    },
+    {
+      "complate": "0",
+      "id": "82047881",
+      "t": "Friends Prank Wars\u00a0",
+      "s": "S3",
+      "ep": "E3",
+      "time": "12m"
+    },
+    {
+      "complate": "0",
+      "id": "82047882",
+      "t": "Pickle\u2019s Perfect Pet Feast\u00a0",
+      "s": "S3",
+      "ep": "E4",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "82047883",
+      "t": "Comics & Confessions\u00a0",
+      "s": "S3",
+      "ep": "E5",
+      "time": "12m"
+    },
+    {
+      "complate": "0",
+      "id": "82047884",
+      "t": "Cooking Dreams At Risk",
+      "s": "S3",
+      "ep": "E6",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "82047885",
+      "t": "Comic Shop Lock-In!",
+      "s": "S3",
+      "ep": "E7",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "82047886",
+      "t": "Babysitting Mishaps",
+      "s": "S3",
+      "ep": "E8",
+      "time": "12m"
+    },
+    {
+      "complate": "0",
+      "id": "82047887",
+      "t": "Zac's Awesome Soccer Skills",
+      "s": "S3",
+      "ep": "E9",
+      "time": "12m"
+    },
+    {
+      "complate": "0",
+      "id": "82047888",
+      "t": "Too Many Cooks (in the Kitchen)",
+      "s": "S3",
+      "ep": "E10",
+      "time": "11m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "82047877",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "yue",
+      "s": "yue"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "82047879",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81687152"
+    },
+    {
+      "id": "81587731"
+    },
+    {
+      "id": "81611035"
+    },
+    {
+      "id": "81260654"
+    },
+    {
+      "id": "81628818"
+    }
+  ],
+  "error": null
+}
