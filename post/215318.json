@@ -1,0 +1,95 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Ace Ventura: When Nature Calls",
+  "year": "1995",
+  "ua": "U/A 16+",
+  "match": "73% match",
+  "runtime": "1h 33m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Steve Oedekerk",
+  "writer": "Jack Bernstein, Steve Oedekerk",
+  "short_cast": "Jim Carrey, Ian McNeice, Simon Callow, Maynard Eziashi, Bob Gunton, Sophie Okonedo, Tommy Davidson, Adewale Akinnuoye-Agbaje, Danny Daniels, Sam Phillips",
+  "cast": "Jim Carrey, Ian McNeice, Simon Callow, Maynard Eziashi, Bob Gunton, Sophie Okonedo, Tommy Davidson, Adewale Akinnuoye-Agbaje, Danny Daniels, Sam Phillips",
+  "genre": "Comedy Movies, Action & Adventure Movies, US Movies",
+  "thismovieis": "Absurd, Goofy",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "sexual content",
+  "desc": "In self-imposed exile after a tragic raccoon-related accident, Ace returns to pet detecting to search for a missing animal and to help prevent a war.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "215309"
+    },
+    {
+      "id": "70021643"
+    },
+    {
+      "id": "60031216"
+    },
+    {
+      "id": "70228042"
+    },
+    {
+      "id": "70044593"
+    },
+    {
+      "id": "60004471"
+    },
+    {
+      "id": "60001650"
+    },
+    {
+      "id": "70028904"
+    },
+    {
+      "id": "70059988"
+    },
+    {
+      "id": "17236928"
+    },
+    {
+      "id": "81222715"
+    },
+    {
+      "id": "80094318"
+    }
+  ],
+  "error": null
+}
