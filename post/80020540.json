@@ -1,0 +1,222 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Richie Rich",
+  "year": "2015",
+  "ua": "U/A 7+",
+  "match": "92% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Brian Robbins, Tim Pollock, Jeff Hodsden",
+  "director": "",
+  "writer": "",
+  "short_cast": "Jake Brennan, Joshua Carlon, Lauren Taylor, Jenna Ortega, Kiff VandenHeuvel, Brooke Wexler",
+  "cast": "Jake Brennan, Joshua Carlon, Lauren Taylor, Jenna Ortega, Kiff VandenHeuvel, Brooke Wexler",
+  "genre": "Kids' TV, Sitcoms, TV Comedies, TV Shows Based on Comics",
+  "thismovieis": "Goofy",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence",
+  "desc": "After turning his veggies into green energy, Richie Rich earns a trillion dollars overnight and a new life filled with nonstop fun and adventure.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80020805",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80020761",
+      "ep": "11",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80020762",
+      "t": "Rapper'$ Delight",
+      "s": "S2",
+      "ep": "E1",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80020763",
+      "t": "Briti$h Rich",
+      "s": "S2",
+      "ep": "E2",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "80020764",
+      "t": "$uperheroe$",
+      "s": "S2",
+      "ep": "E3",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80020766",
+      "t": "$tockholm Cowboy",
+      "s": "S2",
+      "ep": "E4",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80020767",
+      "t": "Plu$ One",
+      "s": "S2",
+      "ep": "E5",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80020768",
+      "t": "Back to the Pre$ent",
+      "s": "S2",
+      "ep": "E6",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80020769",
+      "t": "Fun and Game$",
+      "s": "S2",
+      "ep": "E7",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80020770",
+      "t": "Wa$hed Up",
+      "s": "S2",
+      "ep": "E8",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80020771",
+      "t": "Meat the Camper$",
+      "s": "S2",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80020816",
+      "t": "Ladie$ Man",
+      "s": "S2",
+      "ep": "E10",
+      "time": "22m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80020761",
+  "lang": [
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80020762",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80105067"
+    },
+    {
+      "id": "28631029"
+    },
+    {
+      "id": "81634726"
+    },
+    {
+      "id": "80243216"
+    },
+    {
+      "id": "80201035"
+    },
+    {
+      "id": "81024153"
+    },
+    {
+      "id": "70021648"
+    },
+    {
+      "id": "81011712"
+    },
+    {
+      "id": "70301529"
+    },
+    {
+      "id": "60022058"
+    }
+  ],
+  "error": null
+}
