@@ -1,0 +1,177 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Ratched",
+  "year": "2020",
+  "ua": "U/A 18+ [A]",
+  "match": "73% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Evan Romansky",
+  "director": "",
+  "writer": "",
+  "short_cast": "Sarah Paulson, Finn Wittrock, Judy Davis, Sharon Stone, Cynthia Nixon, Jon Jon Briones, Charlie Carver",
+  "cast": "Sarah Paulson, Finn Wittrock, Judy Davis, Sharon Stone, Cynthia Nixon, Jon Jon Briones, Charlie Carver",
+  "genre": "Medical TV Shows, TV Dramas, TV Shows Based on Books, US TV Shows, TV Thrillers, Horror TV Serials",
+  "thismovieis": "Ominous, Dark",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide, sex, self-harm, nudity",
+  "desc": "In 1947, Mildred Ratched begins working as a nurse at a leading psychiatric hospital. But beneath her stylish exterior lurks a growing darkness.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80213572",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80213573",
+      "t": "Pilot",
+      "s": "S1",
+      "ep": "E1",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "80237930",
+      "t": "Ice Pick",
+      "s": "S1",
+      "ep": "E2",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "80237931",
+      "t": "Angel of Mercy",
+      "s": "S1",
+      "ep": "E3",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "80237932",
+      "t": "Angel of Mercy: Part Two",
+      "s": "S1",
+      "ep": "E4",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "80237933",
+      "t": "The Dance",
+      "s": "S1",
+      "ep": "E5",
+      "time": "62m"
+    },
+    {
+      "complate": "0",
+      "id": "80237934",
+      "t": "Got No Strings",
+      "s": "S1",
+      "ep": "E6",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80237935",
+      "t": "The Bucket List",
+      "s": "S1",
+      "ep": "E7",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "80237936",
+      "t": "Mildred and Edmund",
+      "s": "S1",
+      "ep": "E8",
+      "time": "59m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80213572",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80213573",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "70130445"
+    },
+    {
+      "id": "81000365"
+    },
+    {
+      "id": "81332757"
+    },
+    {
+      "id": "80209024"
+    },
+    {
+      "id": "81011569"
+    },
+    {
+      "id": "81288353"
+    },
+    {
+      "id": "81079914"
+    },
+    {
+      "id": "81287562"
+    },
+    {
+      "id": "81380441"
+    }
+  ],
+  "error": null
+}
