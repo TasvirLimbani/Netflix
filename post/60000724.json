@@ -1,0 +1,119 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Forrest Gump",
+  "year": "1994",
+  "ua": "U/A 18+ [A]",
+  "match": "97% match",
+  "runtime": "2h 23m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Robert Zemeckis",
+  "writer": "Winston Groom, Eric Roth",
+  "short_cast": "Tom Hanks, Robin Wright, Gary Sinise, Mykelti Williamson, Sally Field, Rebecca Williams, Haley Joel Osment, Michael Conner Humphreys, Hanna Hall",
+  "cast": "Tom Hanks, Robin Wright, Gary Sinise, Mykelti Williamson, Sally Field, Rebecca Williams, Haley Joel Osment, Michael Conner Humphreys, Hanna Hall",
+  "genre": "Romantic Comedies, Dramas, Comedy Movies, Romantic Movies, Movies Based on Books, US Movies",
+  "thismovieis": "Sentimental, Heartfelt, Feel-Good",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "substances, nudity",
+  "desc": "A gentle, friendly man navigates a series of extraordinary events, all while inspiring those around him with his perpetual optimism.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70005379"
+    },
+    {
+      "id": "60000417"
+    },
+    {
+      "id": "786137"
+    },
+    {
+      "id": "81092221"
+    },
+    {
+      "id": "60011152"
+    },
+    {
+      "id": "70132721"
+    },
+    {
+      "id": "80994899"
+    },
+    {
+      "id": "60036359"
+    },
+    {
+      "id": "60024922"
+    },
+    {
+      "id": "70305903"
+    },
+    {
+      "id": "215309"
+    },
+    {
+      "id": "60036227"
+    }
+  ],
+  "error": null
+}
