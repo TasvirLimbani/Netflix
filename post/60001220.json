@@ -1,0 +1,131 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Jaws",
+  "year": "1975",
+  "ua": "U/A 16+",
+  "match": "90% match",
+  "runtime": "2h 4m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Steven Spielberg",
+  "writer": "Peter Benchley, Carl Gottlieb",
+  "short_cast": "Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary, Murray Hamilton, Carl Gottlieb, Jeffrey Kramer, Susan Backlinie, Jonathan Filley, Ted Grossman",
+  "cast": "Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary, Murray Hamilton, Carl Gottlieb, Jeffrey Kramer, Susan Backlinie, Jonathan Filley, Ted Grossman",
+  "genre": "Creature Features, Horror Movies, Thriller Movies, Movies Based on Books, Action & Adventure Movies, US Movies",
+  "thismovieis": "Scary, Suspenseful",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "tobacco use, gore",
+  "desc": "When an insatiable great white shark terrorizes Amity Island, a police chief, an oceanographer and a grizzled shark hunter seek to destroy the beast.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "Catalan",
+      "s": "cat"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81210788"
+    },
+    {
+      "id": "60036256"
+    },
+    {
+      "id": "81616454"
+    },
+    {
+      "id": "81449034"
+    },
+    {
+      "id": "80046309"
+    },
+    {
+      "id": "81629411"
+    },
+    {
+      "id": "70060015"
+    },
+    {
+      "id": "81021447"
+    },
+    {
+      "id": "81345798"
+    },
+    {
+      "id": "80245041"
+    },
+    {
+      "id": "81619948"
+    },
+    {
+      "id": "81054619"
+    }
+  ],
+  "error": null
+}
