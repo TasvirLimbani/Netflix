@@ -1,0 +1,212 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Order",
+  "year": "2019",
+  "ua": "U/A 16+",
+  "match": "83% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Dennis Heaton",
+  "director": "",
+  "writer": "",
+  "short_cast": "Jake Manley, Sarah Grey, Louriza Tronco, Adam DiMarco, Thomas Elms, Devery Jacobs, Katharine Isabelle, Fran\u00e7oise Yip, Jedidiah Goodacre, Diana Bang, Max Martini, Matt Frewer, Aaron Hale, Dylan Playfair, Ian Tracey, Sam Trammell",
+  "cast": "Jake Manley, Sarah Grey, Louriza Tronco, Adam DiMarco, Thomas Elms, Devery Jacobs, Katharine Isabelle, Fran\u00e7oise Yip, Jedidiah Goodacre, Diana Bang, Max Martini, Matt Frewer, Aaron Hale, Dylan Playfair, Ian Tracey, Sam Trammell",
+  "genre": "TV Dramas, Canadian, Teen TV Shows, TV Mysteries, Horror TV Serials, Fantasy TV Shows",
+  "thismovieis": "Dark, Suspenseful",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, language, gore",
+  "desc": "Out to avenge his mother's death, a college student pledges a secret order and lands in a war between werewolves and practitioners of dark magic.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80235862",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80236230",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81105413",
+      "t": "Free Radicals, Part 1",
+      "s": "S2",
+      "ep": "E1",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81105414",
+      "t": "Free Radicals, Part 2",
+      "s": "S2",
+      "ep": "E2",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81105415",
+      "t": "Fear Itself, Part 1",
+      "s": "S2",
+      "ep": "E3",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81105416",
+      "t": "Fear Itself, Part 2",
+      "s": "S2",
+      "ep": "E4",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81105417",
+      "t": "The Commons, Part 1",
+      "s": "S2",
+      "ep": "E5",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81105418",
+      "t": "The Commons, Part 2",
+      "s": "S2",
+      "ep": "E6",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81105419",
+      "t": "Spring Outbreak, Part 1",
+      "s": "S2",
+      "ep": "E7",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81105420",
+      "t": "Spring Outbreak, Part 2",
+      "s": "S2",
+      "ep": "E8",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81105421",
+      "t": "New World Order, Part 1",
+      "s": "S2",
+      "ep": "E9",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81105422",
+      "t": "New World Order, Part 2",
+      "s": "S2",
+      "ep": "E10",
+      "time": "49m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80236230",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81105413",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80220679"
+    },
+    {
+      "id": "80084447"
+    },
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "80241239"
+    },
+    {
+      "id": "81150303"
+    },
+    {
+      "id": "80236319"
+    },
+    {
+      "id": "80242724"
+    },
+    {
+      "id": "81116060"
+    },
+    {
+      "id": "80241581"
+    },
+    {
+      "id": "80223989"
+    },
+    {
+      "id": "80199393"
+    },
+    {
+      "id": "81043660"
+    }
+  ],
+  "error": null
+}
