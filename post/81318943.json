@@ -1,0 +1,132 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Hidden Lives of Pets",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "51% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Hugh Bonneville",
+  "cast": "Hugh Bonneville",
+  "genre": "Family Watch Together TV, British, Science & Nature TV, Science & Nature Docs, Docuseries",
+  "thismovieis": "",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild themes",
+  "desc": "Bow wows and purr-fect pets! Meet amazing creatures from around the world and dig into the latest science on our animal friends' senses and skills.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81318944",
+      "ep": "4",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81387030",
+      "t": "Intelligence",
+      "s": "S1",
+      "ep": "E1",
+      "time": "32m"
+    },
+    {
+      "complate": "0",
+      "id": "81387029",
+      "t": "Communication",
+      "s": "S1",
+      "ep": "E2",
+      "time": "32m"
+    },
+    {
+      "complate": "0",
+      "id": "81387027",
+      "t": "Super Senses",
+      "s": "S1",
+      "ep": "E3",
+      "time": "34m"
+    },
+    {
+      "complate": "0",
+      "id": "81387028",
+      "t": "Athletes",
+      "s": "S1",
+      "ep": "E4",
+      "time": "31m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81318944",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81387030",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81447086"
+    },
+    {
+      "id": "80186796"
+    },
+    {
+      "id": "80213846"
+    },
+    {
+      "id": "81319177"
+    },
+    {
+      "id": "80049832"
+    },
+    {
+      "id": "81145024"
+    }
+  ],
+  "error": null
+}
