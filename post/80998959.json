@@ -1,0 +1,153 @@
+{
+  "status": "y",
+  "d_lang": "kor",
+  "title": "Doctors",
+  "year": "2016",
+  "ua": "U/A 18+ [A]",
+  "match": "54% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Oh Choong-hwan, Park Soo-jin, Ha Myeong-hee",
+  "director": "",
+  "writer": "",
+  "short_cast": "Park Shin-hye, Kim Rae-won, Yun Kyun-sang, Lee Sung-kyoung, Kim Young-ae, Cheong Hae-kyun, Jang Hyun-sung, Um Hyo-sup",
+  "cast": "Park Shin-hye, Kim Rae-won, Yun Kyun-sang, Lee Sung-kyoung, Kim Young-ae, Cheong Hae-kyun, Jang Hyun-sung, Um Hyo-sup",
+  "genre": "Medical TV Shows, Romantic TV Dramas, TV Dramas, Korean",
+  "thismovieis": "Heartfelt, Romantic",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide, gore",
+  "desc": "A recalcitrant, delinquent teen girl meets a compassionate teacher, who inspires her to alter her path and become a street-savvy neurosurgeon.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "80999245",
+      "ep": "20",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80999246",
+      "t": "Episode 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "80999247",
+      "t": "Episode 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "60m"
+    },
+    {
+      "complate": "0",
+      "id": "80999248",
+      "t": "Episode 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "80999249",
+      "t": "Episode 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "80999250",
+      "t": "Episode 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "80999251",
+      "t": "Episode 6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "80999252",
+      "t": "Episode 7",
+      "s": "S1",
+      "ep": "E7",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "80999253",
+      "t": "Episode 8",
+      "s": "S1",
+      "ep": "E8",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "80999254",
+      "t": "Episode 9",
+      "s": "S1",
+      "ep": "E9",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "80999255",
+      "t": "Episode 10",
+      "s": "S1",
+      "ep": "E10",
+      "time": "58m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80999245",
+  "lang": [
+    {
+      "l": "Korean",
+      "s": "kor"
+    }
+  ],
+  "last_ep": "80999246",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80029520"
+    },
+    {
+      "id": "80998941"
+    },
+    {
+      "id": "81697985"
+    },
+    {
+      "id": "80123798"
+    },
+    {
+      "id": "81343862"
+    },
+    {
+      "id": "81033650"
+    },
+    {
+      "id": "81587524"
+    },
+    {
+      "id": "80031716"
+    },
+    {
+      "id": "81239224"
+    }
+  ],
+  "error": null
+}
