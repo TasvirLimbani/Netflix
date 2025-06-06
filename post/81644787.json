@@ -1,0 +1,155 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Maestro in Blue",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "49% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Christoforos Papakaliatis, Haris Alexiou, Maria Kavoyianni, Marisha Triantafyllidou, Fanis Mouratidis, Stefania Goulioti, Antinoos Almpanis, Yannis Tsortekis, Klelia Andriolatou, Orestis Chalkias, Yorgos Benos, Dimitris Kitsos, Kostas Berikopoulos",
+  "cast": "Christoforos Papakaliatis, Haris Alexiou, Maria Kavoyianni, Marisha Triantafyllidou, Fanis Mouratidis, Stefania Goulioti, Antinoos Almpanis, Yannis Tsortekis, Klelia Andriolatou, Orestis Chalkias, Yorgos Benos, Dimitris Kitsos, Kostas Berikopoulos",
+  "genre": "Romantic TV Dramas, TV Dramas, Greek, TV Mysteries, Crime TV Shows",
+  "thismovieis": "Swoonworthy, Bittersweet, Emotional",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, suicide, substances, sexual violence, sex, nudity, language",
+  "desc": "A musician goes to lead a festival on a scenic island, where he begins an unexpected romance and finds himself entwined in other people's problems.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81644788",
+      "ep": "9",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81739392",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81770883",
+      "ep": "4",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81739399",
+      "t": "Preludes",
+      "s": "S3",
+      "ep": "E1",
+      "time": "66m"
+    },
+    {
+      "complate": "0",
+      "id": "81739400",
+      "t": "Social",
+      "s": "S3",
+      "ep": "E2",
+      "time": "62m"
+    },
+    {
+      "complate": "0",
+      "id": "81739401",
+      "t": "Second Chance",
+      "s": "S3",
+      "ep": "E3",
+      "time": "66m"
+    },
+    {
+      "complate": "0",
+      "id": "81739402",
+      "t": "A Fine Line",
+      "s": "S3",
+      "ep": "E4",
+      "time": "79m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81770883",
+  "lang": [
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81739399",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81176731"
+    },
+    {
+      "id": "81637609"
+    },
+    {
+      "id": "80155812"
+    },
+    {
+      "id": "81509477"
+    },
+    {
+      "id": "80232398"
+    },
+    {
+      "id": "81559019"
+    },
+    {
+      "id": "81670880"
+    },
+    {
+      "id": "81567028"
+    },
+    {
+      "id": "81705944"
+    },
+    {
+      "id": "81580070"
+    },
+    {
+      "id": "81711218"
+    }
+  ],
+  "error": null
+}
