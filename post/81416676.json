@@ -1,0 +1,168 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Baby Fever",
+  "year": "2022",
+  "ua": "U/A 16+",
+  "match": "55% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Amalie N\u00e6sby Fick, Nikolaj Feifer",
+  "director": "",
+  "writer": "",
+  "short_cast": "Josephine Park, Olivia Joof, Simon Sears, Tammi \u00d8st, Charlotte Munck, Mikael Birkkj\u00e6r, Emil Prenter, Oscar T\u00f6ringe, Trisha Fern\u00e1ndez, Lars Mikkelsen",
+  "cast": "Josephine Park, Olivia Joof, Simon Sears, Tammi \u00d8st, Charlotte Munck, Mikael Birkkj\u00e6r, Emil Prenter, Oscar T\u00f6ringe, Trisha Fern\u00e1ndez, Lars Mikkelsen",
+  "genre": "Medical TV Shows, TV Dramas, Danish, TV Comedies, Scandinavian TV Shows",
+  "thismovieis": "Intimate",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "sexual content, language",
+  "desc": "When a fertility doctor drunkenly inseminates herself with her ex-boyfriend's sperm, she scrambles to explain her pregnancy \u2014 and win back her lost love.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81416677",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81608159",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81680862",
+      "t": "Worst Mom in the World",
+      "s": "S2",
+      "ep": "E1",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81680863",
+      "t": "Did Someone Beat You Up?",
+      "s": "S2",
+      "ep": "E2",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81680864",
+      "t": "Crashing Everything",
+      "s": "S2",
+      "ep": "E3",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81680865",
+      "t": "Can You Bring a Child to Prison?",
+      "s": "S2",
+      "ep": "E4",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81680866",
+      "t": "Playing Your Cards Right",
+      "s": "S2",
+      "ep": "E5",
+      "time": "35m"
+    },
+    {
+      "complate": "0",
+      "id": "81680867",
+      "t": "How Is Mom Life Treating You?",
+      "s": "S2",
+      "ep": "E6",
+      "time": "33m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81608159",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81680862",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81473355"
+    },
+    {
+      "id": "81305952"
+    },
+    {
+      "id": "81050546"
+    },
+    {
+      "id": "81711218"
+    },
+    {
+      "id": "81361154"
+    },
+    {
+      "id": "80095699"
+    },
+    {
+      "id": "81644787"
+    },
+    {
+      "id": "81128745"
+    }
+  ],
+  "error": null
+}
