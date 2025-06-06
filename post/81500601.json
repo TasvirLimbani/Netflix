@@ -1,0 +1,75 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Batman",
+  "year": "2022",
+  "ua": "U/A 13+",
+  "match": "70% match",
+  "runtime": "2h 56m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Matt Reeves",
+  "writer": "Matt Reeves, Peter Craig, Bob Kane",
+  "short_cast": "Robert Pattinson, Zo\u00eb Kravitz, Jeffrey Wright, Colin Farrell, Paul Dano, John Turturro, Andy Serkis, Peter Sarsgaard, Barry Keoghan",
+  "cast": "Robert Pattinson, Zo\u00eb Kravitz, Jeffrey Wright, Colin Farrell, Paul Dano, John Turturro, Andy Serkis, Peter Sarsgaard, Barry Keoghan",
+  "genre": "Action & Adventure Movies, US Movies",
+  "thismovieis": "Gritty, Dark",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, substances, language",
+  "desc": "The Batman's hunt for a killer leads him into Gotham City's grimy underworld, which may be more entwined with its ruling elite than he'd ever imagined.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70021642"
+    },
+    {
+      "id": "70079583"
+    },
+    {
+      "id": "70213514"
+    },
+    {
+      "id": "81652327"
+    },
+    {
+      "id": "81465707"
+    },
+    {
+      "id": "81199140"
+    },
+    {
+      "id": "81199145"
+    },
+    {
+      "id": "81475316"
+    },
+    {
+      "id": "81198930"
+    },
+    {
+      "id": "80991034"
+    },
+    {
+      "id": "80185760"
+    },
+    {
+      "id": "81672085"
+    }
+  ],
+  "error": null
+}
