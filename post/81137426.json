@@ -1,0 +1,170 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Our Living World",
+  "year": "2024",
+  "ua": "U/A 7+",
+  "match": "54% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Cate Blanchett",
+  "cast": "Cate Blanchett",
+  "genre": "Family Time TV, British, Nature & Ecology Documentaries, Science & Nature TV, Science & Nature Docs, Docuseries",
+  "thismovieis": "Inspiring",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild fear",
+  "desc": "This stunning nature series narrated by Cate Blanchett explores the intelligence, resourcefulness and interconnectedness of life on our planet.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81137427",
+      "ep": "4",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81236550",
+      "t": "Nature's Amazing Network",
+      "s": "S1",
+      "ep": "E1",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81236551",
+      "t": "The Rhythm of Life",
+      "s": "S1",
+      "ep": "E2",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81236552",
+      "t": "Breaking Point",
+      "s": "S1",
+      "ep": "E3",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81236553",
+      "t": "Road to Recovery",
+      "s": "S1",
+      "ep": "E4",
+      "time": "49m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81137427",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81236550",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80049832"
+    },
+    {
+      "id": "80213846"
+    },
+    {
+      "id": "81243961"
+    },
+    {
+      "id": "81319177"
+    },
+    {
+      "id": "81086133"
+    },
+    {
+      "id": "81353947"
+    },
+    {
+      "id": "81145024"
+    },
+    {
+      "id": "81462291"
+    }
+  ],
+  "error": null
+}
