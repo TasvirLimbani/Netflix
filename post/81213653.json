@@ -1,0 +1,189 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "First Kill",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "47% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Victoria Schwab",
+  "director": "",
+  "writer": "",
+  "short_cast": "Sarah Catherine Hook, Imani Lewis, Elizabeth Mitchell, Aubin Wise, Gracie Dzienny, Dominic Goodman, Phillip Mullings Jr., Jason R. Moore",
+  "cast": "Sarah Catherine Hook, Imani Lewis, Elizabeth Mitchell, Aubin Wise, Gracie Dzienny, Dominic Goodman, Phillip Mullings Jr., Jason R. Moore",
+  "genre": "Romantic TV Dramas, TV Dramas, TV Shows Based on Books, Teen TV Shows, US TV Shows, Fantasy TV Shows",
+  "thismovieis": "Suspenseful, Romantic",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "sex",
+  "desc": "Falling in love is tricky for teens Juliette and Calliope: One's a vampire, the other's a vampire hunter \u2014 and both are ready to make their first kill.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81214152",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81250400",
+      "t": "First Kiss",
+      "s": "S1",
+      "ep": "E1",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81250401",
+      "t": "First Blood",
+      "s": "S1",
+      "ep": "E2",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81250402",
+      "t": "First Fight",
+      "s": "S1",
+      "ep": "E3",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81250403",
+      "t": "First Date",
+      "s": "S1",
+      "ep": "E4",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81250404",
+      "t": "First Love",
+      "s": "S1",
+      "ep": "E5",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81250405",
+      "t": "First Severing",
+      "s": "S1",
+      "ep": "E6",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81250406",
+      "t": "First Goodbye",
+      "s": "S1",
+      "ep": "E7",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81250407",
+      "t": "First Betrayal",
+      "s": "S1",
+      "ep": "E8",
+      "time": "59m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81214152",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81250400",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81043660"
+    },
+    {
+      "id": "80220679"
+    },
+    {
+      "id": "81621599"
+    },
+    {
+      "id": "80204393"
+    },
+    {
+      "id": "81337079"
+    },
+    {
+      "id": "70143860"
+    },
+    {
+      "id": "80121387"
+    },
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "80238357"
+    }
+  ],
+  "error": null
+}
