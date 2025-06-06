@@ -1,0 +1,226 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Hot Wheels Let's Race",
+  "year": "2024",
+  "ua": "U/A 7+",
+  "match": "95% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Griffen Campbell, Grey DeLisle, Eric Bauza, Jakari Fraser",
+  "cast": "Griffen Campbell, Grey DeLisle, Eric Bauza, Jakari Fraser",
+  "genre": "Kids' TV, TV Cartoons",
+  "thismovieis": "Adrenaline Rush, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language",
+  "desc": "Six young hopefuls at the Hot Wheels Ultimate Garage Racing Camp learn the skills they need to become the next generation of amazing racers.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81566730",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81681665",
+      "ep": "5",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81681666",
+      "ep": "5",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81675513",
+      "t": "The Wrong Track / All Pumped Up",
+      "s": "S3",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81675514",
+      "t": "Keep on Monster Truckin' / T-Rex Takeover",
+      "s": "S3",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81675515",
+      "t": "Party Pit Stop / End of the Road",
+      "s": "S3",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81675516",
+      "t": "Stop Those Cars! / Self-Destruct",
+      "s": "S3",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81675517",
+      "t": "The Final Finish Line / Monster Mayhem",
+      "s": "S3",
+      "ep": "E5",
+      "time": "25m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81681666",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81675513",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80225085"
+    },
+    {
+      "id": "80027979"
+    },
+    {
+      "id": "81154166"
+    },
+    {
+      "id": "81687176"
+    }
+  ],
+  "error": null
+}
