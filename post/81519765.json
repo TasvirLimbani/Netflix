@@ -1,0 +1,270 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "LEGO Ninjago: Dragons Rising",
+  "year": "2023",
+  "ua": "U/A 7+",
+  "match": "59% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Deven Mack, Brian Drummond, Sabrina Pitre, Giles Panton, Andrew McNee",
+  "cast": "Deven Mack, Brian Drummond, Sabrina Pitre, Giles Panton, Andrew McNee",
+  "genre": "Kids' TV, TV Cartoons",
+  "thismovieis": "Imaginative, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "Two teenagers from different worlds use their newly discovered Ninja powers to defend dragons from villains who want to use their life-force for evil.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81519766",
+      "ep": "20",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81762226",
+      "ep": "20",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "82045857",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "82045858",
+      "t": "The Missing",
+      "s": "S3",
+      "ep": "E1",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "82045859",
+      "t": "The Ultimate Object of Admiration",
+      "s": "S3",
+      "ep": "E2",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "82045860",
+      "t": "The Spectral Lands",
+      "s": "S3",
+      "ep": "E3",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "82045861",
+      "t": "The Great Zane Robbery",
+      "s": "S3",
+      "ep": "E4",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "82045862",
+      "t": "I Alone Can Save Them",
+      "s": "S3",
+      "ep": "E5",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "82045863",
+      "t": "Fallen Wishes",
+      "s": "S3",
+      "ep": "E6",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "82045864",
+      "t": "Their Draconic Majesty's Request",
+      "s": "S3",
+      "ep": "E7",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "82045865",
+      "t": "Crashing Together",
+      "s": "S3",
+      "ep": "E8",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "82045866",
+      "t": "Chaos Unchained",
+      "s": "S3",
+      "ep": "E9",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "82045867",
+      "t": "The Shatter Dragon",
+      "s": "S3",
+      "ep": "E10",
+      "time": "23m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "82045857",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "bul",
+      "s": "bul"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "yue",
+      "s": "yue"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "82045858",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "70252973"
+    },
+    {
+      "id": "81628818"
+    },
+    {
+      "id": "81294811"
+    },
+    {
+      "id": "81586549"
+    },
+    {
+      "id": "70155571"
+    },
+    {
+      "id": "81687083"
+    },
+    {
+      "id": "81068803"
+    },
+    {
+      "id": "80075820"
+    }
+  ],
+  "error": null
+}
