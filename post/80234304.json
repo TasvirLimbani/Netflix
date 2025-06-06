@@ -1,0 +1,187 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Queen's Gambit",
+  "year": "2020",
+  "ua": "U/A 18+ [A]",
+  "match": "44% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Scott Frank, Allan Scott",
+  "director": "",
+  "writer": "",
+  "short_cast": "Anya Taylor-Joy, Bill Camp, Marielle Heller, Thomas Brodie-Sangster, Moses Ingram, Harry Melling, Isla Johnston, Christiane Seidel, Rebecca Root, Chloe Pirrie, Jacob Fortune-Lloyd",
+  "cast": "Anya Taylor-Joy, Bill Camp, Marielle Heller, Thomas Brodie-Sangster, Moses Ingram, Harry Melling, Isla Johnston, Christiane Seidel, Rebecca Root, Chloe Pirrie, Jacob Fortune-Lloyd",
+  "genre": "TV Dramas, TV Shows Based on Books, US TV Shows, Social Issue TV Dramas",
+  "thismovieis": "Cerebral, Intimate, Emotional",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide, substances, sex",
+  "desc": "In a 1950s orphanage, a young girl reveals an astonishing talent for chess and begins an unlikely journey to stardom while grappling with addiction.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80243322",
+      "ep": "7",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80243261",
+      "t": "Openings",
+      "s": "S1",
+      "ep": "E1",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81093610",
+      "t": "Exchanges",
+      "s": "S1",
+      "ep": "E2",
+      "time": "65m"
+    },
+    {
+      "complate": "0",
+      "id": "81093611",
+      "t": "Doubled Pawns",
+      "s": "S1",
+      "ep": "E3",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81093612",
+      "t": "Middle Game",
+      "s": "S1",
+      "ep": "E4",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81093613",
+      "t": "Fork",
+      "s": "S1",
+      "ep": "E5",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81093614",
+      "t": "Adjournment",
+      "s": "S1",
+      "ep": "E6",
+      "time": "60m"
+    },
+    {
+      "complate": "0",
+      "id": "81301714",
+      "t": "End Game",
+      "s": "S1",
+      "ep": "E7",
+      "time": "68m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80243322",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "80243261",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81277950"
+    },
+    {
+      "id": "81008305"
+    },
+    {
+      "id": "80136311"
+    },
+    {
+      "id": "81406219"
+    },
+    {
+      "id": "80119411"
+    },
+    {
+      "id": "81166770"
+    },
+    {
+      "id": "81414644"
+    },
+    {
+      "id": "80002479"
+    },
+    {
+      "id": "80220679"
+    },
+    {
+      "id": "81140933"
+    }
+  ],
+  "error": null
+}
