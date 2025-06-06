@@ -1,0 +1,200 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Life on Our Planet",
+  "year": "2023",
+  "ua": "U/A 7+",
+  "match": "59% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Morgan Freeman",
+  "cast": "Morgan Freeman",
+  "genre": "Family Time TV, Nature & Ecology Documentaries, Science & Nature TV, Science & Nature Docs, Docuseries, US TV Shows",
+  "thismovieis": "",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild fear",
+  "desc": "Life's extraordinary journey to conquer, adapt and survive on Earth across billions of years comes alive in this groundbreaking nature docuseries.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80214514",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80214435",
+      "t": "Chapter 1: The Rules of Life",
+      "s": "S1",
+      "ep": "E1",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "80214436",
+      "t": "Chapter 2: The First Frontier",
+      "s": "S1",
+      "ep": "E2",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "80214437",
+      "t": "Chapter 3: Invaders of the Land",
+      "s": "S1",
+      "ep": "E3",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "80214438",
+      "t": "Chapter 4: In Cold Blood",
+      "s": "S1",
+      "ep": "E4",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "80214439",
+      "t": "Chapter 5: In the Shadow of Giants",
+      "s": "S1",
+      "ep": "E5",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "80214440",
+      "t": "Chapter 6: Out of the Ashes",
+      "s": "S1",
+      "ep": "E6",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "80214441",
+      "t": "Chapter 7: Inheriting the Earth",
+      "s": "S1",
+      "ep": "E7",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "80214442",
+      "t": "Chapter 8: Age of Ice and Fire",
+      "s": "S1",
+      "ep": "E8",
+      "time": "50m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80214514",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "80214435",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81243961"
+    },
+    {
+      "id": "80049832"
+    },
+    {
+      "id": "81137426"
+    },
+    {
+      "id": "81319177"
+    },
+    {
+      "id": "81353947"
+    },
+    {
+      "id": "81513913"
+    },
+    {
+      "id": "80216393"
+    },
+    {
+      "id": "81312835"
+    },
+    {
+      "id": "81145024"
+    },
+    {
+      "id": "81462291"
+    }
+  ],
+  "error": null
+}
