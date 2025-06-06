@@ -1,0 +1,142 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Masaba Masaba",
+  "year": "2020",
+  "ua": "U/A 18+ [A]",
+  "match": "50% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Ashvini Yardi",
+  "director": "",
+  "writer": "",
+  "short_cast": "Masaba Gupta, Neena Gupta, Neil Bhoopalam, Rytasha Rathore, Smaran Sahu, Nayan Shukla, Pooja Bedi, Satyadeep Misra",
+  "cast": "Masaba Gupta, Neena Gupta, Neil Bhoopalam, Rytasha Rathore, Smaran Sahu, Nayan Shukla, Pooja Bedi, Satyadeep Misra",
+  "genre": "TV Dramas, TV Comedies, Hindi-Language TV Shows",
+  "thismovieis": "Quirky",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "substances, language",
+  "desc": "Real life mom-daughter duo Neena and Masaba Gupta play versions of themselves in this playful, fictional peek into their lives in fashion and film.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81122197",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81222711",
+      "ep": "7",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81342966",
+      "t": "Baby One More Time",
+      "s": "S2",
+      "ep": "E1",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "81342967",
+      "t": "You Should See Me In A Crown",
+      "s": "S2",
+      "ep": "E2",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "81342968",
+      "t": "Set Fire To The Rain",
+      "s": "S2",
+      "ep": "E3",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81342969",
+      "t": "Blinding Lights",
+      "s": "S2",
+      "ep": "E4",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81342970",
+      "t": "A Hard Day's Night",
+      "s": "S2",
+      "ep": "E5",
+      "time": "35m"
+    },
+    {
+      "complate": "0",
+      "id": "81342971",
+      "t": "Blurred Lines",
+      "s": "S2",
+      "ep": "E6",
+      "time": "37m"
+    },
+    {
+      "complate": "0",
+      "id": "81482830",
+      "t": "I Did It My Way",
+      "s": "S2",
+      "ep": "E7",
+      "time": "42m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81222711",
+  "lang": [
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "last_ep": "81342966",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81011159"
+    },
+    {
+      "id": "80220079"
+    },
+    {
+      "id": "81004536"
+    },
+    {
+      "id": "81197473"
+    },
+    {
+      "id": "81181080"
+    },
+    {
+      "id": "70303428"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "80993401"
+    },
+    {
+      "id": "81760391"
+    },
+    {
+      "id": "81641718"
+    }
+  ],
+  "error": null
+}
