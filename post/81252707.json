@@ -1,0 +1,210 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Imperfects",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "71% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Shelley Eriksen, Dennis Heaton",
+  "director": "",
+  "writer": "",
+  "short_cast": "Italia Ricci, Morgan Taylor Campbell, Rhianna Jagpal, I\u00f1aki Godoy, Rhys Nicholson, Kyra Zagorsky, Celina Martin, Jedidiah Goodacre",
+  "cast": "Italia Ricci, Morgan Taylor Campbell, Rhianna Jagpal, I\u00f1aki Godoy, Rhys Nicholson, Kyra Zagorsky, Celina Martin, Jedidiah Goodacre",
+  "genre": "Canadian, Sci-Fi TV, TV Action & Adventure",
+  "thismovieis": "Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, suicide, language, gore",
+  "desc": "After undergoing an experiment that gives them monstrous side effects, Abbi, Tilda and Juan join forces to find the scientist responsible \u2014 and a cure.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81252708",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81252715",
+      "t": "Sarkov's Children",
+      "s": "S1",
+      "ep": "E1",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81252716",
+      "t": "Doug of the Dead",
+      "s": "S1",
+      "ep": "E2",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81252717",
+      "t": "Portland Warehouse Massacre",
+      "s": "S1",
+      "ep": "E3",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81252718",
+      "t": "One of Us",
+      "s": "S1",
+      "ep": "E4",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81252719",
+      "t": "Zoe Must Be Destroyed",
+      "s": "S1",
+      "ep": "E5",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81252720",
+      "t": "Lest Ye Become a Monster",
+      "s": "S1",
+      "ep": "E6",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81252721",
+      "t": "Cure All",
+      "s": "S1",
+      "ep": "E7",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81252722",
+      "t": "The Devil You Know",
+      "s": "S1",
+      "ep": "E8",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81252723",
+      "t": "All Monsters Attack",
+      "s": "S1",
+      "ep": "E9",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81252724",
+      "t": "Destroy All Monsters",
+      "s": "S1",
+      "ep": "E10",
+      "time": "45m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81252708",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81252715",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "80244953"
+    },
+    {
+      "id": "80186863"
+    },
+    {
+      "id": "80218200"
+    },
+    {
+      "id": "80197462"
+    },
+    {
+      "id": "80996532"
+    },
+    {
+      "id": "80242724"
+    },
+    {
+      "id": "80221644"
+    },
+    {
+      "id": "81453003"
+    },
+    {
+      "id": "81316476"
+    },
+    {
+      "id": "80236118"
+    },
+    {
+      "id": "80117803"
+    }
+  ],
+  "error": null
+}
