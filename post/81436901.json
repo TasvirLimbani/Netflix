@@ -1,0 +1,157 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Castlevania: Nocturne",
+  "year": "2023",
+  "ua": "U/A 18+ [A]",
+  "match": "68% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Clive Bradley",
+  "director": "",
+  "writer": "",
+  "short_cast": "Edward Bluemel, Pixie Davies, Thuso Mbedu, Nastassja Kinski, Sydney James Harcourt, Zahn McClarnon, Richard Dormer, Aaron Neil, Elarica Johnson, Franka Potente",
+  "cast": "Edward Bluemel, Pixie Davies, Thuso Mbedu, Nastassja Kinski, Sydney James Harcourt, Zahn McClarnon, Richard Dormer, Aaron Neil, Elarica Johnson, Franka Potente",
+  "genre": "Sci-Fi & Fantasy Anime, Action Anime, Anime based on a Video Game, Anime Series, Horror Anime, US TV Shows, Horror TV Serials",
+  "thismovieis": "Scary, Dark",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, nudity, language, gore",
+  "desc": "As revolution sweeps France, Richter Belmont fights to uphold his family's legacy and prevent the rise of a ruthless, power-hungry vampire ruler.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81436902",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81437018",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81437019",
+      "t": "A Living Legend",
+      "s": "S2",
+      "ep": "E1",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "81437020",
+      "t": "Angel of Death",
+      "s": "S2",
+      "ep": "E2",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81437021",
+      "t": "The Widow's Window",
+      "s": "S2",
+      "ep": "E3",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81437022",
+      "t": "Monstrous Things",
+      "s": "S2",
+      "ep": "E4",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81437023",
+      "t": "Into the Abyss",
+      "s": "S2",
+      "ep": "E5",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81437024",
+      "t": "Ancestors",
+      "s": "S2",
+      "ep": "E6",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81437025",
+      "t": "Grenadye Alaso",
+      "s": "S2",
+      "ep": "E7",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81437026",
+      "t": "A Line of Great Heroes",
+      "s": "S2",
+      "ep": "E8",
+      "time": "33m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81437018",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81437019",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81001988"
+    },
+    {
+      "id": "81281582"
+    },
+    {
+      "id": "81153116"
+    },
+    {
+      "id": "81144203"
+    },
+    {
+      "id": "81037868"
+    },
+    {
+      "id": "80117291"
+    },
+    {
+      "id": "80174974"
+    }
+  ],
+  "error": null
+}
