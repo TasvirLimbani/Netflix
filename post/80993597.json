@@ -1,0 +1,234 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Action Pack",
+  "year": "2022",
+  "ua": "U",
+  "match": "30% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "William Harper",
+  "director": "",
+  "writer": "",
+  "short_cast": "Sydney Thomas, Oscar Reyez, Julieta Cortes, Nevin Kar, Giancarlo Sabogal",
+  "cast": "Sydney Thomas, Oscar Reyez, Julieta Cortes, Nevin Kar, Giancarlo Sabogal",
+  "genre": "Kids' TV, TV Cartoons",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "With hearts, smarts and superpowers, the heroic kids of the Action Academy work together to battle the baddies \u2014 and even bring out the good in them!",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80995467",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81185831",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81185941",
+      "t": "Super Meowzers / Story Crime",
+      "s": "S2",
+      "ep": "E1",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81185942",
+      "t": "The Importance of Being Ernesto / The Cool Kid",
+      "s": "S2",
+      "ep": "E2",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81185943",
+      "t": "Pterodactyl Troubles / Super Tiny MegaPlane",
+      "s": "S2",
+      "ep": "E3",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81185945",
+      "t": "Chores Galore / Play Time",
+      "s": "S2",
+      "ep": "E4",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81185946",
+      "t": "The Rakhi Rundown / Gaming the System",
+      "s": "S2",
+      "ep": "E5",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81185948",
+      "t": "Once in a Blue Noon",
+      "s": "S2",
+      "ep": "E6",
+      "time": "28m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81185831",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81185941",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81244169"
+    },
+    {
+      "id": "80187223"
+    },
+    {
+      "id": "80215155"
+    },
+    {
+      "id": "81566729"
+    },
+    {
+      "id": "81191979"
+    },
+    {
+      "id": "81687176"
+    }
+  ],
+  "error": null
+}
