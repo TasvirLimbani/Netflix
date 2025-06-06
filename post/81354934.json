@@ -1,0 +1,178 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Shahmaran",
+  "year": "2023",
+  "ua": "U/A 16+",
+  "match": "80% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Serenay Sar\u0131kaya, Burak Deniz, Mustafa U\u011furlu, Mahir G\u00fcn\u015firay, Ebru \u00d6zkan, Mert Ramazan Demir, Hakan Karahan, Elif Nur Kerk\u00fck, Mehmet Bilge Aslan, Berfu Halisdemir, Nilay Erd\u00f6nmez, Nil Sude Albayrak, Ay\u015fe Lebriz Berkem, Ece Ertez, Beran Soysal, Almina G\u00fcnayd\u0131n, Mert Do\u011fan",
+  "cast": "Serenay Sar\u0131kaya, Burak Deniz, Mustafa U\u011furlu, Mahir G\u00fcn\u015firay, Ebru \u00d6zkan, Mert Ramazan Demir, Hakan Karahan, Elif Nur Kerk\u00fck, Mehmet Bilge Aslan, Berfu Halisdemir, Nilay Erd\u00f6nmez, Nil Sude Albayrak, Ay\u015fe Lebriz Berkem, Ece Ertez, Beran Soysal, Almina G\u00fcnayd\u0131n, Mert Do\u011fan",
+  "genre": "Romantic TV Dramas, TV Dramas, Turkish, Fantasy TV Shows",
+  "thismovieis": "Ominous, Suspenseful, Romantic",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, nudity, language, gore",
+  "desc": "When \u015eahsu goes to Adana for a lecture, it\u2019s the perfect chance to face her estranged grandfather. But soon, she finds herself in the midst of a legend.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81354935",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81609586",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81633835",
+      "t": "Those Who Sleep Within",
+      "s": "S2",
+      "ep": "E1",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81633836",
+      "t": "Festina Lente",
+      "s": "S2",
+      "ep": "E2",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81633837",
+      "t": "Love Doesn\u2019t Kill",
+      "s": "S2",
+      "ep": "E3",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81633838",
+      "t": "About Love and Death",
+      "s": "S2",
+      "ep": "E4",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81633839",
+      "t": "Judgement Day",
+      "s": "S2",
+      "ep": "E5",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81633840",
+      "t": "Cycle",
+      "s": "S2",
+      "ep": "E6",
+      "time": "43m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81609586",
+  "lang": [
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81633835",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81212136"
+    },
+    {
+      "id": "81037848"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81380432"
+    },
+    {
+      "id": "81590491"
+    },
+    {
+      "id": "81334950"
+    },
+    {
+      "id": "80189829"
+    },
+    {
+      "id": "81637609"
+    },
+    {
+      "id": "81610272"
+    },
+    {
+      "id": "81334952"
+    }
+  ],
+  "error": null
+}
