@@ -1,0 +1,87 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Magic Mixies",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "66% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Julianna Torres, Sabrina Glow, Levi Squier, Lindy Flowers, Su Ling Chan, Tareek Talati",
+  "cast": "Julianna Torres, Sabrina Glow, Levi Squier, Lindy Flowers, Su Ling Chan, Tareek Talati",
+  "genre": "Kids' TV, Australian, TV Cartoons",
+  "thismovieis": "",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence",
+  "desc": "After activating a magical doorway into another world, Sienna embarks on sparkling adventures with colorfully lovable creatures in an enchanted land.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81627042",
+      "ep": "2",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81627043",
+      "t": "Episode 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81627044",
+      "t": "Episode 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "31m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81627042",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81627043",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81628023"
+    },
+    {
+      "id": "81296780"
+    },
+    {
+      "id": "81607651"
+    }
+  ],
+  "error": null
+}
