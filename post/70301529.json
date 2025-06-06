@@ -1,0 +1,166 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Horrid Henry",
+  "year": "2006",
+  "ua": "U/A 7+",
+  "match": "56% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Francesca Simon",
+  "director": "",
+  "writer": "",
+  "short_cast": "Lizzie Waterworth, Emma Tate, Tamsin Heatley, Wayne Forester",
+  "cast": "Lizzie Waterworth, Emma Tate, Tamsin Heatley, Wayne Forester",
+  "genre": "Kids' TV, British, TV Shows Based on Books, TV Comedies, TV Cartoons",
+  "thismovieis": "",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "rude humor",
+  "desc": "To his family's frustration, Henry is skilled at making trouble, from babysitting pets in his bedroom to starting a shark panic at the swimming pool.",
+  "oin": "",
+  "season": [
+    {
+      "s": "3",
+      "id": "80096775",
+      "ep": "52",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "81000105",
+      "ep": "42",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81051245",
+      "t": "Horrid Henry\u2019s Uber Homework",
+      "s": "S4",
+      "ep": "E1",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81051246",
+      "t": "Horrid Henry and the Lucky Thing",
+      "s": "S4",
+      "ep": "E2",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81051247",
+      "t": "Horrid Henry: Mi Casa Es Tu Casa",
+      "s": "S4",
+      "ep": "E3",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81051248",
+      "t": "Horrid Henry\u2019s Magic Mayhem",
+      "s": "S4",
+      "ep": "E4",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81051249",
+      "t": "Horrid Henry and the Titanic TV",
+      "s": "S4",
+      "ep": "E5",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81051250",
+      "t": "Horrid Henry and the 3D Nightmare",
+      "s": "S4",
+      "ep": "E6",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81051251",
+      "t": "Horrid Henry\u2019s Class Action",
+      "s": "S4",
+      "ep": "E7",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81051252",
+      "t": "Horrid Henry: Silence Is Golden",
+      "s": "S4",
+      "ep": "E8",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81051253",
+      "t": "Horrid Henry and the Good Day, Bad Day",
+      "s": "S4",
+      "ep": "E9",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81051254",
+      "t": "Horrid Henry and the Pet Show",
+      "s": "S4",
+      "ep": "E10",
+      "time": "11m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81000105",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "last_ep": "81051245",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81450320"
+    },
+    {
+      "id": "80158156"
+    },
+    {
+      "id": "81068804"
+    },
+    {
+      "id": "80097036"
+    },
+    {
+      "id": "80025494"
+    },
+    {
+      "id": "70155547"
+    },
+    {
+      "id": "81422836"
+    },
+    {
+      "id": "28631029"
+    },
+    {
+      "id": "81450276"
+    },
+    {
+      "id": "80993016"
+    }
+  ],
+  "error": null
+}
