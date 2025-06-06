@@ -1,0 +1,237 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Gymnastics Academy: A Second Chance",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "100% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Clay Glen",
+  "director": "",
+  "writer": "",
+  "short_cast": "Jada-Lee Henry, Emily Morris, Trung Le, Stella Shute, Zoe Rae Burns, Luciana Valdez Tirado, Eva Grados, Akira Van, Jett Gazley",
+  "cast": "Jada-Lee Henry, Emily Morris, Trung Le, Stella Shute, Zoe Rae Burns, Luciana Valdez Tirado, Eva Grados, Akira Van, Jett Gazley",
+  "genre": "Kids' TV, TV Dramas, Family Watch Together TV, Australian",
+  "thismovieis": "Inspiring, Heartfelt, Feel-Good",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence",
+  "desc": "In the wake of an injury, American teen Kyra Berry gets a second chance to chase her dreams \u2014 and a gymnastics scholarship \u2014 in faraway Australia.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81422414",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81517872",
+      "t": "A Second Chance",
+      "s": "S1",
+      "ep": "E1",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81517873",
+      "t": "Fairly Treated",
+      "s": "S1",
+      "ep": "E2",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81517874",
+      "t": "Family Expectations",
+      "s": "S1",
+      "ep": "E3",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81517875",
+      "t": "Jealousy Has Consequences",
+      "s": "S1",
+      "ep": "E4",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81517876",
+      "t": "All in This Together",
+      "s": "S1",
+      "ep": "E5",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81517877",
+      "t": "Price of Friendship",
+      "s": "S1",
+      "ep": "E6",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81517878",
+      "t": "Relationships Are Tough",
+      "s": "S1",
+      "ep": "E7",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81517879",
+      "t": "Competition All Round",
+      "s": "S1",
+      "ep": "E8",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81517880",
+      "t": "Family First",
+      "s": "S1",
+      "ep": "E9",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81517881",
+      "t": "Family Support",
+      "s": "S1",
+      "ep": "E10",
+      "time": "24m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81422414",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81517872",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81354629"
+    },
+    {
+      "id": "80994878"
+    },
+    {
+      "id": "81005407"
+    },
+    {
+      "id": "80245601"
+    },
+    {
+      "id": "80230534"
+    },
+    {
+      "id": "81209537"
+    },
+    {
+      "id": "81011712"
+    },
+    {
+      "id": "81162089"
+    },
+    {
+      "id": "80220644"
+    }
+  ],
+  "error": null
+}
