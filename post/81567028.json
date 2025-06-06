@@ -1,0 +1,175 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Absolute Beginners",
+  "year": "2023",
+  "ua": "U/A 18+ [A]",
+  "match": "79% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Martyna Byczkowska, Bart\u0142omiej Deklewa, Jan Sa\u0142asi\u0144ski, Paulina Krzy\u017ca\u0144ska, Katarzyna Warnke, Piotr Witkowski, Anna Krotoska, Andrzej Konopka, Julian \u015awie\u017cewski",
+  "cast": "Martyna Byczkowska, Bart\u0142omiej Deklewa, Jan Sa\u0142asi\u0144ski, Paulina Krzy\u017ca\u0144ska, Katarzyna Warnke, Piotr Witkowski, Anna Krotoska, Andrzej Konopka, Julian \u015awie\u017cewski",
+  "genre": "Romantic TV Dramas, TV Dramas, Polish, Teen TV Shows",
+  "thismovieis": "Cerebral, Intimate, Heartfelt",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "tobacco use, sex, nudity",
+  "desc": "Two childhood best friends enjoying their final seaside summer as they prepare for film school meet an aspiring athlete who ignites unfamiliar desires.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81567029",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81567052",
+      "t": "Episode 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81567053",
+      "t": "Episode 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81567054",
+      "t": "Episode 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81567055",
+      "t": "Episode 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81567056",
+      "t": "Episode 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81567057",
+      "t": "Episode 6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "53m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81567029",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81567052",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81559019"
+    },
+    {
+      "id": "81446391"
+    },
+    {
+      "id": "80037286"
+    },
+    {
+      "id": "80155812"
+    },
+    {
+      "id": "81713120"
+    },
+    {
+      "id": "81645391"
+    },
+    {
+      "id": "81476441"
+    },
+    {
+      "id": "81674326"
+    },
+    {
+      "id": "81721434"
+    },
+    {
+      "id": "81589003"
+    }
+  ],
+  "error": null
+}
