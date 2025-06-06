@@ -1,0 +1,131 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Indian Predator: The Butcher of Delhi",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "97% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Historical Documentaries, Crime TV Shows, Docuseries, Hindi-Language TV Shows, True Crime Documentaries",
+  "thismovieis": "Dark",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, language, gore",
+  "desc": "A series of mutilated bodies and taunting notes left outside a Delhi jail sends police hunting for a seasoned killer with a grudge against the system.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81564449",
+      "ep": "3",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81272117",
+      "t": "Tohfe",
+      "s": "S1",
+      "ep": "E1",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81272118",
+      "t": "Tasveer",
+      "s": "S1",
+      "ep": "E2",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81272119",
+      "t": "Tukre",
+      "s": "S1",
+      "ep": "E3",
+      "time": "40m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81564449",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Kannada",
+      "s": "kan"
+    },
+    {
+      "l": "Malayalam",
+      "s": "mal"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    }
+  ],
+  "last_ep": "81272117",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81610578"
+    },
+    {
+      "id": "81610333"
+    },
+    {
+      "id": "81095095"
+    },
+    {
+      "id": "81610577"
+    },
+    {
+      "id": "81384842"
+    },
+    {
+      "id": "81000068"
+    },
+    {
+      "id": "81111279"
+    },
+    {
+      "id": "81512107"
+    },
+    {
+      "id": "80990073"
+    },
+    {
+      "id": "81150989"
+    },
+    {
+      "id": "81766865"
+    }
+  ],
+  "error": null
+}
