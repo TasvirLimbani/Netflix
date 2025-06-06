@@ -1,0 +1,167 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Beyblade Burst Surge",
+  "year": "2020",
+  "ua": "U",
+  "match": "83% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Natsumi Fujiwara, Haruka Tomatsu, Marina Inoue, Tomoko Ikeda, Megumi Han, Junya Enoki, Fumihiro Okabayashi, Romi Park, Takuma Terashima, Ryoko Shiraishi",
+  "cast": "Natsumi Fujiwara, Haruka Tomatsu, Marina Inoue, Tomoko Ikeda, Megumi Han, Junya Enoki, Fumihiro Okabayashi, Romi Park, Takuma Terashima, Ryoko Shiraishi",
+  "genre": "Kids' TV, Action Anime, Japanese, Anime Series, TV Shows Based on Manga",
+  "thismovieis": "Imaginative, Exciting",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "As two brothers train to become Beyblade legends, they start a Blading revolution that could topple the sport's ruling elite.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81567664",
+      "ep": "26",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81567665",
+      "t": "The Blading Revolution!",
+      "s": "S1",
+      "ep": "E1",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81567666",
+      "t": "Locked On! Lightning Launch!",
+      "s": "S1",
+      "ep": "E2",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81567667",
+      "t": "Persistence! Kolossal Strike!",
+      "s": "S1",
+      "ep": "E3",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81567668",
+      "t": "Listen To Your Bey\u2019s Voice!",
+      "s": "S1",
+      "ep": "E4",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81567669",
+      "t": "Illusory Dragon! Mirage Fafnir!",
+      "s": "S1",
+      "ep": "E5",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81567670",
+      "t": "Dream Team! Tag Battle!",
+      "s": "S1",
+      "ep": "E6",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81567671",
+      "t": "Conquering the Ogre\u2019s Dungeon!",
+      "s": "S1",
+      "ep": "E7",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81567672",
+      "t": "The Jet-Black Sun! Vex Lucius!",
+      "s": "S1",
+      "ep": "E8",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81567673",
+      "t": "Is this a Dream?! Or is it a Nightmare?!",
+      "s": "S1",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81567674",
+      "t": "Rise to Victory! Triumph Dragon!",
+      "s": "S1",
+      "ep": "E10",
+      "time": "22m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81567664",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81567665",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81325983"
+    },
+    {
+      "id": "70155614"
+    },
+    {
+      "id": "70155571"
+    },
+    {
+      "id": "70252973"
+    },
+    {
+      "id": "81586549"
+    },
+    {
+      "id": "81519765"
+    },
+    {
+      "id": "80103408"
+    }
+  ],
+  "error": null
+}
