@@ -1,0 +1,80 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Stutz",
+  "year": "2022",
+  "ua": "U/A 16+",
+  "match": "79% match",
+  "runtime": "1h 36m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Jonah Hill",
+  "writer": "Jonah Hill",
+  "short_cast": "Phil Stutz, Jonah Hill",
+  "cast": "Phil Stutz, Jonah Hill",
+  "genre": "Documentaries, Lifestyle, US Movies",
+  "thismovieis": "Inspiring, Intimate, Heartfelt",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "language",
+  "desc": "In candid conversations with actor Jonah Hill, leading psychiatrist Phil Stutz explores his early life experiences and unique, visual model of therapy.",
+  "oin": "y",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "80209895"
+    },
+    {
+      "id": "80229847"
+    },
+    {
+      "id": "81280926"
+    },
+    {
+      "id": "80102204"
+    },
+    {
+      "id": "81010166"
+    },
+    {
+      "id": "81328829"
+    },
+    {
+      "id": "81254224"
+    },
+    {
+      "id": "81074662"
+    },
+    {
+      "id": "81312877"
+    },
+    {
+      "id": "81273453"
+    },
+    {
+      "id": "81436688"
+    }
+  ],
+  "error": null
+}
