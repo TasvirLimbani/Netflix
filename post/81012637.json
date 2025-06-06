@@ -1,0 +1,175 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Sky Rojo",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "52% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "\u00c1lex Pina, Esther Mart\u00ednez Lobato",
+  "director": "",
+  "writer": "",
+  "short_cast": "Ver\u00f3nica S\u00e1nchez, Miguel \u00c1ngel Silvestre, Asier Etxeandia, Lali Esp\u00f3sito, Yany Prado, Catalina Sopelana, Alicia S\u00e1nchez, Maia Dunne, Chloe Dunne, Godeliv Van den Brandt, Pen\u00e9lope Guerrero, Luisa Vides, Niko Verona, Iv\u00e1n Yao, Enric Auquer, Jos\u00e9 Manuel Poga, Carmen Santamar\u00eda, Cecilia G\u00f3mez, Luis Zahera, Chema Ruiz",
+  "cast": "Ver\u00f3nica S\u00e1nchez, Miguel \u00c1ngel Silvestre, Asier Etxeandia, Lali Esp\u00f3sito, Yany Prado, Catalina Sopelana, Alicia S\u00e1nchez, Maia Dunne, Chloe Dunne, Godeliv Van den Brandt, Pen\u00e9lope Guerrero, Luisa Vides, Niko Verona, Iv\u00e1n Yao, Enric Auquer, Jos\u00e9 Manuel Poga, Carmen Santamar\u00eda, Cecilia G\u00f3mez, Luis Zahera, Chema Ruiz",
+  "genre": "TV Dramas, Spanish, TV Action & Adventure",
+  "thismovieis": "",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, suicide, substances, sexual violence, sex, nudity, language, sexual violence references",
+  "desc": "A fatal turn of events at a brothel sends three women haunted by their pasts on a wild run from their pimp and his henchmen.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81029763",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81221610",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81496003",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81496182",
+      "t": "Getting into Heaven through the Back Door",
+      "s": "S3",
+      "ep": "E1",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "81496183",
+      "t": "The Line That Separates Us",
+      "s": "S3",
+      "ep": "E2",
+      "time": "35m"
+    },
+    {
+      "complate": "0",
+      "id": "81496184",
+      "t": "The Lucky Cat",
+      "s": "S3",
+      "ep": "E3",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81496185",
+      "t": "Diesel, Saltpeter, and Gunpowder",
+      "s": "S3",
+      "ep": "E4",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81496186",
+      "t": "Jesus Was Right",
+      "s": "S3",
+      "ep": "E5",
+      "time": "32m"
+    },
+    {
+      "complate": "0",
+      "id": "81496187",
+      "t": "Ambushing the Embryo",
+      "s": "S3",
+      "ep": "E6",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81496188",
+      "t": "Helplessness and Ice Hockey",
+      "s": "S3",
+      "ep": "E7",
+      "time": "38m"
+    },
+    {
+      "complate": "0",
+      "id": "81496189",
+      "t": "Gold, Frankincense, and Lead",
+      "s": "S3",
+      "ep": "E8",
+      "time": "36m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81496003",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81496182",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81317562"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81211710"
+    },
+    {
+      "id": "81348771"
+    },
+    {
+      "id": "81036622"
+    },
+    {
+      "id": "81026305"
+    },
+    {
+      "id": "81437215"
+    }
+  ],
+  "error": null
+}
