@@ -1,0 +1,174 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "World War II: From the Frontlines",
+  "year": "2023",
+  "ua": "U/A 18+ [A]",
+  "match": "68% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "John Boyega",
+  "cast": "John Boyega",
+  "genre": "British, Historical Documentaries, Military Documentaries, Docuseries",
+  "thismovieis": "",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, suicide, nudity, disturbing images",
+  "desc": "Through vividly enhanced archival footage and voices from all sides of the conflict, this docuseries brings WWII to life like never before.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81303912",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81452626",
+      "t": "The Master Race",
+      "s": "S1",
+      "ep": "E1",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81452627",
+      "t": "World Domination",
+      "s": "S1",
+      "ep": "E2",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81452628",
+      "t": "Turning Point",
+      "s": "S1",
+      "ep": "E3",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81452629",
+      "t": "Fortress Europe",
+      "s": "S1",
+      "ep": "E4",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81452630",
+      "t": "Invasion",
+      "s": "S1",
+      "ep": "E5",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81452631",
+      "t": "Last Stand",
+      "s": "S1",
+      "ep": "E6",
+      "time": "56m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81303912",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81452626",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80989924"
+    },
+    {
+      "id": "81488464"
+    },
+    {
+      "id": "81672035"
+    },
+    {
+      "id": "81614129"
+    },
+    {
+      "id": "81561941"
+    },
+    {
+      "id": "80138915"
+    },
+    {
+      "id": "80106791"
+    },
+    {
+      "id": "81474469"
+    },
+    {
+      "id": "80989772"
+    },
+    {
+      "id": "81474104"
+    },
+    {
+      "id": "80201488"
+    },
+    {
+      "id": "81315804"
+    }
+  ],
+  "error": null
+}
