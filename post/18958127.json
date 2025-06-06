@@ -1,0 +1,87 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "8MM",
+  "year": "1999",
+  "ua": "U/A 18+ [A]",
+  "match": "56% match",
+  "runtime": "2h 3m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Joel Schumacher",
+  "writer": "Andrew Kevin Walker",
+  "short_cast": "Nicolas Cage, Joaquin Phoenix, James Gandolfini, Peter Stormare, Anthony Heald, Chris Bauer, Catherine Keener, Myra Carter, Amy Morton",
+  "cast": "Nicolas Cage, Joaquin Phoenix, James Gandolfini, Peter Stormare, Anthony Heald, Chris Bauer, Catherine Keener, Myra Carter, Amy Morton",
+  "genre": "Crime Movies, Thriller Movies, Mystery Movies, US Movies",
+  "thismovieis": "Violent, Gritty, Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, substances, sexual violence, sex, nudity, language, gore",
+  "desc": "A private eye descends into an abyss of evil after a widow hires him to determine whether a snuff film in her late husband's possession was genuine.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "27828200"
+    },
+    {
+      "id": "1180086"
+    },
+    {
+      "id": "950149"
+    },
+    {
+      "id": "80224414"
+    },
+    {
+      "id": "70035186"
+    },
+    {
+      "id": "8188050"
+    },
+    {
+      "id": "797261"
+    },
+    {
+      "id": "70060005"
+    },
+    {
+      "id": "70028900"
+    },
+    {
+      "id": "70103523"
+    },
+    {
+      "id": "60010341"
+    },
+    {
+      "id": "80021752"
+    }
+  ],
+  "error": null
+}
