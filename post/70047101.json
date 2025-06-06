@@ -1,0 +1,107 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Spider-Man 3",
+  "year": "2007",
+  "ua": "U/A 16+",
+  "match": "89% match",
+  "runtime": "2h 19m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Sam Raimi",
+  "writer": "Sam Raimi, Ivan Raimi, Alvin Sargent",
+  "short_cast": "Tobey Maguire, Kirsten Dunst, James Franco, Thomas Haden Church, Topher Grace, Bryce Dallas Howard, Rosemary Harris, J.K. Simmons, James Cromwell, Theresa Russell, Dylan Baker, Bill Nunn, Bruce Campbell, Elizabeth Banks",
+  "cast": "Tobey Maguire, Kirsten Dunst, James Franco, Thomas Haden Church, Topher Grace, Bryce Dallas Howard, Rosemary Harris, J.K. Simmons, James Cromwell, Theresa Russell, Dylan Baker, Bill Nunn, Bruce Campbell, Elizabeth Banks",
+  "genre": "Sci-Fi Movies, Action & Adventure Movies, US Movies",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, tobacco use",
+  "desc": "Peter Parker alienates those closest to him as he squares off with rivals, villains and a mysterious force that darkens his Spidey suit \u2014 and attitude.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70208599"
+    },
+    {
+      "id": "60004481"
+    },
+    {
+      "id": "80166369"
+    },
+    {
+      "id": "80991034"
+    },
+    {
+      "id": "60027724"
+    },
+    {
+      "id": "80144309"
+    },
+    {
+      "id": "80187362"
+    },
+    {
+      "id": "80081793"
+    },
+    {
+      "id": "70264797"
+    },
+    {
+      "id": "70021664"
+    },
+    {
+      "id": "70217910"
+    },
+    {
+      "id": "80216309"
+    }
+  ],
+  "error": null
+}
