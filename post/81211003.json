@@ -1,0 +1,176 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Ancient Apocalypse",
+  "year": "2022",
+  "ua": "U/A 13+",
+  "match": "33% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Graham Hancock",
+  "cast": "Graham Hancock",
+  "genre": "Docuseries, Social & Cultural Docs, US TV Shows",
+  "thismovieis": "Provocative, Investigative",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "language",
+  "desc": "Journalist Graham Hancock travels the globe hunting for evidence of mysterious, lost civilizations dating back to the last Ice Age.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81222573",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81246515",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81717441",
+      "t": "Chapter I",
+      "s": "S2",
+      "ep": "E1",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81717442",
+      "t": "Chapter II",
+      "s": "S2",
+      "ep": "E2",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81717443",
+      "t": "Chapter III",
+      "s": "S2",
+      "ep": "E3",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81717444",
+      "t": "Chapter IV",
+      "s": "S2",
+      "ep": "E4",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81717445",
+      "t": "Chapter V",
+      "s": "S2",
+      "ep": "E5",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81717446",
+      "t": "Chapter VI",
+      "s": "S2",
+      "ep": "E6",
+      "time": "40m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81246515",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81717441",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81473679"
+    },
+    {
+      "id": "81064069"
+    },
+    {
+      "id": "81435357"
+    },
+    {
+      "id": "81473682"
+    },
+    {
+      "id": "81513913"
+    },
+    {
+      "id": "81018709"
+    },
+    {
+      "id": "81243961"
+    },
+    {
+      "id": "81457004"
+    },
+    {
+      "id": "81473680"
+    },
+    {
+      "id": "81230204"
+    },
+    {
+      "id": "80213846"
+    },
+    {
+      "id": "81341795"
+    }
+  ],
+  "error": null
+}
