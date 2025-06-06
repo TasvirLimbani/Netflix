@@ -1,0 +1,244 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Shadowhunters: The Mortal Instruments",
+  "year": "2016",
+  "ua": "U/A 16+",
+  "match": "34% match",
+  "runtime": "4 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Ed Decter",
+  "director": "",
+  "writer": "",
+  "short_cast": "Katherine McNamara, Dominic Sherwood, Alberto Rosende, Emeraude Toubia, Matthew Daddario, Harry Shum Jr., Isaiah Mustafa, Alan Van Sprang",
+  "cast": "Katherine McNamara, Dominic Sherwood, Alberto Rosende, Emeraude Toubia, Matthew Daddario, Harry Shum Jr., Isaiah Mustafa, Alan Van Sprang",
+  "genre": "Sci-Fi TV, TV Shows Based on Books, Teen TV Shows, US TV Shows, Horror TV Serials, Fantasy TV Shows",
+  "thismovieis": "",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, substances, gore",
+  "desc": "The life of typical teen Clary Fray is upended when she learns that she's part of a race of demon-hunting humans who have the blood of angels.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80084161",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80105608",
+      "ep": "20",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80213109",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "81040450",
+      "ep": "12",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80212998",
+      "t": "Lost Souls",
+      "s": "S4",
+      "ep": "E11",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80212999",
+      "t": "Original Sin",
+      "s": "S4",
+      "ep": "E12",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80213200",
+      "t": "Beati Bellicosi",
+      "s": "S4",
+      "ep": "E13",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80213201",
+      "t": "A Kiss from a Rose",
+      "s": "S4",
+      "ep": "E14",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80213202",
+      "t": "To the Night Children",
+      "s": "S4",
+      "ep": "E15",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80213203",
+      "t": "Stay with Me",
+      "s": "S4",
+      "ep": "E16",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80213204",
+      "t": "Heavenly Fire",
+      "s": "S4",
+      "ep": "E17",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80213205",
+      "t": "The Beast Within",
+      "s": "S4",
+      "ep": "E18",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80213206",
+      "t": "Aku Cinta Kamu",
+      "s": "S4",
+      "ep": "E19",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80213207",
+      "t": "City of Glass",
+      "s": "S4",
+      "ep": "E20",
+      "time": "43m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81040450",
+  "lang": [
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80212998",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80220679"
+    },
+    {
+      "id": "80238357"
+    },
+    {
+      "id": "80236319"
+    },
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "80242724"
+    },
+    {
+      "id": "80241239"
+    },
+    {
+      "id": "80199393"
+    },
+    {
+      "id": "81351571"
+    },
+    {
+      "id": "80223989"
+    },
+    {
+      "id": "81150303"
+    },
+    {
+      "id": "81116060"
+    },
+    {
+      "id": "70143860"
+    }
+  ],
+  "error": null
+}
