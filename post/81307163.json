@@ -1,0 +1,153 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "MH370: The Plane That Disappeared",
+  "year": "2023",
+  "ua": "U/A 13+",
+  "match": "48% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "British, Docuseries",
+  "thismovieis": "Investigative",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "mature themes, language",
+  "desc": "In 2014, a plane with 239 people aboard vanishes from all radar. This docuseries delves into one of our greatest modern mysteries: Flight MH370.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81212197",
+      "ep": "3",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81307167",
+      "t": "The Pilot",
+      "s": "S1",
+      "ep": "E1",
+      "time": "60m"
+    },
+    {
+      "complate": "0",
+      "id": "81307168",
+      "t": "The Hijack",
+      "s": "S1",
+      "ep": "E2",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81307169",
+      "t": "The Intercept",
+      "s": "S1",
+      "ep": "E3",
+      "time": "55m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81212197",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    }
+  ],
+  "last_ep": "81307167",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81272421"
+    },
+    {
+      "id": "81315804"
+    },
+    {
+      "id": "81410405"
+    },
+    {
+      "id": "81026055"
+    },
+    {
+      "id": "81346975"
+    },
+    {
+      "id": "81474469"
+    },
+    {
+      "id": "81349547"
+    },
+    {
+      "id": "81580822"
+    },
+    {
+      "id": "81130130"
+    }
+  ],
+  "error": null
+}
