@@ -1,0 +1,83 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "M3GAN",
+  "year": "2023",
+  "ua": "U/A 16+",
+  "match": "63% match",
+  "runtime": "1h 41m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Gerard Johnstone",
+  "writer": "Akela Cooper, James Wan",
+  "short_cast": "Allison Williams, Violet McGraw, Ronny Chieng, Amie Donald, Jenna Davis, Brian Jordan Alvarez, Jen Van Epps, Stephane Garneau-Monten, Lori Dungey, Amy Usherwood",
+  "cast": "Allison Williams, Violet McGraw, Ronny Chieng, Amie Donald, Jenna Davis, Brian Jordan Alvarez, Jen Van Epps, Stephane Garneau-Monten, Lori Dungey, Amy Usherwood",
+  "genre": "Sci-Fi Movies, Horror Movies, US Movies",
+  "thismovieis": "Campy, Scary",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence",
+  "desc": "When a roboticist tests the lifelike companion doll she's invented on her orphaned niece, the android soon takes her childcare duties deadly seriously.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81345798"
+    },
+    {
+      "id": "80219131"
+    },
+    {
+      "id": "81034937"
+    },
+    {
+      "id": "81630892"
+    },
+    {
+      "id": "81616656"
+    },
+    {
+      "id": "81157374"
+    },
+    {
+      "id": "70251894"
+    },
+    {
+      "id": "81084263"
+    },
+    {
+      "id": "80188939"
+    },
+    {
+      "id": "80091246"
+    },
+    {
+      "id": "81210788"
+    },
+    {
+      "id": "81021831"
+    }
+  ],
+  "error": null
+}
