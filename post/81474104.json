@@ -1,0 +1,172 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Spy Ops",
+  "year": "2023",
+  "ua": "U/A 16+",
+  "match": "55% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Political TV Shows, Historical Documentaries, Political Documentaries, Docuseries, US TV Shows",
+  "thismovieis": "Provocative",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, tobacco use, mature themes",
+  "desc": "Intelligence operatives from MI6 to the CIA share insider stories of spy craft, Cold War campaigns, and coups carried out by covert agents.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81474105",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81474496",
+      "t": "Operation Jawbreaker",
+      "s": "S1",
+      "ep": "E1",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81474499",
+      "t": "Operation Just Cause",
+      "s": "S1",
+      "ep": "E2",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81474497",
+      "t": "Operation Pimlico",
+      "s": "S1",
+      "ep": "E3",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81474498",
+      "t": "The Plot to Kill the Pope",
+      "s": "S1",
+      "ep": "E4",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81474501",
+      "t": "Operation Wrath of God Part I",
+      "s": "S1",
+      "ep": "E5",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81474502",
+      "t": "Operation Wrath Of God Part II",
+      "s": "S1",
+      "ep": "E6",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81474503",
+      "t": "Taliban Spies",
+      "s": "S1",
+      "ep": "E7",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81474500",
+      "t": "Project Azorian",
+      "s": "S1",
+      "ep": "E8",
+      "time": "35m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81474105",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    }
+  ],
+  "last_ep": "81474496",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81014547"
+    },
+    {
+      "id": "81315804"
+    },
+    {
+      "id": "81614129"
+    },
+    {
+      "id": "80989772"
+    },
+    {
+      "id": "81303911"
+    },
+    {
+      "id": "81384842"
+    },
+    {
+      "id": "81474469"
+    },
+    {
+      "id": "81672035"
+    },
+    {
+      "id": "81018709"
+    },
+    {
+      "id": "81561941"
+    }
+  ],
+  "error": null
+}
