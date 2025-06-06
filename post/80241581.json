@@ -1,0 +1,194 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Irregulars",
+  "year": "2021",
+  "ua": "U/A 16+",
+  "match": "59% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Tom Bidwell",
+  "director": "",
+  "writer": "",
+  "short_cast": "McKell David, Thaddea Graham, Jojo Macari, Harrison Osterfield, Darci Shaw, Clarke Peters, Royce Pierreson, Henry Lloyd-Hughes",
+  "cast": "McKell David, Thaddea Graham, Jojo Macari, Harrison Osterfield, Darci Shaw, Clarke Peters, Royce Pierreson, Henry Lloyd-Hughes",
+  "genre": "TV Dramas, British, Teen TV Shows, TV Mysteries, Period Pieces, Crime TV Shows, TV Thrillers, Horror TV Serials",
+  "thismovieis": "Ominous, Bittersweet, Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "suicide, substances, gore",
+  "desc": "A crew of misfits investigates a series of supernatural crimes in Victorian London for Dr. Watson and his shadowy associate, Sherlock Holmes.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81002463",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81022910",
+      "t": "Chapter One: An Unkindness in London",
+      "s": "S1",
+      "ep": "E1",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "81022911",
+      "t": "Chapter Two: The Ghosts of 221B",
+      "s": "S1",
+      "ep": "E2",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81022912",
+      "t": "Chapter Three: Ipsissimus",
+      "s": "S1",
+      "ep": "E3",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81022913",
+      "t": "Chapter Four: Both the Needle and the Knife",
+      "s": "S1",
+      "ep": "E4",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81022914",
+      "t": "Chapter Five: Students of the Unhallowed Arts",
+      "s": "S1",
+      "ep": "E5",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "81022915",
+      "t": "Chapter Six: Hieracium Snowdoniense",
+      "s": "S1",
+      "ep": "E6",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81022916",
+      "t": "Chapter Seven: The Ecstasy of Death",
+      "s": "S1",
+      "ep": "E7",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81022917",
+      "t": "Chapter Eight: The Ecstasy of Life",
+      "s": "S1",
+      "ep": "E8",
+      "time": "55m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81002463",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81022910",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81116060"
+    },
+    {
+      "id": "81679967"
+    },
+    {
+      "id": "80238357"
+    },
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "80241239"
+    },
+    {
+      "id": "80236319"
+    },
+    {
+      "id": "81150303"
+    },
+    {
+      "id": "80220679"
+    },
+    {
+      "id": "80221644"
+    },
+    {
+      "id": "80199393"
+    },
+    {
+      "id": "80149395"
+    }
+  ],
+  "error": null
+}
