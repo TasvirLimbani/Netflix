@@ -1,0 +1,164 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Animal",
+  "year": "2021",
+  "ua": "U/A 7+",
+  "match": "46% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Bryan Cranston, Rashida Jones, Rebel Wilson, Pedro Pascal, Uzo Aduba, Anthony Mackie, David Harbour, Andy Serkis",
+  "cast": "Bryan Cranston, Rashida Jones, Rebel Wilson, Pedro Pascal, Uzo Aduba, Anthony Mackie, David Harbour, Andy Serkis",
+  "genre": "Family Watch Together TV, Nature & Ecology Documentaries, Science & Nature TV, Science & Nature Docs, Docuseries, US TV Shows",
+  "thismovieis": "",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild fear",
+  "desc": "This immersive series follows the world's most magnificent creatures, capturing never-before-seen moments from the heartwarming to the outrageous.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81145025",
+      "ep": "4",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81444177",
+      "ep": "4",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81187198",
+      "t": "Apes",
+      "s": "S2",
+      "ep": "E1",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81153184",
+      "t": "Birds of Prey",
+      "s": "S2",
+      "ep": "E2",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81187197",
+      "t": "Bears",
+      "s": "S2",
+      "ep": "E3",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81153180",
+      "t": "Dolphins",
+      "s": "S2",
+      "ep": "E4",
+      "time": "44m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81444177",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81187198",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80049832"
+    },
+    {
+      "id": "81319177"
+    },
+    {
+      "id": "81353947"
+    },
+    {
+      "id": "80213846"
+    },
+    {
+      "id": "81086133"
+    },
+    {
+      "id": "81137426"
+    },
+    {
+      "id": "81243961"
+    },
+    {
+      "id": "81462291"
+    }
+  ],
+  "error": null
+}
