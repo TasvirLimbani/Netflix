@@ -1,0 +1,158 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Turning Point: 9/11 and the War on Terror",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "55% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Political TV Shows, Political Documentaries, Docuseries, US TV Shows",
+  "thismovieis": "Provocative, Investigative",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, disturbing images",
+  "desc": "This unflinching series documents the 9/11 terrorist attacks, from Al Qaeda's roots in the 1980s to America's response, both at home and abroad.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81315805",
+      "ep": "5",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81320087",
+      "t": "The System Was Blinking Red",
+      "s": "S1",
+      "ep": "E1",
+      "time": "60m"
+    },
+    {
+      "complate": "0",
+      "id": "81320088",
+      "t": "A Place of Danger",
+      "s": "S1",
+      "ep": "E2",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81320089",
+      "t": "The Dark Side",
+      "s": "S1",
+      "ep": "E3",
+      "time": "64m"
+    },
+    {
+      "complate": "0",
+      "id": "81320090",
+      "t": "The Good War",
+      "s": "S1",
+      "ep": "E4",
+      "time": "63m"
+    },
+    {
+      "complate": "0",
+      "id": "81380537",
+      "t": "Graveyard of Empires",
+      "s": "S1",
+      "ep": "E5",
+      "time": "66m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81315805",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81320087",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81614129"
+    },
+    {
+      "id": "81580822"
+    },
+    {
+      "id": "81272421"
+    },
+    {
+      "id": "81307163"
+    },
+    {
+      "id": "81474104"
+    },
+    {
+      "id": "81213109"
+    },
+    {
+      "id": "81396979"
+    },
+    {
+      "id": "81303911"
+    }
+  ],
+  "error": null
+}
