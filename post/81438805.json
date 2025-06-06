@@ -1,0 +1,203 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Crooks",
+  "year": "2024",
+  "ua": "U/A 18+ [A]",
+  "match": "86% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Marvin Kren",
+  "director": "",
+  "writer": "",
+  "short_cast": "Frederick Lau, Christoph Krutzler, Svenja Jung, Jonathan Tittel, Erdal Y\u0131ld\u0131z, Karl Welunschek, Lukas Watzl, Nima Yaghobi, Maya Sara Unger, Virginie Peignien, Kida Khodr Ramadan, Klara Mucci",
+  "cast": "Frederick Lau, Christoph Krutzler, Svenja Jung, Jonathan Tittel, Erdal Y\u0131ld\u0131z, Karl Welunschek, Lukas Watzl, Nima Yaghobi, Maya Sara Unger, Virginie Peignien, Kida Khodr Ramadan, Klara Mucci",
+  "genre": "TV Dramas, German, TV Action & Adventure, Crime TV Shows, TV Thrillers",
+  "thismovieis": "Violent, Gritty, Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, substances, sex, language",
+  "desc": "A priceless coin puts rival gangs across Europe at odds, forcing a retired safecracker to team up with a two-bit gangster for one last heist.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81438806",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81504178",
+      "t": "Panther",
+      "s": "S1",
+      "ep": "E1",
+      "time": "66m"
+    },
+    {
+      "complate": "0",
+      "id": "81504179",
+      "t": "The Al-Walids",
+      "s": "S1",
+      "ep": "E2",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81504180",
+      "t": "Red",
+      "s": "S1",
+      "ep": "E3",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81504181",
+      "t": "The Ambulance",
+      "s": "S1",
+      "ep": "E4",
+      "time": "64m"
+    },
+    {
+      "complate": "0",
+      "id": "81504182",
+      "t": "Old Friends",
+      "s": "S1",
+      "ep": "E5",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81504183",
+      "t": "Rami",
+      "s": "S1",
+      "ep": "E6",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81504184",
+      "t": "Madame",
+      "s": "S1",
+      "ep": "E7",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81504185",
+      "t": "The Sea",
+      "s": "S1",
+      "ep": "E8",
+      "time": "52m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81438806",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81504178",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81308434"
+    },
+    {
+      "id": "81026305"
+    },
+    {
+      "id": "81216677"
+    },
+    {
+      "id": "81438160"
+    },
+    {
+      "id": "80992058"
+    },
+    {
+      "id": "80133153"
+    },
+    {
+      "id": "81461530"
+    },
+    {
+      "id": "81493689"
+    },
+    {
+      "id": "81654966"
+    },
+    {
+      "id": "81580682"
+    },
+    {
+      "id": "81579704"
+    }
+  ],
+  "error": null
+}
