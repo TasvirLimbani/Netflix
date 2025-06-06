@@ -1,0 +1,283 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Jurassic World: Chaos Theory",
+  "year": "2024",
+  "ua": "U/A 7+",
+  "match": "62% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Paul-Mik\u00e9l Williams, Sean Giambrone, Kausar Mohammed, Raini Rodriguez, Darren Barnet",
+  "cast": "Paul-Mik\u00e9l Williams, Sean Giambrone, Kausar Mohammed, Raini Rodriguez, Darren Barnet",
+  "genre": "Family Time TV, Kids' TV, TV Cartoons",
+  "thismovieis": "Ominous, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "The Camp Cretaceous gang comes together to unravel a mystery when they discover a global conspiracy that brings danger to dinosaurs \u2014 and to themselves.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81557032",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81639942",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81691642",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81691644",
+      "t": "Excess Baggage",
+      "s": "S3",
+      "ep": "E1",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81691645",
+      "t": "Villa Paradiso",
+      "s": "S3",
+      "ep": "E2",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81691646",
+      "t": "The Queen's Court",
+      "s": "S3",
+      "ep": "E3",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81691647",
+      "t": "Fire in the Piazza",
+      "s": "S3",
+      "ep": "E4",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81691648",
+      "t": "Boiling Over",
+      "s": "S3",
+      "ep": "E5",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81691649",
+      "t": "Undercover",
+      "s": "S3",
+      "ep": "E6",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81691650",
+      "t": "Decisions, Decisions...",
+      "s": "S3",
+      "ep": "E7",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81691651",
+      "t": "No Escape",
+      "s": "S3",
+      "ep": "E8",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81691652",
+      "t": "Active Pursuit",
+      "s": "S3",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81691653",
+      "t": "Morituri Te Salutant",
+      "s": "S3",
+      "ep": "E10",
+      "time": "22m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81691642",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "yue",
+      "s": "yue"
+    }
+  ],
+  "last_ep": "81691644",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81009646"
+    },
+    {
+      "id": "81108751"
+    },
+    {
+      "id": "80023612"
+    },
+    {
+      "id": "80039394"
+    },
+    {
+      "id": "81301887"
+    },
+    {
+      "id": "81205737"
+    },
+    {
+      "id": "81215996"
+    },
+    {
+      "id": "81519765"
+    },
+    {
+      "id": "81555726"
+    },
+    {
+      "id": "80217006"
+    },
+    {
+      "id": "81037695"
+    }
+  ],
+  "error": null
+}
