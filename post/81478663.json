@@ -1,0 +1,182 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Champion",
+  "year": "2024",
+  "ua": "U/A 18+ [A]",
+  "match": "80% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Candice Carty-Williams",
+  "director": "",
+  "writer": "",
+  "short_cast": "D\u00e9ja J. Bowens, Malcolm Kamulete, Nadine Marshall, Ray Fearon, Ray BLK, Kerim Hassan",
+  "cast": "D\u00e9ja J. Bowens, Malcolm Kamulete, Nadine Marshall, Ray Fearon, Ray BLK, Kerim Hassan",
+  "genre": "Music, TV Dramas, British, Hip-Hop",
+  "thismovieis": "Gritty, Bittersweet, Emotional",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "tobacco use, substances",
+  "desc": "Rapper Bosco is free from prison and ready for a comeback \u2014 until his sister Vita steps into the spotlight and puts their family bond to the test.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81478664",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81592505",
+      "t": "Champion versus Champion",
+      "s": "S1",
+      "ep": "E1",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81592506",
+      "t": "The Clash",
+      "s": "S1",
+      "ep": "E2",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81592507",
+      "t": "Better Off On My Own",
+      "s": "S1",
+      "ep": "E3",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81592508",
+      "t": "It's Big Rusty",
+      "s": "S1",
+      "ep": "E4",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81592509",
+      "t": "I Love Her, Man",
+      "s": "S1",
+      "ep": "E5",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81592510",
+      "t": "Dat Is It",
+      "s": "S1",
+      "ep": "E6",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81592511",
+      "t": "Moist Yute",
+      "s": "S1",
+      "ep": "E7",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81592512",
+      "t": "Rise of the Phoenix",
+      "s": "S1",
+      "ep": "E8",
+      "time": "46m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81478664",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81592505",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81557731"
+    },
+    {
+      "id": "81683692"
+    },
+    {
+      "id": "81183756"
+    },
+    {
+      "id": "80217669"
+    },
+    {
+      "id": "80216302"
+    },
+    {
+      "id": "81349458"
+    },
+    {
+      "id": "80177416"
+    },
+    {
+      "id": "81473652"
+    },
+    {
+      "id": "60024922"
+    },
+    {
+      "id": "81316476"
+    },
+    {
+      "id": "70236561"
+    },
+    {
+      "id": "80244479"
+    }
+  ],
+  "error": null
+}
