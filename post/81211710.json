@@ -1,0 +1,176 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Welcome to Eden",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "60% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Joaqu\u00edn G\u00f3rriz, Guillermo L\u00f3pez S\u00e1nchez",
+  "director": "",
+  "writer": "",
+  "short_cast": "Amaia Aberasturi, Berta Casta\u00f1\u00e9, Bego\u00f1a Vargas, Guillermo Pfening, Tomy Aguilera, Lola Rodr\u00edguez, Carlos Soroa, Diego Garisa, Sergio Momo, Nona Sobo, Irene Dev, Dariam Coco, Luc\u00eda Guerrero, Joan Pedrola, Max Sampietro, Jonathan Maravilla Alonso, Anna Alarc\u00f3n, Albert Bar\u00f3, Claudia Trujillo, \u00c1lex Pastrana, Amaia Salamanca, Belinda, Carlos Torres, Ana Wagener, Blanca Romero, Ana Mena, Berta V\u00e1zquez",
+  "cast": "Amaia Aberasturi, Berta Casta\u00f1\u00e9, Bego\u00f1a Vargas, Guillermo Pfening, Tomy Aguilera, Lola Rodr\u00edguez, Carlos Soroa, Diego Garisa, Sergio Momo, Nona Sobo, Irene Dev, Dariam Coco, Luc\u00eda Guerrero, Joan Pedrola, Max Sampietro, Jonathan Maravilla Alonso, Anna Alarc\u00f3n, Albert Bar\u00f3, Claudia Trujillo, \u00c1lex Pastrana, Amaia Salamanca, Belinda, Carlos Torres, Ana Wagener, Blanca Romero, Ana Mena, Berta V\u00e1zquez",
+  "genre": "TV Dramas, Spanish, Sci-Fi TV",
+  "thismovieis": "Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "substances, sex, self-harm, nudity",
+  "desc": "A group of young adults attend a party on a remote island, but the tempting paradise they find waiting for them holds dangerous secrets and entrapments.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81222885",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81224597",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81552758",
+      "t": "Hell",
+      "s": "S2",
+      "ep": "E1",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81552759",
+      "t": "Blue",
+      "s": "S2",
+      "ep": "E2",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81552760",
+      "t": "Committee",
+      "s": "S2",
+      "ep": "E3",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81552761",
+      "t": "Second Chances",
+      "s": "S2",
+      "ep": "E4",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81552762",
+      "t": "The New Eden",
+      "s": "S2",
+      "ep": "E5",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81552763",
+      "t": "Beyond the Stars",
+      "s": "S2",
+      "ep": "E6",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81552764",
+      "t": "Serpent",
+      "s": "S2",
+      "ep": "E7",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81552765",
+      "t": "First Contact",
+      "s": "S2",
+      "ep": "E8",
+      "time": "41m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81224597",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81552758",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80993062"
+    },
+    {
+      "id": "81012637"
+    },
+    {
+      "id": "81317562"
+    },
+    {
+      "id": "80074220"
+    },
+    {
+      "id": "81494917"
+    },
+    {
+      "id": "80154610"
+    },
+    {
+      "id": "81478642"
+    },
+    {
+      "id": "81437215"
+    }
+  ],
+  "error": null
+}
