@@ -1,0 +1,265 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "My Dad the Bounty Hunter",
+  "year": "2023",
+  "ua": "U/A 7+",
+  "match": "47% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Everett Downing, Patrick Harpin",
+  "director": "",
+  "writer": "",
+  "short_cast": "Laz Alonso, Yvonne Orji, Priah Ferguson, Jecobi Swain, Yvette Nicole Brown, Rob Riggle",
+  "cast": "Laz Alonso, Yvonne Orji, Priah Ferguson, Jecobi Swain, Yvette Nicole Brown, Rob Riggle",
+  "genre": "Kids' TV, Family Watch Together TV, TV Comedies, TV Cartoons",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language, mild fear",
+  "desc": "An intergalactic bounty hunter takes dad duty to new extremes when his two kids accidentally hitch a ride with him to outer space and crash his mission.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81093114",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81250982",
+      "ep": "9",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81250983",
+      "t": "Abduction",
+      "s": "S2",
+      "ep": "E1",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81250985",
+      "t": "Jailbreak",
+      "s": "S2",
+      "ep": "E2",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81250986",
+      "t": "Ocanom Grind",
+      "s": "S2",
+      "ep": "E3",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81250987",
+      "t": "This Is Doloraam",
+      "s": "S2",
+      "ep": "E4",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81250988",
+      "t": "Old Friends",
+      "s": "S2",
+      "ep": "E5",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81250989",
+      "t": "Wolves & Sheep",
+      "s": "S2",
+      "ep": "E6",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81250990",
+      "t": "For the Throne",
+      "s": "S2",
+      "ep": "E7",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81250991",
+      "t": "Tales of Doloraam: Part 1",
+      "s": "S2",
+      "ep": "E8",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81250992",
+      "t": "Tales of Doloraam: Part 2",
+      "s": "S2",
+      "ep": "E9",
+      "time": "29m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81250982",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81250983",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80234642"
+    },
+    {
+      "id": "80237245"
+    },
+    {
+      "id": "81444554"
+    },
+    {
+      "id": "81252403"
+    },
+    {
+      "id": "80988892"
+    },
+    {
+      "id": "81007144"
+    },
+    {
+      "id": "80244283"
+    },
+    {
+      "id": "81399614"
+    },
+    {
+      "id": "81004665"
+    },
+    {
+      "id": "81476885"
+    },
+    {
+      "id": "80225085"
+    }
+  ],
+  "error": null
+}
