@@ -1,0 +1,200 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "El Chapo",
+  "year": "2017",
+  "ua": "U/A 18+ [A]",
+  "match": "85% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Silvana Aguirre, Carlos Contreras",
+  "director": "",
+  "writer": "",
+  "short_cast": "Marco de la O, Humberto Busto, Alejandro Aguilar, Rodrigo Abed, Luis Fernando Pe\u00f1a, Juan Carlos Olivas, Rolf Petersen, Carlos Hernan Romo, H\u00e9ctor Holten, Diego V\u00e1squez, Tet\u00e9 Espinoza, Luis R\u00e1bago, Dolores Heredia, Cristina Michaus, Valentina Acosta, Juliette Pardau, Abril Schreiber",
+  "cast": "Marco de la O, Humberto Busto, Alejandro Aguilar, Rodrigo Abed, Luis Fernando Pe\u00f1a, Juan Carlos Olivas, Rolf Petersen, Carlos Hernan Romo, H\u00e9ctor Holten, Diego V\u00e1squez, Tet\u00e9 Espinoza, Luis R\u00e1bago, Dolores Heredia, Cristina Michaus, Valentina Acosta, Juliette Pardau, Abril Schreiber",
+  "genre": "TV Dramas, TV Action & Adventure, Crime TV Shows, US TV Shows, TV Thrillers",
+  "thismovieis": "",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "substances, sex, nudity",
+  "desc": "This drama series chronicles the true story of the rise, capture and escape of notorious Mexican drug lord Joaqu\u00edn \"El Chapo\" Guzm\u00e1n.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80132965",
+      "ep": "9",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80132890",
+      "ep": "12",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80132891",
+      "ep": "13",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80132967",
+      "t": "Episode 1",
+      "s": "S3",
+      "ep": "E1",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "80218127",
+      "t": "Episode 2",
+      "s": "S3",
+      "ep": "E2",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "80218128",
+      "t": "Episode 3",
+      "s": "S3",
+      "ep": "E3",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "80218129",
+      "t": "Episode 4",
+      "s": "S3",
+      "ep": "E4",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "80218130",
+      "t": "Episode 5",
+      "s": "S3",
+      "ep": "E5",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "80218131",
+      "t": "Episode 6",
+      "s": "S3",
+      "ep": "E6",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "80218132",
+      "t": "Episode 7",
+      "s": "S3",
+      "ep": "E7",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80218133",
+      "t": "Episode 8",
+      "s": "S3",
+      "ep": "E8",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "80218134",
+      "t": "Episode 9",
+      "s": "S3",
+      "ep": "E9",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "80218135",
+      "t": "Episode 10",
+      "s": "S3",
+      "ep": "E10",
+      "time": "43m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80132891",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80132967",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80997085"
+    },
+    {
+      "id": "80025172"
+    },
+    {
+      "id": "80035684"
+    },
+    {
+      "id": "81343748"
+    },
+    {
+      "id": "81133447"
+    },
+    {
+      "id": "80107369"
+    },
+    {
+      "id": "70241340"
+    },
+    {
+      "id": "70205672"
+    },
+    {
+      "id": "81026305"
+    },
+    {
+      "id": "81078819"
+    }
+  ],
+  "error": null
+}
