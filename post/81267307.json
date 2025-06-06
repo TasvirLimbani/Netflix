@@ -1,0 +1,75 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Mortal Kombat",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "90% match",
+  "runtime": "1h 50m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Simon McQuoid",
+  "writer": "Greg Russo, Dave Callaham, Oren Uziel",
+  "short_cast": "Lewis Tan, Jessica McNamee, Josh Lawson, Tadanobu Asano, Hiroyuki Sanada, Mehcad Brooks, Ludi Lin, Chin Han, Joe Taslim, Max Huang, Sisi Stringer",
+  "cast": "Lewis Tan, Jessica McNamee, Josh Lawson, Tadanobu Asano, Hiroyuki Sanada, Mehcad Brooks, Ludi Lin, Chin Han, Joe Taslim, Max Huang, Sisi Stringer",
+  "genre": "Martial Arts Movies, US Movies, Action & Adventure, Sports Movies",
+  "thismovieis": "Adrenaline Rush",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, gore",
+  "desc": "On the brink of being conquered by Outworld, Earthrealm fighters driven by an ancient prophecy must win the final tournament to save humanity.",
+  "oin": "y",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "60027724"
+    },
+    {
+      "id": "80133543"
+    },
+    {
+      "id": "81516447"
+    },
+    {
+      "id": "81183713"
+    },
+    {
+      "id": "80025919"
+    },
+    {
+      "id": "80139562"
+    },
+    {
+      "id": "80144309"
+    },
+    {
+      "id": "773843"
+    },
+    {
+      "id": "70305899"
+    },
+    {
+      "id": "81199145"
+    },
+    {
+      "id": "81416258"
+    },
+    {
+      "id": "70075481"
+    }
+  ],
+  "error": null
+}
