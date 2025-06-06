@@ -1,0 +1,165 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Girl from Nowhere",
+  "year": "2018",
+  "ua": "U/A 18+ [A]",
+  "match": "44% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Kitty Chicha Amatayakul, Chanya McClory, Thanawetch Siriwattanakul, Pajaree Nantarat, Thitinan Khlangphet, Chonnikan Netjui, Nutthasit Kotimanuswanich, Tatchapol Thitiapichai, Chanicha Boonpanuvichit, Morakot Liu, Ekawat Niratvorapanya, Anuchyd Sapanphong, Awat Ratanapintha, Claudia Chakrapan, Piyathida Woramusik, Apasiri Kittithanon, Kunchanuj Kengkarnka, Nutnicha Lueanganankhun, Teeradon Supapunpinyo, Penpak Sirikul, Patricia Tanchanok Good, Thasorn Klinnium, Apichaya Phanichtrakool, Aelm Thavornsiri, Patharawarin Timkul, Phantira Pipityakorn, Ploy Sornarin, Yarinda Bunnag",
+  "cast": "Kitty Chicha Amatayakul, Chanya McClory, Thanawetch Siriwattanakul, Pajaree Nantarat, Thitinan Khlangphet, Chonnikan Netjui, Nutthasit Kotimanuswanich, Tatchapol Thitiapichai, Chanicha Boonpanuvichit, Morakot Liu, Ekawat Niratvorapanya, Anuchyd Sapanphong, Awat Ratanapintha, Claudia Chakrapan, Piyathida Woramusik, Apasiri Kittithanon, Kunchanuj Kengkarnka, Nutnicha Lueanganankhun, Teeradon Supapunpinyo, Penpak Sirikul, Patricia Tanchanok Good, Thasorn Klinnium, Apichaya Phanichtrakool, Aelm Thavornsiri, Patharawarin Timkul, Phantira Pipityakorn, Ploy Sornarin, Yarinda Bunnag",
+  "genre": "TV Dramas, Thai, Teen TV Shows, TV Thrillers",
+  "thismovieis": "Ominous, Gritty, Dark",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide, sexual violence, sex, self-harm, gore",
+  "desc": "A mysterious, clever girl named Nanno transfers to different schools, exposing the lies and misdeeds of the students and faculty at every turn.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80242022",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81308421",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81310445",
+      "t": "Pregnant",
+      "s": "S2",
+      "ep": "E1",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81310446",
+      "t": "True Love",
+      "s": "S2",
+      "ep": "E2",
+      "time": "38m"
+    },
+    {
+      "complate": "0",
+      "id": "81310447",
+      "t": "Minnie and the Four Bodies",
+      "s": "S2",
+      "ep": "E3",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81310448",
+      "t": "Yuri",
+      "s": "S2",
+      "ep": "E4",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81310449",
+      "t": "SOTUS",
+      "s": "S2",
+      "ep": "E5",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81310450",
+      "t": "Liberation",
+      "s": "S2",
+      "ep": "E6",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81310451",
+      "t": "JennyX",
+      "s": "S2",
+      "ep": "E7",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81310452",
+      "t": "The Judgement",
+      "s": "S2",
+      "ep": "E8",
+      "time": "43m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81308421",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    }
+  ],
+  "last_ep": "81310445",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81516491"
+    },
+    {
+      "id": "81640988"
+    },
+    {
+      "id": "81517155"
+    },
+    {
+      "id": "81237994"
+    },
+    {
+      "id": "81519223"
+    },
+    {
+      "id": "70241118"
+    },
+    {
+      "id": "80990668"
+    },
+    {
+      "id": "81011211"
+    },
+    {
+      "id": "81310261"
+    },
+    {
+      "id": "80200575"
+    },
+    {
+      "id": "81342505"
+    }
+  ],
+  "error": null
+}
