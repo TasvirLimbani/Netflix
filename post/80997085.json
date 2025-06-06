@@ -1,0 +1,216 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Narcos: Mexico",
+  "year": "2018",
+  "ua": "U/A 18+ [A]",
+  "match": "75% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Carlo Bernard, Chris Brancato, Doug Miro",
+  "director": "",
+  "writer": "",
+  "short_cast": "Diego Luna, Michael Pe\u00f1a, Scoot McNairy, Tenoch Huerta, Joaqu\u00edn Cos\u00edo, Jos\u00e9 Mar\u00eda Yazpik, Matt Letscher, Alyssa Diaz, Alfonso Dosal, Alejandro Edda, Alberto Ammann, Mayra Hermosillo, Luisa Rubino, Luis Gerardo M\u00e9ndez, Sosie Bacon",
+  "cast": "Diego Luna, Michael Pe\u00f1a, Scoot McNairy, Tenoch Huerta, Joaqu\u00edn Cos\u00edo, Jos\u00e9 Mar\u00eda Yazpik, Matt Letscher, Alyssa Diaz, Alfonso Dosal, Alejandro Edda, Alberto Ammann, Mayra Hermosillo, Luisa Rubino, Luis Gerardo M\u00e9ndez, Sosie Bacon",
+  "genre": "TV Dramas, TV Action & Adventure, Crime TV Shows, US TV Shows, TV Thrillers, TV Shows Based on Real Life",
+  "thismovieis": "Gritty, Dark, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "sex, nudity",
+  "desc": "Witness the birth of the Mexican drug war in the 1980s as a gritty new \"Narcos\" saga chronicles the true story of the Guadalajara cartel's ascent.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80129824",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80186924",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81197861",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81197862",
+      "t": "12 Steps",
+      "s": "S3",
+      "ep": "E1",
+      "time": "60m"
+    },
+    {
+      "complate": "0",
+      "id": "81197863",
+      "t": "Como La Flor",
+      "s": "S3",
+      "ep": "E2",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81197864",
+      "t": "Los Juniors",
+      "s": "S3",
+      "ep": "E3",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81197865",
+      "t": "GDL",
+      "s": "S3",
+      "ep": "E4",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81197866",
+      "t": "Boots on the Ground",
+      "s": "S3",
+      "ep": "E5",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "81197867",
+      "t": "La Jefa",
+      "s": "S3",
+      "ep": "E6",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81197868",
+      "t": "La Voz",
+      "s": "S3",
+      "ep": "E7",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81197869",
+      "t": "Last Dance",
+      "s": "S3",
+      "ep": "E8",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81197870",
+      "t": "The Reckoning",
+      "s": "S3",
+      "ep": "E9",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "81197871",
+      "t": "Life in Wartime",
+      "s": "S3",
+      "ep": "E10",
+      "time": "68m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81197861",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81197862",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80025172"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "80133042"
+    },
+    {
+      "id": "81343748"
+    },
+    {
+      "id": "81133447"
+    },
+    {
+      "id": "80107369"
+    },
+    {
+      "id": "80035684"
+    },
+    {
+      "id": "81078819"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "70241340"
+    }
+  ],
+  "error": null
+}
