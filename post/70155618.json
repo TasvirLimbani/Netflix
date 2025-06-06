@@ -1,0 +1,231 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Gilmore Girls",
+  "year": "2000",
+  "ua": "U/A 18+ [A]",
+  "match": "92% match",
+  "runtime": "7 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Amy Sherman-Palladino",
+  "director": "",
+  "writer": "",
+  "short_cast": "Lauren Graham, Alexis Bledel, Scott Patterson, Keiko Agena, Yanic Truesdale, Kelly Bishop, Edward Herrmann, Melissa McCarthy, Sean Gunn, Liza Weil, Liz Torres, Jared Padalecki",
+  "cast": "Lauren Graham, Alexis Bledel, Scott Patterson, Keiko Agena, Yanic Truesdale, Kelly Bishop, Edward Herrmann, Melissa McCarthy, Sean Gunn, Liza Weil, Liz Torres, Jared Padalecki",
+  "genre": "Romantic TV Dramas, TV Dramas, Teen TV Shows, TV Comedies, Romantic TV Comedies, US TV Shows",
+  "thismovieis": "Witty, Intimate, Romantic",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "sex",
+  "desc": "Fiercely independent single mom Lorelai raises gifted, Ivy League-bound daughter Rory amid a continual stream of quick-witted repartee.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "60036610",
+      "ep": "21",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "70018073",
+      "ep": "22",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "70028220",
+      "ep": "22",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "70038148",
+      "ep": "22",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "70040245",
+      "ep": "22",
+      "sele": " selected"
+    },
+    {
+      "s": "6",
+      "id": "70053059",
+      "ep": "22",
+      "sele": " selected"
+    },
+    {
+      "s": "7",
+      "id": "70054946",
+      "ep": "22",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80014257",
+      "t": "The Long Morrow",
+      "s": "S7",
+      "ep": "E1",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "80014258",
+      "t": "That's What You Get, Folks, For Makin' Whoopie",
+      "s": "S7",
+      "ep": "E2",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "80014259",
+      "t": "Lorelai's First Cotillion",
+      "s": "S7",
+      "ep": "E3",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "80014260",
+      "t": "'S Wonderful, 'S Marvelous",
+      "s": "S7",
+      "ep": "E4",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "80014261",
+      "t": "The Great Stink",
+      "s": "S7",
+      "ep": "E5",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "80014262",
+      "t": "Go Bulldogs!",
+      "s": "S7",
+      "ep": "E6",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "80014263",
+      "t": "French Twist",
+      "s": "S7",
+      "ep": "E7",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "80014264",
+      "t": "Introducing Lorelai Planetarium",
+      "s": "S7",
+      "ep": "E8",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "80014265",
+      "t": "Knit, People, Knit",
+      "s": "S7",
+      "ep": "E9",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "80014266",
+      "t": "Merry Fisticuffs",
+      "s": "S7",
+      "ep": "E10",
+      "time": "41m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "70054946",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80014257",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81037371"
+    },
+    {
+      "id": "70143811"
+    },
+    {
+      "id": "60034551"
+    },
+    {
+      "id": "81025696"
+    },
+    {
+      "id": "70153404"
+    },
+    {
+      "id": "80136311"
+    },
+    {
+      "id": "80036416"
+    },
+    {
+      "id": "81426967"
+    },
+    {
+      "id": "384406"
+    },
+    {
+      "id": "80232398"
+    },
+    {
+      "id": "70143860"
+    }
+  ],
+  "error": null
+}
