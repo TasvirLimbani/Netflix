@@ -1,0 +1,249 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "SpongeBob SquarePants",
+  "year": "2011",
+  "ua": "U/A 7+",
+  "match": "83% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Stephen Hillenburg",
+  "director": "",
+  "writer": "",
+  "short_cast": "Tom Kenny, Rodger Bumpass, Bill Fagerbakke, Clancy Brown, Dee Bradley Baker, Mr. Lawrence, Carolyn Lawrence, Sirena Irwin, Marcelo Pissardini, Wendel Bezerra, Luis P\u00e9rez Pons",
+  "cast": "Tom Kenny, Rodger Bumpass, Bill Fagerbakke, Clancy Brown, Dee Bradley Baker, Mr. Lawrence, Carolyn Lawrence, Sirena Irwin, Marcelo Pissardini, Wendel Bezerra, Luis P\u00e9rez Pons",
+  "genre": "Kids' TV, TV Comedies, TV Cartoons",
+  "thismovieis": "Goofy",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "rude humor, mild violence",
+  "desc": "From his pineapple home base under the sea, SpongeBob and his friends, including his meowing pet snail Gary, get into memorable misadventures.",
+  "oin": "",
+  "season": [
+    {
+      "s": "5",
+      "id": "70147806",
+      "ep": "20",
+      "sele": " selected"
+    },
+    {
+      "s": "6",
+      "id": "70147828",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "7",
+      "id": "70218709",
+      "ep": "24",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "70292703",
+      "t": "Tentacle-Vision / I Heart Dancing",
+      "s": "S7",
+      "ep": "E1",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "70292704",
+      "t": "Growth Spout / Stuck in the Wringer",
+      "s": "S7",
+      "ep": "E2",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "70292705",
+      "t": "Someone's in the Kitchen with Sandy / The Inside Job",
+      "s": "S7",
+      "ep": "E3",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "70292706",
+      "t": "Greasy Buffoons / Model Sponge",
+      "s": "S7",
+      "ep": "E4",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "70292707",
+      "t": "Keep Bikini Bottom Beautiful / A Pal for Gary",
+      "s": "S7",
+      "ep": "E5",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "70292708",
+      "t": "Yours, Mine and Mine / Kracked Krabs",
+      "s": "S7",
+      "ep": "E6",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "70292709",
+      "t": "The Curse of Bikini Bottom / Squidward in Clarinetland",
+      "s": "S7",
+      "ep": "E7",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "70292710",
+      "t": "SpongeBob's Last Stand",
+      "s": "S7",
+      "ep": "E8",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "70292711",
+      "t": "Back to the Past / The Bad Guy Club for Villains",
+      "s": "S7",
+      "ep": "E9",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "70292712",
+      "t": "A Day Without Tears / Summer Job",
+      "s": "S7",
+      "ep": "E10",
+      "time": "23m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "70218709",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "yue",
+      "s": "yue"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "70292703",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "70011204"
+    },
+    {
+      "id": "81312563"
+    },
+    {
+      "id": "80011621"
+    },
+    {
+      "id": "70241425"
+    },
+    {
+      "id": "80104199"
+    },
+    {
+      "id": "81068804"
+    },
+    {
+      "id": "70301529"
+    },
+    {
+      "id": "70171947"
+    },
+    {
+      "id": "70199841"
+    }
+  ],
+  "error": null
+}
