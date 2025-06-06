@@ -1,0 +1,172 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Ben 10",
+  "year": "2005",
+  "ua": "U/A 7+",
+  "match": "84% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Duncan Rouleau, Joe Casey, Joe Kelly, Steven T. Seagle",
+  "director": "",
+  "writer": "",
+  "short_cast": "Tara Strong, Paul Eiding, Meagan Smith, Dee Bradley Baker, Jim Ward, Steve Blum, Richard McGonagle, Fred Tatasciore",
+  "cast": "Tara Strong, Paul Eiding, Meagan Smith, Dee Bradley Baker, Jim Ward, Steve Blum, Richard McGonagle, Fred Tatasciore",
+  "genre": "Kids' TV, TV Cartoons",
+  "thismovieis": "Goofy, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language, mild fear",
+  "desc": "Thanks to a mysterious device known as the Omnitrix, mischievous youngster Ben Tennyson has the power to morph into an array of alien superheroes.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "70268253",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "70269704",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "70269718",
+      "ep": "13",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "70269706",
+      "t": "Midnight Madness",
+      "s": "S3",
+      "ep": "E1",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "70269705",
+      "t": "Ben 10,000",
+      "s": "S3",
+      "ep": "E2",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "70269707",
+      "t": "A Change of Face",
+      "s": "S3",
+      "ep": "E3",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "70269708",
+      "t": "Merry Christmas",
+      "s": "S3",
+      "ep": "E4",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "70269709",
+      "t": "Benwolf",
+      "s": "S3",
+      "ep": "E5",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "70269710",
+      "t": "Game Over",
+      "s": "S3",
+      "ep": "E6",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "70269714",
+      "t": "Monster Weather",
+      "s": "S3",
+      "ep": "E7",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "70269711",
+      "t": "Super Alien Hero Buddy Adventures",
+      "s": "S3",
+      "ep": "E8",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "70269712",
+      "t": "Under Wraps",
+      "s": "S3",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "70269713",
+      "t": "The Unnaturals",
+      "s": "S3",
+      "ep": "E10",
+      "time": "22m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "70269718",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "last_ep": "70269706",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "70177043"
+    },
+    {
+      "id": "70155614"
+    },
+    {
+      "id": "70171947"
+    },
+    {
+      "id": "70177689"
+    },
+    {
+      "id": "70241425"
+    },
+    {
+      "id": "70243420"
+    },
+    {
+      "id": "70234439"
+    },
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "70185194"
+    },
+    {
+      "id": "81450320"
+    }
+  ],
+  "error": null
+}
