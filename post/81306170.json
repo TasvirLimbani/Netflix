@@ -1,0 +1,177 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Burning Body",
+  "year": "2023",
+  "ua": "U/A 18+ [A]",
+  "match": "60% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "\u00darsula Corber\u00f3, Quim Guti\u00e9rrez, Jos\u00e9 Manuel Poga, Isak F\u00e9rriz, Eva Llorach, Pep Tosar, Mamen Duch, Guiomar Caiado, Ra\u00fal Prieto",
+  "cast": "\u00darsula Corber\u00f3, Quim Guti\u00e9rrez, Jos\u00e9 Manuel Poga, Isak F\u00e9rriz, Eva Llorach, Pep Tosar, Mamen Duch, Guiomar Caiado, Ra\u00fal Prieto",
+  "genre": "TV Dramas, Spanish, TV Mysteries, Crime TV Shows, TV Thrillers, TV Shows Based on Real Life",
+  "thismovieis": "Dark",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, substances, sex, nudity, language",
+  "desc": "When a police officer is murdered and set on fire, all eyes focus on two other agents: his girlfriend and her lover. Inspired by true events.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81306171",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81550123",
+      "t": "The Reservoir",
+      "s": "S1",
+      "ep": "E1",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81550124",
+      "t": "Two Rosas",
+      "s": "S1",
+      "ep": "E2",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81550125",
+      "t": "The Fall",
+      "s": "S1",
+      "ep": "E3",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81550126",
+      "t": "Christmas",
+      "s": "S1",
+      "ep": "E4",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81550127",
+      "t": "Love",
+      "s": "S1",
+      "ep": "E5",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81550128",
+      "t": "The Impossible",
+      "s": "S1",
+      "ep": "E6",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81550129",
+      "t": "Face to Face",
+      "s": "S1",
+      "ep": "E7",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81550130",
+      "t": "May 1st 2017",
+      "s": "S1",
+      "ep": "E8",
+      "time": "51m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81306171",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81550123",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81175669"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81317562"
+    },
+    {
+      "id": "81495803"
+    },
+    {
+      "id": "81494917"
+    },
+    {
+      "id": "81133447"
+    },
+    {
+      "id": "81438160"
+    },
+    {
+      "id": "81012637"
+    },
+    {
+      "id": "81513233"
+    }
+  ],
+  "error": null
+}
