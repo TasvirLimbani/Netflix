@@ -1,0 +1,204 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Designated Survivor",
+  "year": "2016",
+  "ua": "U/A 18+ [A]",
+  "match": "66% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "David Guggenheim",
+  "director": "",
+  "writer": "",
+  "short_cast": "Kiefer Sutherland, Maggie Q, Kal Penn, Adan Canto, Italia Ricci, Anthony Edwards, Julie White, LaMonica Garrett, Natascha McElhone, Geoff Pierson, Lauren Holly, Elena Tovar, Benjamin Charles Watson, Mckenna Grace, Tanner Buchanan, Ben Lawson, Paulo Costanzo, Zoe McLellan",
+  "cast": "Kiefer Sutherland, Maggie Q, Kal Penn, Adan Canto, Italia Ricci, Anthony Edwards, Julie White, LaMonica Garrett, Natascha McElhone, Geoff Pierson, Lauren Holly, Elena Tovar, Benjamin Charles Watson, Mckenna Grace, Tanner Buchanan, Ben Lawson, Paulo Costanzo, Zoe McLellan",
+  "genre": "Political TV Shows, TV Dramas, Crime TV Shows, US TV Shows, TV Thrillers",
+  "thismovieis": "Suspenseful, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "language",
+  "desc": "America's fate rests in the hands of a low-level official after an attack on Washington decimates the government in this gripping political thriller.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80113489",
+      "ep": "21",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80199822",
+      "ep": "22",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80222698",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81015334",
+      "t": "#thesystemisbroken",
+      "s": "S3",
+      "ep": "E1",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81015335",
+      "t": "#slipperyslope",
+      "s": "S3",
+      "ep": "E2",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81015336",
+      "t": "#privacyplease",
+      "s": "S3",
+      "ep": "E3",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81015337",
+      "t": "#makehistory",
+      "s": "S3",
+      "ep": "E4",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81015338",
+      "t": "#nothingpersonal",
+      "s": "S3",
+      "ep": "E5",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81015339",
+      "t": "#whocares",
+      "s": "S3",
+      "ep": "E6",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81015340",
+      "t": "#identity/crisis",
+      "s": "S3",
+      "ep": "E7",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81015341",
+      "t": "#scaredsh*tless",
+      "s": "S3",
+      "ep": "E8",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81015342",
+      "t": "#undecided",
+      "s": "S3",
+      "ep": "E9",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81015343",
+      "t": "#truthorconsequences",
+      "s": "S3",
+      "ep": "E10",
+      "time": "53m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80222698",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81015334",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80235864"
+    },
+    {
+      "id": "81072109"
+    },
+    {
+      "id": "81288983"
+    },
+    {
+      "id": "81450827"
+    },
+    {
+      "id": "70178217"
+    },
+    {
+      "id": "81396545"
+    },
+    {
+      "id": "81417796"
+    },
+    {
+      "id": "81303831"
+    },
+    {
+      "id": "80992058"
+    },
+    {
+      "id": "70281312"
+    }
+  ],
+  "error": null
+}
