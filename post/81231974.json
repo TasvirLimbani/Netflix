@@ -1,0 +1,215 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Wednesday",
+  "year": "2022",
+  "ua": "U/A 13+",
+  "match": "61% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Alfred Gough, Miles Millar",
+  "director": "",
+  "writer": "",
+  "short_cast": "Jenna Ortega, Gwendoline Christie, Riki Lindhome, Christina Ricci, Jamie McShane, Hunter Doohan, Percy Hynes White, Emma Myers, Joy Sunday, Moosa Mostafa, Georgie Farmer, Naomi J. Ogawa, Catherine Zeta-Jones, Luis Guzm\u00e1n",
+  "cast": "Jenna Ortega, Gwendoline Christie, Riki Lindhome, Christina Ricci, Jamie McShane, Hunter Doohan, Percy Hynes White, Emma Myers, Joy Sunday, Moosa Mostafa, Georgie Farmer, Naomi J. Ogawa, Catherine Zeta-Jones, Luis Guzm\u00e1n",
+  "genre": "Teen TV Shows, TV Mysteries, TV Comedies, Crime TV Shows, US TV Shows, Fantasy TV Shows",
+  "thismovieis": "Deadpan",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, threat, mature themes, language, gore",
+  "desc": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates a murder spree while making new friends \u2014 and foes \u2014 at Nevermore Academy.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81231975",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81257204",
+      "t": "Wednesday's Child Is Full of Woe",
+      "s": "S1",
+      "ep": "E1",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81257205",
+      "t": "Woe Is the Loneliest Number",
+      "s": "S1",
+      "ep": "E2",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81257206",
+      "t": "Friend or Woe",
+      "s": "S1",
+      "ep": "E3",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81257207",
+      "t": "Woe What a Night",
+      "s": "S1",
+      "ep": "E4",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81257208",
+      "t": "You Reap What You Woe",
+      "s": "S1",
+      "ep": "E5",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81257209",
+      "t": "Quid Pro Woe",
+      "s": "S1",
+      "ep": "E6",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81257210",
+      "t": "If You Don't Woe Me by Now",
+      "s": "S1",
+      "ep": "E7",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81257211",
+      "t": "A Murder of Woes",
+      "s": "S1",
+      "ep": "E8",
+      "time": "52m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81231975",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81257204",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80223989"
+    },
+    {
+      "id": "81277950"
+    },
+    {
+      "id": "81406219"
+    },
+    {
+      "id": "80218885"
+    },
+    {
+      "id": "80133311"
+    },
+    {
+      "id": "80050008"
+    },
+    {
+      "id": "80186863"
+    },
+    {
+      "id": "80231433"
+    },
+    {
+      "id": "81127150"
+    },
+    {
+      "id": "81012366"
+    },
+    {
+      "id": "81078393"
+    }
+  ],
+  "error": null
+}
