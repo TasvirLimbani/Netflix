@@ -1,0 +1,150 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The L\u00f8renskog Disappearance",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "45% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Nikolaj Frobenius, Stephen Uhlander",
+  "director": "",
+  "writer": "",
+  "short_cast": "Yngvild St\u00f8en Grotmol, Henrik Rafaelsen, Christian Rubeck, Victoria Ose, Kidane Gj\u00f8lme Dalva, Terje Str\u00f8mdahl, Hermann Sabado, Glenn Andr\u00e9 Kaada, Roar Kj\u00f8lv Jenssen, Kjersti Dalseide, Helene Bj\u00f8rneby",
+  "cast": "Yngvild St\u00f8en Grotmol, Henrik Rafaelsen, Christian Rubeck, Victoria Ose, Kidane Gj\u00f8lme Dalva, Terje Str\u00f8mdahl, Hermann Sabado, Glenn Andr\u00e9 Kaada, Roar Kj\u00f8lv Jenssen, Kjersti Dalseide, Helene Bj\u00f8rneby",
+  "genre": "TV Dramas, Norwegian, Crime TV Shows, Scandinavian TV Shows, TV Shows Based on Real Life",
+  "thismovieis": "Cerebral",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, substances, nudity, language",
+  "desc": "When a billionaire's wife vanishes, Norwegian police must deal with the frenzied press and deceitful informants to find the truth. Based on real events.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81394938",
+      "ep": "5",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81486100",
+      "t": "The Investigators",
+      "s": "S1",
+      "ep": "E1",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81486101",
+      "t": "The Journalists",
+      "s": "S1",
+      "ep": "E2",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81486102",
+      "t": "The Lawyers",
+      "s": "S1",
+      "ep": "E3",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81486103",
+      "t": "The Journalists: Part 2",
+      "s": "S1",
+      "ep": "E4",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81486104",
+      "t": "The Informants",
+      "s": "S1",
+      "ep": "E5",
+      "time": "51m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81394938",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81486100",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81304572"
+    },
+    {
+      "id": "81473355"
+    },
+    {
+      "id": "81318520"
+    }
+  ],
+  "error": null
+}
