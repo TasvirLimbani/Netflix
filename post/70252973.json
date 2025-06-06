@@ -1,0 +1,229 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "LEGO Ninjago: Masters of Spinjitzu",
+  "year": "2011",
+  "ua": "U/A 7+",
+  "match": "81% match",
+  "runtime": "9 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Michael Hegner",
+  "director": "",
+  "writer": "",
+  "short_cast": "Vincent Tong, Jillian Michaels, Ian James Corlett, John Novak, Paul Dobson, Michael Adamthwaite, Kelly Metzger, Brent Miller, Kirby Morrow, Brian Drummond, Mark Oliver, Michael Kopsa",
+  "cast": "Vincent Tong, Jillian Michaels, Ian James Corlett, John Novak, Paul Dobson, Michael Adamthwaite, Kelly Metzger, Brent Miller, Kirby Morrow, Brian Drummond, Mark Oliver, Michael Kopsa",
+  "genre": "Kids' TV, Danish, TV Cartoons, Scandinavian TV Shows",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "Kai, Jay, Cole and Zane must master their elemental powers and Spinjitzu weapons to protect the land of Ninjago, which also has an underworld.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "70248346",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "70275717",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80065494",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "80076970",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "80079345",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "6",
+      "id": "80191497",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "7",
+      "id": "81048843",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "8",
+      "id": "81048854",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "9",
+      "id": "81048865",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "10",
+      "id": "81137661",
+      "ep": "4",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81137668",
+      "t": "The Darkness Comes",
+      "s": "S10",
+      "ep": "E1",
+      "time": "20m"
+    },
+    {
+      "complate": "0",
+      "id": "81137669",
+      "t": "Into The Breach",
+      "s": "S10",
+      "ep": "E2",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81137670",
+      "t": "The Fall",
+      "s": "S10",
+      "ep": "E3",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81137671",
+      "t": "Endings",
+      "s": "S10",
+      "ep": "E4",
+      "time": "21m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81137661",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81137668",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81519765"
+    },
+    {
+      "id": "81628818"
+    },
+    {
+      "id": "81294811"
+    },
+    {
+      "id": "81586549"
+    },
+    {
+      "id": "81068803"
+    },
+    {
+      "id": "70155571"
+    },
+    {
+      "id": "80075820"
+    }
+  ],
+  "error": null
+}
