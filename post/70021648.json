@@ -1,0 +1,75 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Charlie and the Chocolate Factory",
+  "year": "2005",
+  "ua": "U/A 7+",
+  "match": "47% match",
+  "runtime": "1h 54m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Tim Burton",
+  "writer": "Roald Dahl, John August",
+  "short_cast": "Johnny Depp, Freddie Highmore, David Kelly, Helena Bonham Carter, Noah Taylor, Missi Pyle, James Fox, Deep Roy, Christopher Lee, Adam Godley, AnnaSophia Robb, Julia Winter, Jordan Fry, Philip Wiegratz",
+  "cast": "Johnny Depp, Freddie Highmore, David Kelly, Helena Bonham Carter, Noah Taylor, Missi Pyle, James Fox, Deep Roy, Christopher Lee, Adam Godley, AnnaSophia Robb, Julia Winter, Jordan Fry, Philip Wiegratz",
+  "genre": "Family Features, US Movies, Movies Based on Books, Children & Family Movies, Comedies",
+  "thismovieis": "Quirky",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language",
+  "desc": "The eccentric Willy Wonka opens the doors of his candy factory to five lucky kids who learn the secrets behind his amazing confections.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "28631029"
+    },
+    {
+      "id": "70033005"
+    },
+    {
+      "id": "80993016"
+    },
+    {
+      "id": "81180203"
+    },
+    {
+      "id": "70044595"
+    },
+    {
+      "id": "60022058"
+    },
+    {
+      "id": "80991404"
+    },
+    {
+      "id": "81220825"
+    },
+    {
+      "id": "70039180"
+    },
+    {
+      "id": "70113007"
+    },
+    {
+      "id": "80158156"
+    },
+    {
+      "id": "81037695"
+    }
+  ],
+  "error": null
+}
