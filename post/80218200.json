@@ -1,0 +1,232 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Titans",
+  "year": "2018",
+  "ua": "U/A 18+ [A]",
+  "match": "37% match",
+  "runtime": "4 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Brenton Thwaites, Anna Diop, Teagan Croft, Ryan Potter, Curran Walters, Conor Leslie, Minka Kelly, Alan Ritchson, Esai Morales, Chelsea Zhang, Joshua Orpin",
+  "cast": "Brenton Thwaites, Anna Diop, Teagan Croft, Ryan Potter, Curran Walters, Conor Leslie, Minka Kelly, Alan Ritchson, Esai Morales, Chelsea Zhang, Joshua Orpin",
+  "genre": "Sci-Fi TV, TV Action & Adventure, US TV Shows, TV Shows Based on Comics",
+  "thismovieis": "Gritty, Dark",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, nudity, language, gore",
+  "desc": "After striking out on his own, Batman's former partner Dick Grayson encounters a number of troubled young heroes in desperate need of a mentor.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80218109",
+      "ep": "11",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80226953",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80226688",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "80226690",
+      "ep": "12",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81596958",
+      "t": "Lex Luthor",
+      "s": "S4",
+      "ep": "E1",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81596959",
+      "t": "Mother Mayhem",
+      "s": "S4",
+      "ep": "E2",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81596960",
+      "t": "Jinx",
+      "s": "S4",
+      "ep": "E3",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81596961",
+      "t": "Super Super Mart",
+      "s": "S4",
+      "ep": "E4",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81596962",
+      "t": "Inside Man",
+      "s": "S4",
+      "ep": "E5",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81596963",
+      "t": "Brother Blood",
+      "s": "S4",
+      "ep": "E6",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81596964",
+      "t": "Caul's Folly",
+      "s": "S4",
+      "ep": "E7",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81596965",
+      "t": "Dick & Carol & Ted & Kory",
+      "s": "S4",
+      "ep": "E8",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81596966",
+      "t": "Dude, Where's My Gar?",
+      "s": "S4",
+      "ep": "E9",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81596967",
+      "t": "Game Over",
+      "s": "S4",
+      "ep": "E10",
+      "time": "54m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80226690",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81596958",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80244953"
+    },
+    {
+      "id": "80186863"
+    },
+    {
+      "id": "70185194"
+    },
+    {
+      "id": "81252707"
+    },
+    {
+      "id": "80144309"
+    },
+    {
+      "id": "80187362"
+    },
+    {
+      "id": "80117803"
+    },
+    {
+      "id": "80081793"
+    },
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "81652327"
+    },
+    {
+      "id": "81453003"
+    },
+    {
+      "id": "81199145"
+    }
+  ],
+  "error": null
+}
