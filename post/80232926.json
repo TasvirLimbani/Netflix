@@ -1,0 +1,182 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Ragnarok",
+  "year": "2020",
+  "ua": "U/A 16+",
+  "match": "63% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Adam Price",
+  "director": "",
+  "writer": "",
+  "short_cast": "David Stakston, Herman T\u00f8mmeraas, Theresa Frostad Eggesb\u00f8, Danu Sunth, Jonas Strand Gravli, Emma Bones, Henriette Steenstrup, G\u00edsli \u00d6rn Gar\u00f0arsson, Synn\u00f8ve Macody Lund, Ylva Bj\u00f8rkaas Thedin, Odd-Magnus Williamson, Eli Anne Linnestad, Bj\u00f8rn Sundquist, Benjamin Helstad",
+  "cast": "David Stakston, Herman T\u00f8mmeraas, Theresa Frostad Eggesb\u00f8, Danu Sunth, Jonas Strand Gravli, Emma Bones, Henriette Steenstrup, G\u00edsli \u00d6rn Gar\u00f0arsson, Synn\u00f8ve Macody Lund, Ylva Bj\u00f8rkaas Thedin, Odd-Magnus Williamson, Eli Anne Linnestad, Bj\u00f8rn Sundquist, Benjamin Helstad",
+  "genre": "TV Dramas, Norwegian, Teen TV Shows, TV Mysteries, Scandinavian TV Shows, Fantasy TV Shows",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, substances, sexual content, language, gore",
+  "desc": "In a Norwegian town poisoned by pollution and rattled by melting glaciers, the End Times feel all too real. It\u2019ll take a legend to battle an old evil.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80994124",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81048792",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81135546",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81507771",
+      "t": "War Is Over",
+      "s": "S3",
+      "ep": "E1",
+      "time": "38m"
+    },
+    {
+      "complate": "0",
+      "id": "81507772",
+      "t": "Till Death Do Us Part",
+      "s": "S3",
+      "ep": "E2",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81507773",
+      "t": "Losing My Religion",
+      "s": "S3",
+      "ep": "E3",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81507774",
+      "t": "My Precious",
+      "s": "S3",
+      "ep": "E4",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81507775",
+      "t": "A Farewell to Arms",
+      "s": "S3",
+      "ep": "E5",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81507776",
+      "t": "Ragnarok",
+      "s": "S3",
+      "ep": "E6",
+      "time": "42m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81135546",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81507771",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80238357"
+    },
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "81150303"
+    },
+    {
+      "id": "70301870"
+    },
+    {
+      "id": "80117803"
+    },
+    {
+      "id": "80217863"
+    },
+    {
+      "id": "80189685"
+    },
+    {
+      "id": "81149450"
+    },
+    {
+      "id": "80217665"
+    },
+    {
+      "id": "80199393"
+    },
+    {
+      "id": "80220679"
+    },
+    {
+      "id": "81245455"
+    }
+  ],
+  "error": null
+}
