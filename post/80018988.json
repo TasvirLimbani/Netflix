@@ -1,0 +1,262 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Adventures of Puss in Boots",
+  "year": "2015",
+  "ua": "U/A 7+",
+  "match": "62% match",
+  "runtime": "6 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Eric Bauza, Jayma Mays, Grey Griffin, Paul Rugg, Joshua Rush, Candi Milo, Laraine Newman",
+  "cast": "Eric Bauza, Jayma Mays, Grey Griffin, Paul Rugg, Joshua Rush, Candi Milo, Laraine Newman",
+  "genre": "Kids' TV, TV Comedies, TV Cartoons",
+  "thismovieis": "Imaginative, Goofy",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "The world's greatest feline fighter, lover and milk connoisseur takes on daring adventures in exotic locations in this family-friendly comedy series.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80019445",
+      "ep": "15",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80080206",
+      "ep": "11",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80076122",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "80080207",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "80157718",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "6",
+      "id": "80178939",
+      "ep": "12",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80178774",
+      "t": "Save the Town",
+      "s": "S6",
+      "ep": "E1",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80178775",
+      "t": "Save the Cat",
+      "s": "S6",
+      "ep": "E2",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80178776",
+      "t": "Lost and Foundlings",
+      "s": "S6",
+      "ep": "E3",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80178779",
+      "t": "The Scarlet Panther",
+      "s": "S6",
+      "ep": "E4",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80178778",
+      "t": "Pajuna Serves Spirits",
+      "s": "S6",
+      "ep": "E5",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80178780",
+      "t": "One Last Jobs",
+      "s": "S6",
+      "ep": "E6",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80178781",
+      "t": "Like a Fox",
+      "s": "S6",
+      "ep": "E7",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80178782",
+      "t": "Not a Date",
+      "s": "S6",
+      "ep": "E8",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80178783",
+      "t": "Flock the Boat",
+      "s": "S6",
+      "ep": "E9",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80178784",
+      "t": "All Hail, Puss!",
+      "s": "S6",
+      "ep": "E10",
+      "time": "23m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80178939",
+  "lang": [
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "yue",
+      "s": "yue"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "80178774",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81555726"
+    },
+    {
+      "id": "81054409"
+    },
+    {
+      "id": "70021636"
+    },
+    {
+      "id": "70113007"
+    },
+    {
+      "id": "80095314"
+    },
+    {
+      "id": "70044595"
+    },
+    {
+      "id": "80994695"
+    },
+    {
+      "id": "81073593"
+    },
+    {
+      "id": "80104199"
+    },
+    {
+      "id": "70143241"
+    }
+  ],
+  "error": null
+}
