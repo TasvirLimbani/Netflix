@@ -1,0 +1,253 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Big Tree City",
+  "year": "2022",
+  "ua": "U",
+  "match": "50% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Mark Benton, Naomi McDonald, Lucy Montgomery, Hollie Taylor, Joseph Balderrama, Hyoie O'Grady, Narinder Samra",
+  "cast": "Mark Benton, Naomi McDonald, Lucy Montgomery, Hollie Taylor, Joseph Balderrama, Hyoie O'Grady, Narinder Samra",
+  "genre": "Kids' TV, British, TV Comedies, TV Cartoons",
+  "thismovieis": "Feel-Good, Goofy",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "A team of animal heroes with special skills and speedy vehicles work together to keep Big Tree City safe and solve the town's trickiest problems.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81164471",
+      "ep": "15",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81304481",
+      "t": "Parade Pop! / Power Struggle",
+      "s": "S1",
+      "ep": "E1",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81304482",
+      "t": "Race Rescue / Secret Inspection Day",
+      "s": "S1",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81304483",
+      "t": "Cake Escape / Action!",
+      "s": "S1",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81304484",
+      "t": "Shortcut Coaster / Teamwork Topping",
+      "s": "S1",
+      "ep": "E4",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81304485",
+      "t": "Ping Pong Ding Dong / The Secret Guide",
+      "s": "S1",
+      "ep": "E5",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81304486",
+      "t": "Super Pig / Making a Splash",
+      "s": "S1",
+      "ep": "E6",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81304487",
+      "t": "Flame Says No / New Tricks",
+      "s": "S1",
+      "ep": "E7",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81304488",
+      "t": "Detective Pecky / Mega Drill",
+      "s": "S1",
+      "ep": "E8",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81304489",
+      "t": "Smart Tech / Whoops",
+      "s": "S1",
+      "ep": "E9",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81304490",
+      "t": "Stripes Mystery / Dance Off",
+      "s": "S1",
+      "ep": "E10",
+      "time": "23m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81164471",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81304481",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81191979"
+    },
+    {
+      "id": "81422836"
+    },
+    {
+      "id": "81687176"
+    },
+    {
+      "id": "81091578"
+    },
+    {
+      "id": "81154166"
+    }
+  ],
+  "error": null
+}
