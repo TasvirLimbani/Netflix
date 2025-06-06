@@ -1,0 +1,150 @@
+{
+  "status": "y",
+  "d_lang": "kor",
+  "title": "Fight for My Way",
+  "year": "2017",
+  "ua": "U/A 13+",
+  "match": "39% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Im Sang-chun",
+  "director": "",
+  "writer": "",
+  "short_cast": "Park Seo-jun, Kim Ji-won, Ahn Jae-hong, Song Ha-yoon, Son Byeong-ho, Lee Elijah, Choi Woo-shik, Kwak Dong-yeon, Kim Seung-o, Jin Hee-kyung",
+  "cast": "Park Seo-jun, Kim Ji-won, Ahn Jae-hong, Song Ha-yoon, Son Byeong-ho, Lee Elijah, Choi Woo-shik, Kwak Dong-yeon, Kim Seung-o, Jin Hee-kyung",
+  "genre": "Korean, TV Comedies, Romantic TV Comedies",
+  "thismovieis": "Charming, Romantic",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, threat, language, gore",
+  "desc": "A former taekwondo champion and an information desk worker aspire to chase their dreams in a world that isn\u2019t kind to those with mediocre credentials.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81093127",
+      "ep": "16",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81093128",
+      "t": "EP1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81093129",
+      "t": "EP2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81093130",
+      "t": "EP3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "63m"
+    },
+    {
+      "complate": "0",
+      "id": "81093131",
+      "t": "EP4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81093132",
+      "t": "EP5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "62m"
+    },
+    {
+      "complate": "0",
+      "id": "81093133",
+      "t": "EP6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "62m"
+    },
+    {
+      "complate": "0",
+      "id": "81093134",
+      "t": "EP7",
+      "s": "S1",
+      "ep": "E7",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81093135",
+      "t": "EP8",
+      "s": "S1",
+      "ep": "E8",
+      "time": "62m"
+    },
+    {
+      "complate": "0",
+      "id": "81093136",
+      "t": "EP9",
+      "s": "S1",
+      "ep": "E9",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81093137",
+      "t": "EP10",
+      "s": "S1",
+      "ep": "E10",
+      "time": "60m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81093127",
+  "lang": [
+    {
+      "l": "Korean",
+      "s": "kor"
+    }
+  ],
+  "last_ep": "81093128",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81306293"
+    },
+    {
+      "id": "81030241"
+    },
+    {
+      "id": "81707950"
+    },
+    {
+      "id": "80123798"
+    },
+    {
+      "id": "80025266"
+    },
+    {
+      "id": "81509440"
+    },
+    {
+      "id": "81465196"
+    },
+    {
+      "id": "81243992"
+    }
+  ],
+  "error": null
+}
