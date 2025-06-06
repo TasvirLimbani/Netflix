@@ -1,0 +1,248 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Power Rangers Cosmic Fury",
+  "year": "2023",
+  "ua": "U/A 7+",
+  "match": "46% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Haim Saban",
+  "director": "",
+  "writer": "",
+  "short_cast": "Russell Curry, Hunter Deno, David Yost, Kai Moya, Tessa Rao, Chance Perez, Jordon Fite, Jacqueline Joe",
+  "cast": "Russell Curry, Hunter Deno, David Yost, Kai Moya, Tessa Rao, Chance Perez, Jordon Fite, Jacqueline Joe",
+  "genre": "Kids' TV",
+  "thismovieis": "Rousing",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "When Lord Zedd returns more powerful than ever, Team Cosmic Fury takes to the cosmos to battle the emperor of evil \u2014 and save the universe as we know it.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81586550",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81632871",
+      "t": "Lightning Strikes",
+      "s": "S1",
+      "ep": "E1",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81632872",
+      "t": "Beyond Repair",
+      "s": "S1",
+      "ep": "E2",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81632873",
+      "t": "Off Grid",
+      "s": "S1",
+      "ep": "E3",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81632874",
+      "t": "Team Work",
+      "s": "S1",
+      "ep": "E4",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81632875",
+      "t": "Rock Out",
+      "s": "S1",
+      "ep": "E5",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81632876",
+      "t": "Take Off",
+      "s": "S1",
+      "ep": "E6",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81632877",
+      "t": "Operation Seasoning",
+      "s": "S1",
+      "ep": "E7",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81632878",
+      "t": "Switching Sides",
+      "s": "S1",
+      "ep": "E8",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81632879",
+      "t": "Master Plan",
+      "s": "S1",
+      "ep": "E9",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81632880",
+      "t": "The End",
+      "s": "S1",
+      "ep": "E10",
+      "time": "25m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81586550",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81632871",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81354663"
+    },
+    {
+      "id": "80217957"
+    },
+    {
+      "id": "70155571"
+    },
+    {
+      "id": "70252973"
+    },
+    {
+      "id": "81519765"
+    },
+    {
+      "id": "81588091"
+    },
+    {
+      "id": "81687083"
+    },
+    {
+      "id": "81007144"
+    },
+    {
+      "id": "70155614"
+    },
+    {
+      "id": "81004665"
+    }
+  ],
+  "error": null
+}
