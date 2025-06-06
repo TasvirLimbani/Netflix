@@ -1,0 +1,200 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Warrior Nun",
+  "year": "2020",
+  "ua": "U/A 18+ [A]",
+  "match": "37% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Simon Barry",
+  "director": "",
+  "writer": "",
+  "short_cast": "Alba Baptista, Thekla Reuten, Lorena Andrea, Toya Turner, Kristina Tonteri-Young, Trist\u00e1n Ulloa, Sylvia De Fanti, William Miller",
+  "cast": "Alba Baptista, Thekla Reuten, Lorena Andrea, Toya Turner, Kristina Tonteri-Young, Trist\u00e1n Ulloa, Sylvia De Fanti, William Miller",
+  "genre": "Teen TV Shows, TV Action & Adventure, US TV Shows, Fantasy TV Shows, TV Shows Based on Comics",
+  "thismovieis": "Suspenseful, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, language, gore",
+  "desc": "After waking up in a morgue, an orphaned teen discovers she now possesses superpowers as the chosen Halo-Bearer for a secret sect of demon-hunting nuns.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80998762",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81160056",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81251973",
+      "t": "Galatians 6:4-5",
+      "s": "S2",
+      "ep": "E1",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81251974",
+      "t": "Colossians 3:9-10",
+      "s": "S2",
+      "ep": "E2",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81251976",
+      "t": "Luke 8:17",
+      "s": "S2",
+      "ep": "E3",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81251977",
+      "t": "Corinthians 10:20-21",
+      "s": "S2",
+      "ep": "E4",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81251978",
+      "t": "Mark 10:45",
+      "s": "S2",
+      "ep": "E5",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81251979",
+      "t": "Isaiah 40:31",
+      "s": "S2",
+      "ep": "E6",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81251980",
+      "t": "Psalms 116:15",
+      "s": "S2",
+      "ep": "E7",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81251981",
+      "t": "Jeremiah 29:13",
+      "s": "S2",
+      "ep": "E8",
+      "time": "52m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81160056",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81251973",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80991090"
+    },
+    {
+      "id": "80220679"
+    },
+    {
+      "id": "80199393"
+    },
+    {
+      "id": "80236319"
+    },
+    {
+      "id": "80238357"
+    },
+    {
+      "id": "80084447"
+    },
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "81213653"
+    },
+    {
+      "id": "81621599"
+    },
+    {
+      "id": "81279312"
+    },
+    {
+      "id": "81116060"
+    },
+    {
+      "id": "80241239"
+    }
+  ],
+  "error": null
+}
