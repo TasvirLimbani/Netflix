@@ -1,0 +1,155 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Decoupled",
+  "year": "2021",
+  "ua": "U/A 16+",
+  "match": "53% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Manu Joseph",
+  "director": "",
+  "writer": "",
+  "short_cast": "Madhavan, Surveen Chawla",
+  "cast": "Madhavan, Surveen Chawla",
+  "genre": "TV Comedies",
+  "thismovieis": "Offbeat",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "sexual content, language",
+  "desc": "In this unabashed comedy, a quirky novelist's offbeat opinions ruffle feathers with his soon-to-be-ex-wife... and almost everyone else he meets.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81228611",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81228612",
+      "t": "Shake His Hand",
+      "s": "S1",
+      "ep": "E1",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81228613",
+      "t": "Her Phone Hangs",
+      "s": "S1",
+      "ep": "E2",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "81228614",
+      "t": "Champion of Maids",
+      "s": "S1",
+      "ep": "E3",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "81228615",
+      "t": "Peak Ovulation",
+      "s": "S1",
+      "ep": "E4",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81228616",
+      "t": "The Ex Returns",
+      "s": "S1",
+      "ep": "E5",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "81228617",
+      "t": "Affairs",
+      "s": "S1",
+      "ep": "E6",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81228618",
+      "t": "How to Tell Your Daughter About Divorce",
+      "s": "S1",
+      "ep": "E7",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "81228619",
+      "t": "The History of a Marriage",
+      "s": "S1",
+      "ep": "E8",
+      "time": "36m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81228611",
+  "lang": [
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    }
+  ],
+  "last_ep": "81228612",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81197473"
+    },
+    {
+      "id": "81011159"
+    },
+    {
+      "id": "80220079"
+    },
+    {
+      "id": "81110816"
+    },
+    {
+      "id": "81580846"
+    },
+    {
+      "id": "81122196"
+    },
+    {
+      "id": "80227304"
+    },
+    {
+      "id": "81131656"
+    },
+    {
+      "id": "81480217"
+    },
+    {
+      "id": "80993401"
+    },
+    {
+      "id": "81730408"
+    }
+  ],
+  "error": null
+}
