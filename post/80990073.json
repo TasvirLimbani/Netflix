@@ -1,0 +1,139 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Bad Boy Billionaires: India",
+  "year": "2020",
+  "ua": "U/A 13+",
+  "match": "69% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "British, Docuseries, Social & Cultural Docs",
+  "thismovieis": "Investigative",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "language",
+  "desc": "This investigative docuseries explores the greed, fraud and corruption that built up \u2014 and ultimately brought down \u2014 India\u2019s most infamous tycoons.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81021551",
+      "ep": "3",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81028670",
+      "t": "The King of Good Times",
+      "s": "S1",
+      "ep": "E1",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81028671",
+      "t": "Diamonds Aren't Forever",
+      "s": "S1",
+      "ep": "E2",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81028669",
+      "t": "The World's Biggest Family",
+      "s": "S1",
+      "ep": "E3",
+      "time": "64m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81021551",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81028670",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81384842"
+    },
+    {
+      "id": "81512107"
+    },
+    {
+      "id": "81095095"
+    },
+    {
+      "id": "81111279"
+    },
+    {
+      "id": "81000068"
+    },
+    {
+      "id": "81610577"
+    },
+    {
+      "id": "81610578"
+    },
+    {
+      "id": "81252894"
+    },
+    {
+      "id": "81349029"
+    },
+    {
+      "id": "70139555"
+    },
+    {
+      "id": "81150989"
+    }
+  ],
+  "error": null
+}
