@@ -1,0 +1,160 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Amazing World of Gumball",
+  "year": "2011",
+  "ua": "U/A 7+",
+  "match": "59% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Benjamin Bocquelet",
+  "director": "",
+  "writer": "",
+  "short_cast": "Dan Russell, Logan Grove, Kwesi Boakye, Teresa Gallagher, Kerry Shale, Kyla Rae Kowalewski, Sandra Dickinson, Jessica McDonald, Tony Beck, Lewis Macleod, Rupert Degas, Terrell Ransom Jr.",
+  "cast": "Dan Russell, Logan Grove, Kwesi Boakye, Teresa Gallagher, Kerry Shale, Kyla Rae Kowalewski, Sandra Dickinson, Jessica McDonald, Tony Beck, Lewis Macleod, Rupert Degas, Terrell Ransom Jr.",
+  "genre": "Kids' TV, TV Comedies, TV Cartoons",
+  "thismovieis": "Quirky",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "rude humor, mild themes",
+  "desc": "Gumball the cat and his walking goldfish, Darwin, get into all kinds of crazy situations in this engaging animated series from the Cartoon Network.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "80009432",
+      "ep": "18",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80009578",
+      "ep": "20",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81188393",
+      "t": "The Knights/The Colossus",
+      "s": "S2",
+      "ep": "E1",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81188394",
+      "t": "The Fridge/The Remote",
+      "s": "S2",
+      "ep": "E2",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81188395",
+      "t": "The Flower/The Banana",
+      "s": "S2",
+      "ep": "E3",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81188396",
+      "t": "The Phone/The Job",
+      "s": "S2",
+      "ep": "E4",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81188397",
+      "t": "Halloween/The Treasure",
+      "s": "S2",
+      "ep": "E5",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81188398",
+      "t": "The Words/The Apology",
+      "s": "S2",
+      "ep": "E6",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81188399",
+      "t": "The Skull/Christmas",
+      "s": "S2",
+      "ep": "E7",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81188400",
+      "t": "The Watch/The Bet",
+      "s": "S2",
+      "ep": "E8",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81188401",
+      "t": "The Bumpkin/The Flakers",
+      "s": "S2",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81188402",
+      "t": "The Authority/The Virus",
+      "s": "S2",
+      "ep": "E10",
+      "time": "22m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80009578",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "last_ep": "81188393",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "70241425"
+    },
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "70155547"
+    },
+    {
+      "id": "81068804"
+    },
+    {
+      "id": "70155571"
+    },
+    {
+      "id": "80242531"
+    },
+    {
+      "id": "70199841"
+    },
+    {
+      "id": "70011204"
+    }
+  ],
+  "error": null
+}
