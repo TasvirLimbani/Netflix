@@ -1,0 +1,176 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Our Universe",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "58% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Morgan Freeman",
+  "cast": "Morgan Freeman",
+  "genre": "Family Watch Together TV, British, Nature & Ecology Documentaries, Science & Nature TV, Science & Nature Docs, Docuseries",
+  "thismovieis": "Cerebral",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild fear",
+  "desc": "Witness the remarkable story of our universe over billions of years and its inextricable link to life on Earth in this sweeping documentary series.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81243962",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81320081",
+      "t": "Chasing Starlight",
+      "s": "S1",
+      "ep": "E1",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81320082",
+      "t": "The Cosmic Clock",
+      "s": "S1",
+      "ep": "E2",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81320083",
+      "t": "Turning Seasons",
+      "s": "S1",
+      "ep": "E3",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81320084",
+      "t": "Elemental",
+      "s": "S1",
+      "ep": "E4",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81320085",
+      "t": "Water World",
+      "s": "S1",
+      "ep": "E5",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81320086",
+      "t": "Force of Attraction",
+      "s": "S1",
+      "ep": "E6",
+      "time": "41m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81243962",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81320081",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80213846"
+    },
+    {
+      "id": "81273453"
+    },
+    {
+      "id": "81343342"
+    },
+    {
+      "id": "80049832"
+    },
+    {
+      "id": "81473680"
+    },
+    {
+      "id": "81137426"
+    },
+    {
+      "id": "81513913"
+    },
+    {
+      "id": "81328829"
+    },
+    {
+      "id": "81211003"
+    },
+    {
+      "id": "81474469"
+    }
+  ],
+  "error": null
+}
