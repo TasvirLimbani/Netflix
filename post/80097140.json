@@ -1,0 +1,204 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Altered Carbon",
+  "year": "2018",
+  "ua": "U/A 18+ [A]",
+  "match": "65% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Laeta Kalogridis",
+  "director": "",
+  "writer": "",
+  "short_cast": "Anthony Mackie, Lela Loren, Simone Missick, Chris Conner, Dina Shihabi, Torben Liebrecht, Ren\u00e9e Elise Goldsberry, Joel Kinnaman, James Purefoy, Martha Higareda, Dichen Lachman, Will Yun Lee, Kristin Lehman, Ato Essandoh, Tamara Taylor, Byron Mann",
+  "cast": "Anthony Mackie, Lela Loren, Simone Missick, Chris Conner, Dina Shihabi, Torben Liebrecht, Ren\u00e9e Elise Goldsberry, Joel Kinnaman, James Purefoy, Martha Higareda, Dichen Lachman, Will Yun Lee, Kristin Lehman, Ato Essandoh, Tamara Taylor, Byron Mann",
+  "genre": "TV Dramas, Sci-Fi TV, TV Shows Based on Books, TV Action & Adventure, Crime TV Shows, US TV Shows, TV Thrillers",
+  "thismovieis": "Mind-Bending, Violent",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, sexual violence, sex, nudity",
+  "desc": "After 250 years on ice, a prisoner returns to life in a new body with one chance to win his freedom: by solving a mind-bending murder.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80097907",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80186672",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80186761",
+      "t": "Phantom Lady",
+      "s": "S2",
+      "ep": "E1",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80991851",
+      "t": "Payment Deferred",
+      "s": "S2",
+      "ep": "E2",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "80991852",
+      "t": "Nightmare Alley",
+      "s": "S2",
+      "ep": "E3",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "80991853",
+      "t": "Shadow of a Doubt",
+      "s": "S2",
+      "ep": "E4",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "80991854",
+      "t": "I Wake Up Screaming",
+      "s": "S2",
+      "ep": "E5",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "80991855",
+      "t": "Bury Me Dead",
+      "s": "S2",
+      "ep": "E6",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80991856",
+      "t": "Experiment Perilous",
+      "s": "S2",
+      "ep": "E7",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "80991857",
+      "t": "Broken Angels",
+      "s": "S2",
+      "ep": "E8",
+      "time": "52m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80186672",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "80186761",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80104198"
+    },
+    {
+      "id": "80236236"
+    },
+    {
+      "id": "80177458"
+    },
+    {
+      "id": "80174608"
+    },
+    {
+      "id": "81001991"
+    },
+    {
+      "id": "81252707"
+    },
+    {
+      "id": "80100172"
+    },
+    {
+      "id": "80993062"
+    },
+    {
+      "id": "80105699"
+    },
+    {
+      "id": "70264888"
+    },
+    {
+      "id": "80025744"
+    },
+    {
+      "id": "81074110"
+    }
+  ],
+  "error": null
+}
