@@ -1,0 +1,172 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Adventure Time",
+  "year": "2010",
+  "ua": "U/A 7+",
+  "match": "54% match",
+  "runtime": "4 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Pendleton Ward",
+  "director": "",
+  "writer": "",
+  "short_cast": "Jeremy Shada, John DiMaggio, Hynden Walch, Tom Kenny, Pendleton Ward, Dee Bradley Baker, Niki Yang, Maria Bamford, Steve Little, Olivia Olson",
+  "cast": "Jeremy Shada, John DiMaggio, Hynden Walch, Tom Kenny, Pendleton Ward, Dee Bradley Baker, Niki Yang, Maria Bamford, Steve Little, Olivia Olson",
+  "genre": "Kids' TV, TV Comedies, TV Cartoons",
+  "thismovieis": "Quirky, Imaginative",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "rude humor, mild violence, mild language, mild fear",
+  "desc": "Young Finn and his shape-shifting dog buddy, Jake, go on a series of surreal adventures as they journey through the postapocalyptic Land of Ooo.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "70241276",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "70269677",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80009363",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "80009390",
+      "ep": "13",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81720004",
+      "t": "Five Short Graybles / Dream of Love",
+      "s": "S4",
+      "ep": "E1",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81720005",
+      "t": "Web Weirdos / Hot to the Touch",
+      "s": "S4",
+      "ep": "E2",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81720006",
+      "t": "In Your Footsteps / Hug Wolf",
+      "s": "S4",
+      "ep": "E3",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81720007",
+      "t": "Return to the Nightosphere / Daddy's Little Monster",
+      "s": "S4",
+      "ep": "E4",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81720008",
+      "t": "Princess Monster Wife / Goliad",
+      "s": "S4",
+      "ep": "E5",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81720009",
+      "t": "Beyond This Earthly Realm / Gotcha",
+      "s": "S4",
+      "ep": "E6",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81720010",
+      "t": "Princess Cookie / Card Wars",
+      "s": "S4",
+      "ep": "E7",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81720011",
+      "t": "Sons of Mars / Burning Low",
+      "s": "S4",
+      "ep": "E8",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81720012",
+      "t": "BMO Noire / King Worm",
+      "s": "S4",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81720013",
+      "t": "Who Would Win / Lady & Peebles",
+      "s": "S4",
+      "ep": "E10",
+      "time": "22m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80009390",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "last_ep": "81720004",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "70243420"
+    },
+    {
+      "id": "70171947"
+    },
+    {
+      "id": "70155571"
+    },
+    {
+      "id": "70155547"
+    },
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "70199841"
+    },
+    {
+      "id": "80242531"
+    },
+    {
+      "id": "70177043"
+    }
+  ],
+  "error": null
+}
