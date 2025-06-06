@@ -1,0 +1,118 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Chhota Bheem aur Gadadhari Bheem",
+  "year": "2023",
+  "ua": "U/A 7+",
+  "match": "38% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Rajiv Chilaka",
+  "director": "",
+  "writer": "",
+  "short_cast": "Sonal Kaushal, Pinky Pal Rajput, Rajesh Kava, Shaily Dubey, Jigna Bhardwaj, Charulata",
+  "cast": "Sonal Kaushal, Pinky Pal Rajput, Rajesh Kava, Shaily Dubey, Jigna Bhardwaj, Charulata",
+  "genre": "Kids' TV, TV Shows Based on Books, Hindi-Language TV Shows",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "rude humor, mild violence, mild language, mild fear",
+  "desc": "Chhota Bheem and his friends learn all about the adventures of Bhima, a mythical hero who possesses superhuman strength.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81701059",
+      "ep": "3",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81701060",
+      "t": "Part 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81701061",
+      "t": "Part 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81701062",
+      "t": "Part 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "46m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81701059",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    }
+  ],
+  "last_ep": "81701060",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81700184"
+    },
+    {
+      "id": "81701063"
+    },
+    {
+      "id": "81701050"
+    },
+    {
+      "id": "81318081"
+    },
+    {
+      "id": "81318057"
+    },
+    {
+      "id": "81318062"
+    },
+    {
+      "id": "81318066"
+    },
+    {
+      "id": "81570092"
+    },
+    {
+      "id": "80158156"
+    },
+    {
+      "id": "81570077"
+    },
+    {
+      "id": "81318080"
+    },
+    {
+      "id": "80146758"
+    }
+  ],
+  "error": null
+}
