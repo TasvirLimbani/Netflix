@@ -1,0 +1,162 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "CAT",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "33% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Randeep Hooda, Suvinder Vicky, Hasleen Kaur, Kavya Thapar, Gurinder Makna, Geeta Agrawal Sharma, Pramod Pathak, Jaipreet Singh, Abhishant Rana, Danish Sood",
+  "cast": "Randeep Hooda, Suvinder Vicky, Hasleen Kaur, Kavya Thapar, Gurinder Makna, Geeta Agrawal Sharma, Pramod Pathak, Jaipreet Singh, Abhishant Rana, Danish Sood",
+  "genre": "Political TV Shows, TV Dramas, Crime TV Shows, TV Thrillers",
+  "thismovieis": "Ominous, Gritty",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, substances, sexual violence, mature themes, language",
+  "desc": "Living under an alias, a former police informant is summoned to infiltrate a major drug empire but uncovers a dangerous connection to his dark past.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81281064",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81281065",
+      "t": "The Deal",
+      "s": "S1",
+      "ep": "E1",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81281066",
+      "t": "The Invasion",
+      "s": "S1",
+      "ep": "E2",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81281067",
+      "t": "The Imposter",
+      "s": "S1",
+      "ep": "E3",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81281068",
+      "t": "The Takeover",
+      "s": "S1",
+      "ep": "E4",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81281069",
+      "t": "The Crossroad",
+      "s": "S1",
+      "ep": "E5",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81281070",
+      "t": "The Escape",
+      "s": "S1",
+      "ep": "E6",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81281071",
+      "t": "The Deceit",
+      "s": "S1",
+      "ep": "E7",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81281072",
+      "t": "The Masterplan",
+      "s": "S1",
+      "ep": "E8",
+      "time": "40m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81281064",
+  "lang": [
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Punjabi",
+      "s": "pan"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81281065",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81443393"
+    },
+    {
+      "id": "81200720"
+    },
+    {
+      "id": "81290872"
+    },
+    {
+      "id": "81076756"
+    },
+    {
+      "id": "80997361"
+    },
+    {
+      "id": "81264422"
+    },
+    {
+      "id": "81183491"
+    },
+    {
+      "id": "80225885"
+    },
+    {
+      "id": "81226180"
+    },
+    {
+      "id": "81773534"
+    },
+    {
+      "id": "80115328"
+    },
+    {
+      "id": "81690671"
+    }
+  ],
+  "error": null
+}
