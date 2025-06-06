@@ -1,0 +1,218 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Van Helsing",
+  "year": "2016",
+  "ua": "U/A 18+ [A]",
+  "match": "42% match",
+  "runtime": "5 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Neil LaBute",
+  "director": "",
+  "writer": "",
+  "short_cast": "Kelly Overton, Jonathan Scarfe, Christopher Heyerdahl, Missy Peregrym, Paul Johansson, Rukiya Bernard, Vincent Gale, Aleks Paunovic, Trezzo Mahoro, David Cubitt, Caroline Cave, Neal McDonough, Keeya King, Nicole Mu\u00f1oz, Tricia Helfer, Jesse Stanley, Jennifer Cheon Garcia, Heather Doerksen, Hilary Jardine",
+  "cast": "Kelly Overton, Jonathan Scarfe, Christopher Heyerdahl, Missy Peregrym, Paul Johansson, Rukiya Bernard, Vincent Gale, Aleks Paunovic, Trezzo Mahoro, David Cubitt, Caroline Cave, Neal McDonough, Keeya King, Nicole Mu\u00f1oz, Tricia Helfer, Jesse Stanley, Jennifer Cheon Garcia, Heather Doerksen, Hilary Jardine",
+  "genre": "TV Dramas, Canadian, TV Action & Adventure, Horror TV Serials, Fantasy TV Shows, TV Shows Based on Comics",
+  "thismovieis": "Violent, Dark, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, sexual violence, nudity, gore",
+  "desc": "After three years in a coma, Vanessa awakens to a world ravaged by vampires. Now, she and a motley band of fellow survivors fight to stay alive.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80121408",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80213130",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80222929",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "80987051",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "81154373",
+      "ep": "13",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81397744",
+      "t": "Past Tense",
+      "s": "S5",
+      "ep": "E1",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81397745",
+      "t": "Old Friends",
+      "s": "S5",
+      "ep": "E2",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81397746",
+      "t": "Lumina Intunecata",
+      "s": "S5",
+      "ep": "E3",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81397747",
+      "t": "State of the Union",
+      "s": "S5",
+      "ep": "E4",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81397748",
+      "t": "Sisterhunt",
+      "s": "S5",
+      "ep": "E5",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81397749",
+      "t": "Carpe Noctis",
+      "s": "S5",
+      "ep": "E6",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81397750",
+      "t": "Graveyard Smash",
+      "s": "S5",
+      "ep": "E7",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81397751",
+      "t": "Deep Trouble",
+      "s": "S5",
+      "ep": "E8",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81397752",
+      "t": "The Doorway",
+      "s": "S5",
+      "ep": "E9",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81397753",
+      "t": "E Pluribus Unum",
+      "s": "S5",
+      "ep": "E10",
+      "time": "43m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81154373",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81397744",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "60034569"
+    },
+    {
+      "id": "80997687"
+    },
+    {
+      "id": "80106735"
+    },
+    {
+      "id": "328942"
+    },
+    {
+      "id": "70019508"
+    },
+    {
+      "id": "70044598"
+    },
+    {
+      "id": "60022643"
+    },
+    {
+      "id": "70305899"
+    },
+    {
+      "id": "80236118"
+    },
+    {
+      "id": "70217912"
+    },
+    {
+      "id": "60004480"
+    },
+    {
+      "id": "81043660"
+    }
+  ],
+  "error": null
+}
