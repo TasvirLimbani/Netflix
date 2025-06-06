@@ -1,0 +1,270 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Avatar The Last Airbender",
+  "year": "2024",
+  "ua": "U/A 13+",
+  "match": "93% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Gordon Cormier, Kiawentiio, Ian Ousley, Dallas Liu, Paul Sun-Hyung Lee, Ken Leung, Daniel Dae Kim",
+  "cast": "Gordon Cormier, Kiawentiio, Ian Ousley, Dallas Liu, Paul Sun-Hyung Lee, Ken Leung, Daniel Dae Kim",
+  "genre": "Family Time TV, TV Action & Adventure, US TV Shows, Fantasy TV Shows, TV Shows Based on Comics",
+  "thismovieis": "Imaginative",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, threat",
+  "desc": "A young boy known as the Avatar must master the four elemental powers to save a world at war \u2014 and fight a ruthless enemy bent on stopping him.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80237845",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80238401",
+      "t": "Aang",
+      "s": "S1",
+      "ep": "E1",
+      "time": "63m"
+    },
+    {
+      "complate": "0",
+      "id": "81019210",
+      "t": "Warriors",
+      "s": "S1",
+      "ep": "E2",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81019212",
+      "t": "Omashu",
+      "s": "S1",
+      "ep": "E3",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81019213",
+      "t": "Into the Dark",
+      "s": "S1",
+      "ep": "E4",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81019214",
+      "t": "Spirited Away",
+      "s": "S1",
+      "ep": "E5",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81019215",
+      "t": "Masks",
+      "s": "S1",
+      "ep": "E6",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "81019216",
+      "t": "The North",
+      "s": "S1",
+      "ep": "E7",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81019217",
+      "t": "Legends",
+      "s": "S1",
+      "ep": "E8",
+      "time": "57m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80237845",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Catalan",
+      "s": "cat"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Basque",
+      "s": "eus"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "Filipino (Tagalog)",
+      "s": "fil"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Galician",
+      "s": "glg"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    }
+  ],
+  "last_ep": "80238401",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80991090"
+    },
+    {
+      "id": "80217863"
+    },
+    {
+      "id": "81516447"
+    },
+    {
+      "id": "80184682"
+    },
+    {
+      "id": "81267307"
+    },
+    {
+      "id": "81004278"
+    },
+    {
+      "id": "81416258"
+    },
+    {
+      "id": "81199145"
+    },
+    {
+      "id": "81696507"
+    },
+    {
+      "id": "80218885"
+    },
+    {
+      "id": "80025919"
+    },
+    {
+      "id": "81465101"
+    }
+  ],
+  "error": null
+}
