@@ -1,0 +1,184 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "K\u00fcbra",
+  "year": "2024",
+  "ua": "U/A 18+ [A]",
+  "match": "36% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "\u00c7a\u011fatay Ulusoy, Asl\u0131han Malbora, Ahsen Ero\u011flu, Nazan Kesal, Cihan Talay, Onur \u00dcnsal, Aytek \u015eayan, Ahmet M\u00fcmtaz Taylan, Meri\u00e7 Rakalar, Deniz I\u015f\u0131n, Mehmet \u00c7a\u011fr\u0131 \u00c7\u0131tanak, Cemalettin \u00c7ekmece, Erdem \u015eenocak",
+  "cast": "\u00c7a\u011fatay Ulusoy, Asl\u0131han Malbora, Ahsen Ero\u011flu, Nazan Kesal, Cihan Talay, Onur \u00dcnsal, Aytek \u015eayan, Ahmet M\u00fcmtaz Taylan, Meri\u00e7 Rakalar, Deniz I\u015f\u0131n, Mehmet \u00c7a\u011fr\u0131 \u00c7\u0131tanak, Cemalettin \u00c7ekmece, Erdem \u015eenocak",
+  "genre": "TV Dramas, Turkish, TV Shows Based on Books, Social Issue TV Dramas",
+  "thismovieis": "Psychological, Intimate, Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "tobacco use, suicide",
+  "desc": "When a suburban man receives messages that seem to predict the future, he develops a following \u2014 and powerful enemies.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81681295",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81687582",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81687583",
+      "t": "Episode 1",
+      "s": "S2",
+      "ep": "E1",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81687584",
+      "t": "Episode 2",
+      "s": "S2",
+      "ep": "E2",
+      "time": "37m"
+    },
+    {
+      "complate": "0",
+      "id": "81687585",
+      "t": "Episode 3",
+      "s": "S2",
+      "ep": "E3",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81687586",
+      "t": "Episode 4",
+      "s": "S2",
+      "ep": "E4",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81687587",
+      "t": "Episode 5",
+      "s": "S2",
+      "ep": "E5",
+      "time": "37m"
+    },
+    {
+      "complate": "0",
+      "id": "81687588",
+      "t": "Episode 6",
+      "s": "S2",
+      "ep": "E6",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81687589",
+      "t": "Episode 7",
+      "s": "S2",
+      "ep": "E7",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81687590",
+      "t": "Episode 8",
+      "s": "S2",
+      "ep": "E8",
+      "time": "38m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81687582",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81687583",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81354934"
+    },
+    {
+      "id": "81616617"
+    },
+    {
+      "id": "81590491"
+    },
+    {
+      "id": "81614037"
+    },
+    {
+      "id": "81212136"
+    },
+    {
+      "id": "81380432"
+    },
+    {
+      "id": "81730920"
+    },
+    {
+      "id": "81334946"
+    }
+  ],
+  "error": null
+}
