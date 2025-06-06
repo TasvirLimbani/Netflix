@@ -1,0 +1,91 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Garfield Movie",
+  "year": "2024",
+  "ua": "U/A 7+",
+  "match": "94% match",
+  "runtime": "1h 41m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Mark Dindal",
+  "writer": "Paul A. Kaplan, Mark Torgove, David Reynolds",
+  "short_cast": "Chris Pratt, Samuel L. Jackson, Hannah Waddingham, Ving Rhames, Nicholas Hoult, Cecily Strong, Harvey Guill\u00e9n, Brett Goldstein, Bowen Yang, Snoop Dogg",
+  "cast": "Chris Pratt, Samuel L. Jackson, Hannah Waddingham, Ving Rhames, Nicholas Hoult, Cecily Strong, Harvey Guill\u00e9n, Brett Goldstein, Bowen Yang, Snoop Dogg",
+  "genre": "Family Features, Children & Family Movies, Comedy Movies, US Movies",
+  "thismovieis": "Goofy",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild language",
+  "desc": "After a midnight snack raid with Odie goes awry, Garfield and his long-lost dad must pull off a daring dairy heist to settle the score with an angry cat.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81555726"
+    },
+    {
+      "id": "81664346"
+    },
+    {
+      "id": "81640914"
+    },
+    {
+      "id": "81570077"
+    },
+    {
+      "id": "28631029"
+    },
+    {
+      "id": "81221340"
+    },
+    {
+      "id": "81073593"
+    },
+    {
+      "id": "70044595"
+    },
+    {
+      "id": "80104199"
+    },
+    {
+      "id": "81669979"
+    },
+    {
+      "id": "80996790"
+    },
+    {
+      "id": "70155547"
+    }
+  ],
+  "error": null
+}
