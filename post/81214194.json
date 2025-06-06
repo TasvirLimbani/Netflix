@@ -1,0 +1,183 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Mulligan",
+  "year": "2023",
+  "ua": "U/A 13+",
+  "match": "66% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Robert Carlock, Sam Means",
+  "director": "",
+  "writer": "",
+  "short_cast": "Nat Faxon, Dana Carvey, Tina Fey, Phil LaMarr, Sam Richardson, Chrissy Teigen, Ronny Chieng, Rachel Dratch, Ayo Edebiri, Daniel Radcliffe, Kevin Michael Richardson, Toks Olagundoye",
+  "cast": "Nat Faxon, Dana Carvey, Tina Fey, Phil LaMarr, Sam Richardson, Chrissy Teigen, Ronny Chieng, Rachel Dratch, Ayo Edebiri, Daniel Radcliffe, Kevin Michael Richardson, Toks Olagundoye",
+  "genre": "Political TV Shows, TV Comedies, US TV Shows",
+  "thismovieis": "Witty, Quirky",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, tobacco use, threat, substances, mature themes, language, gore, crude humor",
+  "desc": "In this satirical comedy, when most of Earth is destroyed by aliens, can a few survivors rebuild what\u2019s left of America and form a more perfect union?",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81214195",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81441252",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81309575",
+      "t": "A Rising Tide",
+      "s": "S2",
+      "ep": "E1",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81309576",
+      "t": "Party Foul",
+      "s": "S2",
+      "ep": "E2",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81309577",
+      "t": "The Great Depression",
+      "s": "S2",
+      "ep": "E3",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81309578",
+      "t": "Sic Semper Mulligan",
+      "s": "S2",
+      "ep": "E4",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81309579",
+      "t": "DC/AC",
+      "s": "S2",
+      "ep": "E5",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81309580",
+      "t": "The Ballad of Sentient Meat",
+      "s": "S2",
+      "ep": "E6",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81309581",
+      "t": "Watergate Watergate",
+      "s": "S2",
+      "ep": "E7",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81309582",
+      "t": "Dr. Johnny's Wonder Pill",
+      "s": "S2",
+      "ep": "E8",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81309583",
+      "t": "Camp David",
+      "s": "S2",
+      "ep": "E9",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81309584",
+      "t": "A House Divided",
+      "s": "S2",
+      "ep": "E10",
+      "time": "29m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81441252",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81309575",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81095190"
+    },
+    {
+      "id": "80095697"
+    },
+    {
+      "id": "81306200"
+    },
+    {
+      "id": "80014749"
+    },
+    {
+      "id": "81044590"
+    }
+  ],
+  "error": null
+}
