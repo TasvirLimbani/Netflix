@@ -1,0 +1,132 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Bad Dinosaurs",
+  "year": "2024",
+  "ua": "U/A 7+",
+  "match": "90% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Joel Veitch, David Shute, Alex Mallinson",
+  "director": "",
+  "writer": "",
+  "short_cast": "Talullah Veitch, Adam Diggle, Josie Long",
+  "cast": "Talullah Veitch, Adam Diggle, Josie Long",
+  "genre": "Kids' TV, British, TV Comedies, TV Cartoons",
+  "thismovieis": "Goofy",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "",
+  "desc": "A lovably mischievous Tyrannosaurus family explores their colorful prehistoric world, having slapstick fun with the silly dinosaurs who live there.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81301888",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81597615",
+      "t": "Point Beak / Food Fight / Simply the Nest",
+      "s": "S1",
+      "ep": "E1",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81597616",
+      "t": "Tricera-Cops / Water Palaver / Creature's Pet",
+      "s": "S1",
+      "ep": "E2",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81597617",
+      "t": "The Sliming / Sound Bite / Failure to Lunch",
+      "s": "S1",
+      "ep": "E3",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81597618",
+      "t": "Diamonds Aren't Forever / Cheeky Boys / Hunger Games",
+      "s": "S1",
+      "ep": "E4",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81597619",
+      "t": "The Great Egg-scape / Stegosaur-Rush / The Irritation Game",
+      "s": "S1",
+      "ep": "E5",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81597620",
+      "t": "Herbi-Bores / Tyrannosaurus Flex / Raging Ball",
+      "s": "S1",
+      "ep": "E6",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81597621",
+      "t": "Glue-some Twosome / The Good, The Bad & the Greedy / True Roar-mance",
+      "s": "S1",
+      "ep": "E7",
+      "time": "20m"
+    },
+    {
+      "complate": "0",
+      "id": "81610827",
+      "t": "Raptors' Revenge / Ma Attacks / Volca-nooooo!!!!!",
+      "s": "S1",
+      "ep": "E8",
+      "time": "20m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81301888",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "zxx",
+      "s": "zxx"
+    }
+  ],
+  "last_ep": "81597615",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81108751"
+    },
+    {
+      "id": "81215996"
+    },
+    {
+      "id": "81154166"
+    },
+    {
+      "id": "81009646"
+    },
+    {
+      "id": "80023612"
+    },
+    {
+      "id": "81669979"
+    }
+  ],
+  "error": null
+}
