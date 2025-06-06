@@ -1,0 +1,119 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Story Time Book: Read-Along",
+  "year": "2018",
+  "ua": "U",
+  "match": "84% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Kids' TV, Kids Music, Education for Kids",
+  "thismovieis": "",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "Kids can read along with illustrated books that come to life through animation, music and narration. Exciting adventures, fuzzy animal friends and more!",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81615859",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81615860",
+      "t": "Adventurous Tales",
+      "s": "S1",
+      "ep": "E1",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81615861",
+      "t": "Science, Letters, and Numbers",
+      "s": "S1",
+      "ep": "E2",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81615862",
+      "t": "Fuzzy Friends",
+      "s": "S1",
+      "ep": "E3",
+      "time": "14m"
+    },
+    {
+      "complate": "0",
+      "id": "81615863",
+      "t": "Animals",
+      "s": "S1",
+      "ep": "E4",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81615864",
+      "t": "Colors and Shapes",
+      "s": "S1",
+      "ep": "E5",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81615865",
+      "t": "Bedtime",
+      "s": "S1",
+      "ep": "E6",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81615866",
+      "t": "Kindness and Family",
+      "s": "S1",
+      "ep": "E7",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81615867",
+      "t": "Make a Difference",
+      "s": "S1",
+      "ep": "E8",
+      "time": "33m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81615859",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    }
+  ],
+  "last_ep": "81615860",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81699964"
+    },
+    {
+      "id": "81691739"
+    },
+    {
+      "id": "81096893"
+    }
+  ],
+  "error": null
+}
