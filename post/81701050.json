@@ -1,0 +1,118 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Chhota Bheem Zuhu ka Zalzala",
+  "year": "2023",
+  "ua": "U/A 7+",
+  "match": "76% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Rajiv Chilaka",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Kids' TV, TV Cartoons, Hindi-Language TV Shows",
+  "thismovieis": "Goofy, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "As a formidable enemy schemes to rule the world, Bheem must fight off attacks from all sides to defend the Vayu Chakra and unlock his own destiny.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81701051",
+      "ep": "3",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81701052",
+      "t": "Part 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81701053",
+      "t": "Part 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81701054",
+      "t": "Part 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "46m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81701051",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    }
+  ],
+  "last_ep": "81701052",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81700184"
+    },
+    {
+      "id": "81701032"
+    },
+    {
+      "id": "81701044"
+    },
+    {
+      "id": "81318081"
+    },
+    {
+      "id": "81318057"
+    },
+    {
+      "id": "81570077"
+    },
+    {
+      "id": "81318066"
+    },
+    {
+      "id": "81318062"
+    },
+    {
+      "id": "80158156"
+    },
+    {
+      "id": "81570092"
+    },
+    {
+      "id": "81037695"
+    },
+    {
+      "id": "81669979"
+    }
+  ],
+  "error": null
+}
