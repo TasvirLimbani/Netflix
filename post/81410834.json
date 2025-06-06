@@ -1,0 +1,153 @@
+{
+  "status": "y",
+  "d_lang": "kor",
+  "title": "True Beauty",
+  "year": "2020",
+  "ua": "U/A 13+",
+  "match": "42% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Kim Sang-hyeob, Lee Si-eun",
+  "director": "",
+  "writer": "",
+  "short_cast": "Mun Ka-young, Cha Eun-woo, Hwang In-youp, Park You-na, Chang Hyae-jin, Park Ho-san, Lim Se-mi, Kim Min-gi, Jeong Jun-ho",
+  "cast": "Mun Ka-young, Cha Eun-woo, Hwang In-youp, Park You-na, Chang Hyae-jin, Park Ho-san, Lim Se-mi, Kim Min-gi, Jeong Jun-ho",
+  "genre": "Korean, Teen TV Shows, TV Comedies, Romantic TV Comedies, K-dramas based on Webtoon",
+  "thismovieis": "Swoonworthy, Romantic",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, substances, nudity, mature themes, language, gore",
+  "desc": "Formerly bullied, a teen masters the art of makeup and becomes a knockout at her new school \u2014 but keeping up appearances is harder than it seems.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81655019",
+      "ep": "16",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81655020",
+      "t": "Episode 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "76m"
+    },
+    {
+      "complate": "0",
+      "id": "81655021",
+      "t": "Episode 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "74m"
+    },
+    {
+      "complate": "0",
+      "id": "81655022",
+      "t": "Episode 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "72m"
+    },
+    {
+      "complate": "0",
+      "id": "81655023",
+      "t": "Episode 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "72m"
+    },
+    {
+      "complate": "0",
+      "id": "81655024",
+      "t": "Episode 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "71m"
+    },
+    {
+      "complate": "0",
+      "id": "81655025",
+      "t": "Episode 6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "71m"
+    },
+    {
+      "complate": "0",
+      "id": "81655026",
+      "t": "Episode 7",
+      "s": "S1",
+      "ep": "E7",
+      "time": "71m"
+    },
+    {
+      "complate": "0",
+      "id": "81655027",
+      "t": "Episode 8",
+      "s": "S1",
+      "ep": "E8",
+      "time": "69m"
+    },
+    {
+      "complate": "0",
+      "id": "81655028",
+      "t": "Episode 9",
+      "s": "S1",
+      "ep": "E9",
+      "time": "75m"
+    },
+    {
+      "complate": "0",
+      "id": "81655029",
+      "t": "Episode 10",
+      "s": "S1",
+      "ep": "E10",
+      "time": "75m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81655019",
+  "lang": [
+    {
+      "l": "Korean",
+      "s": "kor"
+    }
+  ],
+  "last_ep": "81655020",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81030026"
+    },
+    {
+      "id": "81509440"
+    },
+    {
+      "id": "81354739"
+    },
+    {
+      "id": "81716080"
+    },
+    {
+      "id": "81472752"
+    },
+    {
+      "id": "81610940"
+    },
+    {
+      "id": "81671440"
+    },
+    {
+      "id": "81030241"
+    },
+    {
+      "id": "81324724"
+    }
+  ],
+  "error": null
+}
