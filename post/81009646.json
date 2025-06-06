@@ -1,0 +1,297 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Jurassic World Camp Cretaceous",
+  "year": "2020",
+  "ua": "U/A 7+",
+  "match": "87% match",
+  "runtime": "5 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Paul-Mik\u00e9l Williams, Jenna Ortega, Sean Giambrone, Kausar Mohammed, Ryan Potter, Raini Rodriguez, Kirby Howell-Baptiste, Haley Joel Osment, Andrew Kishino, Roger Craig Smith, Stephanie Beatriz, Angus Sampson, Bradley Whitford, Glen Powell, Jameela Jamil",
+  "cast": "Paul-Mik\u00e9l Williams, Jenna Ortega, Sean Giambrone, Kausar Mohammed, Ryan Potter, Raini Rodriguez, Kirby Howell-Baptiste, Haley Joel Osment, Andrew Kishino, Roger Craig Smith, Stephanie Beatriz, Angus Sampson, Bradley Whitford, Glen Powell, Jameela Jamil",
+  "genre": "Kids' TV, Family Watch Together TV, TV Shows Based on Books, TV Cartoons",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence",
+  "desc": "Six teens invited to attend a state-of-the-art adventure camp on Isla Nublar must band together to survive when the dinosaurs break out of captivity.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80240907",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81083158",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81083159",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "81083160",
+      "ep": "11",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "81083161",
+      "ep": "12",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81083200",
+      "t": "Reunited",
+      "s": "S5",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083206",
+      "t": "The Final Test",
+      "s": "S5",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083207",
+      "t": "Battle Lines",
+      "s": "S5",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083208",
+      "t": "Evasive Action",
+      "s": "S5",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083209",
+      "t": "Shaky Ground",
+      "s": "S5",
+      "ep": "E5",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083201",
+      "t": "Out of the Pack",
+      "s": "S5",
+      "ep": "E6",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083202",
+      "t": "The Leap",
+      "s": "S5",
+      "ep": "E7",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083212",
+      "t": "Clean Break",
+      "s": "S5",
+      "ep": "E8",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083210",
+      "t": "The Core",
+      "s": "S5",
+      "ep": "E9",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083203",
+      "t": "Arrival",
+      "s": "S5",
+      "ep": "E10",
+      "time": "24m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81083161",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "yue",
+      "s": "yue"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81083200",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81557031"
+    },
+    {
+      "id": "81108751"
+    },
+    {
+      "id": "80225085"
+    },
+    {
+      "id": "80039394"
+    },
+    {
+      "id": "80023612"
+    },
+    {
+      "id": "70155571"
+    },
+    {
+      "id": "81555726"
+    },
+    {
+      "id": "81007144"
+    },
+    {
+      "id": "80217006"
+    }
+  ],
+  "error": null
+}
