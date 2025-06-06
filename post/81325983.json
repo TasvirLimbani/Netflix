@@ -1,0 +1,171 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Beyblade Burst Rise",
+  "year": "2019",
+  "ua": "U/A 7+",
+  "match": "39% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Hideki Sonoda",
+  "director": "",
+  "writer": "",
+  "short_cast": "Erika Harlacher, Griffin Puatu, Kimlinh Tran, Taylor Henry, Janice Roman Roku, Brian Anderson",
+  "cast": "Erika Harlacher, Griffin Puatu, Kimlinh Tran, Taylor Henry, Janice Roman Roku, Brian Anderson",
+  "genre": "Kids' TV, Action Anime, Japanese, Anime Series, TV Shows Based on Manga",
+  "thismovieis": "Adrenaline Rush, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence",
+  "desc": "After training with legendary Valt Aoi, Dante and his trusty Ace Dragon lead the next generation of Bladers to battle in Japan \u2014 Beyblade's birthplace.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81325984",
+      "ep": "26",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81325985",
+      "t": "Ace Dragon! On the Rise!",
+      "s": "S1",
+      "ep": "E1",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81325986",
+      "t": "Abracadabra! Wizard Fafnir!",
+      "s": "S1",
+      "ep": "E2",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81325987",
+      "t": "Dragon vs Fafnir!",
+      "s": "S1",
+      "ep": "E3",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81325988",
+      "t": "Inspiration! Challenging Valt!",
+      "s": "S1",
+      "ep": "E4",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81325989",
+      "t": "All-In! Judgement Joker!",
+      "s": "S1",
+      "ep": "E5",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81325990",
+      "t": "The Final Hand!",
+      "s": "S1",
+      "ep": "E6",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81325991",
+      "t": "Bey Carnival! Epic Final!",
+      "s": "S1",
+      "ep": "E7",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81325992",
+      "t": "Dante vs Delta!",
+      "s": "S1",
+      "ep": "E8",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81325993",
+      "t": "Flying High! Harmony Pegasus!",
+      "s": "S1",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81325994",
+      "t": "Flash of Light! Shining Crux!",
+      "s": "S1",
+      "ep": "E10",
+      "time": "22m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81325984",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81325985",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81567663"
+    },
+    {
+      "id": "70155614"
+    },
+    {
+      "id": "70252973"
+    },
+    {
+      "id": "70155571"
+    },
+    {
+      "id": "81294811"
+    },
+    {
+      "id": "81519765"
+    },
+    {
+      "id": "81223075"
+    }
+  ],
+  "error": null
+}
