@@ -1,0 +1,183 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Anthracite",
+  "year": "2024",
+  "ua": "U/A 18+ [A]",
+  "match": "40% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Fanny Robert, Maxime Berthemy, Mehdi Ouahab",
+  "director": "",
+  "writer": "",
+  "short_cast": "Hatik, No\u00e9mie Schmidt, Camille Lou, Nicolas Godart, Rapha\u00ebl Ferret, L\u00e9o Legrand, Kad Merad, Jean-Marc Barr, Stefano Cassetti, Marianne Basler",
+  "cast": "Hatik, No\u00e9mie Schmidt, Camille Lou, Nicolas Godart, Rapha\u00ebl Ferret, L\u00e9o Legrand, Kad Merad, Jean-Marc Barr, Stefano Cassetti, Marianne Basler",
+  "genre": "French, TV Dramas, TV Mysteries, Crime TV Shows, TV Thrillers",
+  "thismovieis": "Offbeat, Gritty",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, sexual violence, sex, nudity, language",
+  "desc": "An old case is wrenched open when a reporter goes missing, leading his web sleuth daughter to a small mountain town haunted by a sect, secrecy and death.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81520698",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81522232",
+      "t": "Still on Fire",
+      "s": "S1",
+      "ep": "E1",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81522233",
+      "t": "The 13th Disciple",
+      "s": "S1",
+      "ep": "E2",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81522234",
+      "t": "Trust No One",
+      "s": "S1",
+      "ep": "E3",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81522235",
+      "t": "Levia Borelis",
+      "s": "S1",
+      "ep": "E4",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81522236",
+      "t": "A Darker Shadow",
+      "s": "S1",
+      "ep": "E5",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81522237",
+      "t": "The Point of Equilibrium",
+      "s": "S1",
+      "ep": "E6",
+      "time": "45m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81520698",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81522232",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81580682"
+    },
+    {
+      "id": "81463577"
+    },
+    {
+      "id": "81438805"
+    },
+    {
+      "id": "80223927"
+    },
+    {
+      "id": "81520685"
+    },
+    {
+      "id": "81438160"
+    },
+    {
+      "id": "81679967"
+    },
+    {
+      "id": "81338273"
+    },
+    {
+      "id": "81219887"
+    },
+    {
+      "id": "81441399"
+    },
+    {
+      "id": "81024821"
+    }
+  ],
+  "error": null
+}
