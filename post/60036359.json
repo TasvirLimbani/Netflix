@@ -1,0 +1,123 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Schindler's List",
+  "year": "1993",
+  "ua": "U/A 18+ [A]",
+  "match": "64% match",
+  "runtime": "3h 15m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Steven Spielberg",
+  "writer": "Thomas Keneally, Steven Zaillian",
+  "short_cast": "Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall, Jonathan Sagall, Embeth Davidtz, Ma\u0142gorzata Gebel, Shmulik Levy, Mark Ivanir, Beatrice Macola, Friedrich von Thun, Andrzej Seweryn",
+  "cast": "Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall, Jonathan Sagall, Embeth Davidtz, Ma\u0142gorzata Gebel, Shmulik Levy, Mark Ivanir, Beatrice Macola, Friedrich von Thun, Andrzej Seweryn",
+  "genre": "Military Movies, Drama Movies, Movies Based on Books, Movies Based on Real Life, US Movies",
+  "thismovieis": "Violent, Dark, Emotional",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, gore",
+  "desc": "Oskar Schindler becomes an unlikely humanitarian, spending his entire fortune to help save 1,100 Jews from Auschwitz during World War II.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70005379"
+    },
+    {
+      "id": "80191608"
+    },
+    {
+      "id": "477351"
+    },
+    {
+      "id": "81248111"
+    },
+    {
+      "id": "60011152"
+    },
+    {
+      "id": "80182116"
+    },
+    {
+      "id": "81260280"
+    },
+    {
+      "id": "60000417"
+    },
+    {
+      "id": "81435414"
+    },
+    {
+      "id": "81485977"
+    },
+    {
+      "id": "80986885"
+    },
+    {
+      "id": "60000724"
+    }
+  ],
+  "error": null
+}
