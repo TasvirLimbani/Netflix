@@ -1,0 +1,206 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Lockwood & Co.",
+  "year": "2023",
+  "ua": "U/A 13+",
+  "match": "61% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Ruby Stokes, Cameron Chapman, Ali Hadji-Heshmati, Ivanno Jeremiah, Jack Bandeira, Luke Treadaway, Morven Christie, Ben Crompton, Hayley Konadu",
+  "cast": "Ruby Stokes, Cameron Chapman, Ali Hadji-Heshmati, Ivanno Jeremiah, Jack Bandeira, Luke Treadaway, Morven Christie, Ben Crompton, Hayley Konadu",
+  "genre": "TV Dramas, British, TV Shows Based on Books, Teen TV Shows, TV Mysteries, Fantasy TV Shows",
+  "thismovieis": "Chilling, Suspenseful, Exciting",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, mature themes, language, gore, crude humor",
+  "desc": "In a world plagued by ghosts, three teens band together as paranormal investigators, risking what little they have to unravel a diabolical conspiracy.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81227990",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81281040",
+      "t": "This Will Be Us",
+      "s": "S1",
+      "ep": "E1",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81281041",
+      "t": "Let Go of Me",
+      "s": "S1",
+      "ep": "E2",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81281042",
+      "t": "Doubt Thou the Stars",
+      "s": "S1",
+      "ep": "E3",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81281043",
+      "t": "Sweet Dreams",
+      "s": "S1",
+      "ep": "E4",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81281044",
+      "t": "Death Is Coming",
+      "s": "S1",
+      "ep": "E5",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81281045",
+      "t": "You Never Asked",
+      "s": "S1",
+      "ep": "E6",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81281046",
+      "t": "Mesmerised",
+      "s": "S1",
+      "ep": "E7",
+      "time": "37m"
+    },
+    {
+      "complate": "0",
+      "id": "81281047",
+      "t": "Not the Eternal",
+      "s": "S1",
+      "ep": "E8",
+      "time": "44m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81227990",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81281040",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80241581"
+    },
+    {
+      "id": "80241239"
+    },
+    {
+      "id": "81679967"
+    },
+    {
+      "id": "80220679"
+    },
+    {
+      "id": "81150303"
+    },
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "80238357"
+    },
+    {
+      "id": "80236319"
+    },
+    {
+      "id": "80223989"
+    },
+    {
+      "id": "81335124"
+    },
+    {
+      "id": "80199393"
+    },
+    {
+      "id": "80084447"
+    }
+  ],
+  "error": null
+}
