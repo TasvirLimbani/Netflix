@@ -1,0 +1,193 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Recruit",
+  "year": "2022",
+  "ua": "U/A 16+",
+  "match": "44% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Alexi Hawley",
+  "director": "",
+  "writer": "",
+  "short_cast": "Noah Centineo, Laura Haddock, Aarti Mann, Colton Dunn, Fivel Stewart, Daniel Quincy Annoh, Kristian Bruun, Vondie Curtis-Hall",
+  "cast": "Noah Centineo, Laura Haddock, Aarti Mann, Colton Dunn, Fivel Stewart, Daniel Quincy Annoh, Kristian Bruun, Vondie Curtis-Hall",
+  "genre": "TV Dramas, TV Action & Adventure, US TV Shows, TV Thrillers",
+  "thismovieis": "Suspenseful, Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, language",
+  "desc": "A rookie lawyer at the CIA stumbles headlong into the dangerous world of international espionage when a former asset threatens to expose agency secrets.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81396546",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81466250",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81676290",
+      "t": "Y.N.A.H.Y.A.L.",
+      "s": "S2",
+      "ep": "E1",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81676291",
+      "t": "Y.A.R.A.C.O.T.D.O.P.",
+      "s": "S2",
+      "ep": "E2",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81676292",
+      "t": "H.H.I.I.T.K.A.L.",
+      "s": "S2",
+      "ep": "E3",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81676293",
+      "t": "A.T.N.W.H.Y.P.A.B.H.",
+      "s": "S2",
+      "ep": "E4",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81676294",
+      "t": "W.S.T.W.T.P.",
+      "s": "S2",
+      "ep": "E5",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81676295",
+      "t": "I.D.N.W.T.B.D.I.",
+      "s": "S2",
+      "ep": "E6",
+      "time": "62m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81466250",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81676290",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80235864"
+    },
+    {
+      "id": "81450827"
+    },
+    {
+      "id": "81288983"
+    },
+    {
+      "id": "81417796"
+    },
+    {
+      "id": "81303831"
+    },
+    {
+      "id": "80992058"
+    },
+    {
+      "id": "81123055"
+    },
+    {
+      "id": "81397077"
+    },
+    {
+      "id": "80113647"
+    },
+    {
+      "id": "81413928"
+    },
+    {
+      "id": "81157207"
+    }
+  ],
+  "error": null
+}
