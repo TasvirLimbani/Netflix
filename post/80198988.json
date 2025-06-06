@@ -1,0 +1,206 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Black Summer",
+  "year": "2019",
+  "ua": "U/A 18+ [A]",
+  "match": "31% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Karl Schaefer, John Hyams",
+  "director": "",
+  "writer": "",
+  "short_cast": "Jaime King, Justin Chu Cary, Christine Lee, Sal Velez Jr., Kelsey Flower, Zoe Marlett, Erika Hau, Edsson Morales, Gwynyth Walsh, Stafford Perry, Mustafa Alabssi, Bobby Naderi, Jesse Lipscombe",
+  "cast": "Jaime King, Justin Chu Cary, Christine Lee, Sal Velez Jr., Kelsey Flower, Zoe Marlett, Erika Hau, Edsson Morales, Gwynyth Walsh, Stafford Perry, Mustafa Alabssi, Bobby Naderi, Jesse Lipscombe",
+  "genre": "TV Dramas, TV Action & Adventure, US TV Shows, Horror TV Serials",
+  "thismovieis": "Gritty, Dark",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, suicide, sexual violence, sex, language, gore",
+  "desc": "In the dark, early days of a zombie apocalypse, complete strangers band together to find the strength they need to survive and get back to loved ones.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80225116",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80234335",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81157309",
+      "t": "The Cold",
+      "s": "S2",
+      "ep": "E1",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81157310",
+      "t": "Prelude",
+      "s": "S2",
+      "ep": "E2",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81157313",
+      "t": "Card Game",
+      "s": "S2",
+      "ep": "E3",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81157314",
+      "t": "Cold War",
+      "s": "S2",
+      "ep": "E4",
+      "time": "34m"
+    },
+    {
+      "complate": "0",
+      "id": "81157315",
+      "t": "White Horse",
+      "s": "S2",
+      "ep": "E5",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81157316",
+      "t": "Currency",
+      "s": "S2",
+      "ep": "E6",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "81157317",
+      "t": "The Lodge",
+      "s": "S2",
+      "ep": "E7",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "81157318",
+      "t": "The Plane",
+      "s": "S2",
+      "ep": "E8",
+      "time": "42m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80234335",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81157309",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80208806"
+    },
+    {
+      "id": "70177057"
+    },
+    {
+      "id": "81464329"
+    },
+    {
+      "id": "70262639"
+    },
+    {
+      "id": "81240831"
+    },
+    {
+      "id": "80996532"
+    },
+    {
+      "id": "81237994"
+    },
+    {
+      "id": "80198645"
+    },
+    {
+      "id": "80161216"
+    },
+    {
+      "id": "80197462"
+    }
+  ],
+  "error": null
+}
