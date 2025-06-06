@@ -1,0 +1,232 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Wonderoos",
+  "year": "2024",
+  "ua": "U",
+  "match": "74% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Artur Spigel, Hannah Kole",
+  "director": "",
+  "writer": "",
+  "short_cast": "Christendeo Szabo, Saige Mcmillan, Naomi Tan, Jazlyn Onaba, Sebastian Billingsley-Rodriguez",
+  "cast": "Christendeo Szabo, Saige Mcmillan, Naomi Tan, Jazlyn Onaba, Sebastian Billingsley-Rodriguez",
+  "genre": "Kids' TV, TV Cartoons",
+  "thismovieis": "",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "Join animal pals Kiki, Dewey, Hazzy, Luly and Teshi as they learn how to make friends, try new foods and face other big firsts in colorful Roo City!",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81489521",
+      "ep": "20",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81489601",
+      "ep": "19",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81520737",
+      "t": "First Pet",
+      "s": "S2",
+      "ep": "E1",
+      "time": "14m"
+    },
+    {
+      "complate": "0",
+      "id": "81520738",
+      "t": "First Big Mess",
+      "s": "S2",
+      "ep": "E2",
+      "time": "14m"
+    },
+    {
+      "complate": "0",
+      "id": "81520739",
+      "t": "First Big Roo Bed",
+      "s": "S2",
+      "ep": "E3",
+      "time": "14m"
+    },
+    {
+      "complate": "0",
+      "id": "81520740",
+      "t": "First Haircut",
+      "s": "S2",
+      "ep": "E4",
+      "time": "15m"
+    },
+    {
+      "complate": "0",
+      "id": "81520741",
+      "t": "First Library Book",
+      "s": "S2",
+      "ep": "E5",
+      "time": "14m"
+    },
+    {
+      "complate": "0",
+      "id": "81520742",
+      "t": "First Train Ride",
+      "s": "S2",
+      "ep": "E6",
+      "time": "14m"
+    },
+    {
+      "complate": "0",
+      "id": "81520743",
+      "t": "First Time Sharing",
+      "s": "S2",
+      "ep": "E7",
+      "time": "14m"
+    },
+    {
+      "complate": "0",
+      "id": "81520744",
+      "t": "First Time Feeling Mad",
+      "s": "S2",
+      "ep": "E8",
+      "time": "14m"
+    },
+    {
+      "complate": "0",
+      "id": "81520745",
+      "t": "First Time Feeling Scared",
+      "s": "S2",
+      "ep": "E9",
+      "time": "14m"
+    },
+    {
+      "complate": "0",
+      "id": "81520746",
+      "t": "First Time Feeling Jealous",
+      "s": "S2",
+      "ep": "E10",
+      "time": "14m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81489601",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81520737",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81691739"
+    },
+    {
+      "id": "80025494"
+    },
+    {
+      "id": "81009946"
+    },
+    {
+      "id": "70286901"
+    }
+  ],
+  "error": null
+}
