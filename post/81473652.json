@@ -1,0 +1,145 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Miseducation",
+  "year": "2023",
+  "ua": "U/A 16+",
+  "match": "83% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Rethabile Ramaphakela, Katleho Ramaphakela",
+  "director": "",
+  "writer": "",
+  "short_cast": "Buntu Petse, Lunga Shabalala, Preven Reddy, Micaela Tucker, Mpho Sebeng, Luyanda Zwane, Sechaba Ramphele, Mamarumo Marokane, Nicole Bessick, Camilla Waldman",
+  "cast": "Buntu Petse, Lunga Shabalala, Preven Reddy, Micaela Tucker, Mpho Sebeng, Luyanda Zwane, Sechaba Ramphele, Mamarumo Marokane, Nicole Bessick, Camilla Waldman",
+  "genre": "TV Dramas, South African, Teen TV Shows, TV Comedies, Social Issue TV Dramas",
+  "thismovieis": "Raunchy",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "tobacco use, substances, sexual content, language, discrimination",
+  "desc": "After a public humiliation, a wannabe influencer enrolls in a small-town university, where she aspires to regain her social status.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81473653",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81483217",
+      "t": "The Redeployment of Mbali Hadebe",
+      "s": "S1",
+      "ep": "E1",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81483218",
+      "t": "Poppycock",
+      "s": "S1",
+      "ep": "E2",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81483219",
+      "t": "Truth and Reconciliation",
+      "s": "S1",
+      "ep": "E3",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81483220",
+      "t": "The Election",
+      "s": "S1",
+      "ep": "E4",
+      "time": "38m"
+    },
+    {
+      "complate": "0",
+      "id": "81483221",
+      "t": "Ides of April",
+      "s": "S1",
+      "ep": "E5",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "81483222",
+      "t": "RET (Radical Emotional Transformation)",
+      "s": "S1",
+      "ep": "E6",
+      "time": "38m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81473653",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81483217",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81437049"
+    },
+    {
+      "id": "81675070"
+    },
+    {
+      "id": "81556148"
+    },
+    {
+      "id": "81282561"
+    },
+    {
+      "id": "81478663"
+    },
+    {
+      "id": "81503868"
+    },
+    {
+      "id": "80197526"
+    },
+    {
+      "id": "81198978"
+    },
+    {
+      "id": "81030422"
+    }
+  ],
+  "error": null
+}
