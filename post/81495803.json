@@ -1,0 +1,153 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Muted",
+  "year": "2023",
+  "ua": "U/A 18+ [A]",
+  "match": "89% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Aitor Gabilondo",
+  "director": "",
+  "writer": "",
+  "short_cast": "Ar\u00f3n Piper, Almudena Amor, Cristina Kovani, Aitor Luna, Manu R\u00edos, Aria Bedmar, Ramiro Blas, Mikel Losada",
+  "cast": "Ar\u00f3n Piper, Almudena Amor, Cristina Kovani, Aitor Luna, Manu R\u00edos, Aria Bedmar, Ramiro Blas, Mikel Losada",
+  "genre": "TV Dramas, Spanish, TV Mysteries, TV Thrillers",
+  "thismovieis": "Dark, Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, sex, nudity, language",
+  "desc": "Sergio hasn't spoken since he murdered his parents six years ago. Now, a psychiatrist aims to uncover what happened through a twisted investigation.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81495804",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81520863",
+      "t": "Episode 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81520864",
+      "t": "Episode 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81520865",
+      "t": "Episode 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81520866",
+      "t": "Episode 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81520867",
+      "t": "Episode 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81520868",
+      "t": "Episode 6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "47m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81495804",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81520863",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81317562"
+    },
+    {
+      "id": "81306170"
+    },
+    {
+      "id": "81494917"
+    },
+    {
+      "id": "80200942"
+    },
+    {
+      "id": "81438160"
+    },
+    {
+      "id": "81437215"
+    },
+    {
+      "id": "81038589"
+    },
+    {
+      "id": "81388035"
+    }
+  ],
+  "error": null
+}
