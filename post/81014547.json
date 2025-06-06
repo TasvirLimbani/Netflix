@@ -1,0 +1,165 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Spycraft",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "40% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Political TV Shows, Science & Nature TV, Political Documentaries, Docuseries, US TV Shows",
+  "thismovieis": "Investigative",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "tobacco use, sex, nudity",
+  "desc": "The spy game is a serious business, and throughout history, the tools and technologies developed for it have mattered as much as the spies themselves.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81064050",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81066331",
+      "t": "High-Tech Surveillance and an Eye in the Sky",
+      "s": "S1",
+      "ep": "E1",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81066332",
+      "t": "Deadly Poisons",
+      "s": "S1",
+      "ep": "E2",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "81066334",
+      "t": "Sexspionage",
+      "s": "S1",
+      "ep": "E3",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "81066329",
+      "t": "Clandestine Collection",
+      "s": "S1",
+      "ep": "E4",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81066330",
+      "t": "Covert Communication",
+      "s": "S1",
+      "ep": "E5",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "81066333",
+      "t": "Special Ops and the Saboteur",
+      "s": "S1",
+      "ep": "E6",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81066335",
+      "t": "The Code Breakers",
+      "s": "S1",
+      "ep": "E7",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81066336",
+      "t": "Recruiting the Perfect Spy",
+      "s": "S1",
+      "ep": "E8",
+      "time": "38m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81064050",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81066331",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81474104"
+    },
+    {
+      "id": "80989772"
+    },
+    {
+      "id": "81018709"
+    },
+    {
+      "id": "81596971"
+    },
+    {
+      "id": "81614129"
+    },
+    {
+      "id": "81473681"
+    },
+    {
+      "id": "81315804"
+    },
+    {
+      "id": "81303911"
+    },
+    {
+      "id": "80989924"
+    }
+  ],
+  "error": null
+}
