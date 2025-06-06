@@ -1,0 +1,194 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Iron Man: Armored Adventures",
+  "year": "2009",
+  "ua": "U/A 7+",
+  "match": "34% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Stan Lee, Larry Leiber",
+  "director": "",
+  "writer": "",
+  "short_cast": "Adrian Petriw, Daniel Bacon, Anna Cummer, Vincent Tong, Kristie Marsden, Mackenzie Gray, Lisa Ann Beley, Alistair Abell, Catherine Lough Haggquist, Fred Henderson",
+  "cast": "Adrian Petriw, Daniel Bacon, Anna Cummer, Vincent Tong, Kristie Marsden, Mackenzie Gray, Lisa Ann Beley, Alistair Abell, Catherine Lough Haggquist, Fred Henderson",
+  "genre": "Kids' TV, TV Cartoons, TV Shows Based on Comics",
+  "thismovieis": "Feel-Good, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "Teen phenom Tony Stark takes to the skies with an ingeniously engineered suit of armor to learn the truth about his father's mysterious death.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "70173016",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "70237160",
+      "ep": "26",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "70237161",
+      "t": "The Invincible Iron Man: Part 1: Disassembled!",
+      "s": "S2",
+      "ep": "E1",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "70237162",
+      "t": "The Invincible Iron Man: Part 2: Reborn!",
+      "s": "S2",
+      "ep": "E2",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "70237163",
+      "t": "Look into the Light",
+      "s": "S2",
+      "ep": "E3",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "70237164",
+      "t": "Ghost in the Machine",
+      "s": "S2",
+      "ep": "E4",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "70237165",
+      "t": "Armor Wars",
+      "s": "S2",
+      "ep": "E5",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "70237166",
+      "t": "Line of Fire",
+      "s": "S2",
+      "ep": "E6",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "70237167",
+      "t": "Titanium vs. Iron",
+      "s": "S2",
+      "ep": "E7",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "70237168",
+      "t": "The Might of Doom",
+      "s": "S2",
+      "ep": "E8",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "70237169",
+      "t": "The Hawk and the Spider",
+      "s": "S2",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "70237170",
+      "t": "Enter: Iron Monger",
+      "s": "S2",
+      "ep": "E10",
+      "time": "22m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "70237160",
+  "lang": [
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "70237161",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "70177043"
+    },
+    {
+      "id": "70155571"
+    },
+    {
+      "id": "70185194"
+    },
+    {
+      "id": "70234439"
+    },
+    {
+      "id": "80225085"
+    },
+    {
+      "id": "81687083"
+    },
+    {
+      "id": "81007144"
+    },
+    {
+      "id": "81004665"
+    },
+    {
+      "id": "81068803"
+    },
+    {
+      "id": "81354663"
+    }
+  ],
+  "error": null
+}
