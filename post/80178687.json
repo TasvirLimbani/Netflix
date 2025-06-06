@@ -1,0 +1,180 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Black Lightning",
+  "year": "2018",
+  "ua": "U/A 13+",
+  "match": "97% match",
+  "runtime": "4 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Cress Williams, Nafessa Williams, Christine Adams, James Remar, Marvin 'Krondon' Jones III, Laura Kariuki, China Anne McClain, Damon Gupton, Jordan Calloway, Bill Duke, Chantal Thuy, Clifton Powell, Will Catlett, Jill Scott",
+  "cast": "Cress Williams, Nafessa Williams, Christine Adams, James Remar, Marvin 'Krondon' Jones III, Laura Kariuki, China Anne McClain, Damon Gupton, Jordan Calloway, Bill Duke, Chantal Thuy, Clifton Powell, Will Catlett, Jill Scott",
+  "genre": "TV Dramas, Sci-Fi TV, TV Action & Adventure, US TV Shows, TV Shows Based on Comics",
+  "thismovieis": "Gritty, Exciting",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, substances, mature themes, language",
+  "desc": "School principal and retired superhero Jefferson Pierce leaps back into action as the legendary Black Lightning after a gang threatens his family.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80178592",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80225750",
+      "ep": "16",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80226509",
+      "ep": "16",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "80226492",
+      "ep": "13",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80226494",
+      "t": "The Book of Reconstruction: Chapter One: Collateral Damage",
+      "s": "S4",
+      "ep": "E1",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81397613",
+      "t": "The Book of Reconstruction: Chapter Two: Unacceptable Losses",
+      "s": "S4",
+      "ep": "E2",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81397614",
+      "t": "The Book of Reconstruction: Chapter Three: Despite All My Rage...",
+      "s": "S4",
+      "ep": "E3",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81397615",
+      "t": "The Book of Reconstruction: Chapter Four: A Light in the Darkness",
+      "s": "S4",
+      "ep": "E4",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81397616",
+      "t": "The Book of Ruin: Chapter One: Picking Up the Pieces",
+      "s": "S4",
+      "ep": "E5",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81397617",
+      "t": "The Book of Ruin: Chapter Two: Theseus's Ship",
+      "s": "S4",
+      "ep": "E6",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81397618",
+      "t": "Painkiller",
+      "s": "S4",
+      "ep": "E7",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81397619",
+      "t": "The Book of Ruin: Chapter Three: Things Fall Apart",
+      "s": "S4",
+      "ep": "E8",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81397620",
+      "t": "The Book of Ruin: Chapter Four: Lyding",
+      "s": "S4",
+      "ep": "E9",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81397621",
+      "t": "The Book of Reunification: Chapter One: Revelations",
+      "s": "S4",
+      "ep": "E10",
+      "time": "40m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80226492",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    }
+  ],
+  "last_ep": "80226494",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80117803"
+    },
+    {
+      "id": "80244953"
+    },
+    {
+      "id": "81252707"
+    },
+    {
+      "id": "80218200"
+    },
+    {
+      "id": "81316476"
+    },
+    {
+      "id": "80144309"
+    },
+    {
+      "id": "80186863"
+    },
+    {
+      "id": "80230293"
+    },
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "81453003"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "81199145"
+    }
+  ],
+  "error": null
+}
