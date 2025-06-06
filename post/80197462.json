@@ -1,0 +1,218 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Daybreak",
+  "year": "2019",
+  "ua": "U/A 18+ [A]",
+  "match": "95% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Aron Eli Coleite, Brad Peyton",
+  "director": "",
+  "writer": "",
+  "short_cast": "Colin Ford, Alyvia Alyn Lind, Sophie Simnett, Austin Crute, Cody Kearsley, Jeant\u00e9 Godlock, Gregory Kasyan, Krysta Rodriguez, Matthew Broderick",
+  "cast": "Colin Ford, Alyvia Alyn Lind, Sophie Simnett, Austin Crute, Cody Kearsley, Jeant\u00e9 Godlock, Gregory Kasyan, Krysta Rodriguez, Matthew Broderick",
+  "genre": "Teen TV Shows, TV Comedies, TV Action & Adventure, US TV Shows, Horror TV Serials, TV Shows Based on Comics",
+  "thismovieis": "Offbeat, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, sex, gore",
+  "desc": "Living his best life in post-apocalyptic LA, a slacker strives to find the girl of his dreams while outwitting mindless ghouls and cliquish gangs.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80235937",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80988406",
+      "t": "Josh vs. the Apocalypse: Part 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80988407",
+      "t": "Schmuck Bait!",
+      "s": "S1",
+      "ep": "E2",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "80988408",
+      "t": "The Slime Queenpin of Glendale, CA",
+      "s": "S1",
+      "ep": "E3",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80988409",
+      "t": "MMMMMMM-HMMMMMM",
+      "s": "S1",
+      "ep": "E4",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "80988410",
+      "t": "Homecoming Redux or My So Called Stunt Double Life",
+      "s": "S1",
+      "ep": "E5",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "80988411",
+      "t": "5318008",
+      "s": "S1",
+      "ep": "E6",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80988412",
+      "t": "Canta Tu Vida",
+      "s": "S1",
+      "ep": "E7",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "80988413",
+      "t": "Post Mates",
+      "s": "S1",
+      "ep": "E8",
+      "time": "38m"
+    },
+    {
+      "complate": "0",
+      "id": "80988414",
+      "t": "Josh vs. the Apocalypse: Part 2",
+      "s": "S1",
+      "ep": "E9",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "80988415",
+      "t": "FWASH-BOOOOOOOOOOOOOOOOOOOOOOOOOM!",
+      "s": "S1",
+      "ep": "E10",
+      "time": "49m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80235937",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80988406",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81277430"
+    },
+    {
+      "id": "80218306"
+    },
+    {
+      "id": "81464329"
+    },
+    {
+      "id": "81046394"
+    },
+    {
+      "id": "80198988"
+    },
+    {
+      "id": "81093420"
+    },
+    {
+      "id": "80208806"
+    },
+    {
+      "id": "70123542"
+    },
+    {
+      "id": "81186049"
+    },
+    {
+      "id": "81240831"
+    },
+    {
+      "id": "70177057"
+    },
+    {
+      "id": "80175722"
+    }
+  ],
+  "error": null
+}
