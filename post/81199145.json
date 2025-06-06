@@ -1,0 +1,83 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Venom: Let There Be Carnage",
+  "year": "2021",
+  "ua": "U/A 13+",
+  "match": "93% match",
+  "runtime": "1h 37m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Andy Serkis",
+  "writer": "Kelly Marcel, Tom Hardy",
+  "short_cast": "Tom Hardy, Woody Harrelson, Michelle Williams, Naomie Harris, Reid Scott, Stephen Graham, Peggy Lu, Sian Webber, Michelle Greenidge, Rob Bowen",
+  "cast": "Tom Hardy, Woody Harrelson, Michelle Williams, Naomie Harris, Reid Scott, Stephen Graham, Peggy Lu, Sian Webber, Michelle Greenidge, Rob Bowen",
+  "genre": "Sci-Fi Movies, Action & Adventure Movies, US Movies",
+  "thismovieis": "Adrenaline Rush, Offbeat",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, tobacco use, threat, mature themes, language, gore",
+  "desc": "While Eddie Brock and Venom try to navigate their thorny relationship, a new threat rises from serial killer Cletus Kasady and a new alien symbiote.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "80991034"
+    },
+    {
+      "id": "81652327"
+    },
+    {
+      "id": "81465707"
+    },
+    {
+      "id": "81416258"
+    },
+    {
+      "id": "81055822"
+    },
+    {
+      "id": "81044417"
+    },
+    {
+      "id": "81762621"
+    },
+    {
+      "id": "80139562"
+    },
+    {
+      "id": "80187362"
+    },
+    {
+      "id": "81199140"
+    },
+    {
+      "id": "80216309"
+    },
+    {
+      "id": "70264797"
+    }
+  ],
+  "error": null
+}
