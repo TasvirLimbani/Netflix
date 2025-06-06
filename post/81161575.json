@@ -1,0 +1,214 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Angry Birds: Summer Madness",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "48% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Adam Kirschner, Ana Sani, Deven Christian Mack, Gigi Saul Guerrero, Ian Hanlin, Ty Olsson, Peter Kelamis, Tabitha St. Germain",
+  "cast": "Adam Kirschner, Ana Sani, Deven Christian Mack, Gigi Saul Guerrero, Ian Hanlin, Ty Olsson, Peter Kelamis, Tabitha St. Germain",
+  "genre": "Kids' TV, TV Comedies, TV Cartoons",
+  "thismovieis": "Goofy",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language",
+  "desc": "Teen birds Red, Chuck, Bomb and Stella are crashing through Camp Splinterwood with their fellow feathered campers for a summer of high-flying hijinks!",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81184326",
+      "ep": "16",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81496234",
+      "ep": "16",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81571075",
+      "ep": "4",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81515752",
+      "t": "Lights! Camera! Destruction!",
+      "s": "S3",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81515754",
+      "t": "Camp Splintarrrwood!",
+      "s": "S3",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81515756",
+      "t": "Hollow-Weenie",
+      "s": "S3",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81515759",
+      "t": "Pigmas",
+      "s": "S3",
+      "ep": "E4",
+      "time": "24m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81571075",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    }
+  ],
+  "last_ep": "81515752",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80091938"
+    },
+    {
+      "id": "81073593"
+    },
+    {
+      "id": "80242531"
+    },
+    {
+      "id": "81154166"
+    },
+    {
+      "id": "80121840"
+    },
+    {
+      "id": "80146758"
+    },
+    {
+      "id": "70155547"
+    },
+    {
+      "id": "80179782"
+    }
+  ],
+  "error": null
+}
