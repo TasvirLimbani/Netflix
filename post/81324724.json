@@ -1,0 +1,216 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "XO, Kitty",
+  "year": "2023",
+  "ua": "U/A 13+",
+  "match": "64% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Jenny Han",
+  "director": "",
+  "writer": "",
+  "short_cast": "Anna Cathcart, Minyoung Choi, Gia Kim, Sang Heon Lee, Anthony Keyvan, Peter Thurnwald",
+  "cast": "Anna Cathcart, Minyoung Choi, Gia Kim, Sang Heon Lee, Anthony Keyvan, Peter Thurnwald",
+  "genre": "Romantic TV Dramas, TV Dramas, TV Shows Based on Books, Teen TV Shows, TV Comedies, Romantic TV Comedies, US TV Shows",
+  "thismovieis": "Swoonworthy, Charming, Quirky",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, mature themes, language, gore",
+  "desc": "A new love story unfolds when teen matchmaker Kitty reunites with her long-distance boyfriend at the same boarding school attended by her late mother.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81324725",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81699288",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81706696",
+      "t": "K.I.S.S. Me Again",
+      "s": "S2",
+      "ep": "E1",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81706697",
+      "t": "Never Been Kissed",
+      "s": "S2",
+      "ep": "E2",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "81706698",
+      "t": "New Year\u2019s Kiss",
+      "s": "S2",
+      "ep": "E3",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81706699",
+      "t": "Kiss and Tell",
+      "s": "S2",
+      "ep": "E4",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81706700",
+      "t": "Kissing Cousins",
+      "s": "S2",
+      "ep": "E5",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81706701",
+      "t": "Kiss and Make Up",
+      "s": "S2",
+      "ep": "E6",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81706702",
+      "t": "Kiss of Death",
+      "s": "S2",
+      "ep": "E7",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81706703",
+      "t": "Sealed with a Kiss",
+      "s": "S2",
+      "ep": "E8",
+      "time": "32m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81699288",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    }
+  ],
+  "last_ep": "81706696",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80203147"
+    },
+    {
+      "id": "81249731"
+    },
+    {
+      "id": "81332722"
+    },
+    {
+      "id": "80179190"
+    },
+    {
+      "id": "81040397"
+    },
+    {
+      "id": "81030842"
+    },
+    {
+      "id": "80143556"
+    },
+    {
+      "id": "81426967"
+    },
+    {
+      "id": "81127150"
+    },
+    {
+      "id": "81026818"
+    },
+    {
+      "id": "81410834"
+    },
+    {
+      "id": "81025696"
+    }
+  ],
+  "error": null
+}
