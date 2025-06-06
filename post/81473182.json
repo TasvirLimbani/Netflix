@@ -1,0 +1,188 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Hometown Cha-Cha-Cha",
+  "year": "2021",
+  "ua": "U/A 16+",
+  "match": "93% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Yu Je-won, Shin Ha-eun",
+  "director": "",
+  "writer": "",
+  "short_cast": "Shin Min-a, Kim Seon-ho, Lee Sang-yi, Gong Min-jeung, Kim Young-ok, Cho Han-cheul, In Gyo-jin, Lee Bong-ryeon, Cha Cheong-hwa, Kang Hyung-suk",
+  "cast": "Shin Min-a, Kim Seon-ho, Lee Sang-yi, Gong Min-jeung, Kim Young-ok, Cho Han-cheul, In Gyo-jin, Lee Bong-ryeon, Cha Cheong-hwa, Kang Hyung-suk",
+  "genre": "Korean, TV Comedies, Romantic TV Comedies",
+  "thismovieis": "Charming, Intimate, Feel-Good",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "suicide, substances, language",
+  "desc": "A big-city dentist opens up a practice in a close-knit seaside village, home to a charming jack-of-all-trades who is her polar opposite in every way.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81473183",
+      "ep": "16",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81473185",
+      "t": "Episode 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "75m"
+    },
+    {
+      "complate": "0",
+      "id": "81473186",
+      "t": "Episode 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "76m"
+    },
+    {
+      "complate": "0",
+      "id": "81473187",
+      "t": "Episode 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "78m"
+    },
+    {
+      "complate": "0",
+      "id": "81473188",
+      "t": "Episode 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "74m"
+    },
+    {
+      "complate": "0",
+      "id": "81473189",
+      "t": "Episode 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "70m"
+    },
+    {
+      "complate": "0",
+      "id": "81473190",
+      "t": "Episode 6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "80m"
+    },
+    {
+      "complate": "0",
+      "id": "81473191",
+      "t": "Episode 7",
+      "s": "S1",
+      "ep": "E7",
+      "time": "80m"
+    },
+    {
+      "complate": "0",
+      "id": "81473192",
+      "t": "Episode 8",
+      "s": "S1",
+      "ep": "E8",
+      "time": "80m"
+    },
+    {
+      "complate": "0",
+      "id": "81473193",
+      "t": "Episode 9",
+      "s": "S1",
+      "ep": "E9",
+      "time": "80m"
+    },
+    {
+      "complate": "0",
+      "id": "81473194",
+      "t": "Episode 10",
+      "s": "S1",
+      "ep": "E10",
+      "time": "81m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81473183",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    }
+  ],
+  "last_ep": "81473185",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81612967"
+    },
+    {
+      "id": "81463556"
+    },
+    {
+      "id": "81509440"
+    },
+    {
+      "id": "81572781"
+    },
+    {
+      "id": "81290293"
+    },
+    {
+      "id": "81486372"
+    },
+    {
+      "id": "81671440"
+    },
+    {
+      "id": "81669779"
+    },
+    {
+      "id": "81716080"
+    },
+    {
+      "id": "81159258"
+    }
+  ],
+  "error": null
+}
