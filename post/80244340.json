@@ -1,0 +1,235 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Kid Cosmic",
+  "year": "2021",
+  "ua": "U/A 7+",
+  "match": "74% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Craig McCracken",
+  "director": "",
+  "writer": "",
+  "short_cast": "Jack Fisher, Tom Kenny, Amanda C. Miller, Kim Yarbrough, Keith Ferguson, Grey Griffin, Lily Rose Silver, Fred Tatasciore",
+  "cast": "Jack Fisher, Tom Kenny, Amanda C. Miller, Kim Yarbrough, Keith Ferguson, Grey Griffin, Lily Rose Silver, Fred Tatasciore",
+  "genre": "Kids' TV, Family Watch Together TV, TV Comedies, TV Cartoons",
+  "thismovieis": "Quirky, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language, mild fear",
+  "desc": "A boy's superhero dreams come true when he finds five powerful cosmic stones. But saving the day is harder than he imagined \u2014 and he can't do it alone.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80988035",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81003577",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81003578",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81153159",
+      "t": "Kid Cosmic and the Best Day Ever",
+      "s": "S3",
+      "ep": "E1",
+      "time": "18m"
+    },
+    {
+      "complate": "0",
+      "id": "81153160",
+      "t": "Kid Cosmic and the Secret of the Fourteenth Stone",
+      "s": "S3",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81153161",
+      "t": "Kid Cosmic and the Global Conspiracy",
+      "s": "S3",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81153162",
+      "t": "Kid Cosmic and the Little Spark",
+      "s": "S3",
+      "ep": "E4",
+      "time": "20m"
+    },
+    {
+      "complate": "0",
+      "id": "81153163",
+      "t": "Kid Cosmic and the Planet Killer",
+      "s": "S3",
+      "ep": "E5",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81153164",
+      "t": "Kid Cosmic and the Grand Opening of Planet Earth",
+      "s": "S3",
+      "ep": "E6",
+      "time": "27m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81003578",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81153159",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81112503"
+    },
+    {
+      "id": "80211128"
+    },
+    {
+      "id": "81004016"
+    },
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "80994692"
+    },
+    {
+      "id": "81287545"
+    },
+    {
+      "id": "70243420"
+    }
+  ],
+  "error": null
+}
