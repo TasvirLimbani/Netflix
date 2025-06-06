@@ -1,0 +1,171 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The SpongeBob SquarePants Movie",
+  "year": "2004",
+  "ua": "U/A 7+",
+  "match": "73% match",
+  "runtime": "1h 28m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Stephen Hillenburg, Mark Osborne",
+  "writer": "Derek Drymon, Tim Hill, Stephen Hillenburg",
+  "short_cast": "Tom Kenny, Clancy Brown, Rodger Bumpass, Bill Fagerbakke, Mr. Lawrence, Jill Talley, Carolyn Lawrence, Mary Jo Catlett, Jeffrey Tambor, Scarlett Johansson, Alec Baldwin, David Hasselhoff",
+  "cast": "Tom Kenny, Clancy Brown, Rodger Bumpass, Bill Fagerbakke, Mr. Lawrence, Jill Talley, Carolyn Lawrence, Mary Jo Catlett, Jeffrey Tambor, Scarlett Johansson, Alec Baldwin, David Hasselhoff",
+  "genre": "US Movies, Children & Family Movies, Comedies",
+  "thismovieis": "Feel-Good, Goofy",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "rude humor",
+  "desc": "When Mr. Krabs is accused of stealing King Neptune's crown, SpongeBob and Patrick set out on a wild adventure to prove his innocence.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "isl",
+      "s": "isl"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70155547"
+    },
+    {
+      "id": "81312563"
+    },
+    {
+      "id": "80011621"
+    },
+    {
+      "id": "81068804"
+    },
+    {
+      "id": "80104199"
+    },
+    {
+      "id": "70021636"
+    },
+    {
+      "id": "80121840"
+    },
+    {
+      "id": "70243420"
+    },
+    {
+      "id": "80146758"
+    },
+    {
+      "id": "70113007"
+    },
+    {
+      "id": "70044595"
+    },
+    {
+      "id": "70241425"
+    }
+  ],
+  "error": null
+}
