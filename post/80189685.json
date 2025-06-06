@@ -1,0 +1,238 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Witcher",
+  "year": "2019",
+  "ua": "U/A 18+ [A]",
+  "match": "71% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Lauren Schmidt Hissrich",
+  "director": "",
+  "writer": "",
+  "short_cast": "Henry Cavill, Anya Chalotra, Freya Allan, Joey Batey, Eamon Farren, MyAnna Buring, Mim\u00ee M Khayisa, Mahesh Jadu, Anna Shaffer, Royce Pierreson, Tom Canton, Mecia Simson, Wilson Mbomio, Kim Bodnia, Jodhi May, Bj\u00f6rn Hlynur Haraldsson, Adam Levy, Lars Mikkelsen, Jeremy Crawford, Basil Eidenbenz, Paul Bullion, Yasen Atour, Therica Wilson-Read, Bart Edwards, Cassie Clare, Robbie Amell, Hugh Skinner, Chris Fulton, Kristofer Hivju",
+  "cast": "Henry Cavill, Anya Chalotra, Freya Allan, Joey Batey, Eamon Farren, MyAnna Buring, Mim\u00ee M Khayisa, Mahesh Jadu, Anna Shaffer, Royce Pierreson, Tom Canton, Mecia Simson, Wilson Mbomio, Kim Bodnia, Jodhi May, Bj\u00f6rn Hlynur Haraldsson, Adam Levy, Lars Mikkelsen, Jeremy Crawford, Basil Eidenbenz, Paul Bullion, Yasen Atour, Therica Wilson-Read, Bart Edwards, Cassie Clare, Robbie Amell, Hugh Skinner, Chris Fulton, Kristofer Hivju",
+  "genre": "TV Dramas, TV Shows Based on Books, TV Action & Adventure, US TV Shows, Fantasy TV Shows",
+  "thismovieis": "Imaginative, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, suicide, substances, sex, self-harm, nudity, language, gore",
+  "desc": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "80189598",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81031991",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81106534",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81581069",
+      "t": "Shaerrawedd",
+      "s": "S3",
+      "ep": "E1",
+      "time": "63m"
+    },
+    {
+      "complate": "0",
+      "id": "81581070",
+      "t": "Unbound",
+      "s": "S3",
+      "ep": "E2",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81581071",
+      "t": "Reunion",
+      "s": "S3",
+      "ep": "E3",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81581072",
+      "t": "The Invitation",
+      "s": "S3",
+      "ep": "E4",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81581073",
+      "t": "The Art of the Illusion",
+      "s": "S3",
+      "ep": "E5",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81581074",
+      "t": "Everybody Has a Plan 'til They Get Punched in the Face",
+      "s": "S3",
+      "ep": "E6",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81581075",
+      "t": "Out of the Fire, Into the Frying Pan",
+      "s": "S3",
+      "ep": "E7",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81581076",
+      "t": "The Cost of Chaos",
+      "s": "S3",
+      "ep": "E8",
+      "time": "65m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81106534",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    }
+  ],
+  "last_ep": "81581069",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81279312"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "80236319"
+    },
+    {
+      "id": "80199393"
+    },
+    {
+      "id": "81150303"
+    },
+    {
+      "id": "80220679"
+    },
+    {
+      "id": "80991090"
+    },
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "81149450"
+    },
+    {
+      "id": "80242724"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "80238357"
+    }
+  ],
+  "error": null
+}
