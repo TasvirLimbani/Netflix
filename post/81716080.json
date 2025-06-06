@@ -1,0 +1,169 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "My Demon",
+  "year": "2023",
+  "ua": "U/A 16+",
+  "match": "36% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Choi A-il, Kim Jang-han, Kwon Da-som",
+  "director": "",
+  "writer": "",
+  "short_cast": "Song Kang, Kim You-jung, Lee Sang-yi, Kim Hae-sook, Jo Hye-joo, Kim Tae-hun, Cho Yeon-hee, Lee Yoon-ji, Kang Seung-ho, Seo Jeong-yeon, Hur Jung-do",
+  "cast": "Song Kang, Kim You-jung, Lee Sang-yi, Kim Hae-sook, Jo Hye-joo, Kim Tae-hun, Cho Yeon-hee, Lee Yoon-ji, Kang Seung-ho, Seo Jeong-yeon, Hur Jung-do",
+  "genre": "Korean, TV Comedies, Romantic TV Comedies",
+  "thismovieis": "Intimate, Romantic",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, tobacco use, suicide, self-harm, gore",
+  "desc": "A pitiless demon becomes powerless after getting entangled with an icy heiress, who may hold the key to his lost abilities \u2014 and his heart.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81716081",
+      "ep": "16",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81716082",
+      "t": "Living in the Mist",
+      "s": "S1",
+      "ep": "E1",
+      "time": "69m"
+    },
+    {
+      "complate": "0",
+      "id": "81716083",
+      "t": "Everyone Has a Demon in Their Heart",
+      "s": "S1",
+      "ep": "E2",
+      "time": "63m"
+    },
+    {
+      "complate": "0",
+      "id": "81716084",
+      "t": "Joining Hands With a Demon",
+      "s": "S1",
+      "ep": "E3",
+      "time": "68m"
+    },
+    {
+      "complate": "0",
+      "id": "81716085",
+      "t": "Sweet but Dangerous",
+      "s": "S1",
+      "ep": "E4",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81716086",
+      "t": "Only You",
+      "s": "S1",
+      "ep": "E5",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81716087",
+      "t": "Into the Wheel of Fortune",
+      "s": "S1",
+      "ep": "E6",
+      "time": "66m"
+    },
+    {
+      "complate": "0",
+      "id": "81716088",
+      "t": "Stained Relationships",
+      "s": "S1",
+      "ep": "E7",
+      "time": "68m"
+    },
+    {
+      "complate": "0",
+      "id": "81716089",
+      "t": "The Fateful Choice",
+      "s": "S1",
+      "ep": "E8",
+      "time": "63m"
+    },
+    {
+      "complate": "0",
+      "id": "81716090",
+      "t": "The Unmasked Truth",
+      "s": "S1",
+      "ep": "E9",
+      "time": "72m"
+    },
+    {
+      "complate": "0",
+      "id": "81716091",
+      "t": "Breaking Through the Shell",
+      "s": "S1",
+      "ep": "E10",
+      "time": "62m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81716081",
+  "lang": [
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81716082",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81509440"
+    },
+    {
+      "id": "81472752"
+    },
+    {
+      "id": "81488912"
+    },
+    {
+      "id": "81707950"
+    },
+    {
+      "id": "81669779"
+    },
+    {
+      "id": "81410834"
+    },
+    {
+      "id": "81357286"
+    },
+    {
+      "id": "81671440"
+    },
+    {
+      "id": "81624364"
+    }
+  ],
+  "error": null
+}
