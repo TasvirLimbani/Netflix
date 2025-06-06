@@ -1,0 +1,158 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Catching Killers",
+  "year": "2021",
+  "ua": "U/A 16+",
+  "match": "39% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Crime TV Shows, Docuseries, US TV Shows, True Crime Documentaries",
+  "thismovieis": "Investigative, Suspenseful",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "tobacco use, language, sexual violence references",
+  "desc": "The investigators behind infamous serial killer cases reveal the harrowing, chilling details of their extraordinary efforts in this true crime series.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81264651",
+      "ep": "4",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81500479",
+      "ep": "4",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81292129",
+      "ep": "4",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81649016",
+      "t": "End of the Line: The Railroad Killer",
+      "s": "S3",
+      "ep": "E1",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81649014",
+      "t": "Night Terror: New York Zodiac Killer",
+      "s": "S3",
+      "ep": "E2",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81649015",
+      "t": "Manhunt: The Olympic Park Bomber",
+      "s": "S3",
+      "ep": "E3",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81649017",
+      "t": "Trained to Kill: The DC Sniper",
+      "s": "S3",
+      "ep": "E4",
+      "time": "45m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81292129",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81649016",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81562383"
+    },
+    {
+      "id": "81298614"
+    },
+    {
+      "id": "81026055"
+    },
+    {
+      "id": "81031682"
+    },
+    {
+      "id": "81212487"
+    },
+    {
+      "id": "81173345"
+    },
+    {
+      "id": "81130130"
+    },
+    {
+      "id": "81586385"
+    }
+  ],
+  "error": null
+}
