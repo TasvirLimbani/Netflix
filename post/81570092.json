@@ -1,0 +1,196 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Taarak Mehta Kka Chhota Chashmah",
+  "year": "2021",
+  "ua": "U",
+  "match": "67% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Asit Kumarr Modi",
+  "director": "",
+  "writer": "",
+  "short_cast": "Rajesh Kava, Bhoomika Jain, Aditya Pednekar, Amit Bhatt, Shatrughan Sharma, Neha Nigam, Mayur Yadav, Saudamini, Pranoy Roy",
+  "cast": "Rajesh Kava, Bhoomika Jain, Aditya Pednekar, Amit Bhatt, Shatrughan Sharma, Neha Nigam, Mayur Yadav, Saudamini, Pranoy Roy",
+  "genre": "Kids' TV, TV Comedies, TV Cartoons, Hindi-Language TV Shows",
+  "thismovieis": "Goofy",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "This animated adaptation of a beloved sitcom follows the spirited residents of a Mumbai housing complex as they comically navigate life's challenges.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81570093",
+      "ep": "40",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81570134",
+      "ep": "40",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81570135",
+      "t": "Soda Machine",
+      "s": "S2",
+      "ep": "E1",
+      "time": "19m"
+    },
+    {
+      "complate": "0",
+      "id": "81570136",
+      "t": "Desert Safari",
+      "s": "S2",
+      "ep": "E2",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81570137",
+      "t": "Ek Din Ka Policewala",
+      "s": "S2",
+      "ep": "E3",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81570138",
+      "t": "River Rafting Misadventure + Goli Ka Birthday",
+      "s": "S2",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81570139",
+      "t": "Mabglu The Alien",
+      "s": "S2",
+      "ep": "E5",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81570140",
+      "t": "Tapu Ki Relay Race",
+      "s": "S2",
+      "ep": "E6",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81570141",
+      "t": "Hand Gliding",
+      "s": "S2",
+      "ep": "E7",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81570142",
+      "t": "Tappu Ki Holiday Trip",
+      "s": "S2",
+      "ep": "E8",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81570143",
+      "t": "Treasure Map",
+      "s": "S2",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81570144",
+      "t": "The Puppet Show",
+      "s": "S2",
+      "ep": "E10",
+      "time": "23m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81570134",
+  "lang": [
+    {
+      "l": "Bengali",
+      "s": "ben"
+    },
+    {
+      "l": "Gujarati",
+      "s": "guj"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Kannada",
+      "s": "kan"
+    },
+    {
+      "l": "Malayalam",
+      "s": "mal"
+    },
+    {
+      "l": "Marathi",
+      "s": "mar"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    }
+  ],
+  "last_ep": "81570135",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81570077"
+    },
+    {
+      "id": "81318062"
+    },
+    {
+      "id": "81318057"
+    },
+    {
+      "id": "81318081"
+    },
+    {
+      "id": "81318066"
+    },
+    {
+      "id": "80158156"
+    },
+    {
+      "id": "81318074"
+    },
+    {
+      "id": "81451264"
+    },
+    {
+      "id": "81318082"
+    },
+    {
+      "id": "81450318"
+    },
+    {
+      "id": "81318076"
+    },
+    {
+      "id": "81318080"
+    }
+  ],
+  "error": null
+}
