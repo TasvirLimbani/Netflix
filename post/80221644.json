@@ -1,0 +1,212 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "October Faction",
+  "year": "2020",
+  "ua": "U/A 18+ [A]",
+  "match": "84% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Damian Kindler",
+  "director": "",
+  "writer": "",
+  "short_cast": "Tamara Taylor, J.C. MacKenzie, Aurora Burghart, Gabriel Darku, Maxim Roy, Stephen McHattie, Wendy Crewson, Megan Follows, Nicola Correia-Damude, Praneet Akilla, Michelle Nolden, Anwen O'Driscoll",
+  "cast": "Tamara Taylor, J.C. MacKenzie, Aurora Burghart, Gabriel Darku, Maxim Roy, Stephen McHattie, Wendy Crewson, Megan Follows, Nicola Correia-Damude, Praneet Akilla, Michelle Nolden, Anwen O'Driscoll",
+  "genre": "TV Dramas, Teen TV Shows, TV Action & Adventure, US TV Shows, Horror TV Serials, Fantasy TV Shows, TV Shows Based on Comics",
+  "thismovieis": "Ominous, Scary, Witty",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, sexual violence, sex, self-harm, language",
+  "desc": "The family drama gets downright monstrous as parents Fred and Deloris hunt the supernatural, and twins Viv and Geoff harbor their own strange secrets.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80235867",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80990230",
+      "t": "Presidio",
+      "s": "S1",
+      "ep": "E1",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "80990231",
+      "t": "No Country for Old Vamps",
+      "s": "S1",
+      "ep": "E2",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80990232",
+      "t": "The Horror Out of Time",
+      "s": "S1",
+      "ep": "E3",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "80990233",
+      "t": "Soirees of Future Past",
+      "s": "S1",
+      "ep": "E4",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "80990234",
+      "t": "Truth and Consequences",
+      "s": "S1",
+      "ep": "E5",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "80990235",
+      "t": "Open Your Eyes",
+      "s": "S1",
+      "ep": "E6",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "80990236",
+      "t": "Nadir",
+      "s": "S1",
+      "ep": "E7",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "80990237",
+      "t": "Alice",
+      "s": "S1",
+      "ep": "E8",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "80990238",
+      "t": "Bonds of Blood",
+      "s": "S1",
+      "ep": "E9",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "80990239",
+      "t": "The October Faction",
+      "s": "S1",
+      "ep": "E10",
+      "time": "45m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80235867",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80990230",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "81252707"
+    },
+    {
+      "id": "80241581"
+    },
+    {
+      "id": "80238357"
+    },
+    {
+      "id": "81116060"
+    },
+    {
+      "id": "81150303"
+    },
+    {
+      "id": "80241239"
+    },
+    {
+      "id": "80220679"
+    },
+    {
+      "id": "80242724"
+    },
+    {
+      "id": "81679967"
+    }
+  ],
+  "error": null
+}
