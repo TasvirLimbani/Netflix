@@ -1,0 +1,202 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Sex/Life",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "33% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Sarah Shahi, Mike Vogel, Adam Demos, Margaret Odette",
+  "cast": "Sarah Shahi, Mike Vogel, Adam Demos, Margaret Odette",
+  "genre": "Romantic TV Dramas, TV Dramas, TV Shows Based on Books, US TV Shows",
+  "thismovieis": "Steamy, Intimate",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "substances, sex, nudity, language",
+  "desc": "A woman's daring sexual past collides with her married-with-kids present when the bad-boy ex she can't stop fantasizing about crashes back into her life.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81001045",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81277886",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81509713",
+      "t": "Welcome to New York",
+      "s": "S2",
+      "ep": "E1",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81509714",
+      "t": "Georgia on My Mind",
+      "s": "S2",
+      "ep": "E2",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81509715",
+      "t": "Seasons of Love",
+      "s": "S2",
+      "ep": "E3",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81509716",
+      "t": "The Weakness in Me",
+      "s": "S2",
+      "ep": "E4",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81509717",
+      "t": "Future Starts Today",
+      "s": "S2",
+      "ep": "E5",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81509718",
+      "t": "Heavenly Day",
+      "s": "S2",
+      "ep": "E6",
+      "time": "56m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81277886",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81509713",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81245964"
+    },
+    {
+      "id": "81446391"
+    },
+    {
+      "id": "81252980"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81517010"
+    },
+    {
+      "id": "70294663"
+    },
+    {
+      "id": "81397579"
+    },
+    {
+      "id": "81478642"
+    },
+    {
+      "id": "81489770"
+    },
+    {
+      "id": "80037286"
+    }
+  ],
+  "error": null
+}
