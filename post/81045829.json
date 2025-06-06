@@ -1,0 +1,188 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Echoes",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "56% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Vanessa Gazy",
+  "director": "",
+  "writer": "",
+  "short_cast": "Michelle Monaghan, Matt Bomer, Karen Robinson, Jonathan Tucker, Daniel Sunjata, Ali Stroker, Gable Swanlund, Rosanny Zayas, Michael O'Neill",
+  "cast": "Michelle Monaghan, Matt Bomer, Karen Robinson, Jonathan Tucker, Daniel Sunjata, Ali Stroker, Gable Swanlund, Rosanny Zayas, Michael O'Neill",
+  "genre": "TV Dramas, TV Mysteries, US TV Shows, TV Thrillers",
+  "thismovieis": "Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide, sex, self-harm, nudity",
+  "desc": "Identical twins Leni and Gina have secretly switched places for years. But when one sister disappears, both of their lives start to fall apart.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81076872",
+      "ep": "7",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81077468",
+      "t": "Home",
+      "s": "S1",
+      "ep": "E1",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81077470",
+      "t": "Birthday",
+      "s": "S1",
+      "ep": "E2",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81077471",
+      "t": "Party",
+      "s": "S1",
+      "ep": "E3",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81077472",
+      "t": "Body",
+      "s": "S1",
+      "ep": "E4",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81077474",
+      "t": "Gina",
+      "s": "S1",
+      "ep": "E5",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81077475",
+      "t": "Fire",
+      "s": "S1",
+      "ep": "E6",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81077477",
+      "t": "Falls",
+      "s": "S1",
+      "ep": "E7",
+      "time": "40m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81076872",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81077468",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81015514"
+    },
+    {
+      "id": "81029704"
+    },
+    {
+      "id": "81380441"
+    },
+    {
+      "id": "80991754"
+    },
+    {
+      "id": "81332052"
+    },
+    {
+      "id": "80153467"
+    },
+    {
+      "id": "80201500"
+    },
+    {
+      "id": "80241472"
+    },
+    {
+      "id": "81152788"
+    },
+    {
+      "id": "81417796"
+    }
+  ],
+  "error": null
+}
