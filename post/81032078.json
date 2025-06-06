@@ -1,0 +1,235 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Surviving Summer",
+  "year": "2022",
+  "ua": "U/A 13+",
+  "match": "30% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Joanna Werner, Josh Mapleston",
+  "director": "",
+  "writer": "",
+  "short_cast": "Sky Katz, Kai Lewins, Lilliana Bowrey, Joao Marinho, Savannah La Rain, Chris Alosio, Dustin Clare, Adrienne Pickering",
+  "cast": "Sky Katz, Kai Lewins, Lilliana Bowrey, Joao Marinho, Savannah La Rain, Chris Alosio, Dustin Clare, Adrienne Pickering",
+  "genre": "TV Dramas, Family Watch Together TV, Australian, Teen TV Shows",
+  "thismovieis": "Heartfelt, Emotional",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "mature themes",
+  "desc": "Expelled from school and exiled to Australia, a rebel New York teen makes waves among a young surfer's inner circle \u2014 and leaves a mess in her wake.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81251401",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81489922",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81682061",
+      "t": "Selection",
+      "s": "S2",
+      "ep": "E1",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81682062",
+      "t": "Team Bonding",
+      "s": "S2",
+      "ep": "E2",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81682063",
+      "t": "Wait For It",
+      "s": "S2",
+      "ep": "E3",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81682064",
+      "t": "A Seat at the Table",
+      "s": "S2",
+      "ep": "E4",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81682065",
+      "t": "Purge",
+      "s": "S2",
+      "ep": "E5",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81682066",
+      "t": "I Promise",
+      "s": "S2",
+      "ep": "E6",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81682067",
+      "t": "Suck It Up",
+      "s": "S2",
+      "ep": "E7",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81682068",
+      "t": "Send It",
+      "s": "S2",
+      "ep": "E8",
+      "time": "27m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81489922",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81682061",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80222177"
+    },
+    {
+      "id": "80220644"
+    },
+    {
+      "id": "81054619"
+    },
+    {
+      "id": "80095435"
+    },
+    {
+      "id": "81504820"
+    },
+    {
+      "id": "81233669"
+    },
+    {
+      "id": "81283585"
+    },
+    {
+      "id": "81074938"
+    },
+    {
+      "id": "80236318"
+    }
+  ],
+  "error": null
+}
