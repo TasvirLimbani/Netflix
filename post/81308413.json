@@ -1,0 +1,143 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "A Suitable Boy",
+  "year": "2020",
+  "ua": "U/A 16+",
+  "match": "49% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Mira Nair",
+  "director": "",
+  "writer": "",
+  "short_cast": "Tabu, Ishaan Khatter, Tanya Maniktala, Mahira Kakkar, Rasika Dugal, Shahana Goswami, Ram Kapoor, Aamir Bashir, Danesh Razvi, Namit Das, Mikhail Sen, Vijay Varma",
+  "cast": "Tabu, Ishaan Khatter, Tanya Maniktala, Mahira Kakkar, Rasika Dugal, Shahana Goswami, Ram Kapoor, Aamir Bashir, Danesh Razvi, Namit Das, Mikhail Sen, Vijay Varma",
+  "genre": "Romantic TV Dramas, TV Dramas, TV Shows Based on Books",
+  "thismovieis": "Emotional, Romantic",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "suicide, sexual content, gore",
+  "desc": "Modernity confronts tradition in post-Partition India as a young student resists an arranged marriage and a politician\u2019s son has a transgressive affair.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81308414",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81308415",
+      "t": "Episode 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81308416",
+      "t": "Episode 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81308417",
+      "t": "Episode 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "81308418",
+      "t": "Episode 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81308419",
+      "t": "Episode 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "81308420",
+      "t": "Episode 6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "59m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81308414",
+  "lang": [
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81308415",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81004536"
+    },
+    {
+      "id": "81206929"
+    },
+    {
+      "id": "81280352"
+    },
+    {
+      "id": "80220079"
+    },
+    {
+      "id": "81197473"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "81760391"
+    },
+    {
+      "id": "81183494"
+    },
+    {
+      "id": "80202877"
+    },
+    {
+      "id": "81730920"
+    }
+  ],
+  "error": null
+}
