@@ -1,0 +1,262 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "StarBeam",
+  "year": "2020",
+  "ua": "U",
+  "match": "73% match",
+  "runtime": "4 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Loris Kramer Lunsford, Jason Netter",
+  "director": "",
+  "writer": "",
+  "short_cast": "Nahanni Mitchell, Dean Petriw, Terry Klassen, Sam Vincent, Diana Kaarina, Rhona Rees, Vincent Tong, Maryke Hendrikse, Abigail Journey Oliver",
+  "cast": "Nahanni Mitchell, Dean Petriw, Terry Klassen, Sam Vincent, Diana Kaarina, Rhona Rees, Vincent Tong, Maryke Hendrikse, Abigail Journey Oliver",
+  "genre": "Kids' TV, Canadian, TV Cartoons",
+  "thismovieis": "",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "When colorful villains come out to play, 8-year-old Zoey has the power to transform into StarBeam, a kid-sized superhero. She saves the day, every day!",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80224957",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81008602",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81035304",
+      "ep": "9",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "81127642",
+      "ep": "16",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81129619",
+      "t": "Beachy Blunder",
+      "s": "S4",
+      "ep": "E1",
+      "time": "13m"
+    },
+    {
+      "complate": "0",
+      "id": "81035318",
+      "t": "Tag Along",
+      "s": "S4",
+      "ep": "E2",
+      "time": "13m"
+    },
+    {
+      "complate": "0",
+      "id": "81129618",
+      "t": "Clean Up Crush",
+      "s": "S4",
+      "ep": "E3",
+      "time": "13m"
+    },
+    {
+      "complate": "0",
+      "id": "81035310",
+      "t": "Beam BubblyLicious",
+      "s": "S4",
+      "ep": "E4",
+      "time": "13m"
+    },
+    {
+      "complate": "0",
+      "id": "81129620",
+      "t": "Summersette Spectacular",
+      "s": "S4",
+      "ep": "E5",
+      "time": "13m"
+    },
+    {
+      "complate": "0",
+      "id": "81035317",
+      "t": "Freeze!",
+      "s": "S4",
+      "ep": "E6",
+      "time": "13m"
+    },
+    {
+      "complate": "0",
+      "id": "81129614",
+      "t": "Saving Kipper",
+      "s": "S4",
+      "ep": "E7",
+      "time": "13m"
+    },
+    {
+      "complate": "0",
+      "id": "81129621",
+      "t": "Critter Chaos",
+      "s": "S4",
+      "ep": "E8",
+      "time": "14m"
+    },
+    {
+      "complate": "0",
+      "id": "81035477",
+      "t": "Gonzo for Gadgets",
+      "s": "S4",
+      "ep": "E9",
+      "time": "4m"
+    },
+    {
+      "complate": "0",
+      "id": "81035478",
+      "t": "Meeting Marla",
+      "s": "S4",
+      "ep": "E10",
+      "time": "4m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81127642",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81129619",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81035473"
+    },
+    {
+      "id": "81035474"
+    },
+    {
+      "id": "80993597"
+    },
+    {
+      "id": "80187223"
+    },
+    {
+      "id": "81009946"
+    },
+    {
+      "id": "80146758"
+    }
+  ],
+  "error": null
+}
