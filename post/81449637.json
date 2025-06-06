@@ -1,0 +1,161 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Trivia Quest",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "55% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Jonathan Melo",
+  "cast": "Jonathan Melo",
+  "genre": "TV Comedies, US TV Shows",
+  "thismovieis": "",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language",
+  "desc": "History, art, science, pop culture and more \u2014 quiz yourself across varying levels of difficulty in this interactive trivia series.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81449638",
+      "ep": "30",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81481556",
+      "t": "Reel Talk",
+      "s": "S1",
+      "ep": "E1",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81481558",
+      "t": "Tune In",
+      "s": "S1",
+      "ep": "E2",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81481559",
+      "t": "Body Language",
+      "s": "S1",
+      "ep": "E3",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81481560",
+      "t": "Time After Time",
+      "s": "S1",
+      "ep": "E4",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81481561",
+      "t": "Netflix & Chill",
+      "s": "S1",
+      "ep": "E5",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81481562",
+      "t": "True Romance",
+      "s": "S1",
+      "ep": "E6",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81481563",
+      "t": "Monumental Questions",
+      "s": "S1",
+      "ep": "E7",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81481564",
+      "t": "Video Game On",
+      "s": "S1",
+      "ep": "E8",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81481565",
+      "t": "Oh Baby!",
+      "s": "S1",
+      "ep": "E9",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81481566",
+      "t": "What A Character!",
+      "s": "S1",
+      "ep": "E10",
+      "time": "25m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81449638",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81481556",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81271335"
+    }
+  ],
+  "error": null
+}
