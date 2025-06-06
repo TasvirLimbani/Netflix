@@ -1,0 +1,161 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "3% percent",
+  "year": "2016",
+  "ua": "U/A 18+ [A]",
+  "match": "39% match",
+  "runtime": "4 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Pedro Aguilera",
+  "director": "",
+  "writer": "",
+  "short_cast": "Bianca Comparato, Vaneza Oliveira, Rodolfo Valente, Rafael Lozano, Cynthia Senek, Bruno Fagundes, Thais Lago, Laila Garin, Fernando Rubro, Amanda Magalh\u00e3es, Zez\u00e9 Motta, Celso Frateschi, Jo\u00e3o Miguel, Michel Gomes, Viviane Porto, Mel Fronckowiak, Sergio Mamberti",
+  "cast": "Bianca Comparato, Vaneza Oliveira, Rodolfo Valente, Rafael Lozano, Cynthia Senek, Bruno Fagundes, Thais Lago, Laila Garin, Fernando Rubro, Amanda Magalh\u00e3es, Zez\u00e9 Motta, Celso Frateschi, Jo\u00e3o Miguel, Michel Gomes, Viviane Porto, Mel Fronckowiak, Sergio Mamberti",
+  "genre": "Political TV Shows, TV Dramas, Brazilian, Sci-Fi TV",
+  "thismovieis": "",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, suicide, nudity",
+  "desc": "In a future where the elite inhabit an island paradise far from the crowded slums, you get one chance to join the 3% saved from squalor.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80074825",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80167822",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80221706",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "81035792",
+      "ep": "7",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81036056",
+      "t": "Chapter 01: Moon",
+      "s": "S4",
+      "ep": "E1",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81036094",
+      "t": "Chapter 02: Shock",
+      "s": "S4",
+      "ep": "E2",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81036095",
+      "t": "Chapter 03: Fire",
+      "s": "S4",
+      "ep": "E3",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81036098",
+      "t": "Chapter 04: Submarine",
+      "s": "S4",
+      "ep": "E4",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81036099",
+      "t": "Chapter 05: Painting",
+      "s": "S4",
+      "ep": "E5",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81036100",
+      "t": "Chapter 06: Buttons",
+      "s": "S4",
+      "ep": "E6",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81036101",
+      "t": "Chapter 07: Sun",
+      "s": "S4",
+      "ep": "E7",
+      "time": "74m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81035792",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81036056",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80993062"
+    },
+    {
+      "id": "80177458"
+    },
+    {
+      "id": "80200575"
+    },
+    {
+      "id": "80154610"
+    },
+    {
+      "id": "80197989"
+    },
+    {
+      "id": "80236236"
+    },
+    {
+      "id": "80100172"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "80220334"
+    },
+    {
+      "id": "81024821"
+    },
+    {
+      "id": "81288179"
+    }
+  ],
+  "error": null
+}
