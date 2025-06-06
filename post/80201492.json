@@ -1,0 +1,243 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Battle Kitty",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "70% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Matt Layzell",
+  "director": "",
+  "writer": "",
+  "short_cast": "Matt Layzell, Gideon Adlon, Baker Terry, Grey Griffin, Robbie Daymond, Jaboukie Young-White, Phil LaMarr, Daniele Gaither, Amanda McCann",
+  "cast": "Matt Layzell, Gideon Adlon, Baker Terry, Grey Griffin, Robbie Daymond, Jaboukie Young-White, Phil LaMarr, Daniele Gaither, Amanda McCann",
+  "genre": "Family Time TV, Kids' TV, TV Cartoons, Fantasy TV Shows",
+  "thismovieis": "Quirky, Imaginative, Goofy",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "rude humor, mild violence, mild fear",
+  "desc": "Kitty and Orc brawl with monsters, beat out rivals \u2014 and need your help to move through Battle Island and become champion in this interactive adventure!",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80227909",
+      "ep": "9",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80227815",
+      "t": "Warrior Beach",
+      "s": "S1",
+      "ep": "E1",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81250260",
+      "t": "Warrior Park",
+      "s": "S1",
+      "ep": "E2",
+      "time": "80m"
+    },
+    {
+      "complate": "0",
+      "id": "81250261",
+      "t": "Mount Spicy Ice",
+      "s": "S1",
+      "ep": "E3",
+      "time": "69m"
+    },
+    {
+      "complate": "0",
+      "id": "81250262",
+      "t": "Cashino Woods",
+      "s": "S1",
+      "ep": "E4",
+      "time": "69m"
+    },
+    {
+      "complate": "0",
+      "id": "81250263",
+      "t": "Neon Cove",
+      "s": "S1",
+      "ep": "E5",
+      "time": "71m"
+    },
+    {
+      "complate": "0",
+      "id": "81250264",
+      "t": "Acidic Dunes",
+      "s": "S1",
+      "ep": "E6",
+      "time": "68m"
+    },
+    {
+      "complate": "0",
+      "id": "81250265",
+      "t": "Dark Web Woods",
+      "s": "S1",
+      "ep": "E7",
+      "time": "72m"
+    },
+    {
+      "complate": "0",
+      "id": "81250266",
+      "t": "Sky Co. Docks",
+      "s": "S1",
+      "ep": "E8",
+      "time": "72m"
+    },
+    {
+      "complate": "0",
+      "id": "81250267",
+      "t": "Ancient Ruins",
+      "s": "S1",
+      "ep": "E9",
+      "time": "40m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80227909",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "80227815",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81004016"
+    },
+    {
+      "id": "81019938"
+    },
+    {
+      "id": "80994695"
+    },
+    {
+      "id": "81054409"
+    },
+    {
+      "id": "81058723"
+    },
+    {
+      "id": "81108751"
+    },
+    {
+      "id": "81260654"
+    },
+    {
+      "id": "81045859"
+    },
+    {
+      "id": "81205737"
+    },
+    {
+      "id": "81287545"
+    },
+    {
+      "id": "80103408"
+    }
+  ],
+  "error": null
+}
