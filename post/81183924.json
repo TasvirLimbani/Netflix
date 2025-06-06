@@ -1,0 +1,159 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Dragon Age: Absolution",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "90% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Kimberly Brooks, Matthew Mercer, Phil LaMarr, Ashly Burch, Sumalee Montano, Keston John",
+  "cast": "Kimberly Brooks, Matthew Mercer, Phil LaMarr, Ashly Burch, Sumalee Montano, Keston John",
+  "genre": "Sci-Fi & Fantasy Anime, Action Anime, Anime based on a Video Game, Anime Series, US TV Shows",
+  "thismovieis": "",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence",
+  "desc": "With great power at stake, a group of misfits must work together to steal an artifact from a sinister mage. Based on BioWare's video game franchise.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81183925",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81183926",
+      "t": "A Woman Unseen",
+      "s": "S1",
+      "ep": "E1",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81183927",
+      "t": "The Will of the Maker",
+      "s": "S1",
+      "ep": "E2",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81183928",
+      "t": "The Serpent's Coils",
+      "s": "S1",
+      "ep": "E3",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81183930",
+      "t": "Those Who Falsely Dream",
+      "s": "S1",
+      "ep": "E4",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81183931",
+      "t": "An Altar of Fire",
+      "s": "S1",
+      "ep": "E5",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81183932",
+      "t": "The Price of Salvation",
+      "s": "S1",
+      "ep": "E6",
+      "time": "27m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81183925",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81183926",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80212245"
+    },
+    {
+      "id": "81001988"
+    },
+    {
+      "id": "81435684"
+    },
+    {
+      "id": "81037868"
+    },
+    {
+      "id": "81281582"
+    },
+    {
+      "id": "81436901"
+    },
+    {
+      "id": "81144203"
+    }
+  ],
+  "error": null
+}
