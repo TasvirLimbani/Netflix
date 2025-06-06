@@ -1,0 +1,137 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Black Butterflies",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "87% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Bruno Merle, Olivier Abbou",
+  "director": "",
+  "writer": "",
+  "short_cast": "Nicolas Duvauchelle, Niels Arestrup, Axel Granberger, Alyz\u00e9e Costes, Brigitte Catillon, Henny Reents, Lola Cr\u00e9ton, Marie Denarnaud, Alice Bela\u00efdi, Sami Bouajila",
+  "cast": "Nicolas Duvauchelle, Niels Arestrup, Axel Granberger, Alyz\u00e9e Costes, Brigitte Catillon, Henny Reents, Lola Cr\u00e9ton, Marie Denarnaud, Alice Bela\u00efdi, Sami Bouajila",
+  "genre": "French, TV Dramas, Crime TV Shows, TV Thrillers",
+  "thismovieis": "Ominous",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, substances, sexual violence, sex, nudity",
+  "desc": "Low on inspiration for his second book, a gloomy novelist agrees to write a memoir for a dying man \u2014 and swiftly becomes part of his bloodstained past.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81463578",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81511298",
+      "t": "Episode 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "60m"
+    },
+    {
+      "complate": "0",
+      "id": "81511299",
+      "t": "Episode 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81511300",
+      "t": "Episode 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81511301",
+      "t": "Episode 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81511302",
+      "t": "Episode 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81511303",
+      "t": "Episode 6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "63m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81463578",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81511298",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81221179"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "81332052"
+    },
+    {
+      "id": "81306170"
+    }
+  ],
+  "error": null
+}
