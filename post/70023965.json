@@ -1,0 +1,103 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Brokeback Mountain",
+  "year": "2005",
+  "ua": "U/A 18+ [A]",
+  "match": "98% match",
+  "runtime": "2h 14m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Ang Lee",
+  "writer": "Annie Proulx, Larry McMurtry, Diana Ossana",
+  "short_cast": "Heath Ledger, Jake Gyllenhaal, Michelle Williams, Linda Cardellini, Anna Faris, Anne Hathaway, Randy Quaid, Graham Beckel, Scott Michael Campbell, David Harbour, Kate Mara",
+  "cast": "Heath Ledger, Jake Gyllenhaal, Michelle Williams, Linda Cardellini, Anna Faris, Anne Hathaway, Randy Quaid, Graham Beckel, Scott Michael Campbell, David Harbour, Kate Mara",
+  "genre": "LGBTQ Movies, Dramas, Westerns, Romantic Movies, Movies Based on Books, US Movies",
+  "thismovieis": "Intimate, Emotional, Romantic",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "sex, nudity",
+  "desc": "Two sheepherders in 1963 Wyoming become involved in an increasingly passionate affair, but hiding the relationship from their wives proves agonizing.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "80209536"
+    },
+    {
+      "id": "81645391"
+    },
+    {
+      "id": "81287844"
+    },
+    {
+      "id": "80205227"
+    },
+    {
+      "id": "60036227"
+    },
+    {
+      "id": "70079159"
+    },
+    {
+      "id": "80240538"
+    },
+    {
+      "id": "80059331"
+    },
+    {
+      "id": "81445999"
+    },
+    {
+      "id": "80235267"
+    },
+    {
+      "id": "81577750"
+    },
+    {
+      "id": "80168189"
+    }
+  ],
+  "error": null
+}
