@@ -1,0 +1,168 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Chosen",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "50% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Jannik Tai Mosholt, Christian Potalivo",
+  "director": "",
+  "writer": "",
+  "short_cast": "Malaika Berenth Mosendane, Andrea Heick Gadeberg, Andreas Dittmer, Albert Rudbeck Lindhardt, Mohamed Djeziri, Magnus Juhl Andersen, Anders Heinrichsen, Line Kruse, Henrik Prip, Marie Louise Wille, Ken Vedsegaard",
+  "cast": "Malaika Berenth Mosendane, Andrea Heick Gadeberg, Andreas Dittmer, Albert Rudbeck Lindhardt, Mohamed Djeziri, Magnus Juhl Andersen, Anders Heinrichsen, Line Kruse, Henrik Prip, Marie Louise Wille, Ken Vedsegaard",
+  "genre": "Danish, Sci-Fi TV, Teen TV Shows, Scandinavian TV Shows, TV Thrillers",
+  "thismovieis": "Mind-Bending, Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "sex, nudity",
+  "desc": "A 17-year-old girl finds her world turned upside down when she and her friends discover the disturbing truth lurking in their quiet Danish town.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81270571",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81289635",
+      "t": "The Fact That Meteors Are Made of Glass Is Pretty Crazy!",
+      "s": "S1",
+      "ep": "E1",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81289636",
+      "t": "Just Think of Queen Margrethe",
+      "s": "S1",
+      "ep": "E2",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81289637",
+      "t": "Have You Heard?",
+      "s": "S1",
+      "ep": "E3",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81289638",
+      "t": "Call Mads",
+      "s": "S1",
+      "ep": "E4",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81289639",
+      "t": "You Hold It with Your Fingers. You Eat It with Your Mouth",
+      "s": "S1",
+      "ep": "E5",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81289640",
+      "t": "You Still Want Everything to Be About You",
+      "s": "S1",
+      "ep": "E6",
+      "time": "44m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81270571",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81289635",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81059720"
+    },
+    {
+      "id": "81133094"
+    },
+    {
+      "id": "80236236"
+    },
+    {
+      "id": "81252707"
+    },
+    {
+      "id": "80100172"
+    },
+    {
+      "id": "80044950"
+    },
+    {
+      "id": "80214497"
+    },
+    {
+      "id": "81123055"
+    },
+    {
+      "id": "70305903"
+    },
+    {
+      "id": "80222802"
+    }
+  ],
+  "error": null
+}
