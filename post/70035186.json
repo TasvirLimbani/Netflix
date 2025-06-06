@@ -1,0 +1,111 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Da Vinci Code",
+  "year": "2006",
+  "ua": "U/A 16+",
+  "match": "99% match",
+  "runtime": "2h 28m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Tom Hanks",
+  "writer": "Tom Hanks",
+  "short_cast": "Tom Hanks, Audrey Tautou, Ian McKellen, Jean Reno, Paul Bettany, Alfred Molina, J\u00fcrgen Prochnow, Jean-Yves Berteloot, \u00c9tienne Chicot, Jean-Pierre Marielle",
+  "cast": "Tom Hanks, Audrey Tautou, Ian McKellen, Jean Reno, Paul Bettany, Alfred Molina, J\u00fcrgen Prochnow, Jean-Yves Berteloot, \u00c9tienne Chicot, Jean-Pierre Marielle",
+  "genre": "Mysteries, US Movies, Movies Based on Books, Thriller Movies",
+  "thismovieis": "Suspenseful, Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, sexual content, gore",
+  "desc": "A Harvard professor must untangle a web of deceit linked to the works of Leonardo da Vinci after a mysterious killing at the Louvre Museum.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "80107552"
+    },
+    {
+      "id": "70103523"
+    },
+    {
+      "id": "70019508"
+    },
+    {
+      "id": "950149"
+    },
+    {
+      "id": "70131314"
+    },
+    {
+      "id": "27828200"
+    },
+    {
+      "id": "81198930"
+    },
+    {
+      "id": "70142888"
+    },
+    {
+      "id": "81444818"
+    },
+    {
+      "id": "80064514"
+    },
+    {
+      "id": "81092221"
+    },
+    {
+      "id": "60000209"
+    }
+  ],
+  "error": null
+}
