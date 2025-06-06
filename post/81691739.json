@@ -1,0 +1,151 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Lucas the Spider",
+  "year": "",
+  "ua": "U/A 7+",
+  "match": "32% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Joshua Slice",
+  "director": "",
+  "writer": "",
+  "short_cast": "Simon Webster, Antonina Battrick, Kaia Oz, Evie Loiselle, Christian Campbell",
+  "cast": "Simon Webster, Antonina Battrick, Kaia Oz, Evie Loiselle, Christian Campbell",
+  "genre": "Kids' TV, TV Cartoons",
+  "thismovieis": "",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild themes",
+  "desc": "Meet Lucas, a playful and curious jumping spider who loves to have fun and explore with his friends \u2014 even if it gets him in a little trouble.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81691740",
+      "ep": "26",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81691741",
+      "t": "Too Hot To Handle/ The Big Squeak/ Big Jumping Spider",
+      "s": "S1",
+      "ep": "E1",
+      "time": "19m"
+    },
+    {
+      "complate": "0",
+      "id": "81691742",
+      "t": "Ghost Camp/ Boo/ Never Boop A Robot",
+      "s": "S1",
+      "ep": "E2",
+      "time": "19m"
+    },
+    {
+      "complate": "0",
+      "id": "81691743",
+      "t": "Lonesome Lucas/ I Can't See You/ To Catch A Fly",
+      "s": "S1",
+      "ep": "E3",
+      "time": "19m"
+    },
+    {
+      "complate": "0",
+      "id": "81691744",
+      "t": "Sliding/ Spinning Webs",
+      "s": "S1",
+      "ep": "E4",
+      "time": "13m"
+    },
+    {
+      "complate": "0",
+      "id": "81691745",
+      "t": "I'm Taking You In/ Something Up There/ Home Sweet Home",
+      "s": "S1",
+      "ep": "E5",
+      "time": "19m"
+    },
+    {
+      "complate": "0",
+      "id": "81691746",
+      "t": "Bye Bye Bee/ Jeepers Peepers/ House Is Breathing",
+      "s": "S1",
+      "ep": "E6",
+      "time": "19m"
+    },
+    {
+      "complate": "0",
+      "id": "81691747",
+      "t": "Boingo/ Findley's Bad Day/ You Rang",
+      "s": "S1",
+      "ep": "E7",
+      "time": "19m"
+    },
+    {
+      "complate": "0",
+      "id": "81691748",
+      "t": "Do You Speak Dance/ New Spider In Town/ Dollhouse Mates",
+      "s": "S1",
+      "ep": "E8",
+      "time": "19m"
+    },
+    {
+      "complate": "0",
+      "id": "81691749",
+      "t": "Lucas We Have A Problem/ Egg Scuse Me/ Pokey Dokey",
+      "s": "S1",
+      "ep": "E9",
+      "time": "19m"
+    },
+    {
+      "complate": "0",
+      "id": "81691750",
+      "t": "Boot Castle/ Avocado's Long Time Out/ Tanks Giving",
+      "s": "S1",
+      "ep": "E10",
+      "time": "19m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81691740",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81691741",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81699964"
+    },
+    {
+      "id": "81615858"
+    },
+    {
+      "id": "70155567"
+    }
+  ],
+  "error": null
+}
