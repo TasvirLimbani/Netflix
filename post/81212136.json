@@ -1,0 +1,187 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Midnight at the Pera Palace",
+  "year": "2022",
+  "ua": "U/A 13+",
+  "match": "44% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Hazal Kaya, Tansu Bi\u00e7er, Selahattin Pa\u015fal\u0131, James Chalmers, Yasemin Szawlowski, Engin Hepileri",
+  "cast": "Hazal Kaya, Tansu Bi\u00e7er, Selahattin Pa\u015fal\u0131, James Chalmers, Yasemin Szawlowski, Engin Hepileri",
+  "genre": "Political TV Shows, TV Dramas, Turkish, TV Shows Based on Books",
+  "thismovieis": "Suspenseful, Exciting",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, threat, mature themes, language, gore",
+  "desc": "At a historic Istanbul hotel, a journalist is thrust into the past and must stop a plot that could change the fate of modern Turkey.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81248112",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81413646",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81633827",
+      "t": "Episode 1",
+      "s": "S2",
+      "ep": "E1",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81633828",
+      "t": "Episode 2",
+      "s": "S2",
+      "ep": "E2",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81633829",
+      "t": "Episode 3",
+      "s": "S2",
+      "ep": "E3",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81633830",
+      "t": "Episode 4",
+      "s": "S2",
+      "ep": "E4",
+      "time": "38m"
+    },
+    {
+      "complate": "0",
+      "id": "81633831",
+      "t": "Episode 5",
+      "s": "S2",
+      "ep": "E5",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81633832",
+      "t": "Episode 6",
+      "s": "S2",
+      "ep": "E6",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81633833",
+      "t": "Episode 7",
+      "s": "S2",
+      "ep": "E7",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81633834",
+      "t": "Episode 8",
+      "s": "S2",
+      "ep": "E8",
+      "time": "52m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81413646",
+  "lang": [
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81633827",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81354934"
+    },
+    {
+      "id": "81037848"
+    },
+    {
+      "id": "81590491"
+    },
+    {
+      "id": "81380432"
+    },
+    {
+      "id": "81610272"
+    },
+    {
+      "id": "81257567"
+    },
+    {
+      "id": "81637609"
+    },
+    {
+      "id": "81314936"
+    },
+    {
+      "id": "81414644"
+    }
+  ],
+  "error": null
+}
