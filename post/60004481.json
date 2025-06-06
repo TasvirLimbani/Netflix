@@ -1,0 +1,127 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Spider-Man",
+  "year": "2002",
+  "ua": "U/A 13+",
+  "match": "47% match",
+  "runtime": "2h 1m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Sam Raimi",
+  "writer": "Stan Lee, Steve Ditko, David Koepp",
+  "short_cast": "Tobey Maguire, Willem Dafoe, Kirsten Dunst, James Franco, Cliff Robertson, Rosemary Harris, J.K. Simmons, Joe Manganiello, Gerry Becker, Bill Nunn",
+  "cast": "Tobey Maguire, Willem Dafoe, Kirsten Dunst, James Franco, Cliff Robertson, Rosemary Harris, J.K. Simmons, Joe Manganiello, Gerry Becker, Bill Nunn",
+  "genre": "Sci-Fi Movies, Action & Adventure Movies, US Movies",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, mature themes",
+  "desc": "After getting bitten by a genetically enhanced spider, shy teen Peter Parker develops web-slinging, wall-climbing powers and meets a dangerous new foe.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "60036230"
+    },
+    {
+      "id": "80166369"
+    },
+    {
+      "id": "70047101"
+    },
+    {
+      "id": "60027724"
+    },
+    {
+      "id": "80144309"
+    },
+    {
+      "id": "80991034"
+    },
+    {
+      "id": "80187362"
+    },
+    {
+      "id": "70264797"
+    },
+    {
+      "id": "80081793"
+    },
+    {
+      "id": "70155571"
+    },
+    {
+      "id": "70177689"
+    },
+    {
+      "id": "80216309"
+    }
+  ],
+  "error": null
+}
