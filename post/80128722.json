@@ -1,0 +1,107 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Gerald's Game",
+  "year": "2017",
+  "ua": "U/A 18+ [A]",
+  "match": "85% match",
+  "runtime": "1h 43m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Mike Flanagan",
+  "writer": "Mike Flanagan, Jeff Howard, Stephen King",
+  "short_cast": "Carla Gugino, Bruce Greenwood, Henry Thomas, Carel Struycken, Chiara Aurelia",
+  "cast": "Carla Gugino, Bruce Greenwood, Henry Thomas, Carel Struycken, Chiara Aurelia",
+  "genre": "US Movies, Movies Based on Books, Thriller Movies, Horror Movies",
+  "thismovieis": "Scary, Dark",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "sexual violence, sex, language",
+  "desc": "When her husband's sex game goes wrong, Jessie -- handcuffed to a bed in a remote lake house -- faces warped visions, dark secrets and a dire choice.",
+  "oin": "y",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "80177400"
+    },
+    {
+      "id": "81034937"
+    },
+    {
+      "id": "80237905"
+    },
+    {
+      "id": "80135164"
+    },
+    {
+      "id": "70206131"
+    },
+    {
+      "id": "81630892"
+    },
+    {
+      "id": "70294663"
+    },
+    {
+      "id": "81488262"
+    },
+    {
+      "id": "81048729"
+    },
+    {
+      "id": "80013272"
+    },
+    {
+      "id": "81128579"
+    },
+    {
+      "id": "81616656"
+    }
+  ],
+  "error": null
+}
