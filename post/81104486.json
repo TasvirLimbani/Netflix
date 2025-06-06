@@ -1,0 +1,195 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "From Scratch",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "89% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Attica Locke, Tembi Locke",
+  "director": "",
+  "writer": "",
+  "short_cast": "Zoe Salda\u00f1a, Eugenio Mastrandrea, Keith David, Danielle Deadwyler, Judith Scott, Kellita Smith, Lucia Sardo, Paride Benassai, Roberta Rigano",
+  "cast": "Zoe Salda\u00f1a, Eugenio Mastrandrea, Keith David, Danielle Deadwyler, Judith Scott, Kellita Smith, Lucia Sardo, Paride Benassai, Roberta Rigano",
+  "genre": "Romantic TV Dramas, TV Dramas, TV Shows Based on Books, US TV Shows",
+  "thismovieis": "Bittersweet, Intimate, Heartfelt",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "sex",
+  "desc": "An artist finds romance with a chef in Italy and embarks on a life-changing journey of love, loss, resilience and hope across cultures and continents.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81127414",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81226972",
+      "t": "First Tastes",
+      "s": "S1",
+      "ep": "E1",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81229483",
+      "t": "Carne e Ossa",
+      "s": "S1",
+      "ep": "E2",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81229484",
+      "t": "A Villa. A Broom. A Cake.",
+      "s": "S1",
+      "ep": "E3",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81229485",
+      "t": "Bitter Almonds",
+      "s": "S1",
+      "ep": "E4",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81229486",
+      "t": "Bread and Brine",
+      "s": "S1",
+      "ep": "E5",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81229487",
+      "t": "Heirlooms",
+      "s": "S1",
+      "ep": "E6",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81229488",
+      "t": "Between the Fire and the Pan",
+      "s": "S1",
+      "ep": "E7",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "81229489",
+      "t": "Aftertastes",
+      "s": "S1",
+      "ep": "E8",
+      "time": "55m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81127414",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81226972",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81343000"
+    },
+    {
+      "id": "81388033"
+    },
+    {
+      "id": "81275215"
+    },
+    {
+      "id": "81477801"
+    },
+    {
+      "id": "81286006"
+    },
+    {
+      "id": "81140282"
+    },
+    {
+      "id": "81498233"
+    },
+    {
+      "id": "80239866"
+    },
+    {
+      "id": "81256740"
+    },
+    {
+      "id": "81435930"
+    },
+    {
+      "id": "81175173"
+    }
+  ],
+  "error": null
+}
