@@ -1,0 +1,115 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "King Kong",
+  "year": "2005",
+  "ua": "U/A 16+",
+  "match": "39% match",
+  "runtime": "3h 7m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Peter Jackson",
+  "writer": "Fran Walsh, Philippa Boyens, Peter Jackson",
+  "short_cast": "Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann, Colin Hanks, Andy Serkis, Evan Parke, Jamie Bell, Lobo Chan, John Sumner, Craig Hall, Kyle Chandler",
+  "cast": "Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann, Colin Hanks, Andy Serkis, Evan Parke, Jamie Bell, Lobo Chan, John Sumner, Craig Hall, Kyle Chandler",
+  "genre": "New Zealand, Action & Adventure",
+  "thismovieis": "Emotional, Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, gore",
+  "desc": "In Peter Jackson's epic remake, a movie director and his crew journey to remote Skull Island, where his leading lady catches the eye of a giant ape.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "80139562"
+    },
+    {
+      "id": "11819467"
+    },
+    {
+      "id": "81183713"
+    },
+    {
+      "id": "60036256"
+    },
+    {
+      "id": "81245455"
+    },
+    {
+      "id": "80993105"
+    },
+    {
+      "id": "70097578"
+    },
+    {
+      "id": "81044417"
+    },
+    {
+      "id": "80216309"
+    },
+    {
+      "id": "60027724"
+    },
+    {
+      "id": "80029196"
+    },
+    {
+      "id": "70178621"
+    }
+  ],
+  "error": null
+}
