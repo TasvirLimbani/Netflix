@@ -1,0 +1,205 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Chhota Bheem",
+  "year": "2008",
+  "ua": "U/A 7+",
+  "match": "33% match",
+  "runtime": "9 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Rajiv Chilaka",
+  "director": "",
+  "writer": "",
+  "short_cast": "Vatsal Dubey, Julie Tejwani, Rupa Bhimani, Jigna Bhardwaj, Rajesh Kava, Mousam, Swapnil",
+  "cast": "Vatsal Dubey, Julie Tejwani, Rupa Bhimani, Jigna Bhardwaj, Rajesh Kava, Mousam, Swapnil",
+  "genre": "Kids' TV, TV Cartoons, Hindi-Language TV Shows",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild themes, mild language",
+  "desc": "A brave, energetic little boy with superhuman powers leads his friends on exciting adventures to guard their fellow Dholakpur villagers from evil.",
+  "oin": "",
+  "season": [
+    {
+      "s": "4",
+      "id": "81450193",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "8",
+      "id": "81450220",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "13",
+      "id": "81450234",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "14",
+      "id": "81450248",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "15",
+      "id": "81634534",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "16",
+      "id": "81634548",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "17",
+      "id": "81634563",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "18",
+      "id": "81634577",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "19",
+      "id": "81634591",
+      "ep": "13",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81634592",
+      "t": "Episode 1",
+      "s": "S19",
+      "ep": "E1",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81634593",
+      "t": "Episode 2",
+      "s": "S19",
+      "ep": "E2",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81634594",
+      "t": "Episode 3",
+      "s": "S19",
+      "ep": "E3",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81634595",
+      "t": "Episode 4",
+      "s": "S19",
+      "ep": "E4",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81634596",
+      "t": "Episode 5",
+      "s": "S19",
+      "ep": "E5",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81634597",
+      "t": "Episode 6",
+      "s": "S19",
+      "ep": "E6",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81634598",
+      "t": "Episode 7",
+      "s": "S19",
+      "ep": "E7",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81634599",
+      "t": "Episode 8",
+      "s": "S19",
+      "ep": "E8",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81634600",
+      "t": "Episode 9",
+      "s": "S19",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81634601",
+      "t": "Episode 10",
+      "s": "S19",
+      "ep": "E10",
+      "time": "22m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81634591",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "last_ep": "81634592",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81450320"
+    },
+    {
+      "id": "81701032"
+    },
+    {
+      "id": "81450285"
+    },
+    {
+      "id": "81570077"
+    },
+    {
+      "id": "81570092"
+    },
+    {
+      "id": "81318057"
+    },
+    {
+      "id": "80158156"
+    },
+    {
+      "id": "81318062"
+    },
+    {
+      "id": "81318081"
+    }
+  ],
+  "error": null
+}
