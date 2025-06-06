@@ -1,0 +1,226 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Outlander",
+  "year": "2014",
+  "ua": "U/A 18+ [A]",
+  "match": "95% match",
+  "runtime": "7 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Ronald D. Moore",
+  "director": "",
+  "writer": "",
+  "short_cast": "Caitriona Balfe, Sam Heughan, Tobias Menzies, Gary Lewis, Graham McTavish, Lotte Verbeek, Duncan Lacroix, Laura Donnelly, Bill Paterson, Stephen Walters, Grant O'Rourke, Simon Callow, Richard Rankin, Sophie Skelton, David Berry, Romann Berrux, Ed Speleers, Maria Doyle Kennedy, Tim Downie, C\u00e9sar Domboy, Lauren Lyle, Colin McFarlane, Caitlin O'Ryan, Mark Lewis Jones",
+  "cast": "Caitriona Balfe, Sam Heughan, Tobias Menzies, Gary Lewis, Graham McTavish, Lotte Verbeek, Duncan Lacroix, Laura Donnelly, Bill Paterson, Stephen Walters, Grant O'Rourke, Simon Callow, Richard Rankin, Sophie Skelton, David Berry, Romann Berrux, Ed Speleers, Maria Doyle Kennedy, Tim Downie, C\u00e9sar Domboy, Lauren Lyle, Colin McFarlane, Caitlin O'Ryan, Mark Lewis Jones",
+  "genre": "Romantic TV Dramas, Political TV Shows, TV Dramas, TV Shows Based on Books, TV Action & Adventure, US TV Shows, Fantasy TV Shows",
+  "thismovieis": "Steamy, Intimate, Emotional",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, suicide, substances, sexual violence, sex, nudity, language, gore, sexual violence references",
+  "desc": "This epic tale adapted from Diana Gabaldon's popular series of fantasy-romance novels focuses on the drama of two time-crossed lovers.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80103469",
+      "ep": "16",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80067602",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80191820",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "80225751",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "80227183",
+      "ep": "12",
+      "sele": " selected"
+    },
+    {
+      "s": "6",
+      "id": "80236116",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "7",
+      "id": "81692346",
+      "ep": "16",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81692348",
+      "t": "A Life Well Lost",
+      "s": "S7",
+      "ep": "E1",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81692349",
+      "t": "The Happiest Place On Earth",
+      "s": "S7",
+      "ep": "E2",
+      "time": "60m"
+    },
+    {
+      "complate": "0",
+      "id": "81692350",
+      "t": "Death Be Not Proud",
+      "s": "S7",
+      "ep": "E3",
+      "time": "60m"
+    },
+    {
+      "complate": "0",
+      "id": "81692351",
+      "t": "A Most Uncomfortable Woman",
+      "s": "S7",
+      "ep": "E4",
+      "time": "60m"
+    },
+    {
+      "complate": "0",
+      "id": "81692352",
+      "t": "Singapore",
+      "s": "S7",
+      "ep": "E5",
+      "time": "60m"
+    },
+    {
+      "complate": "0",
+      "id": "81692353",
+      "t": "Where The Waters Meet",
+      "s": "S7",
+      "ep": "E6",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81692354",
+      "t": "A Practical Guide For Time-travelers",
+      "s": "S7",
+      "ep": "E7",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81692355",
+      "t": "Turning Points",
+      "s": "S7",
+      "ep": "E8",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "81692356",
+      "t": "Unfinished Business",
+      "s": "S7",
+      "ep": "E9",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81692357",
+      "t": "Brotherly Love",
+      "s": "S7",
+      "ep": "E10",
+      "time": "59m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81692346",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81692348",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80099656"
+    },
+    {
+      "id": "80119411"
+    },
+    {
+      "id": "81222923"
+    },
+    {
+      "id": "81414644"
+    },
+    {
+      "id": "81354529"
+    },
+    {
+      "id": "80074249"
+    },
+    {
+      "id": "80190859"
+    },
+    {
+      "id": "81140933"
+    },
+    {
+      "id": "80025678"
+    },
+    {
+      "id": "81590491"
+    },
+    {
+      "id": "80232398"
+    },
+    {
+      "id": "81149450"
+    }
+  ],
+  "error": null
+}
