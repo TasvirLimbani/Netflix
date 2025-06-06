@@ -1,0 +1,75 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Joker",
+  "year": "2019",
+  "ua": "U/A 18+ [A]",
+  "match": "44% match",
+  "runtime": "2h 1m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Todd Phillips",
+  "writer": "Todd Phillips, Scott Silver, Bob Kane",
+  "short_cast": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy, Brett Cullen, Glenn Fleshler, Bill Camp, Shea Whigham, Marc Maron",
+  "cast": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy, Brett Cullen, Glenn Fleshler, Bill Camp, Shea Whigham, Marc Maron",
+  "genre": "Crime Movies, Drama Movies, Thriller Movies, Social Issue Dramas, US Movies",
+  "thismovieis": "Violent, Psychological, Gritty",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, nudity",
+  "desc": "In 1981 Gotham City, a struggling, mentally ill comic battles to be seen. His life takes a dark, gut-wrenching turn after he lashes back at attackers.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70079583"
+    },
+    {
+      "id": "81500601"
+    },
+    {
+      "id": "70021642"
+    },
+    {
+      "id": "80088678"
+    },
+    {
+      "id": "70005379"
+    },
+    {
+      "id": "70305903"
+    },
+    {
+      "id": "60024922"
+    },
+    {
+      "id": "70131314"
+    },
+    {
+      "id": "81591116"
+    },
+    {
+      "id": "60011152"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81128579"
+    }
+  ],
+  "error": null
+}
