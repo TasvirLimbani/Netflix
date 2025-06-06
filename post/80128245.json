@@ -1,0 +1,87 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Brain on Fire",
+  "year": "2016",
+  "ua": "U/A 13+",
+  "match": "99% match",
+  "runtime": "1h 29m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Gerard Barrett",
+  "writer": "Gerard Barrett, Susannah Cahalan",
+  "short_cast": "Chlo\u00eb Grace Moretz, Thomas Mann, Richard Armitage, Jenny Slate, Carrie-Anne Moss, Tyler Perry, Alex Zahara",
+  "cast": "Chlo\u00eb Grace Moretz, Thomas Mann, Richard Armitage, Jenny Slate, Carrie-Anne Moss, Tyler Perry, Alex Zahara",
+  "genre": "Movies Based on Real Life, US Movies, Movies Based on Books, Dramas, Independent Movies",
+  "thismovieis": "Emotional",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "substances, nudity, mature themes, language",
+  "desc": "Stricken with seizures, psychosis and memory loss, a young New York Post reporter visits doctor after doctor in search of an elusive diagnosis.",
+  "oin": "y",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "80171659"
+    },
+    {
+      "id": "80208802"
+    },
+    {
+      "id": "81349306"
+    },
+    {
+      "id": "81435227"
+    },
+    {
+      "id": "80081151"
+    },
+    {
+      "id": "60000428"
+    },
+    {
+      "id": "81447264"
+    },
+    {
+      "id": "786137"
+    },
+    {
+      "id": "80066891"
+    },
+    {
+      "id": "81128745"
+    },
+    {
+      "id": "80223927"
+    },
+    {
+      "id": "80200047"
+    }
+  ],
+  "error": null
+}
