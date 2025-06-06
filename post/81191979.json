@@ -1,0 +1,262 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Team Zenko Go",
+  "year": "2022",
+  "ua": "U",
+  "match": "100% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Nakai Takawira, Hartley Bernier, Penelope Good, Dominic Mariche, D'arcy Han, Tabitha St. Germain",
+  "cast": "Nakai Takawira, Hartley Bernier, Penelope Good, Dominic Mariche, D'arcy Han, Tabitha St. Germain",
+  "genre": "Kids' TV, TV Shows Based on Books, TV Cartoons",
+  "thismovieis": "Feel-Good",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "No good deed is too small for this kind kid squad! Niah, Ari, Ellie and Jax go undercover to help others and squash their town\u2019s problems in secret!",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81229126",
+      "ep": "12",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81229127",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81252666",
+      "t": "Photo Day Disaster / The Eightful Eight",
+      "s": "S2",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81252667",
+      "t": "Robo-Dog Day Afternoon / Spoiler Alert",
+      "s": "S2",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81252668",
+      "t": "Rodney J. Dinkle, Babysitter / Lights Out",
+      "s": "S2",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81252670",
+      "t": "Double Booked / Gym Enemy Cricket",
+      "s": "S2",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81252960",
+      "t": "Harmony Harbor Holiday Surprise",
+      "s": "S2",
+      "ep": "E5",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81252669",
+      "t": "The Big Sleepwalk / Of Course You Can",
+      "s": "S2",
+      "ep": "E6",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81252671",
+      "t": "Rodney the Hero / Club Shed",
+      "s": "S2",
+      "ep": "E7",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81252672",
+      "t": "It Takes a Zenko / What a Racket",
+      "s": "S2",
+      "ep": "E8",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81252673",
+      "t": "The Great Paper Chase / Home Is Where Ken's Heart Is",
+      "s": "S2",
+      "ep": "E9",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81252674",
+      "t": "That Stinking Feeling / Go for the Gold",
+      "s": "S2",
+      "ep": "E10",
+      "time": "24m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81229127",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81252666",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80993597"
+    },
+    {
+      "id": "80215155"
+    },
+    {
+      "id": "81135649"
+    },
+    {
+      "id": "80205037"
+    },
+    {
+      "id": "81244169"
+    },
+    {
+      "id": "80187223"
+    }
+  ],
+  "error": null
+}
