@@ -1,0 +1,198 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Unsolved",
+  "year": "2017",
+  "ua": "U/A 16+",
+  "match": "83% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Josh Duhamel, Jimmi Simpson, Bokeem Woodbine",
+  "cast": "Josh Duhamel, Jimmi Simpson, Bokeem Woodbine",
+  "genre": "Music, TV Dramas, TV Shows Based on Books, Hip-Hop, Crime TV Shows, US TV Shows, TV Shows Based on Real Life",
+  "thismovieis": "Provocative",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, mature themes, language",
+  "desc": "Ride along for a dramatized version of the real-life investigations into the murders of rap icons Tupac Shakur and Biggie Smalls.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80177337",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80177338",
+      "t": "Wherever It Leads",
+      "s": "S1",
+      "ep": "E1",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "80192595",
+      "t": "Nobody Talks",
+      "s": "S1",
+      "ep": "E2",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80192596",
+      "t": "The Mack",
+      "s": "S1",
+      "ep": "E3",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "80192597",
+      "t": "Take Your Best Shot",
+      "s": "S1",
+      "ep": "E4",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "80192598",
+      "t": "The Art of War",
+      "s": "S1",
+      "ep": "E5",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "80192599",
+      "t": "East Coast, West Coast",
+      "s": "S1",
+      "ep": "E6",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80192900",
+      "t": "Half the Job",
+      "s": "S1",
+      "ep": "E7",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80192901",
+      "t": "Tupac Amaru Shakur",
+      "s": "S1",
+      "ep": "E8",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80232257",
+      "t": "Christopher",
+      "s": "S1",
+      "ep": "E9",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80232258",
+      "t": "Unsolved?",
+      "s": "S1",
+      "ep": "E10",
+      "time": "46m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80177337",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80177338",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "60024922"
+    },
+    {
+      "id": "80216302"
+    },
+    {
+      "id": "81683692"
+    },
+    {
+      "id": "80226923"
+    },
+    {
+      "id": "80217669"
+    },
+    {
+      "id": "81691509"
+    },
+    {
+      "id": "80244479"
+    },
+    {
+      "id": "80208630"
+    },
+    {
+      "id": "60000417"
+    },
+    {
+      "id": "80195963"
+    },
+    {
+      "id": "81092221"
+    },
+    {
+      "id": "70060009"
+    }
+  ],
+  "error": null
+}
