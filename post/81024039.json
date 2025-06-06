@@ -1,0 +1,196 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Barbarians",
+  "year": "2020",
+  "ua": "U/A 18+ [A]",
+  "match": "46% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Arne Nolting, Jan Martin Scharf, Andreas Heckmann",
+  "director": "",
+  "writer": "",
+  "short_cast": "Laurence Rupp, Jeanne Goursaud, David Sch\u00fctter, Daniel Donskoy, Murathan Muslu, Bernhard Sch\u00fctz, Eva Verena M\u00fcller, Florian Schmidtke, Alessandro Fella, Giovanni Carta, Cynthia Micas, Katharina Heyer, Gabriele Rizzoli, Ilknur Boyraz, Robert Maaser, Ronald Zehrfeld, Nicki von Tempelhoff, Sophie Rois, Gaetano Aronica, Nikolai Kinski, Jeremy Miliker",
+  "cast": "Laurence Rupp, Jeanne Goursaud, David Sch\u00fctter, Daniel Donskoy, Murathan Muslu, Bernhard Sch\u00fctz, Eva Verena M\u00fcller, Florian Schmidtke, Alessandro Fella, Giovanni Carta, Cynthia Micas, Katharina Heyer, Gabriele Rizzoli, Ilknur Boyraz, Robert Maaser, Ronald Zehrfeld, Nicki von Tempelhoff, Sophie Rois, Gaetano Aronica, Nikolai Kinski, Jeremy Miliker",
+  "genre": "TV Dramas, German, TV Action & Adventure",
+  "thismovieis": "Violent, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, suicide, sex, self-harm, nudity, gore",
+  "desc": "Torn between the mighty empire that raised him and his own tribal people, a Roman officer's conflicted allegiances lead to an epic historical clash.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81024287",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81207569",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81408913",
+      "t": "New Legions",
+      "s": "S2",
+      "ep": "E1",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81408914",
+      "t": "Captured",
+      "s": "S2",
+      "ep": "E2",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81408915",
+      "t": "Fathers",
+      "s": "S2",
+      "ep": "E3",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81408916",
+      "t": "The Oath",
+      "s": "S2",
+      "ep": "E4",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81408917",
+      "t": "Doomed",
+      "s": "S2",
+      "ep": "E5",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81408918",
+      "t": "The Price",
+      "s": "S2",
+      "ep": "E6",
+      "time": "44m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81207569",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81408913",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81149450"
+    },
+    {
+      "id": "80175352"
+    },
+    {
+      "id": "80990771"
+    },
+    {
+      "id": "80074249"
+    },
+    {
+      "id": "81460361"
+    },
+    {
+      "id": "80182016"
+    },
+    {
+      "id": "80096545"
+    },
+    {
+      "id": "70301870"
+    },
+    {
+      "id": "80190859"
+    },
+    {
+      "id": "70305883"
+    },
+    {
+      "id": "70056440"
+    }
+  ],
+  "error": null
+}
