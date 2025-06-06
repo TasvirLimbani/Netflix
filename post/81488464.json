@@ -1,0 +1,190 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "WWII in Color: Road to Victory",
+  "year": "2021",
+  "ua": "U/A 16+",
+  "match": "72% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Political TV Shows, British, Historical Documentaries, Political Documentaries, Military Documentaries, Docuseries",
+  "thismovieis": "Gritty",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, tobacco use, suicide, disturbing images",
+  "desc": "Gripping historical footage and expert commentary give detailed insights into the leading figures and decisive turning points of World War II.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81292684",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81387845",
+      "t": "Dunkirk",
+      "s": "S1",
+      "ep": "E1",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81387846",
+      "t": "The Battle of the Atlantic",
+      "s": "S1",
+      "ep": "E2",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81387847",
+      "t": "The Invasion of North Africa",
+      "s": "S1",
+      "ep": "E3",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81387848",
+      "t": "The Battle of Kursk",
+      "s": "S1",
+      "ep": "E4",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81387849",
+      "t": "The Invasion of Italy",
+      "s": "S1",
+      "ep": "E5",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81387850",
+      "t": "The Liberation of Paris",
+      "s": "S1",
+      "ep": "E6",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81387854",
+      "t": "The Battle of the Philippine Sea",
+      "s": "S1",
+      "ep": "E7",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81387851",
+      "t": "Iwo Jima",
+      "s": "S1",
+      "ep": "E8",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81387852",
+      "t": "The Race for Berlin",
+      "s": "S1",
+      "ep": "E9",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81387853",
+      "t": "Okinawa",
+      "s": "S1",
+      "ep": "E10",
+      "time": "50m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81292684",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81387845",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81303911"
+    },
+    {
+      "id": "80989924"
+    },
+    {
+      "id": "80138915"
+    },
+    {
+      "id": "81614129"
+    },
+    {
+      "id": "81561941"
+    },
+    {
+      "id": "80106791"
+    },
+    {
+      "id": "80989772"
+    },
+    {
+      "id": "81672035"
+    },
+    {
+      "id": "81474104"
+    },
+    {
+      "id": "80096545"
+    },
+    {
+      "id": "81474469"
+    },
+    {
+      "id": "21477429"
+    }
+  ],
+  "error": null
+}
