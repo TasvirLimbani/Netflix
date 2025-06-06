@@ -1,0 +1,184 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Dark",
+  "year": "2017",
+  "ua": "U/A 18+ [A]",
+  "match": "57% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Baran bo Odar, Jantje Friese",
+  "director": "",
+  "writer": "",
+  "short_cast": "Louis Hofmann, Oliver Masucci, J\u00f6rdis Triebel, Maja Sch\u00f6ne, Karoline Eichhorn, Sebastian Rudolph, Anatole Taubman, Mark Waschke, Stephan Kampwirth, Anne Ratte-Polle, Andreas Pietschmann, Lisa Vicari, Michael Mendl, Angela Winkler",
+  "cast": "Louis Hofmann, Oliver Masucci, J\u00f6rdis Triebel, Maja Sch\u00f6ne, Karoline Eichhorn, Sebastian Rudolph, Anatole Taubman, Mark Waschke, Stephan Kampwirth, Anne Ratte-Polle, Andreas Pietschmann, Lisa Vicari, Michael Mendl, Angela Winkler",
+  "genre": "TV Dramas, German, Sci-Fi TV, TV Mysteries, Crime TV Shows, TV Thrillers",
+  "thismovieis": "Mind-Bending, Chilling, Ominous",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide, sex, nudity, language",
+  "desc": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80114789",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80233888",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81015509",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81183523",
+      "t": "Deja-vu",
+      "s": "S3",
+      "ep": "E1",
+      "time": "62m"
+    },
+    {
+      "complate": "0",
+      "id": "81183524",
+      "t": "The Survivors",
+      "s": "S3",
+      "ep": "E2",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81183525",
+      "t": "Adam and Eva",
+      "s": "S3",
+      "ep": "E3",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "81183526",
+      "t": "The Origin",
+      "s": "S3",
+      "ep": "E4",
+      "time": "64m"
+    },
+    {
+      "complate": "0",
+      "id": "81183527",
+      "t": "Life and Death",
+      "s": "S3",
+      "ep": "E5",
+      "time": "64m"
+    },
+    {
+      "complate": "0",
+      "id": "81183528",
+      "t": "Light and Shadow",
+      "s": "S3",
+      "ep": "E6",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "81183529",
+      "t": "Between the Time",
+      "s": "S3",
+      "ep": "E7",
+      "time": "69m"
+    },
+    {
+      "complate": "0",
+      "id": "81183530",
+      "t": "The Paradise",
+      "s": "S3",
+      "ep": "E8",
+      "time": "73m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81015509",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81183523",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80214497"
+    },
+    {
+      "id": "70264888"
+    },
+    {
+      "id": "81133094"
+    },
+    {
+      "id": "80154610"
+    },
+    {
+      "id": "80222802"
+    },
+    {
+      "id": "81090319"
+    },
+    {
+      "id": "80993062"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "80044950"
+    },
+    {
+      "id": "81631011"
+    }
+  ],
+  "error": null
+}
