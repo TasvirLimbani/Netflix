@@ -1,0 +1,127 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Erax",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "44% match",
+  "runtime": "15m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Hebru Brantley",
+  "writer": "Henry G.M. Jones, Hebru Brantley",
+  "short_cast": "Jasmine Cephas Jones, Genesis White, Lance Gross",
+  "cast": "Jasmine Cephas Jones, Genesis White, Lance Gross",
+  "genre": "Mysteries, Family Features, US Movies, Children & Family Movies",
+  "thismovieis": "",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language, mild fear",
+  "desc": "Monstrous creatures leap from a magical storybook and unleash mayhem and mischief for Auntie Opal and her tween niece Nina in this spooky short film.",
+  "oin": "y",
+  "resume": "",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81012821"
+    },
+    {
+      "id": "80991404"
+    },
+    {
+      "id": "80214792"
+    },
+    {
+      "id": "81076952"
+    },
+    {
+      "id": "70044595"
+    },
+    {
+      "id": "80992263"
+    },
+    {
+      "id": "81220825"
+    },
+    {
+      "id": "81329721"
+    },
+    {
+      "id": "81023618"
+    },
+    {
+      "id": "80232279"
+    },
+    {
+      "id": "80993016"
+    },
+    {
+      "id": "81588091"
+    }
+  ],
+  "error": null
+}
