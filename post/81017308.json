@@ -1,0 +1,191 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Tiny Pretty Things",
+  "year": "2020",
+  "ua": "U/A 18+ [A]",
+  "match": "98% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Michael MacLennan",
+  "director": "",
+  "writer": "",
+  "short_cast": "Lauren Holly, Kylie Jefferson, Casimere Jollette, Brennan Clost, Barton Cowperthwaite, Bayardo De Murguia, Damon J. Gillespie, Anna Maiche, Daniela Norman, Michael Hsu Rosen, Tory Trowbridge",
+  "cast": "Lauren Holly, Kylie Jefferson, Casimere Jollette, Brennan Clost, Barton Cowperthwaite, Bayardo De Murguia, Damon J. Gillespie, Anna Maiche, Daniela Norman, Michael Hsu Rosen, Tory Trowbridge",
+  "genre": "TV Dramas, TV Shows Based on Books, Teen TV Shows, TV Mysteries, US TV Shows, TV Thrillers",
+  "thismovieis": "Steamy, Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "substances, sexual violence, sex, self-harm, nudity, language",
+  "desc": "When an attack brings down the star student at an elite ballet school, her replacement enters a world of lies, betrayal \u2014 and cutthroat competition.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81017312",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81017377",
+      "t": "Corps",
+      "s": "S1",
+      "ep": "E1",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "81017378",
+      "t": "Range of Motion",
+      "s": "S1",
+      "ep": "E2",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81017379",
+      "t": "Class Act",
+      "s": "S1",
+      "ep": "E3",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "81017380",
+      "t": "Dance Dance Revolution",
+      "s": "S1",
+      "ep": "E4",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81017381",
+      "t": "Split Sole",
+      "s": "S1",
+      "ep": "E5",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81017382",
+      "t": "Joie de Vivre",
+      "s": "S1",
+      "ep": "E6",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81017383",
+      "t": "Catch & Release",
+      "s": "S1",
+      "ep": "E7",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "81017384",
+      "t": "Relev\u00e9",
+      "s": "S1",
+      "ep": "E8",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81017385",
+      "t": "It's Not the Waking, It's the Rising",
+      "s": "S1",
+      "ep": "E9",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81017386",
+      "t": "Push Comes to Shove",
+      "s": "S1",
+      "ep": "E10",
+      "time": "58m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81017312",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81017377",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81328187"
+    },
+    {
+      "id": "80243706"
+    },
+    {
+      "id": "80211686"
+    },
+    {
+      "id": "81459931"
+    },
+    {
+      "id": "81002685"
+    },
+    {
+      "id": "80197989"
+    },
+    {
+      "id": "80200942"
+    }
+  ],
+  "error": null
+}
