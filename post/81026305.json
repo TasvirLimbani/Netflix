@@ -1,0 +1,188 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Bandidos",
+  "year": "2024",
+  "ua": "U/A 18+ [A]",
+  "match": "74% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Alfonso Dosal, Ester Exp\u00f3sito, Juan Pablo Medina, Mabel Cadena, Juan Pablo Fuentes, Andrea Chaparro, Andr\u00e9s Baida, Adri\u00e1n Ladr\u00f3n, Bruno Bichir, Nicol\u00e1s Furtado",
+  "cast": "Alfonso Dosal, Ester Exp\u00f3sito, Juan Pablo Medina, Mabel Cadena, Juan Pablo Fuentes, Andrea Chaparro, Andr\u00e9s Baida, Adri\u00e1n Ladr\u00f3n, Bruno Bichir, Nicol\u00e1s Furtado",
+  "genre": "Mexican, TV Action & Adventure",
+  "thismovieis": "Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, nudity, language, sexual violence references",
+  "desc": "A gang of skilled misfits ventures to uncover a long-hidden Mayan treasure. Their strategy? Hazy. Their dynamic? Off. Luckily, they're pretty ingenious.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81029765",
+      "ep": "7",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81068892",
+      "ep": "7",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81068893",
+      "t": "The Past Comes Calling",
+      "s": "S2",
+      "ep": "E1",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81068894",
+      "t": "Scorpion Rock",
+      "s": "S2",
+      "ep": "E2",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81068895",
+      "t": "Huachicoleros",
+      "s": "S2",
+      "ep": "E3",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81068896",
+      "t": "The Island of the Dead",
+      "s": "S2",
+      "ep": "E4",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81068897",
+      "t": "La Casa De La Luna",
+      "s": "S2",
+      "ep": "E5",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81068898",
+      "t": "The Diamond",
+      "s": "S2",
+      "ep": "E6",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81068899",
+      "t": "The Heist",
+      "s": "S2",
+      "ep": "E7",
+      "time": "39m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81068892",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81068893",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81336431"
+    },
+    {
+      "id": "81317562"
+    },
+    {
+      "id": "81461530"
+    },
+    {
+      "id": "81437051"
+    },
+    {
+      "id": "81698397"
+    },
+    {
+      "id": "81348771"
+    },
+    {
+      "id": "81012637"
+    },
+    {
+      "id": "81397077"
+    },
+    {
+      "id": "81024039"
+    },
+    {
+      "id": "80992058"
+    },
+    {
+      "id": "81413928"
+    },
+    {
+      "id": "81438805"
+    }
+  ],
+  "error": null
+}
