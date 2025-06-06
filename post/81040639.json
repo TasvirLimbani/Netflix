@@ -1,0 +1,229 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Pup Academy",
+  "year": "2020",
+  "ua": "U",
+  "match": "60% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Anna McRoberts",
+  "director": "",
+  "writer": "",
+  "short_cast": "Christian Convery, Don Lake, Chance Hurstfield, Aria Birch, Dylan Schombing, Riley O'Donnell",
+  "cast": "Christian Convery, Don Lake, Chance Hurstfield, Aria Birch, Dylan Schombing, Riley O'Donnell",
+  "genre": "Family Time TV, Kids' TV, TV Comedies",
+  "thismovieis": "",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "Furry friends take a re-bark-able journey in this series about an extraordinary school for the cutest, cuddliest and most curious puppies.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81040640",
+      "ep": "12",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81143355",
+      "ep": "7",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81040653",
+      "t": "The Constellation Fades",
+      "s": "S2",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81040654",
+      "t": "Spark Wants Back",
+      "s": "S2",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81040655",
+      "t": "The Day of the  Stray",
+      "s": "S2",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81040656",
+      "t": "Skunked!",
+      "s": "S2",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81040657",
+      "t": "The King Sting",
+      "s": "S2",
+      "ep": "E5",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81040658",
+      "t": "Most Valuable Pup",
+      "s": "S2",
+      "ep": "E6",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81040659",
+      "t": "The Stray's Last Day",
+      "s": "S2",
+      "ep": "E7",
+      "time": "44m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81143355",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81040653",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81488581"
+    },
+    {
+      "id": "81309532"
+    },
+    {
+      "id": "80204923"
+    },
+    {
+      "id": "81329721"
+    },
+    {
+      "id": "28631029"
+    },
+    {
+      "id": "81107362"
+    },
+    {
+      "id": "80245121"
+    },
+    {
+      "id": "60022058"
+    },
+    {
+      "id": "81349324"
+    },
+    {
+      "id": "81191433"
+    },
+    {
+      "id": "80992263"
+    }
+  ],
+  "error": null
+}
