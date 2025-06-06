@@ -1,0 +1,165 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Sky High: The Series",
+  "year": "2023",
+  "ua": "U/A 18+ [A]",
+  "match": "79% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Daniel Calparsoro, Jorge Guerricaechevarr\u00eda",
+  "director": "",
+  "writer": "",
+  "short_cast": "Asia Ortega, Luis Tosar, \u00c1lvaro Rico, Richard Holmes, Patricia Vico, Fernando Cayo, Alana La Hija del Jeque, \u00c1yax Pedrosa, Dollar Selmouni, Carmen S\u00e1nchez",
+  "cast": "Asia Ortega, Luis Tosar, \u00c1lvaro Rico, Richard Holmes, Patricia Vico, Fernando Cayo, Alana La Hija del Jeque, \u00c1yax Pedrosa, Dollar Selmouni, Carmen S\u00e1nchez",
+  "genre": "TV Dramas, Spanish, TV Action & Adventure, Crime TV Shows, TV Thrillers",
+  "thismovieis": "Gritty, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, sex, nudity, language",
+  "desc": "When her husband dies, Sole decides that the best way to take care of her son is to become a crime boss \u2014 even if that means being her father's enemy.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81317563",
+      "ep": "7",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81317614",
+      "t": "The Living and the Dead",
+      "s": "S1",
+      "ep": "E1",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81317615",
+      "t": "New Friendships, Old Enemies",
+      "s": "S1",
+      "ep": "E2",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81317616",
+      "t": "Settling Old Scores",
+      "s": "S1",
+      "ep": "E3",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81317617",
+      "t": "Trojan Horse",
+      "s": "S1",
+      "ep": "E4",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81317618",
+      "t": "Stirring Up a Hornet's Nest",
+      "s": "S1",
+      "ep": "E5",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81317619",
+      "t": "Parents and Children",
+      "s": "S1",
+      "ep": "E6",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81577705",
+      "t": "In the Lion's Den",
+      "s": "S1",
+      "ep": "E7",
+      "time": "44m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81317563",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81317614",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81348771"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81012637"
+    },
+    {
+      "id": "81026305"
+    },
+    {
+      "id": "81495803"
+    },
+    {
+      "id": "81438160"
+    },
+    {
+      "id": "81494917"
+    },
+    {
+      "id": "81306170"
+    },
+    {
+      "id": "80992058"
+    }
+  ],
+  "error": null
+}
