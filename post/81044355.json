@@ -1,0 +1,163 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Maldivas",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "89% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Natalia Klein",
+  "director": "",
+  "writer": "",
+  "short_cast": "Bruna Marquezine, Manu Gavassi, Carol Castro, Natalia Klein, Sheron Menezzes, Vannessa Gerbelli, \u00c2ngela Vieira",
+  "cast": "Bruna Marquezine, Manu Gavassi, Carol Castro, Natalia Klein, Sheron Menezzes, Vannessa Gerbelli, \u00c2ngela Vieira",
+  "genre": "TV Dramas, Brazilian, TV Mysteries, TV Comedies",
+  "thismovieis": "Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, substances, sex, nudity",
+  "desc": "To investigate a mystery, a young woman moves into a posh condo community, where she comes into contact with its quirky \u2014 and suspicious \u2014 residents.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81185734",
+      "ep": "7",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81187587",
+      "t": "Welcome to Maldivas",
+      "s": "S1",
+      "ep": "E1",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "81187588",
+      "t": "You think I don't watch CSI?",
+      "s": "S1",
+      "ep": "E2",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81187589",
+      "t": "I am Patr\u00edcia Duque!",
+      "s": "S1",
+      "ep": "E3",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81187590",
+      "t": "Incendiary",
+      "s": "S1",
+      "ep": "E4",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81187591",
+      "t": "Call Sandro",
+      "s": "S1",
+      "ep": "E5",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81187592",
+      "t": "Playing with Fire",
+      "s": "S1",
+      "ep": "E6",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81187593",
+      "t": "It's over, Leia",
+      "s": "S1",
+      "ep": "E7",
+      "time": "43m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81185734",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81187587",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81036293"
+    },
+    {
+      "id": "81227504"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81578306"
+    },
+    {
+      "id": "81054857"
+    },
+    {
+      "id": "81175173"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "81139775"
+    },
+    {
+      "id": "81382019"
+    },
+    {
+      "id": "81047512"
+    },
+    {
+      "id": "81009545"
+    }
+  ],
+  "error": null
+}
