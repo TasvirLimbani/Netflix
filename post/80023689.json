@@ -1,0 +1,115 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Ex Machina",
+  "year": "2015",
+  "ua": "U/A 16+",
+  "match": "49% match",
+  "runtime": "1h 48m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Alex Garland",
+  "writer": "Alex Garland",
+  "short_cast": "Domhnall Gleeson, Oscar Isaac, Alicia Vikander, Sonoya Mizuno, Claire Selby, Symara Templeman, Gana Bayarsaikhan, Tiffany Pisani, Corey Johnson",
+  "cast": "Domhnall Gleeson, Oscar Isaac, Alicia Vikander, Sonoya Mizuno, Claire Selby, Symara Templeman, Gana Bayarsaikhan, Tiffany Pisani, Corey Johnson",
+  "genre": "Sci-Fi Movies, British, Dramas, Independent Movies",
+  "thismovieis": "Cerebral, Understated",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "nudity, language",
+  "desc": "A coder at a tech company wins a week-long retreat at the compound of his company's CEO, where he's tasked with testing a new artificial intelligence.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "80206300"
+    },
+    {
+      "id": "80117456"
+    },
+    {
+      "id": "70305903"
+    },
+    {
+      "id": "80217569"
+    },
+    {
+      "id": "81199139"
+    },
+    {
+      "id": "80227090"
+    },
+    {
+      "id": "81465109"
+    },
+    {
+      "id": "80183339"
+    },
+    {
+      "id": "80185760"
+    },
+    {
+      "id": "80174608"
+    },
+    {
+      "id": "70298735"
+    },
+    {
+      "id": "70131314"
+    }
+  ],
+  "error": null
+}
