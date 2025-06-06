@@ -1,0 +1,197 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Sinner",
+  "year": "2017",
+  "ua": "U/A 18+ [A]",
+  "match": "59% match",
+  "runtime": "4 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Derek Simonds",
+  "director": "",
+  "writer": "",
+  "short_cast": "Bill Pullman, Jessica Biel, Carrie Coon, Matt Bomer, Chris Messina, Christopher Abbott, Dohn Norwood, Abby Miller, Jay O. Sanders, Natalie Paul, Elisha Henig, Jessica Hecht, Frances Fisher, Michael Mosley, Alice Kremelberg, Neal Huff, Cindy Cheung, Ronin Wong",
+  "cast": "Bill Pullman, Jessica Biel, Carrie Coon, Matt Bomer, Chris Messina, Christopher Abbott, Dohn Norwood, Abby Miller, Jay O. Sanders, Natalie Paul, Elisha Henig, Jessica Hecht, Frances Fisher, Michael Mosley, Alice Kremelberg, Neal Huff, Cindy Cheung, Ronin Wong",
+  "genre": "TV Dramas, TV Shows Based on Books, TV Mysteries, Crime TV Shows, US TV Shows, TV Thrillers",
+  "thismovieis": "Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide, substances, sex, nudity",
+  "desc": "In a small New York town, a haunted detective hunts for answers about perplexing crimes while wrestling with his own demons.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80177548",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80225089",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80226702",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "80226545",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80226546",
+      "t": "Part I",
+      "s": "S4",
+      "ep": "E1",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81498060",
+      "t": "Part II",
+      "s": "S4",
+      "ep": "E2",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81498061",
+      "t": "Part III",
+      "s": "S4",
+      "ep": "E3",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81498062",
+      "t": "Part IV",
+      "s": "S4",
+      "ep": "E4",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81498063",
+      "t": "Part V",
+      "s": "S4",
+      "ep": "E5",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81498064",
+      "t": "Part VI",
+      "s": "S4",
+      "ep": "E6",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81498065",
+      "t": "Part VII",
+      "s": "S4",
+      "ep": "E7",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81498066",
+      "t": "Part VIII",
+      "s": "S4",
+      "ep": "E8",
+      "time": "57m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80226545",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80226546",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81332052"
+    },
+    {
+      "id": "81045829"
+    },
+    {
+      "id": "81380441"
+    },
+    {
+      "id": "80114855"
+    },
+    {
+      "id": "80153467"
+    },
+    {
+      "id": "80149395"
+    },
+    {
+      "id": "81015514"
+    },
+    {
+      "id": "80010655"
+    },
+    {
+      "id": "81388035"
+    },
+    {
+      "id": "80200549"
+    },
+    {
+      "id": "81417796"
+    }
+  ],
+  "error": null
+}
