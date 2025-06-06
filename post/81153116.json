@@ -1,0 +1,197 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Onimusha",
+  "year": "2023",
+  "ua": "U/A 18+ [A]",
+  "match": "60% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Akio Otsuka, Aya Yamane, Kazuyuki Okitsu, Ryohei Kimura, Daiki Yamashita, Hochu Otsuka, Makoto Furukawa, Subaru Kimura, Katsuyuki Konishi, Toshihiko Seki, Kenichi Ogata, Takaya Hashi, Hidenori Takahashi, Daiki Hamano, Yuya Hirose, Wataru Takagi",
+  "cast": "Akio Otsuka, Aya Yamane, Kazuyuki Okitsu, Ryohei Kimura, Daiki Yamashita, Hochu Otsuka, Makoto Furukawa, Subaru Kimura, Katsuyuki Konishi, Toshihiko Seki, Kenichi Ogata, Takaya Hashi, Hidenori Takahashi, Daiki Hamano, Yuya Hirose, Wataru Takagi",
+  "genre": "Action Anime, Japanese, Anime based on a Video Game, Anime Series",
+  "thismovieis": "Imaginative, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use",
+  "desc": "With a demonic, soul-consuming weapon in hand, can a legendary swordsman and a samurai brotherhood defeat a bloodthirsty zombie uprising?",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81186817",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81186836",
+      "t": "Demon",
+      "s": "S1",
+      "ep": "E1",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81186837",
+      "t": "Mountain Demon",
+      "s": "S1",
+      "ep": "E2",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81186838",
+      "t": "Nightmare",
+      "s": "S1",
+      "ep": "E3",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81186839",
+      "t": "Bewitch",
+      "s": "S1",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81186840",
+      "t": "Yin Soul",
+      "s": "S1",
+      "ep": "E5",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81186841",
+      "t": "Oni",
+      "s": "S1",
+      "ep": "E6",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81186842",
+      "t": "Harbinger",
+      "s": "S1",
+      "ep": "E7",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81186843",
+      "t": "Yang Soul",
+      "s": "S1",
+      "ep": "E8",
+      "time": "36m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81186817",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    }
+  ],
+  "last_ep": "81186836",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81144203"
+    },
+    {
+      "id": "81648184"
+    },
+    {
+      "id": "80992228"
+    },
+    {
+      "id": "81281344"
+    },
+    {
+      "id": "81215625"
+    },
+    {
+      "id": "81436901"
+    },
+    {
+      "id": "81001988"
+    },
+    {
+      "id": "81249833"
+    },
+    {
+      "id": "80174608"
+    }
+  ],
+  "error": null
+}
