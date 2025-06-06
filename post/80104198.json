@@ -1,0 +1,218 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Lost in Space",
+  "year": "2018",
+  "ua": "U/A 7+",
+  "match": "70% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Molly Parker, Toby Stephens, Maxwell Jenkins, Taylor Russell, Mina Sundwall, Parker Posey, Ignacio Serricchio",
+  "cast": "Molly Parker, Toby Stephens, Maxwell Jenkins, Taylor Russell, Mina Sundwall, Parker Posey, Ignacio Serricchio",
+  "genre": "TV Dramas, Family Watch Together TV, TV Action & Adventure, US TV Shows",
+  "thismovieis": "Suspenseful",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence",
+  "desc": "After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But they're surrounded by hidden dangers.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80117696",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80223767",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81016967",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81253778",
+      "t": "Three Little Birds",
+      "s": "S3",
+      "ep": "E1",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81253779",
+      "t": "Contact",
+      "s": "S3",
+      "ep": "E2",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81253780",
+      "t": "The New Guy",
+      "s": "S3",
+      "ep": "E3",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81253781",
+      "t": "Nothing Left Behind",
+      "s": "S3",
+      "ep": "E4",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81253783",
+      "t": "Stuck",
+      "s": "S3",
+      "ep": "E5",
+      "time": "38m"
+    },
+    {
+      "complate": "0",
+      "id": "81253784",
+      "t": "Final Transmission",
+      "s": "S3",
+      "ep": "E6",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81253785",
+      "t": "Contingencies on Contingencies",
+      "s": "S3",
+      "ep": "E7",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81253786",
+      "t": "Trust",
+      "s": "S3",
+      "ep": "E8",
+      "time": "58m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81016967",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    }
+  ],
+  "last_ep": "81253778",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80236236"
+    },
+    {
+      "id": "81098012"
+    },
+    {
+      "id": "81037539"
+    },
+    {
+      "id": "70305903"
+    },
+    {
+      "id": "70097578"
+    },
+    {
+      "id": "80993062"
+    },
+    {
+      "id": "80214512"
+    },
+    {
+      "id": "80117456"
+    },
+    {
+      "id": "80177458"
+    },
+    {
+      "id": "80117803"
+    },
+    {
+      "id": "80241239"
+    },
+    {
+      "id": "80097140"
+    }
+  ],
+  "error": null
+}
