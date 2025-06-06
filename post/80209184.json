@@ -1,0 +1,172 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Freud",
+  "year": "2020",
+  "ua": "U/A 18+ [A]",
+  "match": "56% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Marvin Kren, Benjamin Hessler, Stefan Brunner",
+  "director": "",
+  "writer": "",
+  "short_cast": "Robert Finster, Ella Rumpf, Georg Friedrich, Christoph Krutzler, Brigitte Kren, Anja Kling, Philipp Hochmair",
+  "cast": "Robert Finster, Ella Rumpf, Georg Friedrich, Christoph Krutzler, Brigitte Kren, Anja Kling, Philipp Hochmair",
+  "genre": "TV Dramas, Austrian, TV Mysteries, Period Pieces, Crime TV Shows, TV Thrillers",
+  "thismovieis": "Dark, Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "substances, sexual violence, sex, self-harm, nudity, gore",
+  "desc": "Eager to make his name in 19th-century Vienna, a hungry young Sigmund Freud joins a psychic and an inspector to solve a string of bloody mysteries.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81004819",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81004821",
+      "t": "Hysteria",
+      "s": "S1",
+      "ep": "E1",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81004822",
+      "t": "Trauma",
+      "s": "S1",
+      "ep": "E2",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81004823",
+      "t": "Somnambulant",
+      "s": "S1",
+      "ep": "E3",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81004824",
+      "t": "Totem and Taboo",
+      "s": "S1",
+      "ep": "E4",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81004825",
+      "t": "Desire",
+      "s": "S1",
+      "ep": "E5",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81004826",
+      "t": "Regression",
+      "s": "S1",
+      "ep": "E6",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81004827",
+      "t": "Catharsis",
+      "s": "S1",
+      "ep": "E7",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81004828",
+      "t": "Suppression",
+      "s": "S1",
+      "ep": "E8",
+      "time": "53m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81004819",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81004821",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81463577"
+    },
+    {
+      "id": "80149395"
+    },
+    {
+      "id": "80119411"
+    },
+    {
+      "id": "80175352"
+    },
+    {
+      "id": "81498384"
+    },
+    {
+      "id": "81730920"
+    },
+    {
+      "id": "80211648"
+    },
+    {
+      "id": "80096545"
+    },
+    {
+      "id": "80114855"
+    },
+    {
+      "id": "81414644"
+    }
+  ],
+  "error": null
+}
