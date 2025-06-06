@@ -1,0 +1,119 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Dog Gone",
+  "year": "2023",
+  "ua": "U/A 7+",
+  "match": "41% match",
+  "runtime": "1h 35m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Stephen Herek",
+  "writer": "Pauls Toutonghi, Nick Santora",
+  "short_cast": "Rob Lowe, Johnny Berchtold, Kimberly Williams-Paisley, Nick Peine",
+  "cast": "Rob Lowe, Johnny Berchtold, Kimberly Williams-Paisley, Nick Peine",
+  "genre": "Family Features, Movies Based on Real Life, US Movies, Teen Movies, Movies Based on Books, Children & Family Movies, Dramas",
+  "thismovieis": "Inspiring, Heartfelt, Feel-Good",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language, mild fear",
+  "desc": "When his beloved dog goes missing, a young man embarks on an incredible search with his parents to find him and give him life-saving medication.",
+  "oin": "y",
+  "resume": "",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81107362"
+    },
+    {
+      "id": "80204923"
+    },
+    {
+      "id": "81347579"
+    },
+    {
+      "id": "81023618"
+    },
+    {
+      "id": "80995799"
+    },
+    {
+      "id": "81010969"
+    },
+    {
+      "id": "81191433"
+    },
+    {
+      "id": "81298682"
+    }
+  ],
+  "error": null
+}
