@@ -1,0 +1,169 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Regular Show",
+  "year": "2010",
+  "ua": "U/A 13+",
+  "match": "87% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "J.G. Quintel",
+  "director": "",
+  "writer": "",
+  "short_cast": "J.G. Quintel, William Salyers, Sam Marin, Mark Hamill",
+  "cast": "J.G. Quintel, William Salyers, Sam Marin, Mark Hamill",
+  "genre": "Family Time TV, TV Comedies, US TV Shows",
+  "thismovieis": "Absurd, Imaginative",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence",
+  "desc": "Oddball best friends Mordecai and Rigby pass the time at their groundskeeping job by goofing off \u2014 and going on surreal adventures.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "70266597",
+      "ep": "12",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "70269648",
+      "ep": "28",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80009617",
+      "ep": "40",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80009538",
+      "t": "Stick Hockey",
+      "s": "S3",
+      "ep": "E1",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "80009539",
+      "t": "Bet to Be Blonde",
+      "s": "S3",
+      "ep": "E2",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "80009540",
+      "t": "Skips Strikes",
+      "s": "S3",
+      "ep": "E3",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81721773",
+      "t": "In the House",
+      "s": "S3",
+      "ep": "E4",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81721774",
+      "t": "Death Metal Crash Pit",
+      "s": "S3",
+      "ep": "E5",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "80009542",
+      "t": "Camping Can Be Cool",
+      "s": "S3",
+      "ep": "E6",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "80009543",
+      "t": "Slam Dunk",
+      "s": "S3",
+      "ep": "E7",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "80009544",
+      "t": "Cool Bikes",
+      "s": "S3",
+      "ep": "E8",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "80009545",
+      "t": "House Rules",
+      "s": "S3",
+      "ep": "E9",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "80009546",
+      "t": "Rap It Up",
+      "s": "S3",
+      "ep": "E10",
+      "time": "11m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80009617",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "last_ep": "80009538",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "70241425"
+    },
+    {
+      "id": "80014749"
+    },
+    {
+      "id": "70243420"
+    },
+    {
+      "id": "70300800"
+    },
+    {
+      "id": "70199841"
+    },
+    {
+      "id": "80117291"
+    },
+    {
+      "id": "70155547"
+    },
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "80117038"
+    }
+  ],
+  "error": null
+}
