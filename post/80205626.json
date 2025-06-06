@@ -1,0 +1,202 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Hit & Run",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "94% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Avi Issacharoff, Lior Raz, Dawn Prestwich, Nicole Yorkin",
+  "director": "",
+  "writer": "",
+  "short_cast": "Lior Raz, Kaelen Ohm, Sanaa Lathan, Moran Rosenblatt, Lior Ashkenazi, Gregg Henry, Gal Toren",
+  "cast": "Lior Raz, Kaelen Ohm, Sanaa Lathan, Moran Rosenblatt, Lior Ashkenazi, Gregg Henry, Gal Toren",
+  "genre": "TV Dramas, TV Mysteries, TV Action & Adventure, US TV Shows, TV Thrillers",
+  "thismovieis": "Gritty, Suspenseful, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide, nudity",
+  "desc": "A man searching for the truth behind his wife's death becomes caught up in a dangerous web of secrets and intrigue stretching from New York to Tel Aviv.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80205498",
+      "ep": "9",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80205541",
+      "t": "Hit & Run",
+      "s": "S1",
+      "ep": "E1",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81012438",
+      "t": "Love & Loss",
+      "s": "S1",
+      "ep": "E2",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "81012440",
+      "t": "Friends & Foes",
+      "s": "S1",
+      "ep": "E3",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81012441",
+      "t": "Breaking & Entering",
+      "s": "S1",
+      "ep": "E4",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81012442",
+      "t": "Flesh & Blood",
+      "s": "S1",
+      "ep": "E5",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81012443",
+      "t": "Hide & Seek",
+      "s": "S1",
+      "ep": "E6",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81012444",
+      "t": "Part & Parcel",
+      "s": "S1",
+      "ep": "E7",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81012445",
+      "t": "Prose & Cons",
+      "s": "S1",
+      "ep": "E8",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81012446",
+      "t": "Search & Destroy",
+      "s": "S1",
+      "ep": "E9",
+      "time": "50m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80205498",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "80205541",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "80113612"
+    },
+    {
+      "id": "81417796"
+    },
+    {
+      "id": "80178151"
+    },
+    {
+      "id": "81123055"
+    },
+    {
+      "id": "81396545"
+    },
+    {
+      "id": "81015514"
+    },
+    {
+      "id": "80188120"
+    }
+  ],
+  "error": null
+}
