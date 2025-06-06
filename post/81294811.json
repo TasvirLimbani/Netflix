@@ -1,0 +1,265 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Sonic Prime",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "91% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Deven Mack, Ashleigh Ball, Brian Drummond",
+  "cast": "Deven Mack, Ashleigh Ball, Brian Drummond",
+  "genre": "Kids' TV, TV Comedies, TV Cartoons",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "When an explosive battle with Dr. Eggman shatters the universe, Sonic races through parallel dimensions to reconnect with his friends and save the world.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81294812",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81503804",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81503805",
+      "ep": "7",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81503814",
+      "t": "Grim Tidings",
+      "s": "S3",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81503815",
+      "t": "Dome Sweet Dome",
+      "s": "S3",
+      "ep": "E2",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81503816",
+      "t": "No Escape",
+      "s": "S3",
+      "ep": "E3",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81503817",
+      "t": "Nine's Lives",
+      "s": "S3",
+      "ep": "E4",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81503818",
+      "t": "Home Sick Home",
+      "s": "S3",
+      "ep": "E5",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81503819",
+      "t": "The Devil Is in the Tails",
+      "s": "S3",
+      "ep": "E6",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81503820",
+      "t": "From the Top",
+      "s": "S3",
+      "ep": "E7",
+      "time": "25m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81503805",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Catalan",
+      "s": "cat"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Basque",
+      "s": "eus"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "Filipino (Tagalog)",
+      "s": "fil"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Galician",
+      "s": "glg"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81503814",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80217006"
+    },
+    {
+      "id": "70155571"
+    },
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "81068803"
+    },
+    {
+      "id": "81223075"
+    },
+    {
+      "id": "70243420"
+    },
+    {
+      "id": "81555726"
+    },
+    {
+      "id": "70252973"
+    },
+    {
+      "id": "80242531"
+    }
+  ],
+  "error": null
+}
