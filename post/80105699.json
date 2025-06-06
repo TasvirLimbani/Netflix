@@ -1,0 +1,215 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Travelers",
+  "year": "2016",
+  "ua": "U/A 18+ [A]",
+  "match": "48% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Brad Wright",
+  "director": "",
+  "writer": "",
+  "short_cast": "Eric McCormack, MacKenzie Porter, Nesta Cooper, Jared Paul Abrahamson, Reilly Dolman, Patrick Gilmore",
+  "cast": "Eric McCormack, MacKenzie Porter, Nesta Cooper, Jared Paul Abrahamson, Reilly Dolman, Patrick Gilmore",
+  "genre": "TV Dramas, Canadian, Sci-Fi TV, TV Thrillers",
+  "thismovieis": "Dark, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "substances, sexual violence",
+  "desc": "A federal agent tracks four people who suddenly seem to possess entirely new personalities, leading to a startling discovery about humanity's future.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80106553",
+      "ep": "12",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80177629",
+      "ep": "12",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80236228",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80245359",
+      "t": "Ilsa",
+      "s": "S3",
+      "ep": "E1",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80990086",
+      "t": "Yates",
+      "s": "S3",
+      "ep": "E2",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "80990982",
+      "t": "Protocol 3",
+      "s": "S3",
+      "ep": "E3",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "80990983",
+      "t": "Perrow",
+      "s": "S3",
+      "ep": "E4",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "80990984",
+      "t": "Naomi",
+      "s": "S3",
+      "ep": "E5",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "80990985",
+      "t": "Philip",
+      "s": "S3",
+      "ep": "E6",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "80990986",
+      "t": "Trevor",
+      "s": "S3",
+      "ep": "E7",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "80990987",
+      "t": "Archive",
+      "s": "S3",
+      "ep": "E8",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "80990988",
+      "t": "David",
+      "s": "S3",
+      "ep": "E9",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "80990989",
+      "t": "Protocol Omega",
+      "s": "S3",
+      "ep": "E10",
+      "time": "50m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80236228",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80245359",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80044950"
+    },
+    {
+      "id": "80236236"
+    },
+    {
+      "id": "80214497"
+    },
+    {
+      "id": "80100172"
+    },
+    {
+      "id": "80241318"
+    },
+    {
+      "id": "80025744"
+    },
+    {
+      "id": "80097140"
+    },
+    {
+      "id": "80993062"
+    },
+    {
+      "id": "80177458"
+    },
+    {
+      "id": "80171099"
+    },
+    {
+      "id": "81023636"
+    }
+  ],
+  "error": null
+}
