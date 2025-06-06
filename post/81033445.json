@@ -1,0 +1,175 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Neon Genesis Evangelion",
+  "year": "1995",
+  "ua": "U/A 18+ [A]",
+  "match": "86% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Megumi Ogata, Kotono Mitsuishi, Yuriko Yamaguchi, Megumi Hayashibara, Yuko Miyamura, Fumihiko Tachiki, Akira Ishida, Motomu Kiyokawa, Hiro Yuki, Miki Nagasawa, Takehito Koyasu, Tomokazu Seki, Tetsuya Iwanaga, Junko Iwao, Mugihito",
+  "cast": "Megumi Ogata, Kotono Mitsuishi, Yuriko Yamaguchi, Megumi Hayashibara, Yuko Miyamura, Fumihiko Tachiki, Akira Ishida, Motomu Kiyokawa, Hiro Yuki, Miki Nagasawa, Takehito Koyasu, Tomokazu Seki, Tetsuya Iwanaga, Junko Iwao, Mugihito",
+  "genre": "Sci-Fi & Fantasy Anime, Action Anime, Japanese, Anime Series",
+  "thismovieis": "Suspenseful, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "nudity",
+  "desc": "Fifteen years after the Second Impact, Shinji Ikari joins his father's group NERV as one of several teenage mecha pilots fighting the monstrous Angels.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81033446",
+      "ep": "26",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81033447",
+      "t": "Angel Attack",
+      "s": "S1",
+      "ep": "E1",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81033448",
+      "t": "Unfamiliar Ceilings",
+      "s": "S1",
+      "ep": "E2",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81033449",
+      "t": "The Silent Phone",
+      "s": "S1",
+      "ep": "E3",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81033450",
+      "t": "Rain, After Running Away",
+      "s": "S1",
+      "ep": "E4",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81033451",
+      "t": "Rei, Beyond the Heart",
+      "s": "S1",
+      "ep": "E5",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81033452",
+      "t": "Showdown in Tokyo-3",
+      "s": "S1",
+      "ep": "E6",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81033453",
+      "t": "The Works of Man",
+      "s": "S1",
+      "ep": "E7",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81033454",
+      "t": "Asuka Arrives in Japan",
+      "s": "S1",
+      "ep": "E8",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81033455",
+      "t": "Mind, Matching, Moment",
+      "s": "S1",
+      "ep": "E9",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81033456",
+      "t": "The Magma Diver",
+      "s": "S1",
+      "ep": "E10",
+      "time": "23m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81033446",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81033447",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "60024788"
+    },
+    {
+      "id": "81033473"
+    },
+    {
+      "id": "80174974"
+    },
+    {
+      "id": "70204970"
+    },
+    {
+      "id": "81409869"
+    },
+    {
+      "id": "80179831"
+    },
+    {
+      "id": "81091393"
+    }
+  ],
+  "error": null
+}
