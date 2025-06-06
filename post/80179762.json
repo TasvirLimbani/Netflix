@@ -1,0 +1,261 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "She-Ra and the Princesses of Power",
+  "year": "2018",
+  "ua": "U/A 7+",
+  "match": "54% match",
+  "runtime": "5 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Aimee Carrero, AJ Michalka, Marcus Scribner, Karen Fukuhara, Reshma Shetty, Lorraine Toussaint, Keston John, Lauren Ash, Christine Woods, Morla Gorrondona, Antony Del Rio, Dana Davis, Grey Griffin, Genesis Rodriguez, Jordan Fisher, Vella Lovell, Merit Leighton, Sandra Oh, Krystal Joy Brown, Adam Ray, Geena Davis, Jacob Tobia, Daniel Dae Kim",
+  "cast": "Aimee Carrero, AJ Michalka, Marcus Scribner, Karen Fukuhara, Reshma Shetty, Lorraine Toussaint, Keston John, Lauren Ash, Christine Woods, Morla Gorrondona, Antony Del Rio, Dana Davis, Grey Griffin, Genesis Rodriguez, Jordan Fisher, Vella Lovell, Merit Leighton, Sandra Oh, Krystal Joy Brown, Adam Ray, Geena Davis, Jacob Tobia, Daniel Dae Kim",
+  "genre": "Kids' TV, Family Watch Together TV, TV Cartoons, Fantasy TV Shows",
+  "thismovieis": "Witty, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language, mild fear",
+  "desc": "Soldier Adora finds a magic sword -- and her identity as legendary hero She-Ra. She joins the Rebellion, but her best friend stays with the evil Horde.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80179861",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80179995",
+      "ep": "7",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80237989",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "80237873",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "81037091",
+      "ep": "13",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81083671",
+      "t": "Horde Prime",
+      "s": "S5",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083672",
+      "t": "Launch",
+      "s": "S5",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083673",
+      "t": "Corridors",
+      "s": "S5",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083674",
+      "t": "Stranded",
+      "s": "S5",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083675",
+      "t": "Save the Cat",
+      "s": "S5",
+      "ep": "E5",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083677",
+      "t": "Taking Control",
+      "s": "S5",
+      "ep": "E6",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083676",
+      "t": "Perils of Peekablue",
+      "s": "S5",
+      "ep": "E7",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083678",
+      "t": "Shot in the Dark",
+      "s": "S5",
+      "ep": "E8",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083679",
+      "t": "An Ill Wind",
+      "s": "S5",
+      "ep": "E9",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81083680",
+      "t": "Return to the Fright Zone",
+      "s": "S5",
+      "ep": "E10",
+      "time": "24m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81037091",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "yue",
+      "s": "yue"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81083671",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80212245"
+    },
+    {
+      "id": "81444554"
+    },
+    {
+      "id": "81092958"
+    },
+    {
+      "id": "80994695"
+    },
+    {
+      "id": "81145135"
+    }
+  ],
+  "error": null
+}
