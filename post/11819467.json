@@ -1,0 +1,103 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Godzilla",
+  "year": "1998",
+  "ua": "U/A 13+",
+  "match": "39% match",
+  "runtime": "2h 18m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Roland Emmerich",
+  "writer": "Dean Devlin, Roland Emmerich, Ted Elliott",
+  "short_cast": "Matthew Broderick, Jean Reno, Maria Pitillo, Hank Azaria, Kevin Dunn, Michael Lerner, Harry Shearer, Arabella Field, Vicki Lewis, Doug Savant, Malcolm Danare",
+  "cast": "Matthew Broderick, Jean Reno, Maria Pitillo, Hank Azaria, Kevin Dunn, Michael Lerner, Harry Shearer, Arabella Field, Vicki Lewis, Doug Savant, Malcolm Danare",
+  "genre": "Sci-Fi Movies, US Movies, Action & Adventure",
+  "thismovieis": "Suspenseful",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, threat, language",
+  "desc": "After a nuclear test creates a reptile of unimaginable proportions, the creature makes its way to Manhattan and begins destroying everything in sight.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81767635"
+    },
+    {
+      "id": "81183713"
+    },
+    {
+      "id": "81044417"
+    },
+    {
+      "id": "80139562"
+    },
+    {
+      "id": "81245455"
+    },
+    {
+      "id": "60036256"
+    },
+    {
+      "id": "80029196"
+    },
+    {
+      "id": "80216309"
+    },
+    {
+      "id": "70021664"
+    },
+    {
+      "id": "70097578"
+    },
+    {
+      "id": "60027724"
+    },
+    {
+      "id": "80228280"
+    }
+  ],
+  "error": null
+}
