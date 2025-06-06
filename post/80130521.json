@@ -1,0 +1,261 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Worst Witch",
+  "year": "2017",
+  "ua": "U/A 7+",
+  "match": "68% match",
+  "runtime": "4 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Bella Ramsey, Lydia Page, Clare Higgins, Raquel Cassidy, Meibh Campbell, Jenny Richardson, Miriam Petche, Tallulah Milligan, Wendy Craig, Shauna Shim, Megan Hughes, Tamara Smart, Trixie Hyde, Kitty Slack, Ynez Williams, Mina Anwar, Dagny Rollins, Kelsey Calladine-Smith, Nicola Stephenson, Zita Sattar, Annette Hannah, Philip Martin Brown",
+  "cast": "Bella Ramsey, Lydia Page, Clare Higgins, Raquel Cassidy, Meibh Campbell, Jenny Richardson, Miriam Petche, Tallulah Milligan, Wendy Craig, Shauna Shim, Megan Hughes, Tamara Smart, Trixie Hyde, Kitty Slack, Ynez Williams, Mina Anwar, Dagny Rollins, Kelsey Calladine-Smith, Nicola Stephenson, Zita Sattar, Annette Hannah, Philip Martin Brown",
+  "genre": "Kids' TV, British, TV Shows Based on Books",
+  "thismovieis": "Feel-Good",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "After stumbling into a school for witches, a bumbling heroine comes to realize that she just might belong there. Based on Jill Murphy's beloved books.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80131266",
+      "ep": "12",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80131279",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81002334",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "81026307",
+      "ep": "13",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81117011",
+      "t": "The Three Impossibilities",
+      "s": "S4",
+      "ep": "E1",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81117012",
+      "t": "Gertrude the Great",
+      "s": "S4",
+      "ep": "E2",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81117013",
+      "t": "Happy Birthday, Indigo Moon",
+      "s": "S4",
+      "ep": "E3",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81117014",
+      "t": "Enid Nightshade, Superstar",
+      "s": "S4",
+      "ep": "E4",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81117015",
+      "t": "The Forbidden Tree",
+      "s": "S4",
+      "ep": "E5",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81117016",
+      "t": "Maud's Magical Make-over",
+      "s": "S4",
+      "ep": "E6",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81117017",
+      "t": "The Crystal Lake",
+      "s": "S4",
+      "ep": "E7",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81117018",
+      "t": "Enid's Last Race",
+      "s": "S4",
+      "ep": "E8",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81117019",
+      "t": "Mildred the Detective",
+      "s": "S4",
+      "ep": "E9",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81117020",
+      "t": "A Witch in Time",
+      "s": "S4",
+      "ep": "E10",
+      "time": "29m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81026307",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81117011",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81329721"
+    },
+    {
+      "id": "81335124"
+    },
+    {
+      "id": "81589046"
+    },
+    {
+      "id": "80993016"
+    },
+    {
+      "id": "80050008"
+    },
+    {
+      "id": "81023618"
+    },
+    {
+      "id": "81220825"
+    },
+    {
+      "id": "81012821"
+    },
+    {
+      "id": "70021648"
+    },
+    {
+      "id": "81719217"
+    },
+    {
+      "id": "70033005"
+    }
+  ],
+  "error": null
+}
