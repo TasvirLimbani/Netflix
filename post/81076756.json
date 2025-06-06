@@ -1,0 +1,140 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Delhi Crime",
+  "year": "2019",
+  "ua": "U/A 18+ [A]",
+  "match": "86% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Richie Mehta",
+  "director": "",
+  "writer": "",
+  "short_cast": "Shefali Shah, Rajesh Tailang, Rasika Dugal, Adil Hussain, Anurag Arora, Gopal Dutt Tiwari, Yashaswini Dayama, Denzil Smith, Vinod Sharawat, Mridul Sharma, Gaurav Rana",
+  "cast": "Shefali Shah, Rajesh Tailang, Rasika Dugal, Adil Hussain, Anurag Arora, Gopal Dutt Tiwari, Yashaswini Dayama, Denzil Smith, Vinod Sharawat, Mridul Sharma, Gaurav Rana",
+  "genre": "TV Dramas, Crime TV Shows, TV Thrillers, Hindi-Language TV Shows, Social Issue TV Dramas",
+  "thismovieis": "Gritty, Dark",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, mature themes, language",
+  "desc": "Following the police force as they investigate high-profile crimes in Delhi, this series has seasons inspired by both real and fictional events.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81076757",
+      "ep": "7",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81131993",
+      "ep": "5",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81155590",
+      "t": "Episode 1",
+      "s": "S2",
+      "ep": "E1",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81155591",
+      "t": "Episode 2",
+      "s": "S2",
+      "ep": "E2",
+      "time": "38m"
+    },
+    {
+      "complate": "0",
+      "id": "81155592",
+      "t": "Episode 3",
+      "s": "S2",
+      "ep": "E3",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81155594",
+      "t": "Episode 4",
+      "s": "S2",
+      "ep": "E4",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81155607",
+      "t": "Episode 5",
+      "s": "S2",
+      "ep": "E5",
+      "time": "54m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81131993",
+  "lang": [
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    }
+  ],
+  "last_ep": "81155590",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81154455"
+    },
+    {
+      "id": "81226180"
+    },
+    {
+      "id": "81183491"
+    },
+    {
+      "id": "81443393"
+    },
+    {
+      "id": "81290872"
+    },
+    {
+      "id": "80997361"
+    },
+    {
+      "id": "80216058"
+    },
+    {
+      "id": "80115328"
+    },
+    {
+      "id": "81436989"
+    },
+    {
+      "id": "81281063"
+    },
+    {
+      "id": "81417638"
+    },
+    {
+      "id": "81269716"
+    }
+  ],
+  "error": null
+}
