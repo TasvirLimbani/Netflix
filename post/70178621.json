@@ -1,0 +1,75 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Journey 2: The Mysterious Island",
+  "year": "2012",
+  "ua": "U/A 13+",
+  "match": "90% match",
+  "runtime": "1h 34m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Brad Peyton",
+  "writer": "Brian Gunn, Mark Gunn, Richard Outten",
+  "short_cast": "Dwayne Johnson, Josh Hutcherson, Michael Caine, Vanessa Hudgens, Luis Guzm\u00e1n, Kristin Davis, Anna Colwell, Stephen Caudill, Branscombe Richmond, Walter Bankson",
+  "cast": "Dwayne Johnson, Josh Hutcherson, Michael Caine, Vanessa Hudgens, Luis Guzm\u00e1n, Kristin Davis, Anna Colwell, Stephen Caudill, Branscombe Richmond, Walter Bankson",
+  "genre": "Family Features, US Movies, Movies Based on Books, Action & Adventure",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, threat, mature themes",
+  "desc": "When a distress signal pinpoints his grandfather's location on an uncharted island, teen Sean Anderson teams with an unlikely ally: his stepfather.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70097578"
+    },
+    {
+      "id": "80216309"
+    },
+    {
+      "id": "81199140"
+    },
+    {
+      "id": "60036256"
+    },
+    {
+      "id": "80139562"
+    },
+    {
+      "id": "81416258"
+    },
+    {
+      "id": "80094318"
+    },
+    {
+      "id": "80027980"
+    },
+    {
+      "id": "81180203"
+    },
+    {
+      "id": "60027724"
+    },
+    {
+      "id": "70213512"
+    },
+    {
+      "id": "70021664"
+    }
+  ],
+  "error": null
+}
