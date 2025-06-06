@@ -1,0 +1,219 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "How to Get Away With Murder",
+  "year": "2014",
+  "ua": "U/A 16+",
+  "match": "79% match",
+  "runtime": "6 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Peter Nowalk",
+  "director": "",
+  "writer": "",
+  "short_cast": "Viola Davis, Billy Brown, Alfred Enoch, Jack Falahee, Katie Findlay, Aja Naomi King, Matt McGorry, Karla Souza, Charlie Weber, Liza Weil",
+  "cast": "Viola Davis, Billy Brown, Alfred Enoch, Jack Falahee, Katie Findlay, Aja Naomi King, Matt McGorry, Karla Souza, Charlie Weber, Liza Weil",
+  "genre": "TV Dramas, Courtroom TV Shows, TV Mysteries, Crime TV Shows, US TV Shows, TV Thrillers, Social Issue TV Dramas",
+  "thismovieis": "Suspenseful",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "suicide, substances, sexual content, gore",
+  "desc": "Brilliant criminal defense attorney and law professor Annalise Keating, plus five of her students, become involved in a twisted murder case.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "80023881",
+      "ep": "15",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80063069",
+      "ep": "15",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80113417",
+      "ep": "15",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "80204655",
+      "ep": "15",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "81020056",
+      "ep": "15",
+      "sele": " selected"
+    },
+    {
+      "s": "6",
+      "id": "81229218",
+      "ep": "15",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81229219",
+      "t": "Say Goodbye",
+      "s": "S6",
+      "ep": "E1",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81229220",
+      "t": "Vivian's Here",
+      "s": "S6",
+      "ep": "E2",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81229221",
+      "t": "Do You Think I'm a Bad Man?",
+      "s": "S6",
+      "ep": "E3",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81229222",
+      "t": "I Hate the World",
+      "s": "S6",
+      "ep": "E4",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81229223",
+      "t": "We're All Gonna Die",
+      "s": "S6",
+      "ep": "E5",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81229224",
+      "t": "Family Sucks",
+      "s": "S6",
+      "ep": "E6",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81229225",
+      "t": "I'm the Murderer",
+      "s": "S6",
+      "ep": "E7",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81229226",
+      "t": "I Want to Be Free",
+      "s": "S6",
+      "ep": "E8",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81229227",
+      "t": "Are You the Mole?",
+      "s": "S6",
+      "ep": "E9",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81229228",
+      "t": "We're Not Getting Away With It",
+      "s": "S6",
+      "ep": "E10",
+      "time": "43m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81229218",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81229219",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80217229"
+    },
+    {
+      "id": "81716193"
+    },
+    {
+      "id": "81476183"
+    },
+    {
+      "id": "80232398"
+    },
+    {
+      "id": "81008305"
+    }
+  ],
+  "error": null
+}
