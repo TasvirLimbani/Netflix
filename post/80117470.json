@@ -1,0 +1,230 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "13 Reasons Why",
+  "year": "2017",
+  "ua": "U/A 18+ [A]",
+  "match": "80% match",
+  "runtime": "4 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Brian Yorkey",
+  "director": "",
+  "writer": "",
+  "short_cast": "Dylan Minnette, Katherine Langford, Alisha Boe, Brandon Flynn, Justin Prentice, Ross Butler, Christian Navarro, Devin Druid, Miles Heizer, Brenda Strong, Grace Saif, Kate Walsh, Derek Luke, Timothy Granaderos, Amy Hargreaves, Wilson Cruz, Anne Winters, Bryce Cass, RJ  Brown, Brian d'Arcy James",
+  "cast": "Dylan Minnette, Katherine Langford, Alisha Boe, Brandon Flynn, Justin Prentice, Ross Butler, Christian Navarro, Devin Druid, Miles Heizer, Brenda Strong, Grace Saif, Kate Walsh, Derek Luke, Timothy Granaderos, Amy Hargreaves, Wilson Cruz, Anne Winters, Bryce Cass, RJ  Brown, Brian d'Arcy James",
+  "genre": "TV Dramas, TV Shows Based on Books, Teen TV Shows, TV Mysteries, US TV Shows",
+  "thismovieis": "Dark, Suspenseful, Emotional",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, suicide, substances, sexual violence, sex, nudity, language",
+  "desc": "High school student Clay Jensen lands in the center of a series of heartbreaking mysteries set in motion by a friend's tragic suicide.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80117543",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80186747",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80216304",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "81010168",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81137091",
+      "t": "Winter Break",
+      "s": "S4",
+      "ep": "E1",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81151822",
+      "t": "College Tour",
+      "s": "S4",
+      "ep": "E2",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81161007",
+      "t": "Valentine's Day",
+      "s": "S4",
+      "ep": "E3",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81161557",
+      "t": "Senior Camping Trip",
+      "s": "S4",
+      "ep": "E4",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "81161558",
+      "t": "House Party",
+      "s": "S4",
+      "ep": "E5",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "81161559",
+      "t": "Thursday",
+      "s": "S4",
+      "ep": "E6",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81161560",
+      "t": "College Interview",
+      "s": "S4",
+      "ep": "E7",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81161561",
+      "t": "Acceptance/Rejection",
+      "s": "S4",
+      "ep": "E8",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81161562",
+      "t": "Prom",
+      "s": "S4",
+      "ep": "E9",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81161563",
+      "t": "Graduation",
+      "s": "S4",
+      "ep": "E10",
+      "time": "98m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81010168",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81137091",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80175722"
+    },
+    {
+      "id": "81459931"
+    },
+    {
+      "id": "80197989"
+    },
+    {
+      "id": "80133311"
+    },
+    {
+      "id": "80211686"
+    },
+    {
+      "id": "81025696"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "80211991"
+    },
+    {
+      "id": "81017308"
+    },
+    {
+      "id": "80179190"
+    }
+  ],
+  "error": null
+}
