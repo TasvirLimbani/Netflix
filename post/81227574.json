@@ -1,0 +1,298 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Kung Fu Panda: The Dragon Knight",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "80% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Jack Black, Rita Ora, James Hong, Chris Geere, Amy Hill, Nolan North, Della Saba",
+  "cast": "Jack Black, Rita Ora, James Hong, Chris Geere, Amy Hill, Nolan North, Della Saba",
+  "genre": "Kids' TV, TV Comedies, TV Cartoons",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language, mild fear",
+  "desc": "Legendary warrior Po teams up with an elite English knight on a global quest to rescue magical weapons, restore his reputation \u2014 and save the world!",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81227575",
+      "ep": "11",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81457551",
+      "ep": "12",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81577401",
+      "ep": "19",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81457563",
+      "t": "The Trial of Mr. Ping",
+      "s": "S3",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81457564",
+      "t": "Baddie Issues",
+      "s": "S3",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81457565",
+      "t": "A Family Friend",
+      "s": "S3",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81457566",
+      "t": "The English Opening",
+      "s": "S3",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81457567",
+      "t": "The Bog-ey Man of Festermouth",
+      "s": "S3",
+      "ep": "E5",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81457568",
+      "t": "Tea Time Trouble",
+      "s": "S3",
+      "ep": "E6",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81457569",
+      "t": "Benny and the Jests",
+      "s": "S3",
+      "ep": "E7",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81457570",
+      "t": "Black Steel of the Equinox",
+      "s": "S3",
+      "ep": "E8",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81650131",
+      "t": "Luthera's Shield",
+      "s": "S3",
+      "ep": "E9",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81650132",
+      "t": "The Battle of Tianshang Part 1",
+      "s": "S3",
+      "ep": "E10",
+      "time": "24m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81577401",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "yue",
+      "s": "yue"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81457563",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81555726"
+    },
+    {
+      "id": "80237245"
+    },
+    {
+      "id": "70113007"
+    },
+    {
+      "id": "70021636"
+    },
+    {
+      "id": "81073593"
+    },
+    {
+      "id": "70298991"
+    },
+    {
+      "id": "81037695"
+    },
+    {
+      "id": "70143241"
+    },
+    {
+      "id": "80091938"
+    },
+    {
+      "id": "81669979"
+    },
+    {
+      "id": "80039394"
+    },
+    {
+      "id": "80217006"
+    }
+  ],
+  "error": null
+}
