@@ -1,0 +1,206 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Away",
+  "year": "2020",
+  "ua": "U/A 16+",
+  "match": "44% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Andrew Hinderaker",
+  "director": "",
+  "writer": "",
+  "short_cast": "Hilary Swank, Josh Charles, Vivian Wu, Mark Ivanir, Ato Essandoh, Ray Panthaki, Talitha Eliana Bateman",
+  "cast": "Hilary Swank, Josh Charles, Vivian Wu, Mark Ivanir, Ato Essandoh, Ray Panthaki, Talitha Eliana Bateman",
+  "genre": "Romantic TV Dramas, TV Dramas, Sci-Fi TV, TV Shows Based on Books, US TV Shows",
+  "thismovieis": "Emotional, Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "sexual content",
+  "desc": "Commander Emma Green leaves behind her husband and daughter to lead an international crew of astronauts on a perilous three-year mission to Mars.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80223762",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80223867",
+      "t": "Go",
+      "s": "S1",
+      "ep": "E1",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "80243604",
+      "t": "Negative Return",
+      "s": "S1",
+      "ep": "E2",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "80243605",
+      "t": "Half the Sky",
+      "s": "S1",
+      "ep": "E3",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "80243606",
+      "t": "Excellent Chariots",
+      "s": "S1",
+      "ep": "E4",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "80243607",
+      "t": "Space Dogs",
+      "s": "S1",
+      "ep": "E5",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "80243608",
+      "t": "A Little Faith",
+      "s": "S1",
+      "ep": "E6",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "80243609",
+      "t": "Goodnight Mars",
+      "s": "S1",
+      "ep": "E7",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "80243610",
+      "t": "Vital Signs",
+      "s": "S1",
+      "ep": "E8",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "80243611",
+      "t": "Spektr",
+      "s": "S1",
+      "ep": "E9",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "80243612",
+      "t": "Home",
+      "s": "S1",
+      "ep": "E10",
+      "time": "49m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80223762",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80223867",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80244645"
+    },
+    {
+      "id": "81321986"
+    },
+    {
+      "id": "80236236"
+    },
+    {
+      "id": "81098012"
+    },
+    {
+      "id": "80104198"
+    },
+    {
+      "id": "70305903"
+    },
+    {
+      "id": "81301595"
+    },
+    {
+      "id": "80117456"
+    },
+    {
+      "id": "80171099"
+    },
+    {
+      "id": "81067760"
+    },
+    {
+      "id": "80134431"
+    },
+    {
+      "id": "80134721"
+    }
+  ],
+  "error": null
+}
