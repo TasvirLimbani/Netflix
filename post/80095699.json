@@ -1,0 +1,194 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Easy",
+  "year": "2016",
+  "ua": "U/A 18+ [A]",
+  "match": "69% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Joe Swanberg",
+  "director": "",
+  "writer": "",
+  "short_cast": "Aubrey Plaza, Judy Greer, Jane Adams, Zazie Beetz, Kate Berlant, Aya Cash, Michael Chernus, Kiersey Clemons, Orlando Bloom, Malin Akerman, Marc Maron, Dave Franco, Hannibal Buress, Jake Johnson, Emily Ratajkowski, Andrew Bachelor, Elizabeth Reaser, Gugu Mbatha-Raw",
+  "cast": "Aubrey Plaza, Judy Greer, Jane Adams, Zazie Beetz, Kate Berlant, Aya Cash, Michael Chernus, Kiersey Clemons, Orlando Bloom, Malin Akerman, Marc Maron, Dave Franco, Hannibal Buress, Jake Johnson, Emily Ratajkowski, Andrew Bachelor, Elizabeth Reaser, Gugu Mbatha-Raw",
+  "genre": "TV Dramas, TV Comedies, US TV Shows",
+  "thismovieis": "Witty, Understated, Intimate",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "sex, nudity, language",
+  "desc": "This eclectic, star-studded anthology follows diverse Chicagoans fumbling through the modern maze of love, sex, technology and culture.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80106552",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80134990",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80186765",
+      "ep": "9",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80990912",
+      "t": "Swipe Right",
+      "s": "S3",
+      "ep": "E1",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "80990917",
+      "t": "Private Eyes",
+      "s": "S3",
+      "ep": "E2",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "80990911",
+      "t": "Spontaneous Combustion",
+      "s": "S3",
+      "ep": "E3",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "80990915",
+      "t": "Yes",
+      "s": "S3",
+      "ep": "E4",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "80990913",
+      "t": "Swipe Left",
+      "s": "S3",
+      "ep": "E5",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "80990916",
+      "t": "Blank Pages",
+      "s": "S3",
+      "ep": "E6",
+      "time": "38m"
+    },
+    {
+      "complate": "0",
+      "id": "80186921",
+      "t": "Number One Seller",
+      "s": "S3",
+      "ep": "E7",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "80990918",
+      "t": "Low Rolling Boil",
+      "s": "S3",
+      "ep": "E8",
+      "time": "32m"
+    },
+    {
+      "complate": "0",
+      "id": "80990914",
+      "t": "She's Back",
+      "s": "S3",
+      "ep": "E9",
+      "time": "31m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80186765",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80990912",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81070890"
+    },
+    {
+      "id": "81140470"
+    },
+    {
+      "id": "81578318"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81508217"
+    },
+    {
+      "id": "80098467"
+    },
+    {
+      "id": "81149112"
+    },
+    {
+      "id": "81580024"
+    }
+  ],
+  "error": null
+}
