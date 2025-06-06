@@ -1,0 +1,231 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "That Girl Lay Lay",
+  "year": "2021",
+  "ua": "U/A 7+",
+  "match": "84% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "David A. Arnold",
+  "director": "",
+  "writer": "",
+  "short_cast": "That Girl Lay Lay, Gabrielle Nevaeh Green, Tiffany Daniels, Thomas Hobson, Peyton R. Perrine III, Andrea Barber, Ishmel Sahid, Kensington Tallman, Sean Philip Glasgow, Caleb Brown, Elijah M. Cooper, Archer Vattano, Christine Rodriguez",
+  "cast": "That Girl Lay Lay, Gabrielle Nevaeh Green, Tiffany Daniels, Thomas Hobson, Peyton R. Perrine III, Andrea Barber, Ishmel Sahid, Kensington Tallman, Sean Philip Glasgow, Caleb Brown, Elijah M. Cooper, Archer Vattano, Christine Rodriguez",
+  "genre": "Kids' TV, Sitcoms, TV Comedies",
+  "thismovieis": "Goofy",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild themes",
+  "desc": "Quirky student Sadie is juggling high school while keeping a huge secret: Her hype-girl avatar has come to life in the form of fierce friend Lay Lay!",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81443739",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81618223",
+      "ep": "13",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81624759",
+      "t": "Ain't That a Glitch Part One",
+      "s": "S2",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81624760",
+      "t": "Ain't That a Glitch Part Two",
+      "s": "S2",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81624761",
+      "t": "The Burger Games",
+      "s": "S2",
+      "ep": "E3",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81624762",
+      "t": "Lay Lay's Beauty Shop Day Day",
+      "s": "S2",
+      "ep": "E4",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81624763",
+      "t": "Lay Lay Gets a Pet Pet",
+      "s": "S2",
+      "ep": "E5",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81624764",
+      "t": "Bars",
+      "s": "S2",
+      "ep": "E6",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81624765",
+      "t": "Fami-Lay-Lay Reunion",
+      "s": "S2",
+      "ep": "E7",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81624766",
+      "t": "Freaky Fri-Day-Day",
+      "s": "S2",
+      "ep": "E8",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81624767",
+      "t": "Lay Lay's Line Line Dance Dance",
+      "s": "S2",
+      "ep": "E9",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81624768",
+      "t": "Cleve-Land-Land Adventure",
+      "s": "S2",
+      "ep": "E10",
+      "time": "25m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81618223",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81624759",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80234451"
+    },
+    {
+      "id": "81634726"
+    },
+    {
+      "id": "80020540"
+    },
+    {
+      "id": "80174285"
+    },
+    {
+      "id": "80201035"
+    },
+    {
+      "id": "81005407"
+    },
+    {
+      "id": "81589046"
+    },
+    {
+      "id": "81719217"
+    },
+    {
+      "id": "80230534"
+    }
+  ],
+  "error": null
+}
