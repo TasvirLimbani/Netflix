@@ -1,0 +1,191 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Naked Director",
+  "year": "2019",
+  "ua": "U/A 18+ [A]",
+  "match": "91% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Takayuki Yamada, Shinnosuke Mitsushima, Tetsuji Tamayama, Misato Morita, Tokio Emoto, Sairi Ito, Ami Tomite, Takenori Goto, Koyuki, Pierre Taki, Lily Franky, Jun Kunimura, Ryo Ishibashi, Kotaro Yoshida, Itsuji Itao, Kimiko Yo, Yuri Tsunematsu, Daichi Watanabe, Megumi, Mariya Nishiuchi, Sho Kasamatsu, Yuka Masuda, Eisaku Yoshida, Tsuyoshi Ihara, Rie Miyazawa, Renji Ishibashi, Shigeru Muroi",
+  "cast": "Takayuki Yamada, Shinnosuke Mitsushima, Tetsuji Tamayama, Misato Morita, Tokio Emoto, Sairi Ito, Ami Tomite, Takenori Goto, Koyuki, Pierre Taki, Lily Franky, Jun Kunimura, Ryo Ishibashi, Kotaro Yoshida, Itsuji Itao, Kimiko Yo, Yuri Tsunematsu, Daichi Watanabe, Megumi, Mariya Nishiuchi, Sho Kasamatsu, Yuka Masuda, Eisaku Yoshida, Tsuyoshi Ihara, Rie Miyazawa, Renji Ishibashi, Shigeru Muroi",
+  "genre": "TV Dramas, Japanese, TV Shows Based on Books, TV Shows Based on Real Life",
+  "thismovieis": "Steamy, Provocative",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide, substances, sexual violence, sex, self-harm, nudity",
+  "desc": "In 1980s Japan, one determined man turned every crushing setback into opportunity. His name was Toru Muranishi, and he revolutionized his industry.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80241235",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81039524",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81240566",
+      "t": "Sex Will Come Raining Down",
+      "s": "S2",
+      "ep": "E1",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81240567",
+      "t": "More, More, More",
+      "s": "S2",
+      "ep": "E2",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81240568",
+      "t": "Diamond in the Rough",
+      "s": "S2",
+      "ep": "E3",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81240569",
+      "t": "Our Dream",
+      "s": "S2",
+      "ep": "E4",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81240570",
+      "t": "The Bubble Bursts",
+      "s": "S2",
+      "ep": "E5",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81240571",
+      "t": "Out of Control",
+      "s": "S2",
+      "ep": "E6",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81255912",
+      "t": "The Fall",
+      "s": "S2",
+      "ep": "E7",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81255913",
+      "t": "The Will of a Stone",
+      "s": "S2",
+      "ep": "E8",
+      "time": "57m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81039524",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81240566",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81026705"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81486812"
+    },
+    {
+      "id": "81718141"
+    },
+    {
+      "id": "81261676"
+    },
+    {
+      "id": "80037286"
+    },
+    {
+      "id": "80155812"
+    },
+    {
+      "id": "81033516"
+    },
+    {
+      "id": "81779693"
+    }
+  ],
+  "error": null
+}
