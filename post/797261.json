@@ -1,0 +1,115 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Net",
+  "year": "1995",
+  "ua": "U/A 13+",
+  "match": "49% match",
+  "runtime": "1h 54m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Sandra Bullock",
+  "writer": "Sandra Bullock",
+  "short_cast": "Sandra Bullock, Jeremy Northam, Dennis Miller, Diane Baker, Wendy Gazelle, Ken Howard, Ray McKinnon, Daniel Schorr, L. Scott Caldwell, Robert Gossett",
+  "cast": "Sandra Bullock, Jeremy Northam, Dennis Miller, Diane Baker, Wendy Gazelle, Ken Howard, Ray McKinnon, Daniel Schorr, L. Scott Caldwell, Robert Gossett",
+  "genre": "US Movies, Thriller Movies",
+  "thismovieis": "Suspenseful",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "mature themes",
+  "desc": "A computer analyst becomes a target after she stumbles onto a conspiracy via a mysterious floppy disk, forcing her to go on the run to clear her name.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70028900"
+    },
+    {
+      "id": "1180086"
+    },
+    {
+      "id": "950149"
+    },
+    {
+      "id": "27828200"
+    },
+    {
+      "id": "60022700"
+    },
+    {
+      "id": "70060005"
+    },
+    {
+      "id": "80021752"
+    },
+    {
+      "id": "8179348"
+    },
+    {
+      "id": "60010341"
+    },
+    {
+      "id": "70142888"
+    },
+    {
+      "id": "8188050"
+    },
+    {
+      "id": "18958127"
+    }
+  ],
+  "error": null
+}
