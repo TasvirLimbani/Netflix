@@ -1,0 +1,286 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "A Tale Dark & Grimm",
+  "year": "2021",
+  "ua": "U/A 7+",
+  "match": "78% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Raini Rodriguez, Andre Robinson, Jonathan Banks, Scott Adsit, Erica Rhodes, Ron Funches, Eric Bauza, Charlotte Wilson Langley, Nicole Byer, Tom Hollander, David Henrie, Adam Lambert, Missi Pyle",
+  "cast": "Raini Rodriguez, Andre Robinson, Jonathan Banks, Scott Adsit, Erica Rhodes, Ron Funches, Eric Bauza, Charlotte Wilson Langley, Nicole Byer, Tom Hollander, David Henrie, Adam Lambert, Missi Pyle",
+  "genre": "Family Time TV, Kids' TV, TV Shows Based on Books, TV Comedies, TV Cartoons, Fantasy TV Shows",
+  "thismovieis": "Witty, Dark",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "rude humor, mild violence, mild language, mild fear",
+  "desc": "Follow Hansel and Gretel as they walk out of their own story into a winding and wickedly witty tale full of strange \u2014 and scary \u2014 surprises.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81133013",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81392347",
+      "t": "Chapter the First: Hansel and Gretel",
+      "s": "S1",
+      "ep": "E1",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81392348",
+      "t": "Chapter the Second: The Seven Swallows",
+      "s": "S1",
+      "ep": "E2",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "81392349",
+      "t": "Chapter the Third: Brother and Sister",
+      "s": "S1",
+      "ep": "E3",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81392352",
+      "t": "Chapter the Fourth: The Monster Within",
+      "s": "S1",
+      "ep": "E4",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "81392353",
+      "t": "Chapter the Fifth: A Smile As Red As Blood",
+      "s": "S1",
+      "ep": "E5",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "81392355",
+      "t": "Chapter the Sixth: Three Golden Hairs",
+      "s": "S1",
+      "ep": "E6",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "81392356",
+      "t": "Chapter the Seventh: Faithful Johannes",
+      "s": "S1",
+      "ep": "E7",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81392357",
+      "t": "Chapter the Eighth: The Broken Kingdom",
+      "s": "S1",
+      "ep": "E8",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81392358",
+      "t": "Chapter the Ninth: The Dragon",
+      "s": "S1",
+      "ep": "E9",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81392359",
+      "t": "Chapter the Tenth: The Royal Family",
+      "s": "S1",
+      "ep": "E10",
+      "time": "26m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81133013",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81392347",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81267965"
+    },
+    {
+      "id": "81476885"
+    },
+    {
+      "id": "80239482"
+    },
+    {
+      "id": "80232279"
+    },
+    {
+      "id": "80234642"
+    },
+    {
+      "id": "80244283"
+    },
+    {
+      "id": "80234520"
+    },
+    {
+      "id": "81487903"
+    },
+    {
+      "id": "80214236"
+    },
+    {
+      "id": "81153694"
+    },
+    {
+      "id": "81018682"
+    },
+    {
+      "id": "80988892"
+    }
+  ],
+  "error": null
+}
