@@ -1,0 +1,192 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Empress",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "91% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Katharina Eyssen",
+  "director": "",
+  "writer": "",
+  "short_cast": "Devrim Lingnau, Philip Froissant, Melika Foroutan, Johannes Nussbaum, Elisa Schlott, J\u00f6rdis Triebel, Almila Bagriacik, Wiebke Puls",
+  "cast": "Devrim Lingnau, Philip Froissant, Melika Foroutan, Johannes Nussbaum, Elisa Schlott, J\u00f6rdis Triebel, Almila Bagriacik, Wiebke Puls",
+  "genre": "Romantic TV Dramas, Political TV Shows, TV Dramas, German, Period Pieces, TV Shows Based on Real Life",
+  "thismovieis": "Swoonworthy, Emotional, Romantic",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "sex, nudity",
+  "desc": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81264582",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81286021",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81655603",
+      "t": "An Heir to the Throne",
+      "s": "S2",
+      "ep": "E1",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81655604",
+      "t": "The Dream",
+      "s": "S2",
+      "ep": "E2",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "81655605",
+      "t": "A Letter from the Empress",
+      "s": "S2",
+      "ep": "E3",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81655606",
+      "t": "The Stars During the Day",
+      "s": "S2",
+      "ep": "E4",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81655607",
+      "t": "The Forest Inside of Us",
+      "s": "S2",
+      "ep": "E5",
+      "time": "63m"
+    },
+    {
+      "complate": "0",
+      "id": "81655608",
+      "t": "All We Can Do",
+      "s": "S2",
+      "ep": "E6",
+      "time": "54m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81286021",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81655603",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80998988"
+    },
+    {
+      "id": "81354529"
+    },
+    {
+      "id": "81476183"
+    },
+    {
+      "id": "80211648"
+    },
+    {
+      "id": "81410649"
+    },
+    {
+      "id": "80119411"
+    },
+    {
+      "id": "81140933"
+    },
+    {
+      "id": "81498384"
+    },
+    {
+      "id": "80182116"
+    },
+    {
+      "id": "81414644"
+    },
+    {
+      "id": "70032594"
+    },
+    {
+      "id": "81507021"
+    }
+  ],
+  "error": null
+}
