@@ -1,0 +1,134 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Mr. Harrigan's Phone",
+  "year": "2022",
+  "ua": "U/A 13+",
+  "match": "33% match",
+  "runtime": "1h 46m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "John Lee Hancock",
+  "writer": "John Lee Hancock, Stephen King",
+  "short_cast": "Jaeden Martell, Donald Sutherland, Joe Tippett, Kirby Howell-Baptiste, Cyrus Arnold, Colin O'Brien, Thomas Francis Murphy, Peggy J. Scott",
+  "cast": "Jaeden Martell, Donald Sutherland, Joe Tippett, Kirby Howell-Baptiste, Cyrus Arnold, Colin O'Brien, Thomas Francis Murphy, Peggy J. Scott",
+  "genre": "US Movies, Movies Based on Books, Dramas",
+  "thismovieis": "Ominous, Understated",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, substances, mature themes, language",
+  "desc": "A boy and an aging billionaire bond over books \u2014 and their first iPhones. But when the older man passes, their mysterious connection refuses to die.",
+  "oin": "y",
+  "resume": "",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70130445"
+    },
+    {
+      "id": "81000365"
+    },
+    {
+      "id": "81332757"
+    },
+    {
+      "id": "80209024"
+    },
+    {
+      "id": "81011569"
+    },
+    {
+      "id": "81079914"
+    },
+    {
+      "id": "81287562"
+    },
+    {
+      "id": "80213445"
+    },
+    {
+      "id": "81380441"
+    }
+  ],
+  "error": null
+}
