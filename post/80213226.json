@@ -1,0 +1,119 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "A Quiet Place",
+  "year": "2018",
+  "ua": "U/A 16+",
+  "match": "50% match",
+  "runtime": "1h 31m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "John Krasinski",
+  "writer": "Bryan Woods, Scott Beck, John Krasinski",
+  "short_cast": "John Krasinski, Emily Blunt, Millie Simmonds, Noah Jupe, Cade Woodward, Leon Russom",
+  "cast": "John Krasinski, Emily Blunt, Millie Simmonds, Noah Jupe, Cade Woodward, Leon Russom",
+  "genre": "Creature Features, Horror Movies, US Movies",
+  "thismovieis": "Ominous, Scary",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "gore",
+  "desc": "Cut off from the rest of the world, a tight-knit family lives in constant fear of making any sound that will attract terrifying alien creatures.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81021447"
+    },
+    {
+      "id": "80196789"
+    },
+    {
+      "id": "80100649"
+    },
+    {
+      "id": "81619948"
+    },
+    {
+      "id": "81157374"
+    },
+    {
+      "id": "70251894"
+    },
+    {
+      "id": "80091246"
+    },
+    {
+      "id": "81415088"
+    },
+    {
+      "id": "81240831"
+    },
+    {
+      "id": "70262639"
+    },
+    {
+      "id": "81001691"
+    },
+    {
+      "id": "81034937"
+    }
+  ],
+  "error": null
+}
