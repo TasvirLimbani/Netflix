@@ -1,0 +1,177 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Rise of Empires: Ottoman",
+  "year": "2020",
+  "ua": "U/A 18+ [A]",
+  "match": "50% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Charles Dance, Cem Yi\u011fit \u00dcz\u00fcmo\u011flu, Daniel Nu\u021b\u0103, Ali G\u00f6z\u00fc\u015firin, Nik Xhelilaj, Radu Andrei Micu, Tuba B\u00fcy\u00fck\u00fcst\u00fcn, Tommaso Basili, Selim Bayraktar, Birkan Sokullu, Osman Sonant, Tolga Tekin, Damla S\u00f6nmez, Ushan \u00c7ak\u0131r, \u0130layda Akdo\u011fan",
+  "cast": "Charles Dance, Cem Yi\u011fit \u00dcz\u00fcmo\u011flu, Daniel Nu\u021b\u0103, Ali G\u00f6z\u00fc\u015firin, Nik Xhelilaj, Radu Andrei Micu, Tuba B\u00fcy\u00fck\u00fcst\u00fcn, Tommaso Basili, Selim Bayraktar, Birkan Sokullu, Osman Sonant, Tolga Tekin, Damla S\u00f6nmez, Ushan \u00c7ak\u0131r, \u0130layda Akdo\u011fan",
+  "genre": "TV Dramas, Turkish, Historical Documentaries, TV Action & Adventure, Military Documentaries, Docuseries, Docudramas",
+  "thismovieis": "",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, gore",
+  "desc": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80995454",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81290639",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81455913",
+      "t": "House of War",
+      "s": "S2",
+      "ep": "E1",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81455914",
+      "t": "Troubled Waters",
+      "s": "S2",
+      "ep": "E2",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81455915",
+      "t": "Land of Dracula",
+      "s": "S2",
+      "ep": "E3",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81455916",
+      "t": "Brothers No More",
+      "s": "S2",
+      "ep": "E4",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81455917",
+      "t": "Night Attack",
+      "s": "S2",
+      "ep": "E5",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81455918",
+      "t": "Destiny",
+      "s": "S2",
+      "ep": "E6",
+      "time": "50m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81290639",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81455913",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80096545"
+    },
+    {
+      "id": "81325194"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81230204"
+    },
+    {
+      "id": "80175352"
+    },
+    {
+      "id": "81024039"
+    },
+    {
+      "id": "70305883"
+    },
+    {
+      "id": "80211648"
+    },
+    {
+      "id": "81149450"
+    },
+    {
+      "id": "81341795"
+    },
+    {
+      "id": "80182016"
+    }
+  ],
+  "error": null
+}
