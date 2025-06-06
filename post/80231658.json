@@ -1,0 +1,251 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "No Good Nick",
+  "year": "2019",
+  "ua": "U/A 7+",
+  "match": "97% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "David H. Steinberg, Keetgi Kogan",
+  "director": "",
+  "writer": "",
+  "short_cast": "Melissa Joan Hart, Sean Astin, Siena Agudong, Lauren Lindsey Donzis, Kalama Epstein",
+  "cast": "Melissa Joan Hart, Sean Astin, Siena Agudong, Lauren Lindsey Donzis, Kalama Epstein",
+  "genre": "Kids' TV, Sitcoms, TV Dramas, Family Watch Together TV, TV Comedies",
+  "thismovieis": "Witty",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language",
+  "desc": "A family finds their lives turned upside down when a teenage con artist shows up on their doorstep, claiming she's a distant relative.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80233643",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81008544",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81004729",
+      "t": "The Bank Job",
+      "s": "S2",
+      "ep": "E1",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81004730",
+      "t": "The Big Mitt",
+      "s": "S2",
+      "ep": "E2",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81004731",
+      "t": "The Trojan Horse",
+      "s": "S2",
+      "ep": "E3",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "81004732",
+      "t": "Follow the Lady",
+      "s": "S2",
+      "ep": "E4",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81004733",
+      "t": "The Italian Job",
+      "s": "S2",
+      "ep": "E5",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81004734",
+      "t": "The Mystery Shopper",
+      "s": "S2",
+      "ep": "E6",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81004735",
+      "t": "The Pied Piper",
+      "s": "S2",
+      "ep": "E7",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81004736",
+      "t": "The Diploma Mill",
+      "s": "S2",
+      "ep": "E8",
+      "time": "32m"
+    },
+    {
+      "complate": "0",
+      "id": "81004737",
+      "t": "The Box Job",
+      "s": "S2",
+      "ep": "E9",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81004738",
+      "t": "The Fool's Errand",
+      "s": "S2",
+      "ep": "E10",
+      "time": "33m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81008544",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81004729",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80174285"
+    },
+    {
+      "id": "80244332"
+    },
+    {
+      "id": "81634726"
+    },
+    {
+      "id": "80095435"
+    },
+    {
+      "id": "80234451"
+    },
+    {
+      "id": "80201035"
+    },
+    {
+      "id": "81005407"
+    },
+    {
+      "id": "80230534"
+    },
+    {
+      "id": "80020540"
+    }
+  ],
+  "error": null
+}
