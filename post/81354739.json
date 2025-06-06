@@ -1,0 +1,158 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "A Love So Beautiful",
+  "year": "2020",
+  "ua": "U/A 13+",
+  "match": "57% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Seo Min-jeong, Jang Yu-yeon, Choi Yoo-jeong",
+  "director": "",
+  "writer": "",
+  "short_cast": "Kim Yo-han, So Joo-yeon, Yeo Hoi-hyun, Jeong Jin-hwan, Jo Hye-joo, Yun Seo-hyun, Cho Ryun, Kim Sung-gon, Seong Hye-min, Park Ji-won",
+  "cast": "Kim Yo-han, So Joo-yeon, Yeo Hoi-hyun, Jeong Jin-hwan, Jo Hye-joo, Yun Seo-hyun, Cho Ryun, Kim Sung-gon, Seong Hye-min, Park Ji-won",
+  "genre": "Korean, TV Shows Based on Books, Teen TV Shows, TV Comedies, Romantic TV Comedies",
+  "thismovieis": "Swoonworthy, Charming, Romantic",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "mature themes, gore",
+  "desc": "Love is as tough as it is sweet for a lovestruck teenager, whose relationship with her next-door neighbor transforms as they grow into adulthood.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81354740",
+      "ep": "24",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81357239",
+      "t": "Love Letter",
+      "s": "S1",
+      "ep": "E1",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81357240",
+      "t": "At the Karaoke",
+      "s": "S1",
+      "ep": "E2",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81357241",
+      "t": "Pick Me Up!",
+      "s": "S1",
+      "ep": "E3",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81357242",
+      "t": "Field Day",
+      "s": "S1",
+      "ep": "E4",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81357243",
+      "t": "Drama Festival (feat. Let's Go, Baby)",
+      "s": "S1",
+      "ep": "E5",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81357244",
+      "t": "Don't go",
+      "s": "S1",
+      "ep": "E6",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81357245",
+      "t": "Game of Truth",
+      "s": "S1",
+      "ep": "E7",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81357246",
+      "t": "Happy Birthday",
+      "s": "S1",
+      "ep": "E8",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81357247",
+      "t": "We Need to Talk",
+      "s": "S1",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81357248",
+      "t": "Don't Worry.mp3",
+      "s": "S1",
+      "ep": "E10",
+      "time": "21m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81354740",
+  "lang": [
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81357239",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81509440"
+    },
+    {
+      "id": "81410834"
+    },
+    {
+      "id": "81712983"
+    },
+    {
+      "id": "81472752"
+    },
+    {
+      "id": "81486372"
+    },
+    {
+      "id": "81483827"
+    },
+    {
+      "id": "81716080"
+    },
+    {
+      "id": "81671440"
+    }
+  ],
+  "error": null
+}
