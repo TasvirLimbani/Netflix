@@ -1,0 +1,190 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Sexify",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "43% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Aleksandra Skraba, Maria Soboci\u0144ska, Sandra Drzymalska, Piotr Pacek, Kamil Wodka, Jan Wieteska, Wojciech Solarz",
+  "cast": "Aleksandra Skraba, Maria Soboci\u0144ska, Sandra Drzymalska, Piotr Pacek, Kamil Wodka, Jan Wieteska, Wojciech Solarz",
+  "genre": "TV Dramas, Polish, TV Comedies",
+  "thismovieis": "Quirky, Intimate, Heartfelt",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "sex, nudity, language",
+  "desc": "To build an innovative sex app and win a tech competition, a sexually inexperienced student and her friends must explore the daunting world of intimacy.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81205320",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81354310",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81485854",
+      "t": "Episode 1",
+      "s": "S2",
+      "ep": "E1",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81485855",
+      "t": "Episode 2",
+      "s": "S2",
+      "ep": "E2",
+      "time": "32m"
+    },
+    {
+      "complate": "0",
+      "id": "81485856",
+      "t": "Episode 3",
+      "s": "S2",
+      "ep": "E3",
+      "time": "37m"
+    },
+    {
+      "complate": "0",
+      "id": "81485857",
+      "t": "Episode 4",
+      "s": "S2",
+      "ep": "E4",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81485858",
+      "t": "Episode 5",
+      "s": "S2",
+      "ep": "E5",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81485859",
+      "t": "Episode 6",
+      "s": "S2",
+      "ep": "E6",
+      "time": "33m"
+    },
+    {
+      "complate": "0",
+      "id": "81485860",
+      "t": "Episode 7",
+      "s": "S2",
+      "ep": "E7",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81485861",
+      "t": "Episode 8",
+      "s": "S2",
+      "ep": "E8",
+      "time": "48m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81354310",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81485854",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80095699"
+    },
+    {
+      "id": "80991848"
+    },
+    {
+      "id": "81070890"
+    },
+    {
+      "id": "80197526"
+    },
+    {
+      "id": "81580024"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81508217"
+    },
+    {
+      "id": "81578318"
+    },
+    {
+      "id": "81149112"
+    },
+    {
+      "id": "81248072"
+    }
+  ],
+  "error": null
+}
