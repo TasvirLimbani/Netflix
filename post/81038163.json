@@ -1,0 +1,270 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Samurai Rabbit: The Usagi Chronicles",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "68% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Darren Barnet, Aleks Le, Mallory Low, Keone Young, Shelby Rabara, SungWon Cho, Eric Bauza, Sumalee Montano",
+  "cast": "Darren Barnet, Aleks Le, Mallory Low, Keone Young, Shelby Rabara, SungWon Cho, Eric Bauza, Sumalee Montano",
+  "genre": "Kids' TV, TV Cartoons, TV Shows Based on Comics",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "A teenage rabbit eager to become a true samurai teams up with his new warrior friends to protect their city from Yokai monsters, ninjas and evil aliens.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81038164",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81250907",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81158394",
+      "t": "Runaway Training",
+      "s": "S2",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81158395",
+      "t": "Game Dogs",
+      "s": "S2",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81158396",
+      "t": "The Fuzzy Pony",
+      "s": "S2",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81158397",
+      "t": "Adventures in Ninjasitting",
+      "s": "S2",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81158398",
+      "t": "Interdimensionals",
+      "s": "S2",
+      "ep": "E5",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81158399",
+      "t": "Warbotto",
+      "s": "S2",
+      "ep": "E6",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81158400",
+      "t": "Willow Branch",
+      "s": "S2",
+      "ep": "E7",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81158401",
+      "t": "The Chizu Stands Alone",
+      "s": "S2",
+      "ep": "E8",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81158402",
+      "t": "Eggs!",
+      "s": "S2",
+      "ep": "E9",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81158403",
+      "t": "Invasion!",
+      "s": "S2",
+      "ep": "E10",
+      "time": "26m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81250907",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81158394",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81092958"
+    },
+    {
+      "id": "80234642"
+    },
+    {
+      "id": "80057506"
+    },
+    {
+      "id": "81035568"
+    },
+    {
+      "id": "80237245"
+    },
+    {
+      "id": "81068803"
+    },
+    {
+      "id": "80244283"
+    },
+    {
+      "id": "81227574"
+    },
+    {
+      "id": "81076952"
+    },
+    {
+      "id": "81004665"
+    }
+  ],
+  "error": null
+}
