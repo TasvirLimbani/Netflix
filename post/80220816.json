@@ -1,0 +1,147 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Jinn",
+  "year": "2019",
+  "ua": "U/A 16+",
+  "match": "62% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Mir-Jean Bou Chaaya, Elan Dassani, Rajeev Dassani",
+  "director": "",
+  "writer": "",
+  "short_cast": "Salma Malhas, Sultan Alkhail, Hamzeh Okab, Aysha Shahaltough, Zaid Zoubi, Ban Halaweh, Yasser Al Hadi",
+  "cast": "Salma Malhas, Sultan Alkhail, Hamzeh Okab, Aysha Shahaltough, Zaid Zoubi, Ban Halaweh, Yasser Al Hadi",
+  "genre": "TV Dramas, Middle Eastern TV Shows, Jordanian, Teen TV Shows, TV Thrillers, Fantasy TV Shows",
+  "thismovieis": "Ominous, Suspenseful",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "language",
+  "desc": "A field trip to Petra causes two jinns -- one good, the other evil -- to enter the human realm, turning high school into a supernatural battleground.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80226798",
+      "ep": "5",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80226636",
+      "t": "Strange Whispers",
+      "s": "S1",
+      "ep": "E1",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "80234750",
+      "t": "Magic Sand",
+      "s": "S1",
+      "ep": "E2",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "80234751",
+      "t": "A Dangerous Funny Feeling",
+      "s": "S1",
+      "ep": "E3",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "80234752",
+      "t": "#JinnHunter",
+      "s": "S1",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "80234753",
+      "t": "Careful What You Wish For",
+      "s": "S1",
+      "ep": "E5",
+      "time": "30m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80226798",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80226636",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81354934"
+    },
+    {
+      "id": "81034661"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81614037"
+    },
+    {
+      "id": "81612982"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "81730920"
+    },
+    {
+      "id": "80245450"
+    },
+    {
+      "id": "81760391"
+    },
+    {
+      "id": "80082659"
+    },
+    {
+      "id": "80241581"
+    }
+  ],
+  "error": null
+}
