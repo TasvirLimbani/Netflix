@@ -1,0 +1,263 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Super PupZ",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "64% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Robert Vince",
+  "director": "",
+  "writer": "",
+  "short_cast": "Dave Foley, Harland Williams, Michael Teigen, Davide Fair, Aria Birch, Dylan Schombing, Momona Tamada, Veena Sood, April Cameron, Brian George",
+  "cast": "Dave Foley, Harland Williams, Michael Teigen, Davide Fair, Aria Birch, Dylan Schombing, Momona Tamada, Veena Sood, April Cameron, Brian George",
+  "genre": "Kids' TV, Family Watch Together TV, Canadian, TV Comedies",
+  "thismovieis": "Feel-Good",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "rude humor, mild violence, mild language",
+  "desc": "Four superpowered pups work as a pack to help their new kid pals \u2014 and a furry alien friend \u2014 in a cute and cuddly cosmic adventure!",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81309533",
+      "ep": "9",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81444190",
+      "t": "Pilot",
+      "s": "S1",
+      "ep": "E1",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81444191",
+      "t": "What in the World Is Friendship?",
+      "s": "S1",
+      "ep": "E2",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81444192",
+      "t": "Superpups, Superheroes",
+      "s": "S1",
+      "ep": "E3",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81444193",
+      "t": "Plan \u2018Z\u2019 the Trap",
+      "s": "S1",
+      "ep": "E4",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81444194",
+      "t": "Supermentor",
+      "s": "S1",
+      "ep": "E5",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81444195",
+      "t": "The Greatest Superpower Is Teamwork!",
+      "s": "S1",
+      "ep": "E6",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81444196",
+      "t": "UnPack the Mystery",
+      "s": "S1",
+      "ep": "E7",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81444197",
+      "t": "Storming the Observatory",
+      "s": "S1",
+      "ep": "E8",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81444198",
+      "t": "Saving Zeta",
+      "s": "S1",
+      "ep": "E9",
+      "time": "26m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81309533",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81444190",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81040639"
+    },
+    {
+      "id": "81488581"
+    },
+    {
+      "id": "80204923"
+    },
+    {
+      "id": "81107362"
+    },
+    {
+      "id": "81489833"
+    },
+    {
+      "id": "81329721"
+    },
+    {
+      "id": "60022058"
+    },
+    {
+      "id": "81191433"
+    },
+    {
+      "id": "80245121"
+    },
+    {
+      "id": "28631029"
+    },
+    {
+      "id": "80992263"
+    }
+  ],
+  "error": null
+}
