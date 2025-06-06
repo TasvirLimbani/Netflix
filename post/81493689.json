@@ -1,0 +1,159 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Sleeping Dog",
+  "year": "2023",
+  "ua": "U/A 18+ [A]",
+  "match": "69% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Max Riemelt, Luise Von Finckh, Carlo Ljubek, Melika Foroutan, Peri Baumeister, Melodie Wakivuamina, Antonio Wannek, Tara Africah Corrigan, Helgi Schmid, Bernd H\u00f6lscher, Martin Wuttke",
+  "cast": "Max Riemelt, Luise Von Finckh, Carlo Ljubek, Melika Foroutan, Peri Baumeister, Melodie Wakivuamina, Antonio Wannek, Tara Africah Corrigan, Helgi Schmid, Bernd H\u00f6lscher, Martin Wuttke",
+  "genre": "TV Dramas, German, TV Mysteries, Crime TV Shows, TV Thrillers",
+  "thismovieis": "Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide, substances, sex, nudity, language",
+  "desc": "A former detective now living on the streets searches for the truth after a new death raises unnerving doubts about a supposedly settled murder case.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81493690",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81577948",
+      "t": "Startled",
+      "s": "S1",
+      "ep": "E1",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81577949",
+      "t": "Surprise!",
+      "s": "S1",
+      "ep": "E2",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81577950",
+      "t": "Connecting",
+      "s": "S1",
+      "ep": "E3",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81577951",
+      "t": "Chez Amis",
+      "s": "S1",
+      "ep": "E4",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81577952",
+      "t": "Digging Deep",
+      "s": "S1",
+      "ep": "E5",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81577953",
+      "t": "Confessions",
+      "s": "S1",
+      "ep": "E6",
+      "time": "51m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81493690",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81577948",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81216677"
+    },
+    {
+      "id": "81438805"
+    },
+    {
+      "id": "81417796"
+    },
+    {
+      "id": "81438160"
+    },
+    {
+      "id": "81481477"
+    },
+    {
+      "id": "81520697"
+    },
+    {
+      "id": "81394937"
+    }
+  ],
+  "error": null
+}
