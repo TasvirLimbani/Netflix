@@ -1,0 +1,75 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Batman Begins",
+  "year": "2005",
+  "ua": "U/A 13+",
+  "match": "53% match",
+  "runtime": "2h 19m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Christopher Nolan",
+  "writer": "Bob Kane, David S. Goyer, Christopher Nolan",
+  "short_cast": "Christian Bale, Michael Caine, Liam Neeson, Ken Watanabe, Katie Holmes, Gary Oldman, Cillian Murphy, Tom Wilkinson, Rutger Hauer, Morgan Freeman, Mark Boone Junior, Linus Roache",
+  "cast": "Christian Bale, Michael Caine, Liam Neeson, Ken Watanabe, Katie Holmes, Gary Oldman, Cillian Murphy, Tom Wilkinson, Rutger Hauer, Morgan Freeman, Mark Boone Junior, Linus Roache",
+  "genre": "US Movies, Action & Adventure",
+  "thismovieis": "Dark, Exciting",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, threat, mature themes, language, gore",
+  "desc": "As a toxic threat endangers a corrupt city, Bruce Wayne finds himself at odds with a league of assassins and forced to battle more than his own demons.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81500601"
+    },
+    {
+      "id": "70079583"
+    },
+    {
+      "id": "81092221"
+    },
+    {
+      "id": "20557937"
+    },
+    {
+      "id": "81465707"
+    },
+    {
+      "id": "80144309"
+    },
+    {
+      "id": "70208599"
+    },
+    {
+      "id": "60027724"
+    },
+    {
+      "id": "80991034"
+    },
+    {
+      "id": "60004481"
+    },
+    {
+      "id": "70131314"
+    },
+    {
+      "id": "81198930"
+    }
+  ],
+  "error": null
+}
