@@ -1,0 +1,191 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "FUBAR",
+  "year": "2023",
+  "ua": "U/A 16+",
+  "match": "93% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Nick Santora",
+  "director": "",
+  "writer": "",
+  "short_cast": "Arnold Schwarzenegger, Monica Barbaro, Milan Carter, Gabriel Luna, Jay Baruchel, Fortune Feimster, Travis Van Winkle, Fabiana Udenio, Barbara Eve Harris, Aparna Brielle, Andy Buckley",
+  "cast": "Arnold Schwarzenegger, Monica Barbaro, Milan Carter, Gabriel Luna, Jay Baruchel, Fortune Feimster, Travis Van Winkle, Fabiana Udenio, Barbara Eve Harris, Aparna Brielle, Andy Buckley",
+  "genre": "TV Dramas, TV Comedies, TV Action & Adventure, US TV Shows",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, sexual content, language",
+  "desc": "When a father and daughter discover they both secretly work for the CIA, an already dicey undercover mission turns into a dysfunctional family affair.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81397078",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81587867",
+      "t": "Take Your Daughter to Work Day",
+      "s": "S1",
+      "ep": "E1",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81587868",
+      "t": "Stole Train",
+      "s": "S1",
+      "ep": "E2",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81587869",
+      "t": "Honeyplot",
+      "s": "S1",
+      "ep": "E3",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81587870",
+      "t": "Armed & Dane-gerous",
+      "s": "S1",
+      "ep": "E4",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81587871",
+      "t": "Here Today, Gone To-Marrow",
+      "s": "S1",
+      "ep": "E5",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81587872",
+      "t": "Royally Flushed",
+      "s": "S1",
+      "ep": "E6",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81587873",
+      "t": "Urine Luck",
+      "s": "S1",
+      "ep": "E7",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81587874",
+      "t": "That's It and That's All",
+      "s": "S1",
+      "ep": "E8",
+      "time": "45m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81397078",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81587867",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81413928"
+    },
+    {
+      "id": "81157207"
+    },
+    {
+      "id": "81450827"
+    },
+    {
+      "id": "81396545"
+    },
+    {
+      "id": "81186234"
+    },
+    {
+      "id": "81026305"
+    },
+    {
+      "id": "80992058"
+    },
+    {
+      "id": "70242804"
+    },
+    {
+      "id": "81486213"
+    },
+    {
+      "id": "80210920"
+    }
+  ],
+  "error": null
+}
