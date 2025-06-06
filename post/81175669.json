@@ -1,0 +1,162 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Thursday's Widows",
+  "year": "2023",
+  "ua": "U/A 18+ [A]",
+  "match": "31% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Omar Chaparro, Cassandra Ciangherotti, Irene Azuela, Juan Pablo Medina, Zuria Vega, Alfonso Bassave, Pablo Cruz Guerrero, Sof\u00eda Sisniega, Mayra Hermosillo, Gerardo Trejoluna, Claudette Maill\u00e9",
+  "cast": "Omar Chaparro, Cassandra Ciangherotti, Irene Azuela, Juan Pablo Medina, Zuria Vega, Alfonso Bassave, Pablo Cruz Guerrero, Sof\u00eda Sisniega, Mayra Hermosillo, Gerardo Trejoluna, Claudette Maill\u00e9",
+  "genre": "TV Dramas, Mexican, TV Shows Based on Books, TV Thrillers, Social Issue TV Dramas",
+  "thismovieis": "Dark, Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "tobacco use, suicide, sex, nudity",
+  "desc": "Teresa finds her husband and his two best friends dead in the lavish community where they live. As the truth comes to light, so will dark secrets.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81177138",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81611218",
+      "t": "They Must Know the Truth",
+      "s": "S1",
+      "ep": "E1",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81611219",
+      "t": "The Scaglia Family",
+      "s": "S1",
+      "ep": "E2",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81611220",
+      "t": "The Andrade Family",
+      "s": "S1",
+      "ep": "E3",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81611221",
+      "t": "The De La Luna Family",
+      "s": "S1",
+      "ep": "E4",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81611222",
+      "t": "The Maldonado Family",
+      "s": "S1",
+      "ep": "E5",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81611223",
+      "t": "The Guevara Family",
+      "s": "S1",
+      "ep": "E6",
+      "time": "44m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81177138",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81611218",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81306170"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81494917"
+    },
+    {
+      "id": "81506665"
+    },
+    {
+      "id": "81427796"
+    },
+    {
+      "id": "81133447"
+    },
+    {
+      "id": "81166747"
+    },
+    {
+      "id": "81317562"
+    }
+  ],
+  "error": null
+}
