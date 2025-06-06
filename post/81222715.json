@@ -1,0 +1,210 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Man Vs Bee",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "47% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Rowan Atkinson, William Davies",
+  "director": "",
+  "writer": "",
+  "short_cast": "Rowan Atkinson",
+  "cast": "Rowan Atkinson",
+  "genre": "Family Watch Together TV, British, TV Comedies",
+  "thismovieis": "Quirky, Goofy",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "rude humor, mild violence",
+  "desc": "Bumbling dad Trevor tries to get the best of a cunning bee while house-sitting a posh mansion \u2014 but only unleashes more chaos in this comedy series.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81222716",
+      "ep": "9",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81285374",
+      "t": "Chapter 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "19m"
+    },
+    {
+      "complate": "0",
+      "id": "81285375",
+      "t": "Chapter 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81285376",
+      "t": "Chapter 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "12m"
+    },
+    {
+      "complate": "0",
+      "id": "81285377",
+      "t": "Chapter 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81285378",
+      "t": "Chapter 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "10m"
+    },
+    {
+      "complate": "0",
+      "id": "81285379",
+      "t": "Chapter 6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "10m"
+    },
+    {
+      "complate": "0",
+      "id": "81285380",
+      "t": "Chapter 7",
+      "s": "S1",
+      "ep": "E7",
+      "time": "11m"
+    },
+    {
+      "complate": "0",
+      "id": "81285381",
+      "t": "Chapter 8",
+      "s": "S1",
+      "ep": "E8",
+      "time": "12m"
+    },
+    {
+      "complate": "0",
+      "id": "81285382",
+      "t": "Chapter 9",
+      "s": "S1",
+      "ep": "E9",
+      "time": "12m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81222716",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81285374",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "28631029"
+    },
+    {
+      "id": "215309"
+    },
+    {
+      "id": "81570889"
+    },
+    {
+      "id": "70228042"
+    },
+    {
+      "id": "70044593"
+    },
+    {
+      "id": "215318"
+    },
+    {
+      "id": "81221835"
+    },
+    {
+      "id": "60022058"
+    },
+    {
+      "id": "70059988"
+    },
+    {
+      "id": "81011712"
+    },
+    {
+      "id": "80031800"
+    },
+    {
+      "id": "17236928"
+    }
+  ],
+  "error": null
+}
