@@ -1,0 +1,255 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "My Little Pony: Make Your Mark",
+  "year": "2022",
+  "ua": "U",
+  "match": "60% match",
+  "runtime": "6 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Jenna Warren, Maitreyi Ramakrishnan, JJ Gerber, Ana Sani, Aj Bridel, Rob Tinkler, Bahia Watson, Athena Karkanis",
+  "cast": "Jenna Warren, Maitreyi Ramakrishnan, JJ Gerber, Ana Sani, Aj Bridel, Rob Tinkler, Bahia Watson, Athena Karkanis",
+  "genre": "Kids' TV, TV Cartoons",
+  "thismovieis": "Imaginative, Feel-Good",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "Welcome back to Equestria, where pony magic is everywhere. With friends Zipp, Sunny, Izzy, Pipp and Hitch leading the way, adventure is sure to follow!",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81443472",
+      "ep": "1",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81522149",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81577340",
+      "ep": "1",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "81589187",
+      "ep": "7",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "81589189",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "6",
+      "id": "81589190",
+      "ep": "4",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81577633",
+      "t": "The Isle of Scaly",
+      "s": "S6",
+      "ep": "E1",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81577634",
+      "t": "Roots of All Evil Pt. 1",
+      "s": "S6",
+      "ep": "E2",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81577635",
+      "t": "Roots of All Evil Pt. 2",
+      "s": "S6",
+      "ep": "E3",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81589200",
+      "t": "Secrets of Starlight",
+      "s": "S6",
+      "ep": "E4",
+      "time": "45m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81589190",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81577633",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81424207"
+    },
+    {
+      "id": "81628023"
+    },
+    {
+      "id": "81279322"
+    },
+    {
+      "id": "81607651"
+    },
+    {
+      "id": "80192815"
+    },
+    {
+      "id": "81383247"
+    },
+    {
+      "id": "81110501"
+    },
+    {
+      "id": "81607695"
+    },
+    {
+      "id": "81296780"
+    }
+  ],
+  "error": null
+}
