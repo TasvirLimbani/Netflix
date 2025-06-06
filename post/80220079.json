@@ -1,0 +1,167 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Mismatched",
+  "year": "2020",
+  "ua": "U/A 18+ [A]",
+  "match": "80% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Akarsh Khurana",
+  "director": "",
+  "writer": "",
+  "short_cast": "Prajakta Koli, Rohit Saraf, Vihaan Samat, Taaruk Raina, Vidya Malavade, Kritika Bharadwaj, Rannvijay Singh, Muskkaan Jaferi, Devyani Shorey, Suhasini Mulay, Abhinav Sharma, Ravin Makhija, Sanjana Sarthy, Priya Bannerjee",
+  "cast": "Prajakta Koli, Rohit Saraf, Vihaan Samat, Taaruk Raina, Vidya Malavade, Kritika Bharadwaj, Rannvijay Singh, Muskkaan Jaferi, Devyani Shorey, Suhasini Mulay, Abhinav Sharma, Ravin Makhija, Sanjana Sarthy, Priya Bannerjee",
+  "genre": "Romantic TV Dramas, TV Dramas, TV Shows Based on Books, Teen TV Shows, TV Comedies, Romantic TV Comedies, Hindi-Language TV Shows",
+  "thismovieis": "Quirky, Heartfelt, Romantic",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "substances, sex, language",
+  "desc": "After a disastrous set-up by their families, two teens strike up a tentative friendship at their summer program \u2014 but deeper feelings aren\u2019t far behind.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81002504",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81220423",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81473643",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81687813",
+      "t": "When Dimple Didn't Meet Rishi",
+      "s": "S3",
+      "ep": "E1",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81687814",
+      "t": "For Better or For Verse",
+      "s": "S3",
+      "ep": "E2",
+      "time": "38m"
+    },
+    {
+      "complate": "0",
+      "id": "81687815",
+      "t": "Chill vs Dil",
+      "s": "S3",
+      "ep": "E3",
+      "time": "32m"
+    },
+    {
+      "complate": "0",
+      "id": "81687816",
+      "t": "It Gets Better, Hon",
+      "s": "S3",
+      "ep": "E4",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81687817",
+      "t": "Where Does The Love Go?",
+      "s": "S3",
+      "ep": "E5",
+      "time": "34m"
+    },
+    {
+      "complate": "0",
+      "id": "81687818",
+      "t": "Growing Pains",
+      "s": "S3",
+      "ep": "E6",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81697198",
+      "t": "Hello, Future Wife!",
+      "s": "S3",
+      "ep": "E7",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81697199",
+      "t": "Beginning, Middle and...",
+      "s": "S3",
+      "ep": "E8",
+      "time": "44m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81473643",
+  "lang": [
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    }
+  ],
+  "last_ep": "81687813",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81011159"
+    },
+    {
+      "id": "81197473"
+    },
+    {
+      "id": "81760391"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "81249783"
+    },
+    {
+      "id": "81382263"
+    },
+    {
+      "id": "81672746"
+    },
+    {
+      "id": "81688853"
+    },
+    {
+      "id": "81122196"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "80993401"
+    }
+  ],
+  "error": null
+}
