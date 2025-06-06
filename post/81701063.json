@@ -1,0 +1,118 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Chhota Bheem Magic Block Buster",
+  "year": "2023",
+  "ua": "U/A 7+",
+  "match": "47% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Rajiv Chilaka",
+  "director": "",
+  "writer": "",
+  "short_cast": "Sonal Kaushal",
+  "cast": "Sonal Kaushal",
+  "genre": "Kids' TV, TV Cartoons, Hindi-Language TV Shows",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "Follow Bheem and his Dholakpur crew in this special collection of adventures as they battle demons, ghosts and more to protect the world from danger.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81701064",
+      "ep": "3",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81701065",
+      "t": "Part 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81701066",
+      "t": "Part 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81701067",
+      "t": "Part 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "45m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81701064",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    }
+  ],
+  "last_ep": "81701065",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81700184"
+    },
+    {
+      "id": "81701055"
+    },
+    {
+      "id": "81701050"
+    },
+    {
+      "id": "81318081"
+    },
+    {
+      "id": "81318062"
+    },
+    {
+      "id": "81318057"
+    },
+    {
+      "id": "81318066"
+    },
+    {
+      "id": "81570092"
+    },
+    {
+      "id": "80158156"
+    },
+    {
+      "id": "80146758"
+    },
+    {
+      "id": "81570077"
+    },
+    {
+      "id": "81318080"
+    }
+  ],
+  "error": null
+}
