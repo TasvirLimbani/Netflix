@@ -1,0 +1,75 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Interstellar",
+  "year": "2014",
+  "ua": "U/A 13+",
+  "match": "100% match",
+  "runtime": "2h 49m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Christopher Nolan",
+  "writer": "Jonathan Nolan, Christopher Nolan",
+  "short_cast": "Matthew McConaughey, Anne Hathaway, Jessica Chastain, Michael Caine, Ellen Burstyn, John Lithgow, Casey Affleck, Wes Bentley, Bill Irwin, Mackenzie Foy, Topher Grace, David Gyasi",
+  "cast": "Matthew McConaughey, Anne Hathaway, Jessica Chastain, Michael Caine, Ellen Burstyn, John Lithgow, Casey Affleck, Wes Bentley, Bill Irwin, Mackenzie Foy, Topher Grace, David Gyasi",
+  "genre": "Sci-Fi Movies, US Movies, Action & Adventure, Dramas",
+  "thismovieis": "Mind-Bending, Cerebral",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, mature themes, language",
+  "desc": "With humanity teetering on the brink of extinction, a group of astronauts travels through a wormhole in search of another inhabitable planet.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70131314"
+    },
+    {
+      "id": "81199139"
+    },
+    {
+      "id": "80117456"
+    },
+    {
+      "id": "70097578"
+    },
+    {
+      "id": "81198930"
+    },
+    {
+      "id": "81092221"
+    },
+    {
+      "id": "70298735"
+    },
+    {
+      "id": "70005379"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "70060015"
+    },
+    {
+      "id": "80185760"
+    },
+    {
+      "id": "80211726"
+    }
+  ],
+  "error": null
+}
