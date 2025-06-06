@@ -1,0 +1,111 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Beverly Hills Cop",
+  "year": "1984",
+  "ua": "U/A 18+ [A]",
+  "match": "88% match",
+  "runtime": "1h 45m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Martin Brest",
+  "writer": "Daniel Petrie Jr., Danilo Bach",
+  "short_cast": "Eddie Murphy, Lisa Eilbacher, Steven Berkoff, Judge Reinhold, Ronny Cox, John Ashton, James Russo, Jonathan Banks, Stephen Elliott, Gilbert R. Hill",
+  "cast": "Eddie Murphy, Lisa Eilbacher, Steven Berkoff, Judge Reinhold, Ronny Cox, John Ashton, James Russo, Jonathan Banks, Stephen Elliott, Gilbert R. Hill",
+  "genre": "Comedy Movies, Action & Adventure Movies, US Movies",
+  "thismovieis": "Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "tobacco use, nudity",
+  "desc": "When freewheeling Detroit detective Axel Foley tracks his friend's killer to sunny Beverly Hills, his street-smart attitude clashes with LA culture.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "60021985"
+    },
+    {
+      "id": "60010140"
+    },
+    {
+      "id": "17236928"
+    },
+    {
+      "id": "60020801"
+    },
+    {
+      "id": "70127228"
+    },
+    {
+      "id": "70059988"
+    },
+    {
+      "id": "81076856"
+    },
+    {
+      "id": "60001650"
+    },
+    {
+      "id": "215309"
+    },
+    {
+      "id": "60031216"
+    },
+    {
+      "id": "80182014"
+    },
+    {
+      "id": "60022059"
+    }
+  ],
+  "error": null
+}
