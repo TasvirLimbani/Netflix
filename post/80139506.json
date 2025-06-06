@@ -1,0 +1,107 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Little Evil",
+  "year": "2017",
+  "ua": "U/A 16+",
+  "match": "31% match",
+  "runtime": "1h 34m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Eli Craig",
+  "writer": "Eli Craig",
+  "short_cast": "Adam Scott, Evangeline Lilly, Bridget Everett, Owen Atlas, Chris D'Elia, Donald Faison, Clancy Brown, Tyler Labine, Kyle Bornheimer, Carla Gallo, Brad Williams, Sally Field",
+  "cast": "Adam Scott, Evangeline Lilly, Bridget Everett, Owen Atlas, Chris D'Elia, Donald Faison, Clancy Brown, Tyler Labine, Kyle Bornheimer, Carla Gallo, Brad Williams, Sally Field",
+  "genre": "US Movies, Comedies, Satires, Horror Movies",
+  "thismovieis": "Absurd, Scary",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "language",
+  "desc": "In this horror-comedy, a recently married man who wants to bond with his stepson begins to fear that the boy is a demon.",
+  "oin": "y",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81042819"
+    },
+    {
+      "id": "80230619"
+    },
+    {
+      "id": "80164456"
+    },
+    {
+      "id": "80206910"
+    },
+    {
+      "id": "81156676"
+    },
+    {
+      "id": "81012366"
+    },
+    {
+      "id": "80122759"
+    },
+    {
+      "id": "81619948"
+    },
+    {
+      "id": "81034937"
+    },
+    {
+      "id": "81325689"
+    },
+    {
+      "id": "80998174"
+    },
+    {
+      "id": "70251537"
+    }
+  ],
+  "error": null
+}
