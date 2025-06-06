@@ -1,0 +1,218 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Wu Assassins",
+  "year": "2019",
+  "ua": "U/A 18+ [A]",
+  "match": "75% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "John Wirth, Tony Krantz",
+  "director": "",
+  "writer": "",
+  "short_cast": "Iko Uwais, Katheryn Winnick, Byron Mann, Tommy Flanagan, Li Jun Li, Celia Au, Lewis Tan, Lawrence Kao, JuJu Chan Szeto, Tzi Ma, Cranston Johnson, Mark Dacascos, Kevin Durand, Jeff Fahey, Summer Glau",
+  "cast": "Iko Uwais, Katheryn Winnick, Byron Mann, Tommy Flanagan, Li Jun Li, Celia Au, Lewis Tan, Lawrence Kao, JuJu Chan Szeto, Tzi Ma, Cranston Johnson, Mark Dacascos, Kevin Durand, Jeff Fahey, Summer Glau",
+  "genre": "TV Action & Adventure, US TV Shows, Fantasy TV Shows",
+  "thismovieis": "Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide, substances",
+  "desc": "An unassuming San Francisco chef becomes the latest in a long line of assassins chosen to keep the mystical Wu powers out of the wrong hands.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80240565",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80993063",
+      "t": "Drunken Watermelon",
+      "s": "S1",
+      "ep": "E1",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "80993064",
+      "t": "Misspent Youth",
+      "s": "S1",
+      "ep": "E2",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "80993065",
+      "t": "Fire Chicken",
+      "s": "S1",
+      "ep": "E3",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "80993066",
+      "t": "A Twisting Snake",
+      "s": "S1",
+      "ep": "E4",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "80993067",
+      "t": "Codladh S\u00e1mh",
+      "s": "S1",
+      "ep": "E5",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "80993068",
+      "t": "Gu Assassins",
+      "s": "S1",
+      "ep": "E6",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "80993069",
+      "t": "Legacy",
+      "s": "S1",
+      "ep": "E7",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "80993070",
+      "t": "Ladies' Night",
+      "s": "S1",
+      "ep": "E8",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "80993071",
+      "t": "Paths: Part 1",
+      "s": "S1",
+      "ep": "E9",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "80993072",
+      "t": "Paths: Part 2",
+      "s": "S1",
+      "ep": "E10",
+      "time": "47m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80240565",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "80993063",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80240904"
+    },
+    {
+      "id": "80109145"
+    },
+    {
+      "id": "80148162"
+    },
+    {
+      "id": "81399639"
+    },
+    {
+      "id": "80242724"
+    },
+    {
+      "id": "81000511"
+    },
+    {
+      "id": "81721676"
+    },
+    {
+      "id": "81344253"
+    },
+    {
+      "id": "81486233"
+    },
+    {
+      "id": "81444051"
+    },
+    {
+      "id": "81465101"
+    },
+    {
+      "id": "81258637"
+    }
+  ],
+  "error": null
+}
