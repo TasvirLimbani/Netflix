@@ -1,0 +1,75 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Godzilla",
+  "year": "2014",
+  "ua": "U/A 13+",
+  "match": "98% match",
+  "runtime": "2h 3m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Gareth Edwards",
+  "writer": "Ishir\u00f4 Honda, Takeo Murata, Shigeru Kayama",
+  "short_cast": "Aaron Taylor-Johnson, Ken Watanabe, Bryan Cranston, Elizabeth Olsen, Juliette Binoche, Sally Hawkins, David Strathairn, Richard T. Jones, CJ Adams, Victor Rasuk",
+  "cast": "Aaron Taylor-Johnson, Ken Watanabe, Bryan Cranston, Elizabeth Olsen, Juliette Binoche, Sally Hawkins, David Strathairn, Richard T. Jones, CJ Adams, Victor Rasuk",
+  "genre": "Sci-Fi Movies, US Movies, Action & Adventure",
+  "thismovieis": "Dark, Exciting",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, threat, mature themes, language",
+  "desc": "Years after a nuclear disaster tore their family apart, a father and son reunite just as Godzilla re-emerges to battle beasts that threaten humanity.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81044417"
+    },
+    {
+      "id": "81183713"
+    },
+    {
+      "id": "81767635"
+    },
+    {
+      "id": "80139562"
+    },
+    {
+      "id": "80216309"
+    },
+    {
+      "id": "70021664"
+    },
+    {
+      "id": "60027724"
+    },
+    {
+      "id": "60036256"
+    },
+    {
+      "id": "80211726"
+    },
+    {
+      "id": "81199145"
+    },
+    {
+      "id": "80228280"
+    },
+    {
+      "id": "80029196"
+    }
+  ],
+  "error": null
+}
