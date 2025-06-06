@@ -1,0 +1,176 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Kleo",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "62% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Hanno Hackfort, Bob Konrad, Richard Kropf",
+  "director": "",
+  "writer": "",
+  "short_cast": "Jella Haase, Dimitrij Schaad, Julius Feldmeier, Vincent Redetzki, Vladimir Burlakov, Marta Sroka, Yun Huang, Alessija Lause, Thandi Sebe, J\u00fcrgen Heinrich, Steffi K\u00fchnert, Andrej Kaminsky, Robin Gooch, Alli Neumann, Anna Stieblich, Rodrigo Rojo",
+  "cast": "Jella Haase, Dimitrij Schaad, Julius Feldmeier, Vincent Redetzki, Vladimir Burlakov, Marta Sroka, Yun Huang, Alessija Lause, Thandi Sebe, J\u00fcrgen Heinrich, Steffi K\u00fchnert, Andrej Kaminsky, Robin Gooch, Alli Neumann, Anna Stieblich, Rodrigo Rojo",
+  "genre": "TV Dramas, German, TV Thrillers",
+  "thismovieis": "Offbeat, Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "tobacco use, suicide, substances, nudity, language",
+  "desc": "After the fall of the Berlin Wall, a former East German spy resolves to find out who betrayed her and why \u2014 and use her lethal skills to exact revenge.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81256015",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81476390",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81648432",
+      "t": "The Seahorse",
+      "s": "S2",
+      "ep": "E1",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81648433",
+      "t": "Object Moni",
+      "s": "S2",
+      "ep": "E2",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81648434",
+      "t": "The Bear",
+      "s": "S2",
+      "ep": "E3",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81648435",
+      "t": "Beer and Schnapps",
+      "s": "S2",
+      "ep": "E4",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81648436",
+      "t": "From Russia with Love",
+      "s": "S2",
+      "ep": "E5",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81648437",
+      "t": "Harald",
+      "s": "S2",
+      "ep": "E6",
+      "time": "53m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81476390",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81648432",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81113742"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81123055"
+    },
+    {
+      "id": "81221179"
+    },
+    {
+      "id": "81396545"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "81493689"
+    },
+    {
+      "id": "81730920"
+    }
+  ],
+  "error": null
+}
