@@ -1,0 +1,147 @@
+{
+  "status": "y",
+  "d_lang": "zxx",
+  "title": "Grizzy and the Lemmings",
+  "year": "2017",
+  "ua": "U",
+  "match": "67% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Antoine Rodelet, Josselin Charier",
+  "director": "",
+  "writer": "",
+  "short_cast": "Josselin Charier, Pierre-Alain de Garrigues",
+  "cast": "Josselin Charier, Pierre-Alain de Garrigues",
+  "genre": "Kids' TV, TV Comedies, TV Cartoons",
+  "thismovieis": "Goofy",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "Grizzy the bear loves to snack and relax in a Canadian forest cabin, where a pack of adorable, thrill-seeking lemmings are always making mayhem.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81154174",
+      "ep": "78",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81361017",
+      "ep": "78",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81616153",
+      "ep": "78",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81616154",
+      "t": "Fortune Lemming",
+      "s": "S3",
+      "ep": "E1",
+      "time": "7m"
+    },
+    {
+      "complate": "0",
+      "id": "81616155",
+      "t": "M\u00e9decine pas douce",
+      "s": "S3",
+      "ep": "E2",
+      "time": "7m"
+    },
+    {
+      "complate": "0",
+      "id": "81616156",
+      "t": "Shaolin Domestique",
+      "s": "S3",
+      "ep": "E3",
+      "time": "7m"
+    },
+    {
+      "complate": "0",
+      "id": "81616157",
+      "t": "Ennemis Pacifiques",
+      "s": "S3",
+      "ep": "E4",
+      "time": "7m"
+    },
+    {
+      "complate": "0",
+      "id": "81616158",
+      "t": "La L\u00e9gende Des 7 Lemmings",
+      "s": "S3",
+      "ep": "E5",
+      "time": "7m"
+    },
+    {
+      "complate": "0",
+      "id": "81616160",
+      "t": "Ours et Dragons",
+      "s": "S3",
+      "ep": "E6",
+      "time": "7m"
+    },
+    {
+      "complate": "0",
+      "id": "81616161",
+      "t": "Coup De Bambou",
+      "s": "S3",
+      "ep": "E7",
+      "time": "7m"
+    },
+    {
+      "complate": "0",
+      "id": "81616162",
+      "t": "Ours Dans les nuages",
+      "s": "S3",
+      "ep": "E8",
+      "time": "7m"
+    },
+    {
+      "complate": "0",
+      "id": "81616163",
+      "t": "Tactique d'ombrelles",
+      "s": "S3",
+      "ep": "E9",
+      "time": "7m"
+    },
+    {
+      "complate": "0",
+      "id": "81616164",
+      "t": "Ni Yin ni Yang",
+      "s": "S3",
+      "ep": "E10",
+      "time": "7m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81616153",
+  "lang": [
+    {
+      "l": "zxx",
+      "s": "zxx"
+    }
+  ],
+  "last_ep": "81616154",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "70286901"
+    },
+    {
+      "id": "80104199"
+    },
+    {
+      "id": "70155567"
+    }
+  ],
+  "error": null
+}
