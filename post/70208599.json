@@ -1,0 +1,111 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Amazing Spider-Man",
+  "year": "2012",
+  "ua": "U/A 13+",
+  "match": "58% match",
+  "runtime": "2h 16m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Marc Webb",
+  "writer": "James Vanderbilt, Alvin Sargent, Steve Kloves",
+  "short_cast": "Andrew Garfield, Emma Stone, Rhys Ifans, Denis Leary, Martin Sheen, Sally Field, Campbell Scott, Embeth Davidtz, Irrfan Khan, Chris Zylka, Max Charles, C. Thomas Howell",
+  "cast": "Andrew Garfield, Emma Stone, Rhys Ifans, Denis Leary, Martin Sheen, Sally Field, Campbell Scott, Embeth Davidtz, Irrfan Khan, Chris Zylka, Max Charles, C. Thomas Howell",
+  "genre": "Sci-Fi Movies, US Movies, Action & Adventure",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, mature themes, gore",
+  "desc": "In this reboot of the hit superhero franchise, high schooler Peter Parker learns to wield his newfound powers while facing down arch-villain The Lizard.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70293702"
+    },
+    {
+      "id": "80166369"
+    },
+    {
+      "id": "70047101"
+    },
+    {
+      "id": "60027724"
+    },
+    {
+      "id": "80144309"
+    },
+    {
+      "id": "80991034"
+    },
+    {
+      "id": "80081793"
+    },
+    {
+      "id": "80187362"
+    },
+    {
+      "id": "80211726"
+    },
+    {
+      "id": "70264797"
+    },
+    {
+      "id": "80216309"
+    },
+    {
+      "id": "81183713"
+    }
+  ],
+  "error": null
+}
