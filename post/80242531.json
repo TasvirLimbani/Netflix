@@ -1,0 +1,282 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Cuphead Show!",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "36% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Tru Valentino, Frank Todaro, Wayne Brady, Joe Hanna, Luke Millington-Drake, Grey Griffin, Cosmo Segurson, Dave Wasson",
+  "cast": "Tru Valentino, Frank Todaro, Wayne Brady, Joe Hanna, Luke Millington-Drake, Grey Griffin, Cosmo Segurson, Dave Wasson",
+  "genre": "Kids' TV, TV Comedies, TV Cartoons",
+  "thismovieis": "Witty, Goofy",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "rude humor, mild violence",
+  "desc": "Follow the misadventures of the impulsive Cuphead and his easily swayed brother Mugman in this animated series based on the hit video game.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80991697",
+      "ep": "12",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81270804",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81270805",
+      "ep": "11",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81460786",
+      "t": "The Devil's Revenge!",
+      "s": "S3",
+      "ep": "E1",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81460804",
+      "t": "Don't Answer the Door",
+      "s": "S3",
+      "ep": "E2",
+      "time": "15m"
+    },
+    {
+      "complate": "0",
+      "id": "81460792",
+      "t": "Cupstaged",
+      "s": "S3",
+      "ep": "E3",
+      "time": "14m"
+    },
+    {
+      "complate": "0",
+      "id": "81460795",
+      "t": "Roadkill",
+      "s": "S3",
+      "ep": "E4",
+      "time": "16m"
+    },
+    {
+      "complate": "0",
+      "id": "81460800",
+      "t": "Holiday Tree-dition",
+      "s": "S3",
+      "ep": "E5",
+      "time": "13m"
+    },
+    {
+      "complate": "0",
+      "id": "81460799",
+      "t": "A Very Devil Christmas",
+      "s": "S3",
+      "ep": "E6",
+      "time": "34m"
+    },
+    {
+      "complate": "0",
+      "id": "81460797",
+      "t": "Special Delivery",
+      "s": "S3",
+      "ep": "E7",
+      "time": "16m"
+    },
+    {
+      "complate": "0",
+      "id": "81460802",
+      "t": "Down & Out",
+      "s": "S3",
+      "ep": "E8",
+      "time": "18m"
+    },
+    {
+      "complate": "0",
+      "id": "81460803",
+      "t": "Joyride",
+      "s": "S3",
+      "ep": "E9",
+      "time": "14m"
+    },
+    {
+      "complate": "0",
+      "id": "81460805",
+      "t": "Dance with Danger",
+      "s": "S3",
+      "ep": "E10",
+      "time": "16m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81270805",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81460786",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "70243420"
+    },
+    {
+      "id": "70241425"
+    },
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "70155547"
+    },
+    {
+      "id": "81068804"
+    },
+    {
+      "id": "81294811"
+    },
+    {
+      "id": "81312563"
+    },
+    {
+      "id": "80011621"
+    }
+  ],
+  "error": null
+}
