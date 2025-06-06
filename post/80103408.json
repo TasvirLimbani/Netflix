@@ -1,0 +1,172 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Teen Titans Go!",
+  "year": "2013",
+  "ua": "U/A 7+",
+  "match": "84% match",
+  "runtime": "4 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Aaron Horvath, Michael Jelenic",
+  "director": "",
+  "writer": "",
+  "short_cast": "Greg Cipes, Scott Menville, Khary Payton, Tara Strong, Hynden Walch",
+  "cast": "Greg Cipes, Scott Menville, Khary Payton, Tara Strong, Hynden Walch",
+  "genre": "Kids' TV, TV Comedies, TV Cartoons, TV Shows Based on Comics",
+  "thismovieis": "Witty, Quirky, Goofy",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "rude humor, mild violence, mild language, mild fear",
+  "desc": "Superhero roommates Robin, Starfire, Raven, Beast Boy and Cyborg protect Jump City from evildoers, when they're not too busy bickering and competing.",
+  "oin": "",
+  "season": [
+    {
+      "s": "2",
+      "id": "80103409",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80108552",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "80240681",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "81155198",
+      "ep": "26",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81155199",
+      "t": "The Scoop / Chicken in the Cradle",
+      "s": "S5",
+      "ep": "E1",
+      "time": "20m"
+    },
+    {
+      "complate": "0",
+      "id": "81155200",
+      "t": "Kabooms: Pt 1 / Kabooms: Pt. 2",
+      "s": "S5",
+      "ep": "E2",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81155201",
+      "t": "Tower Renovation / Quantum Fun",
+      "s": "S5",
+      "ep": "E3",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81155202",
+      "t": "The Fight / Genie President",
+      "s": "S5",
+      "ep": "E4",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81155203",
+      "t": "Little Elvis / The Groover",
+      "s": "S5",
+      "ep": "E5",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81155204",
+      "t": "The Power of Shrimps / My Name is Jose",
+      "s": "S5",
+      "ep": "E6",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81155205",
+      "t": "The Real Orangins! / Monster Squad!",
+      "s": "S5",
+      "ep": "E7",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81155206",
+      "t": "Justice League's Next Top Talent Idol Star: Second Greatest Team Edition: Parts 1 & 2",
+      "s": "S5",
+      "ep": "E8",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81155207",
+      "t": "BBRBDAY / Tall Titan Tales",
+      "s": "S5",
+      "ep": "E9",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81155208",
+      "t": "How's This for a Special? Spaaaace: Part 1 / How's This for a Special? Spaaaace: Part 2",
+      "s": "S5",
+      "ep": "E10",
+      "time": "20m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81155198",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "last_ep": "81155199",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81145135"
+    },
+    {
+      "id": "70243420"
+    },
+    {
+      "id": "70155571"
+    },
+    {
+      "id": "70241425"
+    },
+    {
+      "id": "81068804"
+    },
+    {
+      "id": "70155547"
+    },
+    {
+      "id": "70301529"
+    },
+    {
+      "id": "70185194"
+    }
+  ],
+  "error": null
+}
