@@ -1,0 +1,183 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Gossip Girl",
+  "year": "2007",
+  "ua": "U/A 18+ [A]",
+  "match": "31% match",
+  "runtime": "6 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Josh Schwartz, Stephanie Savage",
+  "director": "",
+  "writer": "",
+  "short_cast": "Blake Lively, Leighton Meester, Penn Badgley, Chace Crawford, Ed Westwick, Kelly Rutherford, Matthew Settle, Taylor Momsen, Jessica Szohr, Zuzanna Szadkowski, Connor Paolo",
+  "cast": "Blake Lively, Leighton Meester, Penn Badgley, Chace Crawford, Ed Westwick, Kelly Rutherford, Matthew Settle, Taylor Momsen, Jessica Szohr, Zuzanna Szadkowski, Connor Paolo",
+  "genre": "TV Dramas, TV Shows Based on Books, Teen TV Shows, US TV Shows",
+  "thismovieis": "Scandalous",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "tobacco use, substances, sex",
+  "desc": "These hyperprivileged Manhattan private-school kids seem to get away with everything. Except an anonymous blogger is watching their every move.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "70079096",
+      "ep": "18",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "70096958",
+      "ep": "25",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "70117376",
+      "ep": "22",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "70135208",
+      "ep": "22",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "70190778",
+      "ep": "24",
+      "sele": " selected"
+    },
+    {
+      "s": "6",
+      "id": "70242059",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "70264495",
+      "t": "Gone Maybe Gone",
+      "s": "S6",
+      "ep": "E1",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "70264496",
+      "t": "High Infidelity",
+      "s": "S6",
+      "ep": "E2",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "70264497",
+      "t": "Dirty Rotten Scandals",
+      "s": "S6",
+      "ep": "E3",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "70264498",
+      "t": "Portrait of a Lady Alexander",
+      "s": "S6",
+      "ep": "E4",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "70264499",
+      "t": "Monstrous Ball",
+      "s": "S6",
+      "ep": "E5",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "70264500",
+      "t": "Where the Vile Things Are",
+      "s": "S6",
+      "ep": "E6",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "70264501",
+      "t": "Save the Last Chance",
+      "s": "S6",
+      "ep": "E7",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "70264502",
+      "t": "It's Really Complicated",
+      "s": "S6",
+      "ep": "E8",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "70264503",
+      "t": "The Revengers",
+      "s": "S6",
+      "ep": "E9",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "70264504",
+      "t": "New York, I Love You, XOXO",
+      "s": "S6",
+      "ep": "E10",
+      "time": "38m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "70242059",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    }
+  ],
+  "last_ep": "70264495",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81037371"
+    },
+    {
+      "id": "70155618"
+    },
+    {
+      "id": "80133311"
+    },
+    {
+      "id": "70143860"
+    },
+    {
+      "id": "80211991"
+    },
+    {
+      "id": "81025696"
+    },
+    {
+      "id": "81459931"
+    },
+    {
+      "id": "81008305"
+    },
+    {
+      "id": "80117470"
+    }
+  ],
+  "error": null
+}
