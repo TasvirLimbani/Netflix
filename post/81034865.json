@@ -1,0 +1,87 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Ava",
+  "year": "2020",
+  "ua": "U/A 16+",
+  "match": "36% match",
+  "runtime": "1h 37m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Tate Taylor",
+  "writer": "Matthew Newton",
+  "short_cast": "Jessica Chastain, Colin Farrell, John Malkovich, Common, Geena Davis, Jess Weixler, Diana Silvers, Joan Chen, Ioan Gruffudd",
+  "cast": "Jessica Chastain, Colin Farrell, John Malkovich, Common, Geena Davis, Jess Weixler, Diana Silvers, Joan Chen, Ioan Gruffudd",
+  "genre": "US Movies, Action & Adventure, Dramas",
+  "thismovieis": "",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, suicide, substances, sexual content, language, gore",
+  "desc": "An elite assassin wrestling with doubts about her work scrambles to protect herself \u2014 and her estranged family \u2014 after a hit goes dangerously wrong.",
+  "oin": "y",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "80237957"
+    },
+    {
+      "id": "70142823"
+    },
+    {
+      "id": "80216200"
+    },
+    {
+      "id": "80993017"
+    },
+    {
+      "id": "81038963"
+    },
+    {
+      "id": "81416533"
+    },
+    {
+      "id": "81410784"
+    },
+    {
+      "id": "81388316"
+    },
+    {
+      "id": "80223052"
+    },
+    {
+      "id": "80013273"
+    },
+    {
+      "id": "80209746"
+    },
+    {
+      "id": "80207371"
+    }
+  ],
+  "error": null
+}
