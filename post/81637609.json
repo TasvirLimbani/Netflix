@@ -1,0 +1,194 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Thank You, Next",
+  "year": "2024",
+  "ua": "U/A 16+",
+  "match": "97% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Ece Y\u00f6ren\u00e7",
+  "director": "",
+  "writer": "",
+  "short_cast": "Serenay Sar\u0131kaya, Metin Akd\u00fclger, Hakan Kurta\u015f, Boran Kuzum, Ahmet R\u0131fat \u015eungar, Bade \u0130\u015f\u00e7il, Esra Rus\u0327an\ufe0f\ufe0f\ufe0f\ufe0f, Meri\u00e7 Aral, Efe Tun\u00e7er, Kamil G\u00fcler, Cem G\u00fcler",
+  "cast": "Serenay Sar\u0131kaya, Metin Akd\u00fclger, Hakan Kurta\u015f, Boran Kuzum, Ahmet R\u0131fat \u015eungar, Bade \u0130\u015f\u00e7il, Esra Rus\u0327an\ufe0f\ufe0f\ufe0f\ufe0f, Meri\u00e7 Aral, Efe Tun\u00e7er, Kamil G\u00fcler, Cem G\u00fcler",
+  "genre": "Romantic TV Dramas, TV Dramas, Turkish, TV Comedies, Romantic TV Comedies",
+  "thismovieis": "Romantic",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "tobacco use, substances, sexual content",
+  "desc": "After a painful breakup, a young lawyer dives head first into the confusing world of modern dating, with the unwavering support of her best friends.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81637610",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81752853",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81752863",
+      "t": "#TakotsuboCardiomyopathy",
+      "s": "S2",
+      "ep": "E1",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81752864",
+      "t": "#Friendzone",
+      "s": "S2",
+      "ep": "E2",
+      "time": "37m"
+    },
+    {
+      "complate": "0",
+      "id": "81752865",
+      "t": "#CatchMeIfYouCan",
+      "s": "S2",
+      "ep": "E3",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81752866",
+      "t": "#MicroCheating",
+      "s": "S2",
+      "ep": "E4",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81752867",
+      "t": "#RingRing",
+      "s": "S2",
+      "ep": "E5",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81752868",
+      "t": "#CloudNine",
+      "s": "S2",
+      "ep": "E6",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81752869",
+      "t": "#TurningPoint",
+      "s": "S2",
+      "ep": "E7",
+      "time": "37m"
+    },
+    {
+      "complate": "0",
+      "id": "81752870",
+      "t": "#Bunjeejumping",
+      "s": "S2",
+      "ep": "E8",
+      "time": "52m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81752853",
+  "lang": [
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81752863",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81354934"
+    },
+    {
+      "id": "81610272"
+    },
+    {
+      "id": "81380432"
+    },
+    {
+      "id": "81346063"
+    },
+    {
+      "id": "81590491"
+    },
+    {
+      "id": "81689799"
+    },
+    {
+      "id": "81459080"
+    },
+    {
+      "id": "81670880"
+    },
+    {
+      "id": "81212136"
+    },
+    {
+      "id": "81711005"
+    }
+  ],
+  "error": null
+}
