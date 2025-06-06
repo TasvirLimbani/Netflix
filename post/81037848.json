@@ -1,0 +1,192 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Gift",
+  "year": "2019",
+  "ua": "U/A 16+",
+  "match": "56% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Beren Saat, Mehmet G\u00fcns\u00fcr, Metin Akd\u00fclger, Melisa \u015eenolsun, Ba\u015fak K\u00f6kl\u00fckaya, Civan Canova, Tim Seyfi, Meral \u00c7etinkaya, Hazal T\u00fcresan, Cezmi Bask\u0131n",
+  "cast": "Beren Saat, Mehmet G\u00fcns\u00fcr, Metin Akd\u00fclger, Melisa \u015eenolsun, Ba\u015fak K\u00f6kl\u00fckaya, Civan Canova, Tim Seyfi, Meral \u00c7etinkaya, Hazal T\u00fcresan, Cezmi Bask\u0131n",
+  "genre": "TV Dramas, Turkish, TV Shows Based on Books, TV Mysteries",
+  "thismovieis": "Suspenseful, Emotional, Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "sexual violence, sexual content, self-harm",
+  "desc": "A painter in Istanbul embarks on a personal journey as she unearths universal secrets about an Anatolian archaeological site and its link to her past.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81038130",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81041094",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81225233",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81248932",
+      "t": "Episode 1",
+      "s": "S3",
+      "ep": "E1",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81248933",
+      "t": "Episode 2",
+      "s": "S3",
+      "ep": "E2",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81248934",
+      "t": "Episode 3",
+      "s": "S3",
+      "ep": "E3",
+      "time": "37m"
+    },
+    {
+      "complate": "0",
+      "id": "81248935",
+      "t": "Episode 4",
+      "s": "S3",
+      "ep": "E4",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81248936",
+      "t": "Episode 5",
+      "s": "S3",
+      "ep": "E5",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81248937",
+      "t": "Episode 6",
+      "s": "S3",
+      "ep": "E6",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81248938",
+      "t": "Episode 7",
+      "s": "S3",
+      "ep": "E7",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81248939",
+      "t": "Episode 8",
+      "s": "S3",
+      "ep": "E8",
+      "time": "38m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81225233",
+  "lang": [
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81248932",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81354934"
+    },
+    {
+      "id": "81212136"
+    },
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81380432"
+    },
+    {
+      "id": "81590491"
+    },
+    {
+      "id": "81281008"
+    },
+    {
+      "id": "81462319"
+    },
+    {
+      "id": "81681294"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "81730920"
+    }
+  ],
+  "error": null
+}
