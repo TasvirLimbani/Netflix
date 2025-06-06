@@ -1,0 +1,232 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Reboot: The Guardian Code",
+  "year": "2018",
+  "ua": "U/A 7+",
+  "match": "65% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Michael Hefferon",
+  "director": "",
+  "writer": "",
+  "short_cast": "Ty Wood, Ajay Friese, Gabriel Darku, Sydney Scotia, Hannah Vandenbygaart, Timothy E. Brummund, Bob Frazer, Octavian Kaul, Nicholas Lea, Kirsten Robek, Alex Zahara, Stephi Chin-Salvo",
+  "cast": "Ty Wood, Ajay Friese, Gabriel Darku, Sydney Scotia, Hannah Vandenbygaart, Timothy E. Brummund, Bob Frazer, Octavian Kaul, Nicholas Lea, Kirsten Robek, Alex Zahara, Stephi Chin-Salvo",
+  "genre": "Kids' TV, Canadian, TV Cartoons",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language, mild fear",
+  "desc": "Four tech-savvy teens hone their skills as cyber-superheroes in a series of secret missions to save the world.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80217890",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80218101",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80217958",
+      "t": "Network Interference",
+      "s": "S2",
+      "ep": "E1",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80217959",
+      "t": "Zombie Army",
+      "s": "S2",
+      "ep": "E2",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80217960",
+      "t": "Bee-Ware",
+      "s": "S2",
+      "ep": "E3",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80217961",
+      "t": "Share Scare",
+      "s": "S2",
+      "ep": "E4",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80217962",
+      "t": "Nuclear Confusion",
+      "s": "S2",
+      "ep": "E5",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80217963",
+      "t": "Double Trouble",
+      "s": "S2",
+      "ep": "E6",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80217964",
+      "t": "Mega-Viral",
+      "s": "S2",
+      "ep": "E7",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80217965",
+      "t": "Great Escapes",
+      "s": "S2",
+      "ep": "E8",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80217966",
+      "t": "Identity Theft",
+      "s": "S2",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80217967",
+      "t": "Black Hole",
+      "s": "S2",
+      "ep": "E10",
+      "time": "22m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80218101",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "80217958",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81354663"
+    },
+    {
+      "id": "81007144"
+    },
+    {
+      "id": "81004665"
+    },
+    {
+      "id": "80225085"
+    },
+    {
+      "id": "70177689"
+    },
+    {
+      "id": "81687083"
+    },
+    {
+      "id": "81092958"
+    },
+    {
+      "id": "70155571"
+    }
+  ],
+  "error": null
+}
