@@ -1,0 +1,279 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Dragon Prince",
+  "year": "2018",
+  "ua": "U/A 7+",
+  "match": "63% match",
+  "runtime": "6 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Aaron Ehasz, Justin Richmond",
+  "director": "",
+  "writer": "",
+  "short_cast": "Jack De Sena, Sasha Rojen, Jason Simpson, Racquel Belmonte, Jesse Inocalla, Erik Dellums, Paula Burrows, Omari Newton, Vincent Tong, Rena Anakwe, Jonathan Holmes",
+  "cast": "Jack De Sena, Sasha Rojen, Jason Simpson, Racquel Belmonte, Jesse Inocalla, Erik Dellums, Paula Burrows, Omari Newton, Vincent Tong, Rena Anakwe, Jonathan Holmes",
+  "genre": "Family Time TV, Kids' TV, TV Cartoons, Fantasy TV Shows",
+  "thismovieis": "Imaginative, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear, gore",
+  "desc": "An extraordinary discovery inspires two human princes and an elven assassin to team up on an epic quest to bring peace to their warring lands.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80212352",
+      "ep": "9",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80212145",
+      "ep": "9",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80212247",
+      "ep": "9",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "80235856",
+      "ep": "9",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "80236115",
+      "ep": "9",
+      "sele": " selected"
+    },
+    {
+      "s": "6",
+      "id": "81311539",
+      "ep": "9",
+      "sele": " selected"
+    },
+    {
+      "s": "7",
+      "id": "81311540",
+      "ep": "9",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81334792",
+      "t": "Death Alive",
+      "s": "S7",
+      "ep": "E1",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81334793",
+      "t": "True Heart",
+      "s": "S7",
+      "ep": "E2",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81334794",
+      "t": "The Glittering Bones",
+      "s": "S7",
+      "ep": "E3",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81334795",
+      "t": "Unfinished Business",
+      "s": "S7",
+      "ep": "E4",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81334796",
+      "t": "Sticky Fingers",
+      "s": "S7",
+      "ep": "E5",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81334797",
+      "t": "Inversion",
+      "s": "S7",
+      "ep": "E6",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81334798",
+      "t": "The Titan and the King",
+      "s": "S7",
+      "ep": "E7",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81334799",
+      "t": "Dying Light",
+      "s": "S7",
+      "ep": "E8",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81334800",
+      "t": "Nova",
+      "s": "S7",
+      "ep": "E9",
+      "time": "29m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81311540",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81334792",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80179762"
+    },
+    {
+      "id": "80075820"
+    },
+    {
+      "id": "81010139"
+    },
+    {
+      "id": "80234642"
+    },
+    {
+      "id": "81004665"
+    },
+    {
+      "id": "81007144"
+    },
+    {
+      "id": "81092958"
+    }
+  ],
+  "error": null
+}
