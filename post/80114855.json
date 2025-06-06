@@ -1,0 +1,207 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "MINDHUNTER",
+  "year": "2017",
+  "ua": "U/A 18+ [A]",
+  "match": "30% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Joe Penhall",
+  "director": "",
+  "writer": "",
+  "short_cast": "Jonathan Groff, Holt McCallany, Anna Torv, Cotter Smith, Hannah Gross, Michael Cerveris, Joe Tuttle, Albert Jones, Stacey Roca, Cameron Britton",
+  "cast": "Jonathan Groff, Holt McCallany, Anna Torv, Cotter Smith, Hannah Gross, Michael Cerveris, Joe Tuttle, Albert Jones, Stacey Roca, Cameron Britton",
+  "genre": "TV Dramas, TV Shows Based on Books, TV Mysteries, Crime TV Shows, US TV Shows, TV Thrillers",
+  "thismovieis": "Chilling",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, suicide, sexual violence, sex, nudity, language, gore",
+  "desc": "In the late 1970s two FBI agents expand criminal science by delving into the psychology of murder and getting uneasily close to all-too-real monsters.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80114776",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80174990",
+      "ep": "9",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80175048",
+      "t": "Episode 1",
+      "s": "S2",
+      "ep": "E1",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "80226463",
+      "t": "Episode 2",
+      "s": "S2",
+      "ep": "E2",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "80226464",
+      "t": "Episode 3",
+      "s": "S2",
+      "ep": "E3",
+      "time": "60m"
+    },
+    {
+      "complate": "0",
+      "id": "80226465",
+      "t": "Episode 4",
+      "s": "S2",
+      "ep": "E4",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "80226466",
+      "t": "Episode 5",
+      "s": "S2",
+      "ep": "E5",
+      "time": "72m"
+    },
+    {
+      "complate": "0",
+      "id": "80226467",
+      "t": "Episode 6",
+      "s": "S2",
+      "ep": "E6",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "80226468",
+      "t": "Episode 7",
+      "s": "S2",
+      "ep": "E7",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "80226469",
+      "t": "Episode 8",
+      "s": "S2",
+      "ep": "E8",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81083763",
+      "t": "Episode 9",
+      "s": "S2",
+      "ep": "E9",
+      "time": "74m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80174990",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "80175048",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81332052"
+    },
+    {
+      "id": "81287562"
+    },
+    {
+      "id": "80175802"
+    },
+    {
+      "id": "80153467"
+    },
+    {
+      "id": "80149395"
+    },
+    {
+      "id": "80117552"
+    },
+    {
+      "id": "80100172"
+    },
+    {
+      "id": "80234448"
+    },
+    {
+      "id": "70136126"
+    }
+  ],
+  "error": null
+}
