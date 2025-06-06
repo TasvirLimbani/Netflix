@@ -1,0 +1,216 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Love to Hate You",
+  "year": "2023",
+  "ua": "U/A 16+",
+  "match": "35% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Kim Jeong-kwon, Choi Soo-young",
+  "director": "",
+  "writer": "",
+  "short_cast": "Kim Ok-vin, Yoo Teo, Kim Ji-hun, Go Won-hee",
+  "cast": "Kim Ok-vin, Yoo Teo, Kim Ji-hun, Go Won-hee",
+  "genre": "Korean, TV Comedies, Romantic TV Comedies",
+  "thismovieis": "Romantic",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "language, crude humor",
+  "desc": "For an attorney who despises losing to men and an A-list actor who distrusts women, love means nothing \u2014 until they're forced to date each other.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81463557",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81467058",
+      "t": "Bad Girl",
+      "s": "S1",
+      "ep": "E1",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81467059",
+      "t": "Bad Boy",
+      "s": "S1",
+      "ep": "E2",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81467060",
+      "t": "Nice Guys Get a Pass\r\nBad Boys Have It Coming",
+      "s": "S1",
+      "ep": "E3",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81467061",
+      "t": "You Are Not What I Expected",
+      "s": "S1",
+      "ep": "E4",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81467062",
+      "t": "Love is Just an Experiment, Life is the Real Thing",
+      "s": "S1",
+      "ep": "E5",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81467063",
+      "t": "Femme Fatale vs Homme Fatale",
+      "s": "S1",
+      "ep": "E6",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81467064",
+      "t": "Trigonometry: The Love Triangle Edition",
+      "s": "S1",
+      "ep": "E7",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81467065",
+      "t": "The Way You Change Me",
+      "s": "S1",
+      "ep": "E8",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "81489000",
+      "t": "You Made Me Who I Am",
+      "s": "S1",
+      "ep": "E9",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81489001",
+      "t": "A Passionate Goodbye",
+      "s": "S1",
+      "ep": "E10",
+      "time": "63m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81463557",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    }
+  ],
+  "last_ep": "81467058",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81509440"
+    },
+    {
+      "id": "81669779"
+    },
+    {
+      "id": "81671440"
+    },
+    {
+      "id": "81473182"
+    },
+    {
+      "id": "81472752"
+    },
+    {
+      "id": "81612967"
+    },
+    {
+      "id": "81716080"
+    },
+    {
+      "id": "81314328"
+    },
+    {
+      "id": "81572781"
+    },
+    {
+      "id": "81030241"
+    }
+  ],
+  "error": null
+}
