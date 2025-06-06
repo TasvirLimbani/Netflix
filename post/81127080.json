@@ -1,0 +1,181 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Hot Skull",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "76% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Mert Baykal",
+  "director": "",
+  "writer": "",
+  "short_cast": "Osman Sonant, \u015eevket \u00c7oruh, Hazal Suba\u015f\u0131, Tilbe Saran, Kubilay Tun\u00e7er, \u00d6zg\u00fcr Emre Y\u0131ld\u0131r\u0131m, Gonca Vuslateri, Hakan Ger\u00e7ek, Erdem Akak\u00e7e, Bar\u0131\u015f Y\u0131ld\u0131z, Arda Anarat, Furkan Kalabal\u0131k, \u015eebnem Hassanisoughi, C\u00fcneyt Uzunlar",
+  "cast": "Osman Sonant, \u015eevket \u00c7oruh, Hazal Suba\u015f\u0131, Tilbe Saran, Kubilay Tun\u00e7er, \u00d6zg\u00fcr Emre Y\u0131ld\u0131r\u0131m, Gonca Vuslateri, Hakan Ger\u00e7ek, Erdem Akak\u00e7e, Bar\u0131\u015f Y\u0131ld\u0131z, Arda Anarat, Furkan Kalabal\u0131k, \u015eebnem Hassanisoughi, C\u00fcneyt Uzunlar",
+  "genre": "Political TV Shows, TV Dramas, Turkish, Sci-Fi TV, TV Shows Based on Books",
+  "thismovieis": "Gritty",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, substances, language",
+  "desc": "In a dystopian world, as an epidemic spreads through verbal communication, a tyrannical institution pursues a linguist immune to the disease.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81136015",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81249495",
+      "t": "Galanthus Byzantinus",
+      "s": "S1",
+      "ep": "E1",
+      "time": "65m"
+    },
+    {
+      "complate": "0",
+      "id": "81249496",
+      "t": "Cat, Box, Funnel",
+      "s": "S1",
+      "ep": "E2",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "81249497",
+      "t": "Zone 6",
+      "s": "S1",
+      "ep": "E3",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81249498",
+      "t": "High Fever",
+      "s": "S1",
+      "ep": "E4",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81249499",
+      "t": "Dawn broke, Hour hand died",
+      "s": "S1",
+      "ep": "E5",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81249500",
+      "t": "13 to 7",
+      "s": "S1",
+      "ep": "E6",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81249501",
+      "t": "Rose and Thorn",
+      "s": "S1",
+      "ep": "E7",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81249502",
+      "t": "My name doesn't matter",
+      "s": "S1",
+      "ep": "E8",
+      "time": "70m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81136015",
+  "lang": [
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81249495",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81281008"
+    },
+    {
+      "id": "80214497"
+    },
+    {
+      "id": "81354934"
+    },
+    {
+      "id": "81098012"
+    },
+    {
+      "id": "81002769"
+    },
+    {
+      "id": "81318108"
+    },
+    {
+      "id": "81681294"
+    },
+    {
+      "id": "80154610"
+    },
+    {
+      "id": "80177458"
+    }
+  ],
+  "error": null
+}
