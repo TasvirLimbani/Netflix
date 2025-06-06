@@ -1,0 +1,116 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Benji",
+  "year": "2018",
+  "ua": "U/A 7+",
+  "match": "89% match",
+  "runtime": "1h 27m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Brandon Camp",
+  "writer": "Brandon Camp, Joe Camp",
+  "short_cast": "Gabriel Bateman, Darby Camp, Kiele Sanchez, Jerod Haynes, Gralen Bryant Banks, Angus Sampson, Will Rothhaar, Jim Gleason, Brady Permenter, Benji",
+  "cast": "Gabriel Bateman, Darby Camp, Kiele Sanchez, Jerod Haynes, Gralen Bryant Banks, Angus Sampson, Will Rothhaar, Jim Gleason, Brady Permenter, Benji",
+  "genre": "Family Features, US Movies, Children & Family Movies, Dramas",
+  "thismovieis": "Sentimental, Heartfelt, Feel-Good",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild language, mild fear",
+  "desc": "A determined dog comes to the rescue and helps heal a broken family when a young boy and his sister stumble into some serious danger.",
+  "oin": "y",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81107362"
+    },
+    {
+      "id": "81191433"
+    },
+    {
+      "id": "81040639"
+    },
+    {
+      "id": "28631029"
+    },
+    {
+      "id": "81309532"
+    },
+    {
+      "id": "81488581"
+    },
+    {
+      "id": "80992263"
+    },
+    {
+      "id": "80245121"
+    },
+    {
+      "id": "60022058"
+    },
+    {
+      "id": "81023618"
+    },
+    {
+      "id": "81165117"
+    }
+  ],
+  "error": null
+}
