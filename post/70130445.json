@@ -1,0 +1,106 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Eat Pray Love",
+  "year": "2010",
+  "ua": "U/A 13+",
+  "match": "44% match",
+  "runtime": "2h 20m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Ryan Murphy",
+  "writer": "Ryan Murphy, Jennifer Salt, Elizabeth Gilbert",
+  "short_cast": "Julia Roberts, James Franco, Javier Bardem, Richard Jenkins, Viola Davis, Billy Crudup, Hadi Subiyanto, Mike O'Malley, Tuva Novotny, Luca Argentero",
+  "cast": "Julia Roberts, James Franco, Javier Bardem, Richard Jenkins, Viola Davis, Billy Crudup, Hadi Subiyanto, Mike O'Malley, Tuva Novotny, Luca Argentero",
+  "genre": "Movies Based on Real Life, US Movies, Movies Based on Books, Dramas, Romantic Movies",
+  "thismovieis": "Sentimental, Romantic",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "nudity, mature themes, language, crude humor",
+  "desc": "After deciding to reshape her life after divorce, Liz travels around the world in search of good food, spirituality and true love.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81000365"
+    },
+    {
+      "id": "81332757"
+    },
+    {
+      "id": "80209024"
+    },
+    {
+      "id": "81011569"
+    },
+    {
+      "id": "81288353"
+    },
+    {
+      "id": "81079914"
+    },
+    {
+      "id": "81287562"
+    },
+    {
+      "id": "80213445"
+    },
+    {
+      "id": "81380441"
+    }
+  ],
+  "error": null
+}
