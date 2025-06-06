@@ -1,0 +1,183 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Chosen One",
+  "year": "2023",
+  "ua": "U/A 18+ [A]",
+  "match": "40% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Bobby Luhnow, Dianna Agron, Lilith Curiel, Juanito Anguamea, Jorge Javier Arballo, Alberto P\u00e9rez-J\u00e1come, Patricio Serna Meza, Carlos Bardem, Tenoch Huerta, Alfonso Dosal",
+  "cast": "Bobby Luhnow, Dianna Agron, Lilith Curiel, Juanito Anguamea, Jorge Javier Arballo, Alberto P\u00e9rez-J\u00e1come, Patricio Serna Meza, Carlos Bardem, Tenoch Huerta, Alfonso Dosal",
+  "genre": "TV Dramas, Mexican, Fantasy TV Shows, TV Shows Based on Comics",
+  "thismovieis": "Provocative, Gritty, Intimate",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide",
+  "desc": "Jodie, a 12-year-old living in Baja California Sur, discovers he has Jesus-like powers. Will he answer his calling and fulfill his destiny?",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81013173",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81013174",
+      "t": "The Arrival",
+      "s": "S1",
+      "ep": "E1",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81017297",
+      "t": "Miracles?",
+      "s": "S1",
+      "ep": "E2",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81017298",
+      "t": "The Awakening",
+      "s": "S1",
+      "ep": "E3",
+      "time": "35m"
+    },
+    {
+      "complate": "0",
+      "id": "81017299",
+      "t": "True or False?",
+      "s": "S1",
+      "ep": "E4",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81017300",
+      "t": "Faith",
+      "s": "S1",
+      "ep": "E5",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81017301",
+      "t": "Revelation",
+      "s": "S1",
+      "ep": "E6",
+      "time": "41m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81013173",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81013174",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81622757"
+    },
+    {
+      "id": "80117557"
+    },
+    {
+      "id": "81341795"
+    },
+    {
+      "id": "80232926"
+    },
+    {
+      "id": "81629410"
+    },
+    {
+      "id": "80217517"
+    },
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "80066891"
+    },
+    {
+      "id": "80220816"
+    },
+    {
+      "id": "80117803"
+    },
+    {
+      "id": "81116060"
+    }
+  ],
+  "error": null
+}
