@@ -1,0 +1,75 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Conjuring 2",
+  "year": "2016",
+  "ua": "U/A 16+",
+  "match": "67% match",
+  "runtime": "2h 13m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "James Wan",
+  "writer": "Chad Hayes, Carey W. Hayes, James Wan",
+  "short_cast": "Patrick Wilson, Vera Farmiga, Madison Wolfe, Frances O'Connor, Lauren Esposito, Benjamin Haigh, Patrick McAuley, Simon McBurney, Maria Doyle Kennedy, Simon Delaney, Franka Potente",
+  "cast": "Patrick Wilson, Vera Farmiga, Madison Wolfe, Frances O'Connor, Lauren Esposito, Benjamin Haigh, Patrick McAuley, Simon McBurney, Maria Doyle Kennedy, Simon Delaney, Franka Potente",
+  "genre": "US Movies, Horror Movies",
+  "thismovieis": "Chilling, Ominous, Scary",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "mature themes, gore",
+  "desc": "After her daughter unwittingly releases a malevolent spirit in their house in London, a woman enlists the Warrens' help to confront the evil presence.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70251894"
+    },
+    {
+      "id": "81238605"
+    },
+    {
+      "id": "81034937"
+    },
+    {
+      "id": "80106763"
+    },
+    {
+      "id": "80185924"
+    },
+    {
+      "id": "80028439"
+    },
+    {
+      "id": "70271486"
+    },
+    {
+      "id": "81616656"
+    },
+    {
+      "id": "80219131"
+    },
+    {
+      "id": "70305901"
+    },
+    {
+      "id": "81619948"
+    },
+    {
+      "id": "80109295"
+    }
+  ],
+  "error": null
+}
