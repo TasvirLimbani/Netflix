@@ -1,0 +1,208 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Fate: The Winx Saga",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "85% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Brian Young",
+  "director": "",
+  "writer": "",
+  "short_cast": "Abigail Cowen, Hannah Van Der Westhuysen, Precious Mustapha, Eliot Salt, Elisha Applebaum, Danny Griffin, Sadie Soverall, Paulina Ch\u00e1vez, Freddie Thorp, Rob James-Collier, Theo Graham, Eve Best, Lesley Sharp, Miranda Richardson, \u00c9anna Hardwicke, Brandon Grace, Jacob Dudman, Ken Duken, Alex Macqueen",
+  "cast": "Abigail Cowen, Hannah Van Der Westhuysen, Precious Mustapha, Eliot Salt, Elisha Applebaum, Danny Griffin, Sadie Soverall, Paulina Ch\u00e1vez, Freddie Thorp, Rob James-Collier, Theo Graham, Eve Best, Lesley Sharp, Miranda Richardson, \u00c9anna Hardwicke, Brandon Grace, Jacob Dudman, Ken Duken, Alex Macqueen",
+  "genre": "TV Dramas, British, Teen TV Shows, Fantasy TV Shows",
+  "thismovieis": "Dark, Emotional",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, substances, sex, language",
+  "desc": "Determined to master their enchanting powers, a group of teens navigate rivalry, romance and supernatural studies at Alfea, a magical boarding school.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80235621",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81039526",
+      "ep": "7",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81434744",
+      "t": "Low-Flying Panic Attack",
+      "s": "S2",
+      "ep": "E1",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81435758",
+      "t": "Taken By The Wind",
+      "s": "S2",
+      "ep": "E2",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81435759",
+      "t": "Your Newfound Popularity",
+      "s": "S2",
+      "ep": "E3",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81435760",
+      "t": "An Hour Before the Devil Fell",
+      "s": "S2",
+      "ep": "E4",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81435761",
+      "t": "Are You a Good Witch or a Bad Witch?",
+      "s": "S2",
+      "ep": "E5",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81435762",
+      "t": "Poor Unfortunate Souls",
+      "s": "S2",
+      "ep": "E6",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81435763",
+      "t": "All the Wild Witches",
+      "s": "S2",
+      "ep": "E7",
+      "time": "53m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81039526",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81434744",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80218885"
+    },
+    {
+      "id": "80991090"
+    },
+    {
+      "id": "80238357"
+    },
+    {
+      "id": "80084447"
+    },
+    {
+      "id": "80241239"
+    },
+    {
+      "id": "80199393"
+    },
+    {
+      "id": "81516447"
+    },
+    {
+      "id": "80236319"
+    },
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "70217912"
+    },
+    {
+      "id": "80242724"
+    },
+    {
+      "id": "81450775"
+    }
+  ],
+  "error": null
+}
