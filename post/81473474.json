@@ -1,0 +1,177 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Transatlantic",
+  "year": "2023",
+  "ua": "U/A 16+",
+  "match": "91% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Anna Winger, Daniel Hendler",
+  "director": "",
+  "writer": "",
+  "short_cast": "Gillian Jacobs, Lucas Englander, Cory Michael Smith, Ralph Amoussou, Deleila Piasko, Amit Rahav, Gr\u00e9gory Montel, Corey Stoll, Moritz Bleibtreu, Morgane Ferru, Dominique Horwitz",
+  "cast": "Gillian Jacobs, Lucas Englander, Cory Michael Smith, Ralph Amoussou, Deleila Piasko, Amit Rahav, Gr\u00e9gory Montel, Corey Stoll, Moritz Bleibtreu, Morgane Ferru, Dominique Horwitz",
+  "genre": "TV Dramas, German, TV Shows Based on Books",
+  "thismovieis": "Inspiring, Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, suicide, substances, discrimination",
+  "desc": "Two Americans and their allies form a scrappy rescue operation in 1940 Marseilles to help artists, writers and other refugees fleeing Europe during WWII.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81473475",
+      "ep": "7",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81556183",
+      "t": "Hiding Hand Principle",
+      "s": "S1",
+      "ep": "E1",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81556184",
+      "t": "The Angel of History",
+      "s": "S1",
+      "ep": "E2",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81556185",
+      "t": "The Wilderness",
+      "s": "S1",
+      "ep": "E3",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81556186",
+      "t": "No Road Back",
+      "s": "S1",
+      "ep": "E4",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81556187",
+      "t": "The Human Condition",
+      "s": "S1",
+      "ep": "E5",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "81556188",
+      "t": "Pure Psychic Automatism",
+      "s": "S1",
+      "ep": "E6",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81556189",
+      "t": "Fire in the Snow",
+      "s": "S1",
+      "ep": "E7",
+      "time": "54m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81473475",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81556183",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81414644"
+    },
+    {
+      "id": "81083008"
+    },
+    {
+      "id": "80119411"
+    },
+    {
+      "id": "81222923"
+    },
+    {
+      "id": "81354529"
+    },
+    {
+      "id": "80211648"
+    },
+    {
+      "id": "81426931"
+    },
+    {
+      "id": "81643922"
+    },
+    {
+      "id": "80214497"
+    }
+  ],
+  "error": null
+}
