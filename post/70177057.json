@@ -1,0 +1,222 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Walking Dead",
+  "year": "2010",
+  "ua": "U/A 18+ [A]",
+  "match": "48% match",
+  "runtime": "11 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Andrew Lincoln, Steven Yeun, Norman Reedus, Chandler Riggs, Melissa McBride, Lauren Cohan, Danai Gurira, Alanna Masterson, Sonequa Martin-Green, Josh McDermitt, Christian Serratos, Seth Gilliam, Ross Marquand, Lennie James, Emily Kinney, Jon Bernthal, Jeffrey Dean Morgan, Katelyn Nacon, Khary Payton, Cooper Andrews, Callan McAuliffe, Eleanor Matsuura, Nadia Hilker, Cailey Fleming, Cassady McClincy, Lauren Ridloff, Margot Bingham, Michael Cudlitz",
+  "cast": "Andrew Lincoln, Steven Yeun, Norman Reedus, Chandler Riggs, Melissa McBride, Lauren Cohan, Danai Gurira, Alanna Masterson, Sonequa Martin-Green, Josh McDermitt, Christian Serratos, Seth Gilliam, Ross Marquand, Lennie James, Emily Kinney, Jon Bernthal, Jeffrey Dean Morgan, Katelyn Nacon, Khary Payton, Cooper Andrews, Callan McAuliffe, Eleanor Matsuura, Nadia Hilker, Cailey Fleming, Cassady McClincy, Lauren Ridloff, Margot Bingham, Michael Cudlitz",
+  "genre": "TV Dramas, TV Action & Adventure, US TV Shows, Horror TV Serials, TV Shows Based on Comics",
+  "thismovieis": "Ominous",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, gore",
+  "desc": "In the wake of a zombie apocalypse, survivors hold on to the hope of humanity by banding together to wage a fight for their own survival.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "70150447",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "70170599",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "70245660",
+      "ep": "16",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "70285867",
+      "ep": "16",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "80010608",
+      "ep": "16",
+      "sele": " selected"
+    },
+    {
+      "s": "6",
+      "id": "80032000",
+      "ep": "16",
+      "sele": " selected"
+    },
+    {
+      "s": "7",
+      "id": "80127753",
+      "ep": "16",
+      "sele": " selected"
+    },
+    {
+      "s": "8",
+      "id": "81022951",
+      "ep": "16",
+      "sele": " selected"
+    },
+    {
+      "s": "9",
+      "id": "81026616",
+      "ep": "16",
+      "sele": " selected"
+    },
+    {
+      "s": "10",
+      "id": "81071678",
+      "ep": "22",
+      "sele": " selected"
+    },
+    {
+      "s": "11",
+      "id": "81329693",
+      "ep": "24",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81071694",
+      "t": "Acheron: Part I",
+      "s": "S11",
+      "ep": "E1",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81501929",
+      "t": "Acheron: Part II",
+      "s": "S11",
+      "ep": "E2",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81501930",
+      "t": "Hunted",
+      "s": "S11",
+      "ep": "E3",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81501931",
+      "t": "Rendition",
+      "s": "S11",
+      "ep": "E4",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81501932",
+      "t": "Out of the Ashes",
+      "s": "S11",
+      "ep": "E5",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81501933",
+      "t": "On the Inside",
+      "s": "S11",
+      "ep": "E6",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81501934",
+      "t": "Promises Broken",
+      "s": "S11",
+      "ep": "E7",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81501935",
+      "t": "For Blood",
+      "s": "S11",
+      "ep": "E8",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81501936",
+      "t": "No Other Way",
+      "s": "S11",
+      "ep": "E9",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81501937",
+      "t": "New Haunts",
+      "s": "S11",
+      "ep": "E10",
+      "time": "45m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81329693",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    }
+  ],
+  "last_ep": "81071694",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80198988"
+    },
+    {
+      "id": "81237994"
+    },
+    {
+      "id": "81464329"
+    },
+    {
+      "id": "81046394"
+    },
+    {
+      "id": "80996532"
+    },
+    {
+      "id": "81240831"
+    },
+    {
+      "id": "70123542"
+    },
+    {
+      "id": "80200575"
+    },
+    {
+      "id": "70262639"
+    },
+    {
+      "id": "80161216"
+    },
+    {
+      "id": "81425105"
+    },
+    {
+      "id": "81520295"
+    }
+  ],
+  "error": null
+}
