@@ -1,0 +1,41 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Triviaverse",
+  "year": "2022",
+  "ua": "U/A 7+",
+  "match": "69% match",
+  "runtime": "13m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "N/A",
+  "writer": "N/A",
+  "short_cast": "N/A",
+  "cast": "N/A",
+  "genre": "Special Interest, US Movies",
+  "thismovieis": "Cerebral",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild language",
+  "desc": "Highest score wins! Challenge a friend or beat a mysterious foe by answering random rapid-fire trivia questions on science, art, geography and more.",
+  "oin": "y",
+  "resume": "",
+  "lang": [
+    {
+      "l": "",
+      "s": ""
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81271335"
+    },
+    {
+      "id": "81333845"
+    }
+  ],
+  "error": null
+}
