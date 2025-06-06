@@ -1,0 +1,310 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Fast & Furious Spy Racers",
+  "year": "2019",
+  "ua": "U/A 7+",
+  "match": "78% match",
+  "runtime": "6 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Tyler Posey, Charlet Chung, Ren\u00e9e Elise Goldsberry, Jorge Diaz, Camille Ramsey, Luke Youngblood",
+  "cast": "Tyler Posey, Charlet Chung, Ren\u00e9e Elise Goldsberry, Jorge Diaz, Camille Ramsey, Luke Youngblood",
+  "genre": "Kids' TV, TV Cartoons",
+  "thismovieis": "Adrenaline Rush, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence",
+  "desc": "A government agency recruits teen driver Tony Toretto and his thrill-seeking friends to infiltrate a criminal street racing circuit as undercover spies.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80240694",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80240695",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80240696",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "80240804",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "81106354",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "6",
+      "id": "81106356",
+      "ep": "12",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81285164",
+      "t": "Incineration Day",
+      "s": "S6",
+      "ep": "E1",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81285165",
+      "t": "Snowed In",
+      "s": "S6",
+      "ep": "E2",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81285166",
+      "t": "Rafaela's Raf-venge",
+      "s": "S6",
+      "ep": "E3",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81285167",
+      "t": "Fun on the Autobahn",
+      "s": "S6",
+      "ep": "E4",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81285168",
+      "t": "Detonation",
+      "s": "S6",
+      "ep": "E5",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81285169",
+      "t": "Meltdown",
+      "s": "S6",
+      "ep": "E6",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81414698",
+      "t": "Hollywood Beginning",
+      "s": "S6",
+      "ep": "E7",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81414699",
+      "t": "Dann Hunt",
+      "s": "S6",
+      "ep": "E8",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81414700",
+      "t": "Wildcat",
+      "s": "S6",
+      "ep": "E9",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81414701",
+      "t": "Oil and Water",
+      "s": "S6",
+      "ep": "E10",
+      "time": "23m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81106356",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "yue",
+      "s": "yue"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81285164",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81009646"
+    },
+    {
+      "id": "80241136"
+    },
+    {
+      "id": "81004665"
+    },
+    {
+      "id": "70234439"
+    },
+    {
+      "id": "81566729"
+    },
+    {
+      "id": "81035568"
+    },
+    {
+      "id": "80234642"
+    },
+    {
+      "id": "81557031"
+    },
+    {
+      "id": "81233669"
+    },
+    {
+      "id": "80228012"
+    }
+  ],
+  "error": null
+}
