@@ -1,0 +1,166 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Alias Grace",
+  "year": "2017",
+  "ua": "U/A 18+ [A]",
+  "match": "43% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Sarah Gadon, Edward Holcroft, Paul Gross, Anna Paquin, Rebecca Liddiard, Zachary Levi, Kerr Logan, David Cronenberg",
+  "cast": "Sarah Gadon, Edward Holcroft, Paul Gross, Anna Paquin, Rebecca Liddiard, Zachary Levi, Kerr Logan, David Cronenberg",
+  "genre": "TV Dramas, Canadian, TV Shows Based on Books, Period Pieces, Crime TV Shows",
+  "thismovieis": "Cerebral, Psychological, Intimate",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "tobacco use, nudity",
+  "desc": "In 19th-century Canada, a psychiatrist weighs whether a murderess should be pardoned due to insanity. Based on Margaret Atwood's award-winning novel.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80120002",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80119801",
+      "t": "Part 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80119802",
+      "t": "Part 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "80119803",
+      "t": "Part 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80119804",
+      "t": "Part 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "80119805",
+      "t": "Part 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "80119806",
+      "t": "Part 6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "44m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80120002",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80119801",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81426931"
+    },
+    {
+      "id": "81222923"
+    },
+    {
+      "id": "81354529"
+    },
+    {
+      "id": "81414644"
+    },
+    {
+      "id": "80136311"
+    },
+    {
+      "id": "81019069"
+    },
+    {
+      "id": "81002196"
+    },
+    {
+      "id": "80998988"
+    },
+    {
+      "id": "80164400"
+    },
+    {
+      "id": "80211648"
+    },
+    {
+      "id": "81140933"
+    },
+    {
+      "id": "80149395"
+    }
+  ],
+  "error": null
+}
