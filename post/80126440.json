@@ -1,0 +1,111 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Resident Evil: The Final Chapter",
+  "year": "2016",
+  "ua": "U/A 18+ [A]",
+  "match": "79% match",
+  "runtime": "1h 46m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Paul W.S. Anderson",
+  "writer": "Paul W.S. Anderson",
+  "short_cast": "Milla Jovovich, Iain Glen, Ali Larter, Shawn Roberts, Ever Anderson, Eoin Macken, Fraser James, Ruby Rose, William Levy, Lee Joon-gi",
+  "cast": "Milla Jovovich, Iain Glen, Ali Larter, Shawn Roberts, Ever Anderson, Eoin Macken, Fraser James, Ruby Rose, William Levy, Lee Joon-gi",
+  "genre": "Sci-Fi Movies, Horror Movies, Action & Adventure Movies, US Movies",
+  "thismovieis": "Adrenaline Rush",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, gore",
+  "desc": "Alice fights to get to Raccoon City and obtain a crucial antivirus, but Dr. Isaacs, Umbrella Corp. and hordes of violent zombies all stand in her way.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "60022705"
+    },
+    {
+      "id": "81425105"
+    },
+    {
+      "id": "80996532"
+    },
+    {
+      "id": "80987626"
+    },
+    {
+      "id": "80106735"
+    },
+    {
+      "id": "70123542"
+    },
+    {
+      "id": "70262639"
+    },
+    {
+      "id": "70117305"
+    },
+    {
+      "id": "81093420"
+    },
+    {
+      "id": "80208806"
+    },
+    {
+      "id": "80991034"
+    },
+    {
+      "id": "81046394"
+    }
+  ],
+  "error": null
+}
