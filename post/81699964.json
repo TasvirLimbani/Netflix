@@ -1,0 +1,73 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Om Nom Stories",
+  "year": "2023",
+  "ua": "U",
+  "match": "70% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Kids' TV, British, TV Cartoons",
+  "thismovieis": "",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "Lovable green blob Om Nom dabbles in time travel, collects candy from around the world and tries to tame naughty Nibble Nom, among other wild adventures.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81699965",
+      "ep": "3",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81699966",
+      "t": "Time Travel",
+      "s": "S1",
+      "ep": "E1",
+      "time": "10m"
+    },
+    {
+      "complate": "0",
+      "id": "81699967",
+      "t": "Magic",
+      "s": "S1",
+      "ep": "E2",
+      "time": "20m"
+    },
+    {
+      "complate": "0",
+      "id": "81699968",
+      "t": "Nibble-Nom",
+      "s": "S1",
+      "ep": "E3",
+      "time": "28m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81699965",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    }
+  ],
+  "last_ep": "81699966",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81154166"
+    }
+  ],
+  "error": null
+}
