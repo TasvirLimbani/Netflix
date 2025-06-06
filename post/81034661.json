@@ -1,0 +1,163 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "AlRawabi School for Girls",
+  "year": "2021",
+  "ua": "U/A 16+",
+  "match": "40% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Tima Shomali, Shirin Kamal, Islam Alshomali",
+  "director": "",
+  "writer": "",
+  "short_cast": "Tara Abboud, Sarah Yousef, Tara Atalla, Kira Yaghnam, Thalia El Ansari, Raneem Haitham, Reem Saadeh, Tima Shomali, Andria Tayeh, Rakeen Sa'ad, Noor Taher, Yara Mustafa, Joanna Arida, Salsabiela, Nadera Emran",
+  "cast": "Tara Abboud, Sarah Yousef, Tara Atalla, Kira Yaghnam, Thalia El Ansari, Raneem Haitham, Reem Saadeh, Tima Shomali, Andria Tayeh, Rakeen Sa'ad, Noor Taher, Yara Mustafa, Joanna Arida, Salsabiela, Nadera Emran",
+  "genre": "TV Dramas, Middle Eastern TV Shows, Jordanian, Teen TV Shows",
+  "thismovieis": "Emotional",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "suicide, mature themes, language",
+  "desc": "The bullied outcasts at the prestigious AlRawabi School for Girls plot a series of risky takedowns to get back at their tormentors.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81034662",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81218890",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81588706",
+      "t": "New Beginnings",
+      "s": "S2",
+      "ep": "E1",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81588707",
+      "t": "Fancy Purple",
+      "s": "S2",
+      "ep": "E2",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "81588708",
+      "t": "Meet Your Favorite Candidate",
+      "s": "S2",
+      "ep": "E3",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81588709",
+      "t": "A Blast from the Past",
+      "s": "S2",
+      "ep": "E4",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81588710",
+      "t": "Holy Uniform",
+      "s": "S2",
+      "ep": "E5",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "81588711",
+      "t": "If I Could Do It All Again...",
+      "s": "S2",
+      "ep": "E6",
+      "time": "71m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81218890",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81588706",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80200942"
+    },
+    {
+      "id": "80117470"
+    },
+    {
+      "id": "80133311"
+    },
+    {
+      "id": "81127150"
+    },
+    {
+      "id": "81116486"
+    },
+    {
+      "id": "80241947"
+    },
+    {
+      "id": "80197989"
+    },
+    {
+      "id": "70143811"
+    },
+    {
+      "id": "80243706"
+    }
+  ],
+  "error": null
+}
