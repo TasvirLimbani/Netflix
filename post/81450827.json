@@ -1,0 +1,240 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Night Agent",
+  "year": "2023",
+  "ua": "U/A 16+",
+  "match": "57% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Shawn Ryan",
+  "director": "",
+  "writer": "",
+  "short_cast": "Gabriel Basso, Luciane Buchanan, Hong Chau, D.B. Woodside, Fola Evans-Akingbola, Sarah Desjardins, Eve Harlow, Phoenix Raei, Enrique Murciano, Kari Matchett, Christopher Shyer",
+  "cast": "Gabriel Basso, Luciane Buchanan, Hong Chau, D.B. Woodside, Fola Evans-Akingbola, Sarah Desjardins, Eve Harlow, Phoenix Raei, Enrique Murciano, Kari Matchett, Christopher Shyer",
+  "genre": "Political TV Shows, TV Shows Based on Books, TV Mysteries, TV Action & Adventure, US TV Shows, TV Thrillers",
+  "thismovieis": "Suspenseful, Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, substances, sexual content, nudity, language, gore",
+  "desc": "While monitoring an emergency line, a vigilant FBI agent answers a call that plunges him into a deadly conspiracy involving a mole at the White House.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81450828",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81654821",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81654822",
+      "t": "Call Tracking",
+      "s": "S2",
+      "ep": "E1",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81654823",
+      "t": "Disconnected",
+      "s": "S2",
+      "ep": "E2",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81654824",
+      "t": "Government Property",
+      "s": "S2",
+      "ep": "E3",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81654825",
+      "t": "Desperate Measures",
+      "s": "S2",
+      "ep": "E4",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81654826",
+      "t": "A Family Matter",
+      "s": "S2",
+      "ep": "E5",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81654827",
+      "t": "A Good Agent",
+      "s": "S2",
+      "ep": "E6",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81654828",
+      "t": "Tilt",
+      "s": "S2",
+      "ep": "E7",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81654829",
+      "t": "Divergence",
+      "s": "S2",
+      "ep": "E8",
+      "time": "54m"
+    },
+    {
+      "complate": "0",
+      "id": "81654830",
+      "t": "Cultural Exchange",
+      "s": "S2",
+      "ep": "E9",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81654831",
+      "t": "Buyer's Remorse",
+      "s": "S2",
+      "ep": "E10",
+      "time": "45m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81654821",
+  "lang": [
+    {
+      "l": "Catalan",
+      "s": "cat"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    }
+  ],
+  "last_ep": "81654822",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80235864"
+    },
+    {
+      "id": "81396545"
+    },
+    {
+      "id": "81417796"
+    },
+    {
+      "id": "81288983"
+    },
+    {
+      "id": "81397077"
+    },
+    {
+      "id": "80992058"
+    },
+    {
+      "id": "81160697"
+    },
+    {
+      "id": "81280035"
+    },
+    {
+      "id": "81576597"
+    },
+    {
+      "id": "81413928"
+    },
+    {
+      "id": "80113647"
+    },
+    {
+      "id": "81317562"
+    }
+  ],
+  "error": null
+}
