@@ -1,0 +1,232 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Edgar Rice Burroughs' Tarzan and Jane",
+  "year": "2017",
+  "ua": "U/A 7+",
+  "match": "72% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Marci T. House, Michael Dobson, Omari Newton, Paul Dobson, Rebecca Shoichet, Giles Panton, Kathleen Barr, Doron Bell, Brian Dobson, Bradley Duffy",
+  "cast": "Marci T. House, Michael Dobson, Omari Newton, Paul Dobson, Rebecca Shoichet, Giles Panton, Kathleen Barr, Doron Bell, Brian Dobson, Bradley Duffy",
+  "genre": "Kids' TV, TV Shows Based on Books, TV Cartoons",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "Saved from a plane crash and given supernatural powers, teen Tarzan joins forces with brave city girl Jane to protect his jungle home from threats.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80104560",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80180038",
+      "ep": "5",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80180114",
+      "t": "That Day In Rio",
+      "s": "S2",
+      "ep": "E1",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80180115",
+      "t": "Into the Rainforest",
+      "s": "S2",
+      "ep": "E2",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80180116",
+      "t": "Too Much Monkey Business",
+      "s": "S2",
+      "ep": "E3",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80180117",
+      "t": "The Ruins",
+      "s": "S2",
+      "ep": "E4",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "80180118",
+      "t": "Return of the King",
+      "s": "S2",
+      "ep": "E5",
+      "time": "22m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80180038",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "80180114",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80023612"
+    },
+    {
+      "id": "80245121"
+    },
+    {
+      "id": "80234642"
+    },
+    {
+      "id": "80225085"
+    },
+    {
+      "id": "81038163"
+    },
+    {
+      "id": "81009646"
+    },
+    {
+      "id": "81108751"
+    },
+    {
+      "id": "80039394"
+    },
+    {
+      "id": "80237245"
+    },
+    {
+      "id": "28631029"
+    },
+    {
+      "id": "81092958"
+    },
+    {
+      "id": "81018682"
+    }
+  ],
+  "error": null
+}
