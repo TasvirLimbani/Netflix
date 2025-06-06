@@ -1,0 +1,247 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Barbie: It Takes Two",
+  "year": "2022",
+  "ua": "U",
+  "match": "79% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "America Young, Tatiana Varria, Nicolas Roye, Gabe Kunda, Mela Lee, Cassidy Naber, Cassandra Lee Morris, Kirsten Day, Emma Galvin, Greg Chun",
+  "cast": "America Young, Tatiana Varria, Nicolas Roye, Gabe Kunda, Mela Lee, Cassidy Naber, Cassandra Lee Morris, Kirsten Day, Emma Galvin, Greg Chun",
+  "genre": "Kids' TV, TV Cartoons",
+  "thismovieis": "Feel-Good",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "From the beach to the big city, follow fab friends Malibu and Brooklyn as they have fun, share the spotlight and pursue their musical dreams in NYC!",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81246531",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81246545",
+      "ep": "13",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81246546",
+      "t": "We've Got Magic to Do",
+      "s": "S2",
+      "ep": "E1",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81246547",
+      "t": "Cut It Out",
+      "s": "S2",
+      "ep": "E2",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81246548",
+      "t": "Studio Sleuths",
+      "s": "S2",
+      "ep": "E3",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81246549",
+      "t": "For the Record",
+      "s": "S2",
+      "ep": "E4",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81246550",
+      "t": "Knock it Off",
+      "s": "S2",
+      "ep": "E5",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81246551",
+      "t": "Costumed Capers",
+      "s": "S2",
+      "ep": "E6",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81246552",
+      "t": "Cupid Shuffle",
+      "s": "S2",
+      "ep": "E7",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81246553",
+      "t": "Team No Screens",
+      "s": "S2",
+      "ep": "E8",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81246554",
+      "t": "Festival Fiasco",
+      "s": "S2",
+      "ep": "E9",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "81246555",
+      "t": "Buddy's Is Booming",
+      "s": "S2",
+      "ep": "E10",
+      "time": "23m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81246545",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    }
+  ],
+  "last_ep": "81246546",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81246529"
+    },
+    {
+      "id": "81260654"
+    },
+    {
+      "id": "81607692"
+    },
+    {
+      "id": "81383247"
+    },
+    {
+      "id": "81279322"
+    }
+  ],
+  "error": null
+}
