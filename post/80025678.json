@@ -1,0 +1,248 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Crown",
+  "year": "2016",
+  "ua": "U/A 18+ [A]",
+  "match": "79% match",
+  "runtime": "6 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Peter Morgan",
+  "director": "",
+  "writer": "",
+  "short_cast": "Imelda Staunton, Jonathan Pryce, Lesley Manville, Olivia Colman, Helena Bonham Carter, Tobias Menzies, Claire Foy, Matt Smith, Vanessa Kirby, Dominic West, Elizabeth Debicki, Josh O'Connor, Emma Corrin, John Lithgow, Gillian Anderson, Jonny Lee Miller, Olivia Williams, Claudia Harrison, Marion Bailey, Emerald Fennell, Erin Doherty, Jared Harris, Victoria Hamilton, Jeremy Northam, Alex Jennings, Ben Miles, Will Keen, Harry Hadden-Paton, Daniel Ings, Greg Wise, Harriet Walter, Lia Williams, Anton Lesser, Ben Daniels, Jason Watkins, Charles Dance, Marcia Warren, Matthew Goode, Pip Torrens, Eileen Atkins",
+  "cast": "Imelda Staunton, Jonathan Pryce, Lesley Manville, Olivia Colman, Helena Bonham Carter, Tobias Menzies, Claire Foy, Matt Smith, Vanessa Kirby, Dominic West, Elizabeth Debicki, Josh O'Connor, Emma Corrin, John Lithgow, Gillian Anderson, Jonny Lee Miller, Olivia Williams, Claudia Harrison, Marion Bailey, Emerald Fennell, Erin Doherty, Jared Harris, Victoria Hamilton, Jeremy Northam, Alex Jennings, Ben Miles, Will Keen, Harry Hadden-Paton, Daniel Ings, Greg Wise, Harriet Walter, Lia Williams, Anton Lesser, Ben Daniels, Jason Watkins, Charles Dance, Marcia Warren, Matthew Goode, Pip Torrens, Eileen Atkins",
+  "genre": "Political TV Shows, TV Dramas, British, TV Shows Based on Real Life",
+  "thismovieis": "Intimate",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "sex, nudity, language",
+  "desc": "Inspired by real events, this fictional dramatization tells the story of Queen Elizabeth II and the political and personal events that shaped her reign.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80025812",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80148596",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80215845",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "80215846",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "81318159",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "6",
+      "id": "81318160",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81333884",
+      "t": "Persona Non Grata",
+      "s": "S6",
+      "ep": "E1",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81489583",
+      "t": "Two Photographs",
+      "s": "S6",
+      "ep": "E2",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81489584",
+      "t": "Dis-Moi Oui",
+      "s": "S6",
+      "ep": "E3",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "81489585",
+      "t": "Aftermath",
+      "s": "S6",
+      "ep": "E4",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81489586",
+      "t": "Willsmania",
+      "s": "S6",
+      "ep": "E5",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81489587",
+      "t": "Ruritania",
+      "s": "S6",
+      "ep": "E6",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81489588",
+      "t": "Alma Mater",
+      "s": "S6",
+      "ep": "E7",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81489589",
+      "t": "Ritz",
+      "s": "S6",
+      "ep": "E8",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81489590",
+      "t": "Hope Street",
+      "s": "S6",
+      "ep": "E9",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81489591",
+      "t": "Sleep, Dearie Sleep",
+      "s": "S6",
+      "ep": "E10",
+      "time": "72m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81318160",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81333884",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81222923"
+    },
+    {
+      "id": "80182116"
+    },
+    {
+      "id": "80211648"
+    },
+    {
+      "id": "81476183"
+    },
+    {
+      "id": "81498384"
+    },
+    {
+      "id": "80232398"
+    },
+    {
+      "id": "80119411"
+    },
+    {
+      "id": "81140933"
+    },
+    {
+      "id": "81083008"
+    },
+    {
+      "id": "81037371"
+    },
+    {
+      "id": "80234304"
+    },
+    {
+      "id": "80998988"
+    }
+  ],
+  "error": null
+}
