@@ -1,0 +1,120 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Great Robbery of Brazil's Central Bank",
+  "year": "2022",
+  "ua": "U/A 13+",
+  "match": "73% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Brazilian, TV Mysteries, Crime TV Shows, Docuseries, True Crime Documentaries",
+  "thismovieis": "Investigative",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, nudity, mature themes, language, gore",
+  "desc": "In 2005, thieves tunnel into a Fortaleza, Brazil, bank vault and steal over 160 million reais. This docuseries explores that spectacular, historic heist.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81374471",
+      "ep": "3",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81402300",
+      "t": "The Crime",
+      "s": "S1",
+      "ep": "E1",
+      "time": "60m"
+    },
+    {
+      "complate": "0",
+      "id": "81402301",
+      "t": "The Hunt",
+      "s": "S1",
+      "ep": "E2",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81402303",
+      "t": "Cursed Money",
+      "s": "S1",
+      "ep": "E3",
+      "time": "59m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81374471",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81402300",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81248392"
+    },
+    {
+      "id": "81427740"
+    },
+    {
+      "id": "81349547"
+    },
+    {
+      "id": "81446275"
+    },
+    {
+      "id": "81561941"
+    },
+    {
+      "id": "81641767"
+    }
+  ],
+  "error": null
+}
