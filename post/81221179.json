@@ -1,0 +1,159 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Two Summers",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "96% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Paul Baeten Gronda, Tom Lenaerts",
+  "director": "",
+  "writer": "",
+  "short_cast": "An Miller, Marieke Anthoni, Tom Vermeir, Lukas Bulteel, Herwig Ilegems, Bjarne Devolder, Inge Paulussen, Louise Bergez, Kevin Janssens, Tijmen Govaerts, Ruth Becquart, Tine Roggeman, Koen De Bouw, Vincent Van Sande, Felix Meyer, Sanne Samina Hanssen",
+  "cast": "An Miller, Marieke Anthoni, Tom Vermeir, Lukas Bulteel, Herwig Ilegems, Bjarne Devolder, Inge Paulussen, Louise Bergez, Kevin Janssens, Tijmen Govaerts, Ruth Becquart, Tine Roggeman, Koen De Bouw, Vincent Van Sande, Felix Meyer, Sanne Samina Hanssen",
+  "genre": "TV Dramas, Belgian, TV Thrillers",
+  "thismovieis": "Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide, sexual violence, sex, nudity",
+  "desc": "A close circle of friends reunites for a lavish holiday \u2014 decades after one of them was the victim of a sexual assault committed by others in the group.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81221180",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81222300",
+      "t": "Episode 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81222301",
+      "t": "Episode 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81222302",
+      "t": "Episode 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81222303",
+      "t": "Episode 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81222304",
+      "t": "Episode 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81222305",
+      "t": "Episode 6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "44m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81221180",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81222300",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81580070"
+    },
+    {
+      "id": "81463577"
+    },
+    {
+      "id": "81152788"
+    },
+    {
+      "id": "81349458"
+    },
+    {
+      "id": "81317562"
+    },
+    {
+      "id": "81730920"
+    }
+  ],
+  "error": null
+}
