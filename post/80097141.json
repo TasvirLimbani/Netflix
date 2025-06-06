@@ -1,0 +1,174 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Godless",
+  "year": "2017",
+  "ua": "U/A 18+ [A]",
+  "match": "34% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Scott Frank",
+  "director": "",
+  "writer": "",
+  "short_cast": "Jeff Daniels, Michelle Dockery, Jack O'Connell, Scoot McNairy, Merritt Wever, Thomas Brodie-Sangster, Sam Waterston, Tantoo Cardinal",
+  "cast": "Jeff Daniels, Michelle Dockery, Jack O'Connell, Scoot McNairy, Merritt Wever, Thomas Brodie-Sangster, Sam Waterston, Tantoo Cardinal",
+  "genre": "TV Dramas, US TV Shows",
+  "thismovieis": "Gritty, Dark",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "sexual violence, nudity",
+  "desc": "A ruthless outlaw terrorizes the West in search of a former member of his gang, who\u2019s found a new life in a quiet town populated only by women.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80125592",
+      "ep": "7",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80125721",
+      "t": "An Incident at Creede",
+      "s": "S1",
+      "ep": "E1",
+      "time": "70m"
+    },
+    {
+      "complate": "0",
+      "id": "80145136",
+      "t": "The Ladies of La Belle",
+      "s": "S1",
+      "ep": "E2",
+      "time": "69m"
+    },
+    {
+      "complate": "0",
+      "id": "80145137",
+      "t": "Wisdom of the Horse",
+      "s": "S1",
+      "ep": "E3",
+      "time": "74m"
+    },
+    {
+      "complate": "0",
+      "id": "80145138",
+      "t": "Fathers & Sons",
+      "s": "S1",
+      "ep": "E4",
+      "time": "68m"
+    },
+    {
+      "complate": "0",
+      "id": "80145139",
+      "t": "Shot the Head off a Snake",
+      "s": "S1",
+      "ep": "E5",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "80145140",
+      "t": "Dear Roy...",
+      "s": "S1",
+      "ep": "E6",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "80200595",
+      "t": "Homecoming",
+      "s": "S1",
+      "ep": "E7",
+      "time": "80m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "80125592",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80125721",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81077494"
+    },
+    {
+      "id": "81127997"
+    },
+    {
+      "id": "80200267"
+    },
+    {
+      "id": "81210670"
+    },
+    {
+      "id": "966131"
+    },
+    {
+      "id": "80200571"
+    },
+    {
+      "id": "80238738"
+    },
+    {
+      "id": "80099656"
+    },
+    {
+      "id": "877351"
+    },
+    {
+      "id": "81426931"
+    },
+    {
+      "id": "80119411"
+    },
+    {
+      "id": "80127990"
+    }
+  ],
+  "error": null
+}
