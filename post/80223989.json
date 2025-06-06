@@ -1,0 +1,220 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Chilling Adventures of Sabrina",
+  "year": "2018",
+  "ua": "U/A 18+ [A]",
+  "match": "30% match",
+  "runtime": "4 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Kiernan Shipka, Ross Lynch, Miranda Otto, Lucy Davis, Chance Perdomo, Michelle Gomez, Jaz Sinclair, Lachlan Watson, Gavin Leatherwood, Tati Gabrielle, Adeline Rudolph, Richard Coyle, Abigail Cowen, Luke Cook, Bronson Pinchot",
+  "cast": "Kiernan Shipka, Ross Lynch, Miranda Otto, Lucy Davis, Chance Perdomo, Michelle Gomez, Jaz Sinclair, Lachlan Watson, Gavin Leatherwood, Tati Gabrielle, Adeline Rudolph, Richard Coyle, Abigail Cowen, Luke Cook, Bronson Pinchot",
+  "genre": "Teen TV Shows, US TV Shows, Horror TV Serials, Fantasy TV Shows, TV Shows Based on Comics",
+  "thismovieis": "Chilling, Dark",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, sex, nudity, gore",
+  "desc": "Magic and mischief collide as half-human, half-witch Sabrina navigates between two worlds: mortal teen life and her family's legacy, the Church of Night.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80230070",
+      "ep": "11",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80231533",
+      "ep": "9",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81062479",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "81062488",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81062660",
+      "t": "Chapter Twenty-Nine: The Eldritch Dark",
+      "s": "S4",
+      "ep": "E1",
+      "time": "60m"
+    },
+    {
+      "complate": "0",
+      "id": "81062661",
+      "t": "Chapter Thirty: The Uninvited",
+      "s": "S4",
+      "ep": "E2",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81062662",
+      "t": "Chapter Thirty-One: The Weird",
+      "s": "S4",
+      "ep": "E3",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "81062663",
+      "t": "Chapter Thirty-Two: The Imp of the Perverse",
+      "s": "S4",
+      "ep": "E4",
+      "time": "61m"
+    },
+    {
+      "complate": "0",
+      "id": "81062664",
+      "t": "Chapter Thirty-Three: Deus Ex Machina",
+      "s": "S4",
+      "ep": "E5",
+      "time": "55m"
+    },
+    {
+      "complate": "0",
+      "id": "81062665",
+      "t": "Chapter Thirty-Four: The Returned",
+      "s": "S4",
+      "ep": "E6",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "81062666",
+      "t": "Chapter Thirty-Five: The Endless",
+      "s": "S4",
+      "ep": "E7",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81062667",
+      "t": "Chapter Thirty-Six: At the Mountains of Madness",
+      "s": "S4",
+      "ep": "E8",
+      "time": "64m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81062488",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81062660",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80220679"
+    },
+    {
+      "id": "80241239"
+    },
+    {
+      "id": "80218885"
+    },
+    {
+      "id": "81231974"
+    },
+    {
+      "id": "80084447"
+    },
+    {
+      "id": "81351571"
+    },
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "80238357"
+    },
+    {
+      "id": "81679967"
+    },
+    {
+      "id": "81116060"
+    },
+    {
+      "id": "81213653"
+    },
+    {
+      "id": "81150303"
+    }
+  ],
+  "error": null
+}
