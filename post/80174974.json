@@ -1,0 +1,169 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Devilman Crybaby",
+  "year": "2018",
+  "ua": "U/A 18+ [A]",
+  "match": "75% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Koki Uchiyama, Ayumu Murase, Megumi Han, Ami Koshimizu, Atsuko Tanaka, Rikiya Koyama, Avu-chan, Kenjiro Tsuda, KEN THE 390, Subaru Kimura, Young Dais, Hannya, AFRA",
+  "cast": "Koki Uchiyama, Ayumu Murase, Megumi Han, Ami Koshimizu, Atsuko Tanaka, Rikiya Koyama, Avu-chan, Kenjiro Tsuda, KEN THE 390, Subaru Kimura, Young Dais, Hannya, AFRA",
+  "genre": "Action Anime, Japanese, Anime Series, Horror Anime, Horror TV Serials, TV Shows Based on Manga",
+  "thismovieis": "Violent, Dark, Emotional",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, substances, sex, nudity, gore",
+  "desc": "With demons reawakened and humanity in turmoil, a sensitive demon-boy is led into a brutal, degenerate war against evil by his mysterious friend, Ryo.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80174975",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80174976",
+      "t": "I Need You",
+      "s": "S1",
+      "ep": "E1",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "80174977",
+      "t": "One Hand Is Enough",
+      "s": "S1",
+      "ep": "E2",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "80174978",
+      "t": "Believe Me!",
+      "s": "S1",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "80174979",
+      "t": "Come, Akira",
+      "s": "S1",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "80174980",
+      "t": "Beautiful Silene",
+      "s": "S1",
+      "ep": "E5",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "80174981",
+      "t": "Neither Demon Nor Human",
+      "s": "S1",
+      "ep": "E6",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "80174982",
+      "t": "Weak Humans, Wise Demons",
+      "s": "S1",
+      "ep": "E7",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "80174983",
+      "t": "I Must Know Myself",
+      "s": "S1",
+      "ep": "E8",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "80174984",
+      "t": "Go to Hell, You Mortals",
+      "s": "S1",
+      "ep": "E9",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "80174985",
+      "t": "Crybaby",
+      "s": "S1",
+      "ep": "E10",
+      "time": "25m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80174975",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "80174976",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81281582"
+    },
+    {
+      "id": "81033445"
+    },
+    {
+      "id": "80174608"
+    },
+    {
+      "id": "81001988"
+    },
+    {
+      "id": "70204970"
+    }
+  ],
+  "error": null
+}
