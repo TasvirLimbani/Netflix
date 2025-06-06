@@ -1,0 +1,301 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Boss Baby: Back in Business",
+  "year": "2018",
+  "ua": "U/A 7+",
+  "match": "65% match",
+  "runtime": "4 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "JP Karliak, Pierce Gagnon, Kevin Michael Richardson, Alex Cazares, Flula Borg, Eric Bell Jr., David Lodge, Hope Levy, David Collins, Jake Green, Kari Wahlgren",
+  "cast": "JP Karliak, Pierce Gagnon, Kevin Michael Richardson, Alex Cazares, Flula Borg, Eric Bell Jr., David Lodge, Hope Levy, David Collins, Jake Green, Kari Wahlgren",
+  "genre": "Family Time TV, Kids' TV, TV Shows Based on Books, TV Comedies, TV Cartoons",
+  "thismovieis": "Imaginative, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "rude humor, mild violence, mild language",
+  "desc": "The Boss Baby brings his big brother Tim to the office to teach him the art of business in this animated series sprung from the hit film.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80178944",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80178945",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81037047",
+      "ep": "11",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "81037048",
+      "ep": "12",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81037060",
+      "t": "Yellow 100",
+      "s": "S4",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81037061",
+      "t": "Pyg & Tam",
+      "s": "S4",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81037062",
+      "t": "Conference Room B",
+      "s": "S4",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81037063",
+      "t": "Game Plan",
+      "s": "S4",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81037064",
+      "t": "Night Owls",
+      "s": "S4",
+      "ep": "E5",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81037065",
+      "t": "OCB",
+      "s": "S4",
+      "ep": "E6",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81037066",
+      "t": "Chicago",
+      "s": "S4",
+      "ep": "E7",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81037068",
+      "t": "Baby Boss",
+      "s": "S4",
+      "ep": "E8",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81037067",
+      "t": "Boom Baby",
+      "s": "S4",
+      "ep": "E9",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81037069",
+      "t": "The Fumbling of Football Mike",
+      "s": "S4",
+      "ep": "E10",
+      "time": "24m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81037048",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "yue",
+      "s": "yue"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81037060",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80146758"
+    },
+    {
+      "id": "81500342"
+    },
+    {
+      "id": "81054409"
+    },
+    {
+      "id": "70113007"
+    },
+    {
+      "id": "60022058"
+    },
+    {
+      "id": "80121840"
+    },
+    {
+      "id": "80095314"
+    },
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "70155547"
+    },
+    {
+      "id": "80158156"
+    },
+    {
+      "id": "81555726"
+    }
+  ],
+  "error": null
+}
