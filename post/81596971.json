@@ -1,0 +1,161 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "How to Become a Mob Boss",
+  "year": "2023",
+  "ua": "U/A 16+",
+  "match": "42% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Peter Dinklage",
+  "cast": "Peter Dinklage",
+  "genre": "Docuseries, US TV Shows",
+  "thismovieis": "Dark",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "tobacco use, substances, language, gore",
+  "desc": "This darkly satirical how-to guide explores the rise and fall of history's most notorious mob bosses and their tactics for success.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81553203",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81553368",
+      "t": "Land Your Dream Job",
+      "s": "S1",
+      "ep": "E1",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81553369",
+      "t": "Build a Better Operation",
+      "s": "S1",
+      "ep": "E2",
+      "time": "29m"
+    },
+    {
+      "complate": "0",
+      "id": "81553371",
+      "t": "Dominate Through Terror",
+      "s": "S1",
+      "ep": "E3",
+      "time": "28m"
+    },
+    {
+      "complate": "0",
+      "id": "81553372",
+      "t": "Don't Go Rogue",
+      "s": "S1",
+      "ep": "E4",
+      "time": "31m"
+    },
+    {
+      "complate": "0",
+      "id": "81553373",
+      "t": "Play the Long Game",
+      "s": "S1",
+      "ep": "E5",
+      "time": "30m"
+    },
+    {
+      "complate": "0",
+      "id": "81553370",
+      "t": "Break the Mold",
+      "s": "S1",
+      "ep": "E6",
+      "time": "33m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81553203",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81553368",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80989772"
+    },
+    {
+      "id": "81628150"
+    },
+    {
+      "id": "81427740"
+    },
+    {
+      "id": "81561941"
+    },
+    {
+      "id": "81474104"
+    },
+    {
+      "id": "81596972"
+    },
+    {
+      "id": "81303911"
+    },
+    {
+      "id": "81384842"
+    },
+    {
+      "id": "81610333"
+    }
+  ],
+  "error": null
+}
