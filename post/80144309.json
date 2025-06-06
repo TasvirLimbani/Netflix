@@ -1,0 +1,80 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Power Rangers",
+  "year": "2017",
+  "ua": "U/A 13+",
+  "match": "47% match",
+  "runtime": "2h 4m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Dean Israelite",
+  "writer": "John Gatins, Matt Sazama, Burk Sharpless",
+  "short_cast": "Dacre Montgomery, Bill Hader, David Denman, Matt Shively, Elizabeth Banks, Cody Kearsley, RJ Cyler, Naomi Scott, Ludi Lin, Bryan Cranston, Becky G.",
+  "cast": "Dacre Montgomery, Bill Hader, David Denman, Matt Shively, Elizabeth Banks, Cody Kearsley, RJ Cyler, Naomi Scott, Ludi Lin, Bryan Cranston, Becky G.",
+  "genre": "Sci-Fi Movies, Action & Adventure Movies, US Movies",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, threat, mature themes, language, gore",
+  "desc": "After five high school misfits uncover coins that grant them superpowers, they must come together as a team to save the world from an ancient evil.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81354663"
+    },
+    {
+      "id": "81586549"
+    },
+    {
+      "id": "80187362"
+    },
+    {
+      "id": "80081793"
+    },
+    {
+      "id": "81030627"
+    },
+    {
+      "id": "81199145"
+    },
+    {
+      "id": "81465707"
+    },
+    {
+      "id": "60027724"
+    },
+    {
+      "id": "81652327"
+    },
+    {
+      "id": "80991034"
+    },
+    {
+      "id": "80217957"
+    }
+  ],
+  "error": null
+}
