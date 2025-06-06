@@ -1,0 +1,115 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Inferno",
+  "year": "2016",
+  "ua": "U/A 13+",
+  "match": "48% match",
+  "runtime": "2h 1m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Ron Howard",
+  "writer": "Dan Brown, David Koepp",
+  "short_cast": "Tom Hanks, Felicity Jones, Omar Sy, Irrfan Khan, Sidse Babett Knudsen, Ben Foster, Ana Ularu, Ida Darvish, Paolo Antonio Simioni, Alessandro Grimaldi",
+  "cast": "Tom Hanks, Felicity Jones, Omar Sy, Irrfan Khan, Sidse Babett Knudsen, Ben Foster, Ana Ularu, Ida Darvish, Paolo Antonio Simioni, Alessandro Grimaldi",
+  "genre": "Mysteries, US Movies, Movies Based on Books, Action & Adventure, Dramas",
+  "thismovieis": "Cerebral, Exciting",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, threat, mature themes, language, gore",
+  "desc": "On the run and suffering from memory loss, a Harvard symbologist must decipher clues to stop a plague designed to decimate the planet's population.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "70035186"
+    },
+    {
+      "id": "70103523"
+    },
+    {
+      "id": "80174451"
+    },
+    {
+      "id": "70019508"
+    },
+    {
+      "id": "27828200"
+    },
+    {
+      "id": "70131314"
+    },
+    {
+      "id": "81256675"
+    },
+    {
+      "id": "70142888"
+    },
+    {
+      "id": "81444818"
+    },
+    {
+      "id": "60004480"
+    },
+    {
+      "id": "81198930"
+    },
+    {
+      "id": "950149"
+    }
+  ],
+  "error": null
+}
