@@ -1,0 +1,75 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Jack the Giant Slayer",
+  "year": "2013",
+  "ua": "U/A 16+",
+  "match": "98% match",
+  "runtime": "1h 54m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Bryan Singer",
+  "writer": "Darren Lemke, Christopher McQuarrie, Dan Studney",
+  "short_cast": "Nicholas Hoult, Eleanor Tomlinson, Ewan McGregor, Stanley Tucci, Ian McShane, Bill Nighy, Eddie Marsan, Ewen Bremner, Ralph Brown",
+  "cast": "Nicholas Hoult, Eleanor Tomlinson, Ewan McGregor, Stanley Tucci, Ian McShane, Bill Nighy, Eddie Marsan, Ewen Bremner, Ralph Brown",
+  "genre": "Romantic Movies, Action & Adventure Movies, US Movies",
+  "thismovieis": "Imaginative, Romantic",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "gore",
+  "desc": "After he accidentally opens a gateway that allows giants to enter the kingdom, farm boy Jack seeks to undo the damage and rescue a kidnapped princess.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81245455"
+    },
+    {
+      "id": "80093133"
+    },
+    {
+      "id": "70217912"
+    },
+    {
+      "id": "70097578"
+    },
+    {
+      "id": "70021664"
+    },
+    {
+      "id": "80993105"
+    },
+    {
+      "id": "70178621"
+    },
+    {
+      "id": "60004480"
+    },
+    {
+      "id": "60036256"
+    },
+    {
+      "id": "80139562"
+    },
+    {
+      "id": "60022643"
+    },
+    {
+      "id": "80161352"
+    }
+  ],
+  "error": null
+}
