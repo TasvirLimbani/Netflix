@@ -1,0 +1,262 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "PJ Masks",
+  "year": "2015",
+  "ua": "U",
+  "match": "82% match",
+  "runtime": "4 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Jacob Ewaniuk, Kyle Breitkopf, Addison Holley",
+  "cast": "Jacob Ewaniuk, Kyle Breitkopf, Addison Holley",
+  "genre": "Kids' TV, TV Shows Based on Books, TV Cartoons",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children and persons of all ages",
+  "m_reason": "all ages",
+  "desc": "Three 6-year-old kids who live normal lives during the day become superheroes at night, fighting crime as a team known as PJ Masks.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "80187406",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81200147",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81272350",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "81488552",
+      "ep": "26",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81488553",
+      "t": "Heroes of the Sky /Heroes of the Sky Part 2",
+      "s": "S4",
+      "ep": "E1",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81488554",
+      "t": "Heroes of the Sky Part 3 /Heroes of the Sky Part 4",
+      "s": "S4",
+      "ep": "E2",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81488555",
+      "t": "Who Let the Moths In? /Commander Meow",
+      "s": "S4",
+      "ep": "E3",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81488556",
+      "t": "Motsuki\u2019s Missing Sister / Not So Ninja",
+      "s": "S4",
+      "ep": "E4",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81488557",
+      "t": "PJ Party Mountain / Wolfies of the Pagoda",
+      "s": "S4",
+      "ep": "E5",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81488558",
+      "t": "Master Fang\u2019s Secret / Aerodylan",
+      "s": "S4",
+      "ep": "E6",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81488559",
+      "t": "Asteroid Accident / All About Asteroids",
+      "s": "S4",
+      "ep": "E7",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81488560",
+      "t": "Romeo\u2019s Space Machine / Newton and the Ninjas",
+      "s": "S4",
+      "ep": "E8",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81488561",
+      "t": "Missing Space Rock / Flying Factory Out Of Control",
+      "s": "S4",
+      "ep": "E9",
+      "time": "24m"
+    },
+    {
+      "complate": "0",
+      "id": "81488562",
+      "t": "Munki-gu / Munki-gu in the City",
+      "s": "S4",
+      "ep": "E10",
+      "time": "24m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81488552",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    }
+  ],
+  "last_ep": "81488553",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80993597"
+    },
+    {
+      "id": "81566729"
+    },
+    {
+      "id": "81154166"
+    },
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "80025494"
+    },
+    {
+      "id": "81294811"
+    }
+  ],
+  "error": null
+}
