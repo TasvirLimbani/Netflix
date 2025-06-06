@@ -1,0 +1,109 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Fantastic Fungi",
+  "year": "2019",
+  "ua": "U/A 13+",
+  "match": "49% match",
+  "runtime": "1h 20m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Louie Schwartzberg",
+  "writer": "Mark Monroe",
+  "short_cast": "Brie Larson, Andrew Weil, Giuliana Furci",
+  "cast": "Brie Larson, Andrew Weil, Giuliana Furci",
+  "genre": "Documentaries, Science & Nature Docs, US Movies",
+  "thismovieis": "",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, substances, mature themes, language",
+  "desc": "Delve into the magical world of fungi, from mushrooms that clear oil spills to underground fungal networks that help trees communicate.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "80229847"
+    },
+    {
+      "id": "80231917"
+    },
+    {
+      "id": "81243961"
+    },
+    {
+      "id": "81447086"
+    },
+    {
+      "id": "81273453"
+    },
+    {
+      "id": "81436688"
+    },
+    {
+      "id": "81321999"
+    },
+    {
+      "id": "80049832"
+    },
+    {
+      "id": "81045007"
+    },
+    {
+      "id": "80209895"
+    }
+  ],
+  "error": null
+}
