@@ -1,0 +1,210 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Anne with an E",
+  "year": "2017",
+  "ua": "U/A 13+",
+  "match": "59% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Moira Walley-Beckett",
+  "director": "",
+  "writer": "",
+  "short_cast": "Amybeth McNulty, Geraldine James, R.H. Thomson, Corrine Koslo, Dalila Bela, Lucas Jade Zumann, Aymeric Jett Montaz, Dalmar Abuzeid, Cory Gruter-Andrew, Joanna Douglas",
+  "cast": "Amybeth McNulty, Geraldine James, R.H. Thomson, Corrine Koslo, Dalila Bela, Lucas Jade Zumann, Aymeric Jett Montaz, Dalmar Abuzeid, Cory Gruter-Andrew, Joanna Douglas",
+  "genre": "TV Dramas, Family Watch Together TV, Canadian, TV Shows Based on Books, Teen TV Shows, Period Pieces",
+  "thismovieis": "Heartfelt, Emotional",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, mature themes, gore",
+  "desc": "A plucky orphan whose passions run deep finds an unlikely home with a spinster and her soft-spoken bachelor brother. Based on \"Anne of Green Gables.\"",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80136235",
+      "ep": "7",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80198512",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81018838",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81025445",
+      "t": "A Secret Which I Desired to Divine",
+      "s": "S3",
+      "ep": "E1",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81025446",
+      "t": "There Is Something at Work in My Soul Which I Do Not Understand",
+      "s": "S3",
+      "ep": "E2",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81025447",
+      "t": "What Can Stop the Determined Heart",
+      "s": "S3",
+      "ep": "E3",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81025448",
+      "t": "A Hope of Meeting You in Another World",
+      "s": "S3",
+      "ep": "E4",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81025449",
+      "t": "I Am Fearless and Therefore Powerful",
+      "s": "S3",
+      "ep": "E5",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81025450",
+      "t": "The Summit of My Desires",
+      "s": "S3",
+      "ep": "E6",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81025451",
+      "t": "A Strong Effort of the Spirit of Good",
+      "s": "S3",
+      "ep": "E7",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81025452",
+      "t": "Great and Sudden Change",
+      "s": "S3",
+      "ep": "E8",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81025453",
+      "t": "A Dense and Frightful Darkness",
+      "s": "S3",
+      "ep": "E9",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81025454",
+      "t": "The Better Feelings of My Heart",
+      "s": "S3",
+      "ep": "E10",
+      "time": "44m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81018838",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81025445",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81277950"
+    },
+    {
+      "id": "81140933"
+    },
+    {
+      "id": "81406219"
+    },
+    {
+      "id": "80119411"
+    },
+    {
+      "id": "81222923"
+    },
+    {
+      "id": "80234304"
+    },
+    {
+      "id": "70032594"
+    },
+    {
+      "id": "81248111"
+    },
+    {
+      "id": "81349306"
+    },
+    {
+      "id": "81410649"
+    },
+    {
+      "id": "948002"
+    },
+    {
+      "id": "80232398"
+    }
+  ],
+  "error": null
+}
