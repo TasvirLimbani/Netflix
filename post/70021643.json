@@ -1,0 +1,115 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Fun with Dick & Jane",
+  "year": "2005",
+  "ua": "U/A 13+",
+  "match": "31% match",
+  "runtime": "1h 30m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Dean Parisot",
+  "writer": "Judd Apatow, Nicholas Stoller, Gerald Gaiser",
+  "short_cast": "Jim Carrey, T\u00e9a Leoni, Alec Baldwin, Richard Jenkins, Angie Harmon, John Michael Higgins, Richard Burgi, Carlos Jacott, Aaron Michael Drozin, Gloria Garayua",
+  "cast": "Jim Carrey, T\u00e9a Leoni, Alec Baldwin, Richard Jenkins, Angie Harmon, John Michael Higgins, Richard Burgi, Carlos Jacott, Aaron Michael Drozin, Gloria Garayua",
+  "genre": "Comedy Movies, US Movies",
+  "thismovieis": "Goofy",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "substances, mature themes, language, crude humor",
+  "desc": "After losing their high-paying corporate jobs, a husband and wife turn to bank robbery to maintain their standard of living.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "215318"
+    },
+    {
+      "id": "215309"
+    },
+    {
+      "id": "70028904"
+    },
+    {
+      "id": "70228042"
+    },
+    {
+      "id": "70021637"
+    },
+    {
+      "id": "70044593"
+    },
+    {
+      "id": "80031715"
+    },
+    {
+      "id": "80013275"
+    },
+    {
+      "id": "21303955"
+    },
+    {
+      "id": "70097577"
+    },
+    {
+      "id": "80094318"
+    },
+    {
+      "id": "80067830"
+    }
+  ],
+  "error": null
+}
