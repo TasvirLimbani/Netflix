@@ -1,0 +1,197 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Hellbound",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "91% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Yeon Sang-ho, Choi Gyu-seok",
+  "director": "",
+  "writer": "",
+  "short_cast": "Yoo Ah-in, Kim Hyun-joo, Park Jeong-min, Won Jin-a, Yang Ik-june, Kim Do-yoon, Kim Shin-rock, Ryu Kyung-soo, Lee Re",
+  "cast": "Yoo Ah-in, Kim Hyun-joo, Park Jeong-min, Won Jin-a, Yang Ik-june, Kim Do-yoon, Kim Shin-rock, Ryu Kyung-soo, Lee Re",
+  "genre": "Korean, TV Mysteries, Crime TV Shows, K-dramas based on Webtoon, TV Thrillers, Horror TV Serials",
+  "thismovieis": "Violent, Dark, Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, gore",
+  "desc": "Unearthly beings deliver bloody condemnations, sending individuals to hell and giving rise to a religious group founded on the idea of divine justice.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81256676",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81284038",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81606641",
+      "t": "Episode 1",
+      "s": "S2",
+      "ep": "E1",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81606642",
+      "t": "Episode 2",
+      "s": "S2",
+      "ep": "E2",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81606643",
+      "t": "Episode 3",
+      "s": "S2",
+      "ep": "E3",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81606644",
+      "t": "Episode 4",
+      "s": "S2",
+      "ep": "E4",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81606645",
+      "t": "Episode 5",
+      "s": "S2",
+      "ep": "E5",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81606646",
+      "t": "Episode 6",
+      "s": "S2",
+      "ep": "E6",
+      "time": "57m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81284038",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "cze"
+    },
+    {
+      "l": "German",
+      "s": "ger"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fre"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    }
+  ],
+  "last_ep": "81606641",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81061734"
+    },
+    {
+      "id": "81457374"
+    },
+    {
+      "id": "81237994"
+    },
+    {
+      "id": "80200575"
+    },
+    {
+      "id": "81194158"
+    },
+    {
+      "id": "81098012"
+    },
+    {
+      "id": "81520295"
+    },
+    {
+      "id": "81618079"
+    },
+    {
+      "id": "81240831"
+    },
+    {
+      "id": "80180171"
+    },
+    {
+      "id": "81464329"
+    }
+  ],
+  "error": null
+}
