@@ -1,0 +1,202 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Griselda",
+  "year": "2024",
+  "ua": "U/A 18+ [A]",
+  "match": "40% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Doug Miro, Eric Newman, Carlo Bernard, Ingrid Escajeda",
+  "director": "",
+  "writer": "",
+  "short_cast": "Sof\u00eda Vergara, Alberto Guerra, Christian Tappan, Mart\u00edn Rodr\u00edguez, Juliana Aid\u00e9n Martinez, Vanessa Ferlito",
+  "cast": "Sof\u00eda Vergara, Alberto Guerra, Christian Tappan, Mart\u00edn Rodr\u00edguez, Juliana Aid\u00e9n Martinez, Vanessa Ferlito",
+  "genre": "TV Dramas, Crime TV Shows, US TV Shows, TV Shows Based on Real Life",
+  "thismovieis": "Gritty",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, substances, sex, nudity, language",
+  "desc": "Inspired by real events, this fictional dramatization shows Griselda Blanco's journey from Medell\u00edn to becoming \"the Godmother\" of Miami's drug empire.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81133452",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81229674",
+      "t": "Lady Comes to Town",
+      "s": "S1",
+      "ep": "E1",
+      "time": "51m"
+    },
+    {
+      "complate": "0",
+      "id": "81229675",
+      "t": "Rich White People",
+      "s": "S1",
+      "ep": "E2",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "81229676",
+      "t": "Mutiny",
+      "s": "S1",
+      "ep": "E3",
+      "time": "58m"
+    },
+    {
+      "complate": "0",
+      "id": "81229677",
+      "t": "Middle Management",
+      "s": "S1",
+      "ep": "E4",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81229678",
+      "t": "Paradise Lost",
+      "s": "S1",
+      "ep": "E5",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81229679",
+      "t": "Adios, Miami",
+      "s": "S1",
+      "ep": "E6",
+      "time": "48m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81133452",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    }
+  ],
+  "last_ep": "81229674",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80025172"
+    },
+    {
+      "id": "81175669"
+    },
+    {
+      "id": "80997085"
+    },
+    {
+      "id": "80107369"
+    },
+    {
+      "id": "81306170"
+    },
+    {
+      "id": "80133042"
+    },
+    {
+      "id": "81268316"
+    },
+    {
+      "id": "81325194"
+    },
+    {
+      "id": "80035684"
+    },
+    {
+      "id": "81586657"
+    },
+    {
+      "id": "80998988"
+    },
+    {
+      "id": "81588093"
+    }
+  ],
+  "error": null
+}
