@@ -1,0 +1,186 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Diplomat",
+  "year": "2023",
+  "ua": "U/A 18+ [A]",
+  "match": "64% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Debora Cahn",
+  "director": "",
+  "writer": "",
+  "short_cast": "Keri Russell, Rufus Sewell, David Gyasi, Ato Essandoh, Ali Ahn, Rory Kinnear, Celia Imrie, Nana Mensah, Miguel Sandoval, Michael McKean",
+  "cast": "Keri Russell, Rufus Sewell, David Gyasi, Ato Essandoh, Ali Ahn, Rory Kinnear, Celia Imrie, Nana Mensah, Miguel Sandoval, Michael McKean",
+  "genre": "Political TV Shows, TV Dramas, US TV Shows, TV Thrillers",
+  "thismovieis": "Cerebral, Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "sex, nudity, language",
+  "desc": "Amid an international crisis, a career diplomat juggles her new high-profile job as ambassador to the UK and her turbulent marriage to a political star.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81288984",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81486271",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81697424",
+      "t": "When a Stranger Calls",
+      "s": "S2",
+      "ep": "E1",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81697425",
+      "t": "St. Paul's",
+      "s": "S2",
+      "ep": "E2",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81697426",
+      "t": "The Ides of March",
+      "s": "S2",
+      "ep": "E3",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81697427",
+      "t": "The Other Army",
+      "s": "S2",
+      "ep": "E4",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "81697428",
+      "t": "Our Lady of Immaculate Deception",
+      "s": "S2",
+      "ep": "E5",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81697429",
+      "t": "Dreadnought",
+      "s": "S2",
+      "ep": "E6",
+      "time": "52m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81486271",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    }
+  ],
+  "last_ep": "81697424",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81152788"
+    },
+    {
+      "id": "80235864"
+    },
+    {
+      "id": "81417796"
+    },
+    {
+      "id": "81396545"
+    },
+    {
+      "id": "81303831"
+    },
+    {
+      "id": "70178217"
+    },
+    {
+      "id": "81450827"
+    },
+    {
+      "id": "80113647"
+    },
+    {
+      "id": "81157207"
+    },
+    {
+      "id": "80992058"
+    }
+  ],
+  "error": null
+}
