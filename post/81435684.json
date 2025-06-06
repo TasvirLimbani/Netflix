@@ -1,0 +1,255 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Arcane",
+  "year": "2021",
+  "ua": "U/A 16+",
+  "match": "47% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Christian Linke, Alex Yee",
+  "director": "",
+  "writer": "",
+  "short_cast": "Hailee Steinfeld, Katie Leung, Kevin Alejandro, Jason Spisak, Ella Purnell, Toks Olagundoye, JB Blanc, Harry Lloyd, Shohreh Aghdashloo, Mick Wingert, Yuri Lowenthal, Josh Keaton, Mia Sinclair Jenness, Remy Hii",
+  "cast": "Hailee Steinfeld, Katie Leung, Kevin Alejandro, Jason Spisak, Ella Purnell, Toks Olagundoye, JB Blanc, Harry Lloyd, Shohreh Aghdashloo, Mick Wingert, Yuri Lowenthal, Josh Keaton, Mia Sinclair Jenness, Remy Hii",
+  "genre": "TV Action & Adventure, US TV Shows, Fantasy TV Shows",
+  "thismovieis": "Gritty",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence, substances, sexual content, gore",
+  "desc": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81435685",
+      "ep": "9",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81516572",
+      "ep": "9",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81516573",
+      "t": "Heavy Is the Crown",
+      "s": "S2",
+      "ep": "E1",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81516574",
+      "t": "Watch It All Burn",
+      "s": "S2",
+      "ep": "E2",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81516575",
+      "t": "Finally Got the Name Right",
+      "s": "S2",
+      "ep": "E3",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81516576",
+      "t": "Paint the Town Blue",
+      "s": "S2",
+      "ep": "E4",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81516577",
+      "t": "Blisters and Bedrock",
+      "s": "S2",
+      "ep": "E5",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81516578",
+      "t": "The Message Hidden Within the Pattern",
+      "s": "S2",
+      "ep": "E6",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81516579",
+      "t": "Pretend Like It's the First Time",
+      "s": "S2",
+      "ep": "E7",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81516580",
+      "t": "Killing Is a Cycle",
+      "s": "S2",
+      "ep": "E8",
+      "time": "40m"
+    },
+    {
+      "complate": "0",
+      "id": "81516581",
+      "t": "The Dirt Under Your Nails",
+      "s": "S2",
+      "ep": "E9",
+      "time": "50m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81516572",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81516573",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80174608"
+    },
+    {
+      "id": "81144203"
+    },
+    {
+      "id": "80212245"
+    },
+    {
+      "id": "81504698"
+    },
+    {
+      "id": "81001988"
+    },
+    {
+      "id": "81594921"
+    },
+    {
+      "id": "81444554"
+    },
+    {
+      "id": "81001991"
+    },
+    {
+      "id": "81418302"
+    }
+  ],
+  "error": null
+}
