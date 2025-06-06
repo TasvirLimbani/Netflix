@@ -1,0 +1,171 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Beyblade",
+  "year": "2001",
+  "ua": "U/A 7+",
+  "match": "92% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Motoko Kumai, Aya Hisakawa, Urara Takano, Ai Orikasa",
+  "cast": "Motoko Kumai, Aya Hisakawa, Urara Takano, Ai Orikasa",
+  "genre": "Kids' TV, Japanese, Anime Series, TV Shows Based on Manga",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "Tyson Granger dreams of being the world champion of beyblading -- a sport that involves ritualized combat between enchanted spinning tops.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "70201627",
+      "ep": "51",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "70201679",
+      "ep": "51",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "70201731",
+      "ep": "52",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "70201732",
+      "t": "New Kid in Town",
+      "s": "S3",
+      "ep": "E1",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "70201733",
+      "t": "A Team Divided",
+      "s": "S3",
+      "ep": "E2",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "70201734",
+      "t": "Invitation to Battle",
+      "s": "S3",
+      "ep": "E3",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "70201735",
+      "t": "We Were Once Bladebreakers",
+      "s": "S3",
+      "ep": "E4",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "70201736",
+      "t": "A League of His Own",
+      "s": "S3",
+      "ep": "E5",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "70201737",
+      "t": "You're the Man, Kai!",
+      "s": "S3",
+      "ep": "E6",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "70201738",
+      "t": "Take Your Best Shot!",
+      "s": "S3",
+      "ep": "E7",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "70201739",
+      "t": "Roughing It",
+      "s": "S3",
+      "ep": "E8",
+      "time": "20m"
+    },
+    {
+      "complate": "0",
+      "id": "70201740",
+      "t": "Swiped on the Streets",
+      "s": "S3",
+      "ep": "E9",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "70201741",
+      "t": "It's a Battle Royale!",
+      "s": "S3",
+      "ep": "E10",
+      "time": "21m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "70201731",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    }
+  ],
+  "last_ep": "70201732",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81567663"
+    },
+    {
+      "id": "81325983"
+    },
+    {
+      "id": "70155571"
+    },
+    {
+      "id": "81450318"
+    },
+    {
+      "id": "81450320"
+    },
+    {
+      "id": "70177043"
+    },
+    {
+      "id": "80158156"
+    },
+    {
+      "id": "81223075"
+    },
+    {
+      "id": "81450432"
+    },
+    {
+      "id": "81451264"
+    },
+    {
+      "id": "70177689"
+    }
+  ],
+  "error": null
+}
