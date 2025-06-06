@@ -1,0 +1,189 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Watcher",
+  "year": "2022",
+  "ua": "U/A 18+ [A]",
+  "match": "59% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Ryan Murphy, Ian Brennan",
+  "director": "",
+  "writer": "",
+  "short_cast": "Naomi Watts, Bobby Cannavale, Jennifer Coolidge, Mia Farrow, Noma Dumezweni, Joe Mantello, Margo Martindale, Richard Kind, Terry Kinney, Henry Hunter Hall, Isabel Gravitt, Luke David Blumm, Christopher McDonald, Michael Nouri",
+  "cast": "Naomi Watts, Bobby Cannavale, Jennifer Coolidge, Mia Farrow, Noma Dumezweni, Joe Mantello, Margo Martindale, Richard Kind, Terry Kinney, Henry Hunter Hall, Isabel Gravitt, Luke David Blumm, Christopher McDonald, Michael Nouri",
+  "genre": "TV Mysteries, US TV Shows, TV Thrillers, TV Shows Based on Real Life",
+  "thismovieis": "Ominous, Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, suicide, language",
+  "desc": "Ominous letters. Strange neighbors. Sinister threats. A family moves into their suburban dream home, only to discover they've inherited a nightmare.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81053237",
+      "ep": "7",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81380442",
+      "t": "Welcome, Friends",
+      "s": "S1",
+      "ep": "E1",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81380443",
+      "t": "Blood Sacrifice",
+      "s": "S1",
+      "ep": "E2",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81380444",
+      "t": "G\u00f6tterd\u00e4mmerung",
+      "s": "S1",
+      "ep": "E3",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81380445",
+      "t": "Someone to Watch Over Me",
+      "s": "S1",
+      "ep": "E4",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81380446",
+      "t": "Occam's Razor",
+      "s": "S1",
+      "ep": "E5",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81380447",
+      "t": "The Gloaming",
+      "s": "S1",
+      "ep": "E6",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81380448",
+      "t": "Haunting",
+      "s": "S1",
+      "ep": "E7",
+      "time": "52m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81053237",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81380442",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "70130445"
+    },
+    {
+      "id": "81000365"
+    },
+    {
+      "id": "81332757"
+    },
+    {
+      "id": "80209024"
+    },
+    {
+      "id": "81011569"
+    },
+    {
+      "id": "81288353"
+    },
+    {
+      "id": "81079914"
+    },
+    {
+      "id": "81287562"
+    },
+    {
+      "id": "80213445"
+    }
+  ],
+  "error": null
+}
