@@ -1,0 +1,231 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Ginny & Georgia",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "64% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Sarah Lampert",
+  "director": "",
+  "writer": "",
+  "short_cast": "Brianne Howey, Antonia Gentry, Diesel La Torraca, Jennifer Robertson, Felix Mallard, Sara Waisglass, Scott Porter, Raymond Ablack, Aaron Ashmore, Nathan Mitchell",
+  "cast": "Brianne Howey, Antonia Gentry, Diesel La Torraca, Jennifer Robertson, Felix Mallard, Sara Waisglass, Scott Porter, Raymond Ablack, Aaron Ashmore, Nathan Mitchell",
+  "genre": "Romantic TV Dramas, TV Dramas, Teen TV Shows, TV Comedies, Romantic TV Comedies, US TV Shows",
+  "thismovieis": "Scandalous, Emotional",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "substances, sex, self-harm, language",
+  "desc": "Free-spirited Georgia and her two kids, Ginny and Austin, move north in search of a fresh start but find that the road to new beginnings can be bumpy.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81036538",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81212036",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81592786",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81696942",
+      "t": "This Wouldn\u2019t Even Be a Podcast",
+      "s": "S3",
+      "ep": "E1",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81696943",
+      "t": "Beep Beep Freaking Beep",
+      "s": "S3",
+      "ep": "E2",
+      "time": "60m"
+    },
+    {
+      "complate": "0",
+      "id": "81696944",
+      "t": "Friends Can Dance",
+      "s": "S3",
+      "ep": "E3",
+      "time": "65m"
+    },
+    {
+      "complate": "0",
+      "id": "81696945",
+      "t": "The Bitch Is Back",
+      "s": "S3",
+      "ep": "E4",
+      "time": "62m"
+    },
+    {
+      "complate": "0",
+      "id": "81696946",
+      "t": "Boom Goes The Dynamite",
+      "s": "S3",
+      "ep": "E5",
+      "time": "64m"
+    },
+    {
+      "complate": "0",
+      "id": "81696947",
+      "t": "At Least It Can\u2019t Get Any Worse",
+      "s": "S3",
+      "ep": "E6",
+      "time": "65m"
+    },
+    {
+      "complate": "0",
+      "id": "81696948",
+      "t": "That\u2019s Wild",
+      "s": "S3",
+      "ep": "E7",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81696949",
+      "t": "Is That A Packed Lunch",
+      "s": "S3",
+      "ep": "E8",
+      "time": "65m"
+    },
+    {
+      "complate": "0",
+      "id": "81696950",
+      "t": "It\u2019s Time For My Solo",
+      "s": "S3",
+      "ep": "E9",
+      "time": "63m"
+    },
+    {
+      "complate": "0",
+      "id": "81696951",
+      "t": "Monsters",
+      "s": "S3",
+      "ep": "E10",
+      "time": "68m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81592786",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81696942",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81231974"
+    },
+    {
+      "id": "81127150"
+    },
+    {
+      "id": "81249731"
+    },
+    {
+      "id": "80243706"
+    },
+    {
+      "id": "80223989"
+    },
+    {
+      "id": "80211991"
+    },
+    {
+      "id": "81050546"
+    },
+    {
+      "id": "80143556"
+    },
+    {
+      "id": "80117470"
+    },
+    {
+      "id": "80220679"
+    },
+    {
+      "id": "80177342"
+    }
+  ],
+  "error": null
+}
