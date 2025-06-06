@@ -1,0 +1,157 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Predators",
+  "year": "2023",
+  "ua": "U/A 7+",
+  "match": "84% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Tom Hardy",
+  "cast": "Tom Hardy",
+  "genre": "Family Watch Together TV, British, Nature & Ecology Documentaries, Science & Nature TV, Science & Nature Docs, Docuseries",
+  "thismovieis": "",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "Experience life through the eyes of cheetahs, polar bears and more of the planet's most powerful hunters as they fight against the odds to survive.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81319178",
+      "ep": "5",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81368154",
+      "t": "Cheetah",
+      "s": "S1",
+      "ep": "E1",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81368155",
+      "t": "Lion",
+      "s": "S1",
+      "ep": "E2",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81368153",
+      "t": "Puma",
+      "s": "S1",
+      "ep": "E3",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81368156",
+      "t": "Polar Bear",
+      "s": "S1",
+      "ep": "E4",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81368152",
+      "t": "Wild Dog",
+      "s": "S1",
+      "ep": "E5",
+      "time": "44m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81319178",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81368154",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81353947"
+    },
+    {
+      "id": "80049832"
+    },
+    {
+      "id": "81145024"
+    },
+    {
+      "id": "80213846"
+    },
+    {
+      "id": "81462291"
+    },
+    {
+      "id": "81137426"
+    },
+    {
+      "id": "81311783"
+    },
+    {
+      "id": "81243961"
+    },
+    {
+      "id": "81086133"
+    }
+  ],
+  "error": null
+}
