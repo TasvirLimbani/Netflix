@@ -1,0 +1,206 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Gentlemen",
+  "year": "2024",
+  "ua": "U/A 18+ [A]",
+  "match": "39% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Guy Ritchie",
+  "director": "",
+  "writer": "",
+  "short_cast": "Theo James, Kaya Scodelario, Giancarlo Esposito, Daniel Ings, Vinnie Jones, Joely Richardson",
+  "cast": "Theo James, Kaya Scodelario, Giancarlo Esposito, Daniel Ings, Vinnie Jones, Joely Richardson",
+  "genre": "TV Dramas, British, TV Comedies, TV Action & Adventure, Crime TV Shows",
+  "thismovieis": "Offbeat, Witty",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, substances, nudity, language",
+  "desc": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire \u2014 and its proprietors aren't going anywhere.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81437052",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81646429",
+      "t": "Refined Aggression",
+      "s": "S1",
+      "ep": "E1",
+      "time": "67m"
+    },
+    {
+      "complate": "0",
+      "id": "81646430",
+      "t": "Tackle Tommy Woo Woo",
+      "s": "S1",
+      "ep": "E2",
+      "time": "63m"
+    },
+    {
+      "complate": "0",
+      "id": "81646431",
+      "t": "Where's My Weed At?",
+      "s": "S1",
+      "ep": "E3",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81646432",
+      "t": "An Unsympathetic Gentleman",
+      "s": "S1",
+      "ep": "E4",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81646433",
+      "t": "I've Hundreds of Cousins",
+      "s": "S1",
+      "ep": "E5",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81646434",
+      "t": "All Eventualities",
+      "s": "S1",
+      "ep": "E6",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81646435",
+      "t": "Not Without Danger",
+      "s": "S1",
+      "ep": "E7",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81646436",
+      "t": "The Gospel According to Bobby Glass",
+      "s": "S1",
+      "ep": "E8",
+      "time": "43m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81437052",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81646429",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81026305"
+    },
+    {
+      "id": "80002479"
+    },
+    {
+      "id": "81461530"
+    },
+    {
+      "id": "80175798"
+    },
+    {
+      "id": "60003388"
+    },
+    {
+      "id": "81160697"
+    },
+    {
+      "id": "81024821"
+    },
+    {
+      "id": "81438805"
+    },
+    {
+      "id": "81698397"
+    },
+    {
+      "id": "81413928"
+    },
+    {
+      "id": "80015343"
+    },
+    {
+      "id": "81441399"
+    }
+  ],
+  "error": null
+}
