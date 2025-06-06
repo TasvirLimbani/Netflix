@@ -1,0 +1,163 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Looney Tunes Show",
+  "year": "2011",
+  "ua": "U/A 7+",
+  "match": "65% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Jeff Bergman, Bob Bergen, Fred Armisen, Maurice LaMarche, Kristen Wiig, Billy West",
+  "cast": "Jeff Bergman, Bob Bergen, Fred Armisen, Maurice LaMarche, Kristen Wiig, Billy West",
+  "genre": "Family Time TV, Kids' TV, TV Comedies, TV Cartoons",
+  "thismovieis": "",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild themes, mild fear",
+  "desc": "Bugs Bunny and other Looney Tunes characters step into the 21st century, living in the suburbs and fumbling their way through modern-day predicaments.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "80104084",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81698209",
+      "ep": "26",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81698210",
+      "t": "Bobcats on Three",
+      "s": "S2",
+      "ep": "E1",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81698211",
+      "t": "You've Got Hate Mail",
+      "s": "S2",
+      "ep": "E2",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81698212",
+      "t": "Itsy Bitsy Gopher",
+      "s": "S2",
+      "ep": "E3",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81698213",
+      "t": "Rebel Without a Glove",
+      "s": "S2",
+      "ep": "E4",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81698214",
+      "t": "Semper Lie",
+      "s": "S2",
+      "ep": "E5",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81698215",
+      "t": "Father Figures",
+      "s": "S2",
+      "ep": "E6",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81698216",
+      "t": "Customer Service",
+      "s": "S2",
+      "ep": "E7",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81698217",
+      "t": "The Stud, the Nerd, the Average Joe, and the Saint",
+      "s": "S2",
+      "ep": "E8",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81698218",
+      "t": "It's a Handbag",
+      "s": "S2",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "81698219",
+      "t": "A Christmas Carol",
+      "s": "S2",
+      "ep": "E10",
+      "time": "22m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81698209",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "last_ep": "81698210",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80104199"
+    },
+    {
+      "id": "70171947"
+    },
+    {
+      "id": "70155547"
+    },
+    {
+      "id": "70241425"
+    },
+    {
+      "id": "70177043"
+    },
+    {
+      "id": "70243420"
+    },
+    {
+      "id": "70077552"
+    },
+    {
+      "id": "70155571"
+    },
+    {
+      "id": "80103408"
+    }
+  ],
+  "error": null
+}
