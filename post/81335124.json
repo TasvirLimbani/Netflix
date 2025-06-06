@@ -1,0 +1,226 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Bureau of Magical Things",
+  "year": "2018",
+  "ua": "U/A 7+",
+  "match": "38% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Jonathan M. Shiff",
+  "director": "",
+  "writer": "",
+  "short_cast": "Kimie Tsukakoshi, Elizabeth Cullen, Mia Milnes, Julian Cullen, Rainbow Wedell, Jamie Carter, Christopher Sommers, Steve Nation",
+  "cast": "Kimie Tsukakoshi, Elizabeth Cullen, Mia Milnes, Julian Cullen, Rainbow Wedell, Jamie Carter, Christopher Sommers, Steve Nation",
+  "genre": "Kids' TV, Family Watch Together TV, Australian, Fantasy TV Shows",
+  "thismovieis": "Quirky, Feel-Good",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence",
+  "desc": "When a teen accidentally discovers an enchanted realm, she becomes the only one able to unite the human and magical worlds \u2013 and save both from evil.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81335126",
+      "ep": "20",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81599997",
+      "ep": "20",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81599998",
+      "t": "Vanished",
+      "s": "S2",
+      "ep": "E1",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81599999",
+      "t": "A Dangerous Secret",
+      "s": "S2",
+      "ep": "E2",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81600000",
+      "t": "Fortuna's Compact",
+      "s": "S2",
+      "ep": "E3",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81600001",
+      "t": "The Big Sneeze",
+      "s": "S2",
+      "ep": "E4",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81600002",
+      "t": "Welcome to the Jungle",
+      "s": "S2",
+      "ep": "E5",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81600003",
+      "t": "Mirror Image",
+      "s": "S2",
+      "ep": "E6",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81600004",
+      "t": "Testing Times",
+      "s": "S2",
+      "ep": "E7",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81600005",
+      "t": "Almost Famous",
+      "s": "S2",
+      "ep": "E8",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81600006",
+      "t": "The Key to the Past",
+      "s": "S2",
+      "ep": "E9",
+      "time": "25m"
+    },
+    {
+      "complate": "0",
+      "id": "81600007",
+      "t": "The Message",
+      "s": "S2",
+      "ep": "E10",
+      "time": "25m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81599997",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    }
+  ],
+  "last_ep": "81599998",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81589046"
+    },
+    {
+      "id": "80130521"
+    },
+    {
+      "id": "80095435"
+    },
+    {
+      "id": "81329721"
+    },
+    {
+      "id": "80222326"
+    },
+    {
+      "id": "80117803"
+    },
+    {
+      "id": "81012821"
+    },
+    {
+      "id": "81289456"
+    },
+    {
+      "id": "81399299"
+    },
+    {
+      "id": "81023618"
+    }
+  ],
+  "error": null
+}
