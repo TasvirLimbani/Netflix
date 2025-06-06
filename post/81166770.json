@@ -1,0 +1,220 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Maid",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "45% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Molly Smith Metzler",
+  "director": "",
+  "writer": "",
+  "short_cast": "Margaret Qualley, Andie MacDowell, Nick Robinson, Anika Noni Rose, Tracy Vilar, Billy Burke, Rylea Nevaeh Whittet",
+  "cast": "Margaret Qualley, Andie MacDowell, Nick Robinson, Anika Noni Rose, Tracy Vilar, Billy Burke, Rylea Nevaeh Whittet",
+  "genre": "TV Dramas, TV Shows Based on Books, US TV Shows, TV Shows Based on Real Life, Social Issue TV Dramas",
+  "thismovieis": "Intimate, Emotional",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "language",
+  "desc": "After fleeing an abusive relationship, a young mother finds a job cleaning houses as she fights to provide for her child and build them a better future.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81171057",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81231578",
+      "t": "Dollar Store",
+      "s": "S1",
+      "ep": "E1",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81349286",
+      "t": "Ponies",
+      "s": "S1",
+      "ep": "E2",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81349287",
+      "t": "Sea Glass",
+      "s": "S1",
+      "ep": "E3",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81349289",
+      "t": "Cashmere",
+      "s": "S1",
+      "ep": "E4",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81349290",
+      "t": "Thief",
+      "s": "S1",
+      "ep": "E5",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81349291",
+      "t": "M",
+      "s": "S1",
+      "ep": "E6",
+      "time": "57m"
+    },
+    {
+      "complate": "0",
+      "id": "81349292",
+      "t": "String Cheese",
+      "s": "S1",
+      "ep": "E7",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81349293",
+      "t": "Bear Hunt",
+      "s": "S1",
+      "ep": "E8",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81349294",
+      "t": "Sky Blue",
+      "s": "S1",
+      "ep": "E9",
+      "time": "60m"
+    },
+    {
+      "complate": "0",
+      "id": "81349295",
+      "t": "Snaps",
+      "s": "S1",
+      "ep": "E10",
+      "time": "54m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81171057",
+  "lang": [
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81231578",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81276119"
+    },
+    {
+      "id": "80153467"
+    },
+    {
+      "id": "81008305"
+    },
+    {
+      "id": "81019069"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "80119411"
+    },
+    {
+      "id": "80223927"
+    },
+    {
+      "id": "80234304"
+    },
+    {
+      "id": "81730920"
+    },
+    {
+      "id": "81104486"
+    }
+  ],
+  "error": null
+}
