@@ -1,0 +1,75 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Lord of the Rings: The Return of the King",
+  "year": "2003",
+  "ua": "U/A 16+",
+  "match": "43% match",
+  "runtime": "3h 20m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Peter Jackson",
+  "writer": "J.R.R. Tolkien, Fran Walsh, Philippa Boyens",
+  "short_cast": "Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen, Sean Astin, Cate Blanchett, John Rhys-Davies, Bernard Hill, Billy Boyd, Dominic Monaghan, Orlando Bloom, Hugo Weaving",
+  "cast": "Elijah Wood, Ian McKellen, Liv Tyler, Viggo Mortensen, Sean Astin, Cate Blanchett, John Rhys-Davies, Bernard Hill, Billy Boyd, Dominic Monaghan, Orlando Bloom, Hugo Weaving",
+  "genre": "Movies Based on Books, Action & Adventure Movies, US Movies",
+  "thismovieis": "Imaginative",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "tobacco use, gore",
+  "desc": "With Gollum as their guide, Frodo and Sam near Mordor \u2014 and the end of their mission \u2014 as Aragorn leads a battle against Sauron to save Gondor.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "60004480"
+    },
+    {
+      "id": "60004483"
+    },
+    {
+      "id": "81516447"
+    },
+    {
+      "id": "70213512"
+    },
+    {
+      "id": "70056440"
+    },
+    {
+      "id": "70019508"
+    },
+    {
+      "id": "60022643"
+    },
+    {
+      "id": "80093133"
+    },
+    {
+      "id": "60034569"
+    },
+    {
+      "id": "70097578"
+    },
+    {
+      "id": "80161352"
+    },
+    {
+      "id": "80133543"
+    }
+  ],
+  "error": null
+}
