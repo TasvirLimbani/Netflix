@@ -1,0 +1,262 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "LEGO\u00ae DREAMZzz",
+  "year": "2023",
+  "ua": "U/A 7+",
+  "match": "35% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Mike Taylor, Vincent Tong, Sarah Jeffery, Larissa Dias, Brian Drummond",
+  "cast": "Mike Taylor, Vincent Tong, Sarah Jeffery, Larissa Dias, Brian Drummond",
+  "genre": "Kids' TV, TV Cartoons",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence",
+  "desc": "Mateo, Izzie and their friends stumble into the Dream World, a realm of magic and fantasy where they must use their creativity to fight dark forces.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "81628819",
+      "ep": "20",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81778425",
+      "ep": "20",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "82047912",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "82047913",
+      "t": "Everything's Changed",
+      "s": "S3",
+      "ep": "E1",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "82047914",
+      "t": "Join the Club",
+      "s": "S3",
+      "ep": "E2",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "82047915",
+      "t": "Whack Race 2025",
+      "s": "S3",
+      "ep": "E3",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "82047916",
+      "t": "Dreamocracy",
+      "s": "S3",
+      "ep": "E4",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "82047917",
+      "t": "Freak-quencies",
+      "s": "S3",
+      "ep": "E5",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "82047918",
+      "t": "InterFEARence",
+      "s": "S3",
+      "ep": "E6",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "82047919",
+      "t": "Lunia",
+      "s": "S3",
+      "ep": "E7",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "82047920",
+      "t": "Moving On Up",
+      "s": "S3",
+      "ep": "E8",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "82047921",
+      "t": "Brainstorm",
+      "s": "S3",
+      "ep": "E9",
+      "time": "22m"
+    },
+    {
+      "complate": "0",
+      "id": "82047922",
+      "t": "Boxed In",
+      "s": "S3",
+      "ep": "E10",
+      "time": "23m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "82047912",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "bul",
+      "s": "bul"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "yue",
+      "s": "yue"
+    },
+    {
+      "l": "Chinese",
+      "s": "zho"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "82047913",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81519765"
+    },
+    {
+      "id": "70252973"
+    },
+    {
+      "id": "81687176"
+    },
+    {
+      "id": "81294811"
+    },
+    {
+      "id": "81699964"
+    },
+    {
+      "id": "81687083"
+    },
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "80217006"
+    }
+  ],
+  "error": null
+}
