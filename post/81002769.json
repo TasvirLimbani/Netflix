@@ -1,0 +1,157 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Tribes of Europa",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "35% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Philip Koch",
+  "director": "",
+  "writer": "",
+  "short_cast": "Henriette Confurius, Emilio Sakraya, David Ali Rashed, Oliver Masucci, Melika Foroutan, Ana Ularu, Robert Finster",
+  "cast": "Henriette Confurius, Emilio Sakraya, David Ali Rashed, Oliver Masucci, Melika Foroutan, Ana Ularu, Robert Finster",
+  "genre": "TV Dramas, German, Sci-Fi TV, TV Action & Adventure",
+  "thismovieis": "Dark, Exciting",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "suicide, sexual violence, nudity",
+  "desc": "In post-apocalyptic Europe, amid wars among microstates, three siblings fight for survival as a greater threat looms over the continent.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81026817",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81037919",
+      "t": "Chapter 1",
+      "s": "S1",
+      "ep": "E1",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81037920",
+      "t": "Chapter 2",
+      "s": "S1",
+      "ep": "E2",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81037921",
+      "t": "Chapter 3",
+      "s": "S1",
+      "ep": "E3",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81037922",
+      "t": "Chapter 4",
+      "s": "S1",
+      "ep": "E4",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81037923",
+      "t": "Chapter 5",
+      "s": "S1",
+      "ep": "E5",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81037924",
+      "t": "Chapter 6",
+      "s": "S1",
+      "ep": "E6",
+      "time": "47m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81026817",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81037919",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81133094"
+    },
+    {
+      "id": "81024039"
+    },
+    {
+      "id": "80993062"
+    },
+    {
+      "id": "80074220"
+    },
+    {
+      "id": "80236236"
+    },
+    {
+      "id": "80177458"
+    },
+    {
+      "id": "80154610"
+    },
+    {
+      "id": "80097140"
+    },
+    {
+      "id": "81098012"
+    }
+  ],
+  "error": null
+}
