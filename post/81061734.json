@@ -1,0 +1,222 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Sweet Home",
+  "year": "2020",
+  "ua": "U/A 18+ [A]",
+  "match": "66% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Lee Eung-bok, Hong So-ri, Jang Young-woo, Kim Hyeong-min, Park So-hyeon, Park So-jeong, Park Tae-hee",
+  "director": "",
+  "writer": "",
+  "short_cast": "Song Kang, Lee Jin-uk, Lee Si-young, Ko Min-si, Lee Do-hyun, Jinyoung, Yoo Oh-seong, Oh Jung-se, Kim Moo-yeol, Kim Shin-rock, Kim Si-a, Park Gyu-young, Go Youn-jung, Kim Nam-hee, Kim Kap-soo, Kim Sang-ho",
+  "cast": "Song Kang, Lee Jin-uk, Lee Si-young, Ko Min-si, Lee Do-hyun, Jinyoung, Yoo Oh-seong, Oh Jung-se, Kim Moo-yeol, Kim Shin-rock, Kim Si-a, Park Gyu-young, Go Youn-jung, Kim Nam-hee, Kim Kap-soo, Kim Sang-ho",
+  "genre": "TV Dramas, Korean, K-dramas based on Webtoon, TV Thrillers, Horror TV Serials",
+  "thismovieis": "Scary, Dark, Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, suicide, substances, self-harm, language, gore",
+  "desc": "As humans turn into savage monsters and the world plunges into terror, a handful of survivors fight for their lives \u2014 and to hold on to their humanity.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81105849",
+      "ep": "10",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81239189",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81592017",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81592026",
+      "t": "Episode 1",
+      "s": "S3",
+      "ep": "E1",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81592027",
+      "t": "Episode 2",
+      "s": "S3",
+      "ep": "E2",
+      "time": "69m"
+    },
+    {
+      "complate": "0",
+      "id": "81592028",
+      "t": "Episode 3",
+      "s": "S3",
+      "ep": "E3",
+      "time": "59m"
+    },
+    {
+      "complate": "0",
+      "id": "81592029",
+      "t": "Episode 4",
+      "s": "S3",
+      "ep": "E4",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81592030",
+      "t": "Episode 5",
+      "s": "S3",
+      "ep": "E5",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81592031",
+      "t": "Episode 6",
+      "s": "S3",
+      "ep": "E6",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81592032",
+      "t": "Episode 7",
+      "s": "S3",
+      "ep": "E7",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81592033",
+      "t": "Episode 8",
+      "s": "S3",
+      "ep": "E8",
+      "time": "47m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81592017",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Filipino (Tagalog)",
+      "s": "fil"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "81592026",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81237994"
+    },
+    {
+      "id": "80200575"
+    },
+    {
+      "id": "81256675"
+    },
+    {
+      "id": "81520295"
+    },
+    {
+      "id": "81194158"
+    },
+    {
+      "id": "81240831"
+    },
+    {
+      "id": "81618079"
+    },
+    {
+      "id": "81464329"
+    },
+    {
+      "id": "81457374"
+    },
+    {
+      "id": "81098012"
+    },
+    {
+      "id": "81323551"
+    },
+    {
+      "id": "80180171"
+    }
+  ],
+  "error": null
+}
