@@ -1,0 +1,91 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Appleseed Alpha",
+  "year": "2014",
+  "ua": "U/A 13+",
+  "match": "81% match",
+  "runtime": "1h 33m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Shinji Aramaki, Steven Foster",
+  "writer": "Marianne Krawczyk, Shirow Masamune",
+  "short_cast": "Yuka Komatsu, Junichi Suwabe, Aoi Yuki, Hiroki Takahashi, Kaori Nazuka, Hiroki Touchi, Tessho Genda, Katsunosuke Hori",
+  "cast": "Yuka Komatsu, Junichi Suwabe, Aoi Yuki, Hiroki Takahashi, Kaori Nazuka, Hiroki Touchi, Tessho Genda, Katsunosuke Hori",
+  "genre": "Sci-Fi & Fantasy Anime, Action Anime, Sci-Fi Movies, Japanese, Action & Adventure Movies, Anime Features",
+  "thismovieis": "Explosive, Imaginative",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, tobacco use, threat, language",
+  "desc": "A young soldier and her cyborg partner survive postapocalyptic New York and search for the legendary city of Olympus.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81137486"
+    },
+    {
+      "id": "80174608"
+    },
+    {
+      "id": "80190911"
+    },
+    {
+      "id": "81199140"
+    },
+    {
+      "id": "80115466"
+    },
+    {
+      "id": "81648184"
+    },
+    {
+      "id": "80118543"
+    },
+    {
+      "id": "81030224"
+    },
+    {
+      "id": "81001991"
+    },
+    {
+      "id": "81176967"
+    },
+    {
+      "id": "80987064"
+    },
+    {
+      "id": "70075481"
+    }
+  ],
+  "error": null
+}
