@@ -1,0 +1,103 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Men in Black 3",
+  "year": "2012",
+  "ua": "U/A 13+",
+  "match": "53% match",
+  "runtime": "1h 45m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Barry Sonnenfeld",
+  "writer": "Etan Cohen, Lowell Cunningham",
+  "short_cast": "Will Smith, Tommy Lee Jones, Josh Brolin, Jemaine Clement, Emma Thompson, Michael Stuhlbarg, Mike Colter, Nicole Scherzinger, Michael Chernus, Alice Eve, Bill Hader, David Rasche, Lenny Venito",
+  "cast": "Will Smith, Tommy Lee Jones, Josh Brolin, Jemaine Clement, Emma Thompson, Michael Stuhlbarg, Mike Colter, Nicole Scherzinger, Michael Chernus, Alice Eve, Bill Hader, David Rasche, Lenny Venito",
+  "genre": "Sci-Fi Movies, Comedy Movies, Action & Adventure Movies, US Movies",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "violence, threat",
+  "desc": "When Earth is threatened by an alien attack, Agent J travels back in time to join forces with a much-younger Agent K and change the course of history.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "60001650"
+    },
+    {
+      "id": "81057361"
+    },
+    {
+      "id": "70075481"
+    },
+    {
+      "id": "70097577"
+    },
+    {
+      "id": "60027724"
+    },
+    {
+      "id": "70060015"
+    },
+    {
+      "id": "70267729"
+    },
+    {
+      "id": "81489818"
+    },
+    {
+      "id": "70097578"
+    },
+    {
+      "id": "215309"
+    },
+    {
+      "id": "70047101"
+    },
+    {
+      "id": "17236928"
+    }
+  ],
+  "error": null
+}
