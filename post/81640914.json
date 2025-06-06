@@ -1,0 +1,95 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Super Mario Bros. Movie",
+  "year": "2023",
+  "ua": "U/A 7+",
+  "match": "85% match",
+  "runtime": "1h 32m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Aaron Horvath, Michael Jelenic, Pierre Leduc",
+  "writer": "Matthew Fogel",
+  "short_cast": "Chris Pratt, Anya Taylor-Joy, Charlie Day, Jack Black, Keegan-Michael Key, Seth Rogen, Fred Armisen",
+  "cast": "Chris Pratt, Anya Taylor-Joy, Charlie Day, Jack Black, Keegan-Michael Key, Seth Rogen, Fred Armisen",
+  "genre": "Family Features, Children & Family Movies, Comedy Movies, US Movies",
+  "thismovieis": "Nostalgic, Imaginative, Heartfelt",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "Magically teleported from Brooklyn to the Mushroom Kingdom, two plucky plumbers team up with a princess to battle a tyrannical fire-breathing turtle.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "80091938"
+    },
+    {
+      "id": "81664346"
+    },
+    {
+      "id": "81489833"
+    },
+    {
+      "id": "81589564"
+    },
+    {
+      "id": "80217006"
+    },
+    {
+      "id": "80011621"
+    },
+    {
+      "id": "81073593"
+    },
+    {
+      "id": "81223075"
+    },
+    {
+      "id": "80146758"
+    },
+    {
+      "id": "70021640"
+    },
+    {
+      "id": "81037695"
+    },
+    {
+      "id": "81294811"
+    }
+  ],
+  "error": null
+}
