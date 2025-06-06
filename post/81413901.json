@@ -1,0 +1,81 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Sweet & Sour",
+  "year": "2021",
+  "ua": "U/A 16+",
+  "match": "48% match",
+  "runtime": "1h 42m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Kae-Byeok Lee, Kate Jopson",
+  "writer": "Lee Gye-Wook, Kurumi Inui",
+  "short_cast": "Jang Ki-yong, Chae Soo-bin, Jung Soo-jung",
+  "cast": "Jang Ki-yong, Chae Soo-bin, Jung Soo-jung",
+  "genre": "Korean, Romantic Comedies, Movies Based on Books, Comedies, Romantic Movies",
+  "thismovieis": "Bittersweet, Romantic",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "language",
+  "desc": "Faced with real-world opportunities and challenges, a couple endures the highs and lows of trying to make a long-distance relationship survive.",
+  "oin": "y",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81472752"
+    },
+    {
+      "id": "81314328"
+    },
+    {
+      "id": "81165326"
+    },
+    {
+      "id": "81616524"
+    },
+    {
+      "id": "81306293"
+    },
+    {
+      "id": "81463556"
+    },
+    {
+      "id": "81406881"
+    },
+    {
+      "id": "81465196"
+    },
+    {
+      "id": "81509440"
+    },
+    {
+      "id": "81624364"
+    }
+  ],
+  "error": null
+}
