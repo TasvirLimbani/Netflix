@@ -1,0 +1,196 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "The Tailor",
+  "year": "2023",
+  "ua": "U/A 18+ [A]",
+  "match": "91% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Onur G\u00fcvenatam",
+  "director": "",
+  "writer": "",
+  "short_cast": "\u00c7a\u011fatay Ulusoy, Salih Bademci, \u015eifanur G\u00fcl, Olgun \u015eim\u015fek, Ece S\u00fckan, Lila G\u00fcrmen, Vedat Erincin, Evrim Alasya, Berrak T\u00fcz\u00fcnata\u00e7, Celile Toyon, Engin \u015eenkan",
+  "cast": "\u00c7a\u011fatay Ulusoy, Salih Bademci, \u015eifanur G\u00fcl, Olgun \u015eim\u015fek, Ece S\u00fckan, Lila G\u00fcrmen, Vedat Erincin, Evrim Alasya, Berrak T\u00fcz\u00fcnata\u00e7, Celile Toyon, Engin \u015eenkan",
+  "genre": "TV Dramas, Turkish",
+  "thismovieis": "Intimate, Suspenseful, Emotional",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "tobacco use, suicide, substances, sex, self-harm, nudity, language",
+  "desc": "A famous tailor begins to sew a wedding dress for his best friend\u2019s fianc\u00e9e \u2013 but all three have dark secrets that will soon upend their lives.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81590492",
+      "ep": "7",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81590778",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81636524",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81643628",
+      "t": "Episode 1",
+      "s": "S3",
+      "ep": "E1",
+      "time": "32m"
+    },
+    {
+      "complate": "0",
+      "id": "81643629",
+      "t": "Episode 2",
+      "s": "S3",
+      "ep": "E2",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "81643630",
+      "t": "Episode 3",
+      "s": "S3",
+      "ep": "E3",
+      "time": "37m"
+    },
+    {
+      "complate": "0",
+      "id": "81643631",
+      "t": "Episode 4",
+      "s": "S3",
+      "ep": "E4",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81643632",
+      "t": "Episode 5",
+      "s": "S3",
+      "ep": "E5",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "81643633",
+      "t": "Episode 6",
+      "s": "S3",
+      "ep": "E6",
+      "time": "42m"
+    },
+    {
+      "complate": "0",
+      "id": "81643634",
+      "t": "Episode 7",
+      "s": "S3",
+      "ep": "E7",
+      "time": "41m"
+    },
+    {
+      "complate": "0",
+      "id": "81643635",
+      "t": "Episode 8",
+      "s": "S3",
+      "ep": "E8",
+      "time": "28m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81636524",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81643628",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81610272"
+    },
+    {
+      "id": "81354934"
+    },
+    {
+      "id": "81380432"
+    },
+    {
+      "id": "81212136"
+    },
+    {
+      "id": "81577050"
+    },
+    {
+      "id": "81730920"
+    },
+    {
+      "id": "81314936"
+    },
+    {
+      "id": "81350683"
+    },
+    {
+      "id": "81462319"
+    },
+    {
+      "id": "81637609"
+    }
+  ],
+  "error": null
+}
