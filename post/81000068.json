@@ -1,0 +1,139 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Crime Stories: India Detectives",
+  "year": "2021",
+  "ua": "U/A 16+",
+  "match": "74% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Kannada Movies & TV, Crime TV Shows, Docuseries, Social & Cultural Docs, True Crime Documentaries",
+  "thismovieis": "Gritty, Dark",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "disturbing images",
+  "desc": "Cameras following Bengaluru police on the job offer a rare glimpse into the complex and challenging inner workings of four major crime investigations.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81004224",
+      "ep": "4",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81004424",
+      "t": "A Murdered Mother",
+      "s": "S1",
+      "ep": "E1",
+      "time": "52m"
+    },
+    {
+      "complate": "0",
+      "id": "81004425",
+      "t": "Body In a Bag",
+      "s": "S1",
+      "ep": "E2",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81004426",
+      "t": "Dying For Protection",
+      "s": "S1",
+      "ep": "E3",
+      "time": "53m"
+    },
+    {
+      "complate": "0",
+      "id": "81004427",
+      "t": "The Stolen Baby",
+      "s": "S1",
+      "ep": "E4",
+      "time": "37m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81004224",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Kannada",
+      "s": "kan"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Tamil",
+      "s": "tam"
+    },
+    {
+      "l": "Telugu",
+      "s": "tel"
+    }
+  ],
+  "last_ep": "81004424",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81610578"
+    },
+    {
+      "id": "81252894"
+    },
+    {
+      "id": "81610577"
+    },
+    {
+      "id": "81384842"
+    },
+    {
+      "id": "81095095"
+    },
+    {
+      "id": "81111279"
+    },
+    {
+      "id": "80990073"
+    },
+    {
+      "id": "81512107"
+    },
+    {
+      "id": "81150989"
+    },
+    {
+      "id": "81766865"
+    },
+    {
+      "id": "81307163"
+    }
+  ],
+  "error": null
+}
