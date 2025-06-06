@@ -1,0 +1,202 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Furies",
+  "year": "2024",
+  "ua": "U/A 18+ [A]",
+  "match": "64% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Jean-Yves Arnaud, Yoann Legave",
+  "director": "",
+  "writer": "",
+  "short_cast": "Lina El Arabi, Marina Fo\u00efs, Mathieu Kassovitz, Jeremy Nadeau, Steve Tientcheu, Sandor Funtek, Quentin Faure, Eye Ha\u00efdara",
+  "cast": "Lina El Arabi, Marina Fo\u00efs, Mathieu Kassovitz, Jeremy Nadeau, Steve Tientcheu, Sandor Funtek, Quentin Faure, Eye Ha\u00efdara",
+  "genre": "French, TV Dramas, TV Action & Adventure, Crime TV Shows, TV Thrillers",
+  "thismovieis": "Explosive",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "violence, tobacco use, sex, nudity",
+  "desc": "Seeking to avenge her father's death, a young woman becomes entangled in the web of the Fury, peacekeeper of the Paris criminal underworld.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81461531",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81522224",
+      "t": "I work for her",
+      "s": "S1",
+      "ep": "E1",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81522225",
+      "t": "Broken heart > Bullet in the head",
+      "s": "S1",
+      "ep": "E2",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "81522226",
+      "t": "I'd never have bet on you",
+      "s": "S1",
+      "ep": "E3",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81522227",
+      "t": "The Fury is like scabies",
+      "s": "S1",
+      "ep": "E4",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81522228",
+      "t": "Hello, my love",
+      "s": "S1",
+      "ep": "E5",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "81522229",
+      "t": "Nature abhors a vacuum",
+      "s": "S1",
+      "ep": "E6",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81522230",
+      "t": "Where are the knives?",
+      "s": "S1",
+      "ep": "E7",
+      "time": "43m"
+    },
+    {
+      "complate": "0",
+      "id": "81522231",
+      "t": "Namaste, asshole",
+      "s": "S1",
+      "ep": "E8",
+      "time": "42m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81461531",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "81522224",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81690671"
+    },
+    {
+      "id": "81026305"
+    },
+    {
+      "id": "81603171"
+    },
+    {
+      "id": "81437051"
+    },
+    {
+      "id": "81075519"
+    },
+    {
+      "id": "81438160"
+    },
+    {
+      "id": "81465101"
+    },
+    {
+      "id": "81438805"
+    },
+    {
+      "id": "81480320"
+    },
+    {
+      "id": "81616524"
+    },
+    {
+      "id": "81631011"
+    },
+    {
+      "id": "81413928"
+    }
+  ],
+  "error": null
+}
