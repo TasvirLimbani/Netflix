@@ -1,0 +1,107 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Calibre",
+  "year": "2018",
+  "ua": "U/A 18+ [A]",
+  "match": "62% match",
+  "runtime": "1h 41m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Matt Palmer",
+  "writer": "Matt Palmer",
+  "short_cast": "Jack Lowden, Martin McCann, Tony Curran, Ian Pirie, Cameron Jack",
+  "cast": "Jack Lowden, Martin McCann, Tony Curran, Ian Pirie, Cameron Jack",
+  "genre": "British, Dramas, Thriller Movies",
+  "thismovieis": "Dark",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "language",
+  "desc": "Two lifelong friends on a hunting trip in Scotland find their nerves -- and their morals -- ruthlessly tested after a harrowing turn of events.",
+  "oin": "y",
+  "resume": "",
+  "lang": [
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "81350329"
+    },
+    {
+      "id": "80157072"
+    },
+    {
+      "id": "81028990"
+    },
+    {
+      "id": "80994937"
+    },
+    {
+      "id": "81038588"
+    },
+    {
+      "id": "81157729"
+    },
+    {
+      "id": "81013927"
+    },
+    {
+      "id": "81170838"
+    },
+    {
+      "id": "81115160"
+    },
+    {
+      "id": "81174182"
+    },
+    {
+      "id": "81477746"
+    },
+    {
+      "id": "80135164"
+    }
+  ],
+  "error": null
+}
