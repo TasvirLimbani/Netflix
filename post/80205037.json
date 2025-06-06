@@ -1,0 +1,273 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Supa Team 4",
+  "year": "2023",
+  "ua": "U/A 7+",
+  "match": "74% match",
+  "runtime": "2 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Malenga Mulendema",
+  "director": "",
+  "writer": "",
+  "short_cast": "Pamela Nomvete, Zowa Ngwira, Namisa Mdlalose, Kimani Arthur, Nancy Sekhokoane, John Macmillan, Yinka Awoni, Ashley Zhangazha, Thabe Ntebe",
+  "cast": "Pamela Nomvete, Zowa Ngwira, Namisa Mdlalose, Kimani Arthur, Nancy Sekhokoane, John Macmillan, Yinka Awoni, Ashley Zhangazha, Thabe Ntebe",
+  "genre": "Kids' TV, South African, TV Comedies, TV Cartoons",
+  "thismovieis": "Imaginative, Exciting",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence, mild fear",
+  "desc": "Four teens are just trying to survive secondary school when an ex-spy recruits them for her superhero team. Their newest assignment? Saving the world.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81002328",
+      "ep": "8",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81357447",
+      "ep": "8",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81357449",
+      "t": "Brain Power P2",
+      "s": "S2",
+      "ep": "E1",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81357450",
+      "t": "Zee vs. Tee",
+      "s": "S2",
+      "ep": "E2",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81357451",
+      "t": "Click Bait",
+      "s": "S2",
+      "ep": "E3",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81357452",
+      "t": "Majorette Problem",
+      "s": "S2",
+      "ep": "E4",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81357453",
+      "t": "Sisters Before Misters",
+      "s": "S2",
+      "ep": "E5",
+      "time": "27m"
+    },
+    {
+      "complate": "0",
+      "id": "81357454",
+      "t": "A Zambinite to Remember",
+      "s": "S2",
+      "ep": "E6",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81357455",
+      "t": "The Perfect Storm P1",
+      "s": "S2",
+      "ep": "E7",
+      "time": "26m"
+    },
+    {
+      "complate": "0",
+      "id": "81357456",
+      "t": "The Perfect Storm P2",
+      "s": "S2",
+      "ep": "E8",
+      "time": "29m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81357447",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Catalan",
+      "s": "cat"
+    },
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Basque",
+      "s": "eus"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Galician",
+      "s": "glg"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Croatian",
+      "s": "hrv"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Indonesian",
+      "s": "ind"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Malay",
+      "s": "msa"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81357449",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81093076"
+    },
+    {
+      "id": "81035568"
+    },
+    {
+      "id": "81145135"
+    },
+    {
+      "id": "81309532"
+    },
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "80237245"
+    },
+    {
+      "id": "81687083"
+    },
+    {
+      "id": "81004665"
+    },
+    {
+      "id": "80234642"
+    },
+    {
+      "id": "80244283"
+    },
+    {
+      "id": "81725736"
+    }
+  ],
+  "error": null
+}
