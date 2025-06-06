@@ -1,0 +1,172 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Greatest Events of WWII in Colour",
+  "year": "2019",
+  "ua": "U/A 16+",
+  "match": "50% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "",
+  "cast": "",
+  "genre": "Political TV Shows, British, Historical Documentaries, Political Documentaries, Military Documentaries, Docuseries",
+  "thismovieis": "",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "nudity, gore",
+  "desc": "From the attack on Pearl Harbor to D-Day, the most pivotal events of World War II come to life in this vivid docuseries featuring colorized footage.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80989925",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80989926",
+      "t": "Blitzkrieg",
+      "s": "S1",
+      "ep": "E1",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "80989927",
+      "t": "Battle of Britain",
+      "s": "S1",
+      "ep": "E2",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "80989928",
+      "t": "Pearl Harbor",
+      "s": "S1",
+      "ep": "E3",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "80989929",
+      "t": "Battle of Midway",
+      "s": "S1",
+      "ep": "E4",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "80989930",
+      "t": "Siege of Stalingrad",
+      "s": "S1",
+      "ep": "E5",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "80989931",
+      "t": "D-Day",
+      "s": "S1",
+      "ep": "E6",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "80989932",
+      "t": "Battle of the Bulge",
+      "s": "S1",
+      "ep": "E7",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "80989933",
+      "t": "Dresden Firestorm",
+      "s": "S1",
+      "ep": "E8",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "80989934",
+      "t": "Liberation of Buchenwald",
+      "s": "S1",
+      "ep": "E9",
+      "time": "50m"
+    },
+    {
+      "complate": "0",
+      "id": "80989935",
+      "t": "Hiroshima",
+      "s": "S1",
+      "ep": "E10",
+      "time": "50m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80989925",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80989926",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81488464"
+    },
+    {
+      "id": "81303911"
+    },
+    {
+      "id": "80138915"
+    },
+    {
+      "id": "81561941"
+    },
+    {
+      "id": "81614129"
+    },
+    {
+      "id": "80106791"
+    },
+    {
+      "id": "80989772"
+    },
+    {
+      "id": "81672035"
+    },
+    {
+      "id": "81474469"
+    },
+    {
+      "id": "21477429"
+    }
+  ],
+  "error": null
+}
