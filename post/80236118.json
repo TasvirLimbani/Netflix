@@ -1,0 +1,211 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "V Wars",
+  "year": "2019",
+  "ua": "U/A 18+ [A]",
+  "match": "66% match",
+  "runtime": "1 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Ian Somerhalder, Adrian Holmes, Jacky Lai, Kyle Breitkopf, Peter Outerbridge, Kimberly-Sue Murray, Sydney Meyer, Kandyse McClure, Laura Vandervoort, Michael Greyeyes, Greg Bryk, Teddy Moynihan, Ted Atherton, Jonathan Higgins, Nikki Reed, Samantha Liana Cole, Laura de Carteret, Bo Martyn",
+  "cast": "Ian Somerhalder, Adrian Holmes, Jacky Lai, Kyle Breitkopf, Peter Outerbridge, Kimberly-Sue Murray, Sydney Meyer, Kandyse McClure, Laura Vandervoort, Michael Greyeyes, Greg Bryk, Teddy Moynihan, Ted Atherton, Jonathan Higgins, Nikki Reed, Samantha Liana Cole, Laura de Carteret, Bo Martyn",
+  "genre": "Political TV Shows, Sci-Fi TV, TV Action & Adventure, US TV Shows, TV Thrillers, TV Shows Based on Comics",
+  "thismovieis": "Ominous, Suspenseful",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "self-harm",
+  "desc": "A fast-spreading disease that turns victims into blood-sucking fiends pits two best friends against each other in a fight for humanity's future.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80235931",
+      "ep": "10",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80240944",
+      "t": "Down with the Sickness",
+      "s": "S1",
+      "ep": "E1",
+      "time": "56m"
+    },
+    {
+      "complate": "0",
+      "id": "80240945",
+      "t": "Blood Brothers",
+      "s": "S1",
+      "ep": "E2",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "80240946",
+      "t": "Because I Could Not Stop for Death",
+      "s": "S1",
+      "ep": "E3",
+      "time": "37m"
+    },
+    {
+      "complate": "0",
+      "id": "80240947",
+      "t": "Bad as Me",
+      "s": "S1",
+      "ep": "E4",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80240948",
+      "t": "Cold Cold Ground",
+      "s": "S1",
+      "ep": "E5",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "80240949",
+      "t": "It's Not Enough to Have Lived",
+      "s": "S1",
+      "ep": "E6",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "80240950",
+      "t": "The Night Is Darkening Round Me",
+      "s": "S1",
+      "ep": "E7",
+      "time": "39m"
+    },
+    {
+      "complate": "0",
+      "id": "80240951",
+      "t": "Red Rain",
+      "s": "S1",
+      "ep": "E8",
+      "time": "36m"
+    },
+    {
+      "complate": "0",
+      "id": "80240952",
+      "t": "The Junkie Run of the Predator Gene",
+      "s": "S1",
+      "ep": "E9",
+      "time": "45m"
+    },
+    {
+      "complate": "0",
+      "id": "80240953",
+      "t": "Bloody but Unbow'd",
+      "s": "S1",
+      "ep": "E10",
+      "time": "37m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80235931",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    }
+  ],
+  "last_ep": "80240944",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80121349"
+    },
+    {
+      "id": "81252707"
+    },
+    {
+      "id": "80198988"
+    },
+    {
+      "id": "81043660"
+    },
+    {
+      "id": "81258637"
+    },
+    {
+      "id": "80996532"
+    },
+    {
+      "id": "70060015"
+    },
+    {
+      "id": "81621599"
+    },
+    {
+      "id": "80244953"
+    },
+    {
+      "id": "80221644"
+    },
+    {
+      "id": "80097140"
+    }
+  ],
+  "error": null
+}
