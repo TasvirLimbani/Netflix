@@ -1,0 +1,189 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Young Royals",
+  "year": "2021",
+  "ua": "U/A 18+ [A]",
+  "match": "66% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Lisa Ambj\u00f6rn, Lars Beckung, Camilla Holter",
+  "director": "",
+  "writer": "",
+  "short_cast": "Edvin Ryding, Omar Rudberg, Malte Gardinger, Frida Argento, Nikita Uggla, Samuel Astor, Nils Wetterholm, Tommy W\u00e4ttring, Pernilla August",
+  "cast": "Edvin Ryding, Omar Rudberg, Malte Gardinger, Frida Argento, Nikita Uggla, Samuel Astor, Nils Wetterholm, Tommy W\u00e4ttring, Pernilla August",
+  "genre": "Romantic TV Dramas, TV Dramas, Swedish, Teen TV Shows, Scandinavian TV Shows",
+  "thismovieis": "Intimate, Emotional, Romantic",
+  "m_desc": "Content restricted to adults",
+  "m_reason": "substances, sex, language",
+  "desc": "Prince Wilhelm adjusts to life at his prestigious new boarding school, Hillerska, but following his heart proves more challenging than anticipated.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "81275029",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "81473385",
+      "ep": "6",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81580610",
+      "ep": "6",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81664503",
+      "t": "Episode 1",
+      "s": "S3",
+      "ep": "E1",
+      "time": "44m"
+    },
+    {
+      "complate": "0",
+      "id": "81664504",
+      "t": "Episode 2",
+      "s": "S3",
+      "ep": "E2",
+      "time": "47m"
+    },
+    {
+      "complate": "0",
+      "id": "81664505",
+      "t": "Episode 3",
+      "s": "S3",
+      "ep": "E3",
+      "time": "46m"
+    },
+    {
+      "complate": "0",
+      "id": "81664506",
+      "t": "Episode 4",
+      "s": "S3",
+      "ep": "E4",
+      "time": "48m"
+    },
+    {
+      "complate": "0",
+      "id": "81664507",
+      "t": "Episode 5",
+      "s": "S3",
+      "ep": "E5",
+      "time": "49m"
+    },
+    {
+      "complate": "0",
+      "id": "81664508",
+      "t": "Episode 6",
+      "s": "S3",
+      "ep": "E6",
+      "time": "57m"
+    }
+  ],
+  "nextPageShow": 0,
+  "nextPage": 2,
+  "nextPageSeason": "81580610",
+  "lang": [
+    {
+      "l": "Czech",
+      "s": "ces"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Hungarian",
+      "s": "hun"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Ukrainian",
+      "s": "ukr"
+    }
+  ],
+  "last_ep": "81664503",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "80209536"
+    },
+    {
+      "id": "81059939"
+    },
+    {
+      "id": "81721434"
+    },
+    {
+      "id": "81287844"
+    },
+    {
+      "id": "81689962"
+    },
+    {
+      "id": "80168189"
+    },
+    {
+      "id": "80200942"
+    },
+    {
+      "id": "81645391"
+    },
+    {
+      "id": "81660270"
+    }
+  ],
+  "error": null
+}
