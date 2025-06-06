@@ -1,0 +1,265 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Trollhunters: Tales of Arcadia",
+  "year": "2016",
+  "ua": "U/A 13+",
+  "match": "46% match",
+  "runtime": "3 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "Guillermo del Toro",
+  "director": "",
+  "writer": "",
+  "short_cast": "Kelsey Grammer, Emile Hirsch, Charlie Saxton, Lexi Medrano, Jonathan Hyde, Fred Tatasciore, Anton Yelchin, Ike Amadi, Rodrigo Blaas, David Bradley, Clancy Brown, Brook Chalmers, Guillermo del Toro, Grey Griffin, Mark Hamill, Chad Hammes, Lena Headey, Anjelica Huston, Tom Kenny, Amy Landecker, Steven Yeun, Ron Perlman, Laraine Newman, James Purefoy",
+  "cast": "Kelsey Grammer, Emile Hirsch, Charlie Saxton, Lexi Medrano, Jonathan Hyde, Fred Tatasciore, Anton Yelchin, Ike Amadi, Rodrigo Blaas, David Bradley, Clancy Brown, Brook Chalmers, Guillermo del Toro, Grey Griffin, Mark Hamill, Chad Hammes, Lena Headey, Anjelica Huston, Tom Kenny, Amy Landecker, Steven Yeun, Ron Perlman, Laraine Newman, James Purefoy",
+  "genre": "Family Watch Together TV, TV Shows Based on Books, TV Cartoons, Fantasy TV Shows",
+  "thismovieis": "Exciting",
+  "m_desc": "Suitable for persons aged 13 and above and under parental guidance for people under age of 13",
+  "m_reason": "gore",
+  "desc": "After uncovering a mysterious amulet, an average teen assumes an unlikely destiny and sets out to save two worlds. Created by Guillermo del Toro.",
+  "oin": "y",
+  "season": [
+    {
+      "s": "1",
+      "id": "80076007",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80148742",
+      "ep": "13",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "80168031",
+      "ep": "13",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "80148756",
+      "t": "Night Patroll",
+      "s": "S3",
+      "ep": "E1",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80148757",
+      "t": "Arcadia's Most Wanted",
+      "s": "S3",
+      "ep": "E2",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80148758",
+      "t": "Bad Coffee",
+      "s": "S3",
+      "ep": "E3",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80148759",
+      "t": "So I'm Dating a Sorceress",
+      "s": "S3",
+      "ep": "E4",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80148760",
+      "t": "The Exorcism of Claire Nunez",
+      "s": "S3",
+      "ep": "E5",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80148761",
+      "t": "Parental Guidance",
+      "s": "S3",
+      "ep": "E6",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80148762",
+      "t": "The Oath",
+      "s": "S3",
+      "ep": "E7",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80148763",
+      "t": "For the Glory of Merlin",
+      "s": "S3",
+      "ep": "E8",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80148764",
+      "t": "In Good Hands",
+      "s": "S3",
+      "ep": "E9",
+      "time": "23m"
+    },
+    {
+      "complate": "0",
+      "id": "80148765",
+      "t": "A House Divided",
+      "s": "S3",
+      "ep": "E10",
+      "time": "23m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "80168031",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "Danish",
+      "s": "dan"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "Greek",
+      "s": "ell"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "Finnish",
+      "s": "fin"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Japanese",
+      "s": "jpn"
+    },
+    {
+      "l": "Korean",
+      "s": "kor"
+    },
+    {
+      "l": "Norwegian",
+      "s": "nob"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    },
+    {
+      "l": "Romanian",
+      "s": "ron"
+    },
+    {
+      "l": "Russian",
+      "s": "rus"
+    },
+    {
+      "l": "Swedish",
+      "s": "swe"
+    },
+    {
+      "l": "Thai",
+      "s": "tha"
+    },
+    {
+      "l": "Turkish",
+      "s": "tur"
+    },
+    {
+      "l": "Vietnamese",
+      "s": "vie"
+    },
+    {
+      "l": "Unknown",
+      "s": "und"
+    }
+  ],
+  "last_ep": "80148756",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "81010139"
+    },
+    {
+      "id": "80234642"
+    },
+    {
+      "id": "80212245"
+    },
+    {
+      "id": "80039394"
+    },
+    {
+      "id": "81092958"
+    },
+    {
+      "id": "80244283"
+    },
+    {
+      "id": "80225085"
+    },
+    {
+      "id": "81035568"
+    },
+    {
+      "id": "81007144"
+    }
+  ],
+  "error": null
+}
