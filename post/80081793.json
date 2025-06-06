@@ -1,0 +1,75 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "Batman v Superman: Dawn of Justice",
+  "year": "2016",
+  "ua": "U/A 16+",
+  "match": "93% match",
+  "runtime": "2h 31m",
+  "hdsd": "HD",
+  "type": "m",
+  "creator": "",
+  "director": "Zack Snyder",
+  "writer": "Chris Terrio, David S. Goyer, Bob Kane",
+  "short_cast": "Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg, Diane Lane, Laurence Fishburne, Jeremy Irons, Holly Hunter, Gal Gadot, Scoot McNairy, Michael Shannon",
+  "cast": "Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg, Diane Lane, Laurence Fishburne, Jeremy Irons, Holly Hunter, Gal Gadot, Scoot McNairy, Michael Shannon",
+  "genre": "Sci-Fi Movies, US Movies, Action & Adventure",
+  "thismovieis": "Dark, Exciting",
+  "m_desc": "Suitable for persons aged 16 and above and under parental guidance for people under age of 16",
+  "m_reason": "violence",
+  "desc": "It's the Man of Steel vs. the Caped Crusader when Batman becomes suspicious of Superman's increasing power, and Lex Luthor's happy to take advantage.",
+  "oin": "",
+  "resume": "",
+  "lang": [
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    }
+  ],
+  "episodes": [
+    null
+  ],
+  "suggest": [
+    {
+      "id": "80187362"
+    },
+    {
+      "id": "70264797"
+    },
+    {
+      "id": "81465707"
+    },
+    {
+      "id": "60027724"
+    },
+    {
+      "id": "81199145"
+    },
+    {
+      "id": "81416258"
+    },
+    {
+      "id": "80144309"
+    },
+    {
+      "id": "81183713"
+    },
+    {
+      "id": "81199140"
+    },
+    {
+      "id": "80991034"
+    },
+    {
+      "id": "80216309"
+    },
+    {
+      "id": "81652327"
+    }
+  ],
+  "error": null
+}
