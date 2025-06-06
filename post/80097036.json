@@ -1,0 +1,220 @@
+{
+  "status": "y",
+  "d_lang": "eng",
+  "title": "ALVINNN!!! And the Chipmunks",
+  "year": "2016",
+  "ua": "U/A 7+",
+  "match": "37% match",
+  "runtime": "5 Seasons",
+  "hdsd": "HD",
+  "type": "t",
+  "creator": "",
+  "director": "",
+  "writer": "",
+  "short_cast": "Ross Bagdasarian Jr., Janice Karman, Vanessa Bagdasarian, Bettina Kenney, Michael Bagdasarian",
+  "cast": "Ross Bagdasarian Jr., Janice Karman, Vanessa Bagdasarian, Bettina Kenney, Michael Bagdasarian",
+  "genre": "Kids' TV, TV Cartoons",
+  "thismovieis": "Goofy",
+  "m_desc": "Suitable for children 7 and above and under parental guidance for persons under age of 7",
+  "m_reason": "mild violence",
+  "desc": "Raised by their human dad, a scrappy young musical chipmunk and his brothers get into mischief and learn plenty of valuable lessons along the way.",
+  "oin": "",
+  "season": [
+    {
+      "s": "1",
+      "id": "80096994",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "2",
+      "id": "80166241",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "3",
+      "id": "81273621",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "4",
+      "id": "81273712",
+      "ep": "26",
+      "sele": " selected"
+    },
+    {
+      "s": "5",
+      "id": "81765653",
+      "ep": "26",
+      "sele": " selected"
+    }
+  ],
+  "episodes": [
+    {
+      "complate": "0",
+      "id": "81765654",
+      "t": "Deserted / The Great Snack Off",
+      "s": "S5",
+      "ep": "E1",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81765655",
+      "t": "Unboxing Day / Dave's Pavilion",
+      "s": "S5",
+      "ep": "E2",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81765656",
+      "t": "U-Fly / Yeti Or Not",
+      "s": "S5",
+      "ep": "E3",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81765657",
+      "t": "Taken / The Flying Beast",
+      "s": "S5",
+      "ep": "E4",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81765658",
+      "t": "The Curse Of Macbeth / Zeela The Great",
+      "s": "S5",
+      "ep": "E5",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81765659",
+      "t": "Dr Sleep / Davey Boy",
+      "s": "S5",
+      "ep": "E6",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81765660",
+      "t": "The Road Warrior / My Fair Chipette",
+      "s": "S5",
+      "ep": "E7",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81765661",
+      "t": "Gone Gal / Time Traveler's Party",
+      "s": "S5",
+      "ep": "E8",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81765662",
+      "t": "The House On Cedar Lane / Bathroom Bully",
+      "s": "S5",
+      "ep": "E9",
+      "time": "21m"
+    },
+    {
+      "complate": "0",
+      "id": "81765663",
+      "t": "The Return Of Thornbergaupht / Squashed",
+      "s": "S5",
+      "ep": "E10",
+      "time": "21m"
+    }
+  ],
+  "nextPageShow": 1,
+  "nextPage": 2,
+  "nextPageSeason": "81765653",
+  "lang": [
+    {
+      "l": "Arabic",
+      "s": "ara"
+    },
+    {
+      "l": "German",
+      "s": "deu"
+    },
+    {
+      "l": "English",
+      "s": "eng"
+    },
+    {
+      "l": "Spanish",
+      "s": "spa"
+    },
+    {
+      "l": "French",
+      "s": "fra"
+    },
+    {
+      "l": "Hebrew",
+      "s": "heb"
+    },
+    {
+      "l": "Hindi",
+      "s": "hin"
+    },
+    {
+      "l": "Italian",
+      "s": "ita"
+    },
+    {
+      "l": "Dutch",
+      "s": "nld"
+    },
+    {
+      "l": "Polish",
+      "s": "pol"
+    },
+    {
+      "l": "Portuguese",
+      "s": "por"
+    }
+  ],
+  "last_ep": "81765654",
+  "resume": "",
+  "suggest": [
+    {
+      "id": "70077552"
+    },
+    {
+      "id": "70189308"
+    },
+    {
+      "id": "80063956"
+    },
+    {
+      "id": "70301529"
+    },
+    {
+      "id": "81068804"
+    },
+    {
+      "id": "80103408"
+    },
+    {
+      "id": "80091938"
+    },
+    {
+      "id": "70155547"
+    },
+    {
+      "id": "80146758"
+    },
+    {
+      "id": "80178943"
+    }
+  ],
+  "error": null
+}
